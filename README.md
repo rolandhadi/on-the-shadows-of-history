@@ -37,7 +37,7 @@ Most Outstanding Thesis Award 2006 (Mar 2006, STI College Southwoods)
 
 # Project Demonstration
 
-The students while playing, navigating the main character of the game.
+The students while playing, navigating the main character of the game. circa 2006
 ![image](https://user-images.githubusercontent.com/65001113/128204266-4c39e737-b8f8-40fe-831c-96b98f6688e3.png)
 ![image](https://user-images.githubusercontent.com/65001113/128204304-6d1a578e-d546-4e8e-ad30-0b38308f2547.png)
 ![image](https://user-images.githubusercontent.com/65001113/128204329-bbb1bfd0-119a-4f84-8c71-0c16b7dafadc.png)
