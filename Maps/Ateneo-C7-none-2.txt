@@ -1,0 +1,102 @@
+<ENABLESAVE>
+<MapName>: _Ateneo Classroom_
+<DRAWBACK>: 450
+<LMOUSE>: 20
+<HMOUSE>: 60
+<FOG>: 400,450, 100, 100
+
+<SOUND>: BoxMove
+
+<OBJECT>: Plant
+<OBJECT>: Tablelong
+<OBJECT>: Roundtable
+<OBJECT>: Door1-1
+<OBJECT>: Chair1
+<OBJECT>: Frame2x3
+<OBJECT>: Bshelf
+<OBJECT>: Painting2x3
+
+<DUMMY>: D1,0,0,0
+<DUMMY>: D2,28,0,6
+
+<CHARACTER>: Rozs, 7,0,6, n
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 8
+<ANIMATION>: Run,  8
+<ANIMATION>: Push, 8
+<ANIMATION>: Dock, 8
+
+<CHARACTER>: Priest, 8,0,3, n
+<ANIMATION>: Wait, 1
+
+<CHARACTER/>
+
+//Ateneo-Classroom
+
+<SURFACE>:   PlaneBox, HWall2, 1,0,1, 10,5,10, s
+<SURFACE>:   Z4PLANE1, wood24,  1,0,1, 10,0,10, s
+<SURFACE>:   Z1Ceiling, Wall-3,  1,5,1, 10,0,10, s
+
+<AI>: Priest, AIIDLE, WAIT, None
+
+<EVENT>: TalkAPriest, 6,2, 3,3, 1,1
+
+<layer1>:Frame2x3,10,0.5,2,n,wood1
+<layer1>:Painting2x3,10,0.5,2,n,230
+<layer1>:Frame2x3,10,0.5,5,n,wood1
+<layer1>:Painting2x3,10,0.5,5,n,230
+
+<layer1>:Chair1,1,0,2, s
+<layer1>:Chair1,1,0,3, s
+<layer1>:Chair1,1,0,5, s
+<layer1>:Chair1,1,0,6, s
+<layer1>:Chair1,1,0,8, s
+<layer1>:Chair1,1,0,9, s
+
+<layer1>:Chair1,4,0,2, s
+<layer1>:Chair1,4,0,3, s
+<layer1>:Chair1,4,0,5, s
+<layer1>:Chair1,4,0,6, s
+<layer1>:Chair1,4,0,8, s
+<layer1>:Chair1,4,0,9, s
+
+<layer1>:Tablelong,2,0,2,n,260
+<layer1>:Tablelong,2,0,5,n,260
+<layer1>:Tablelong,2,0,8,n,260
+
+<layer1>:Tablelong,5,0,2,n,260
+<layer1>:Tablelong,5,0,5,n,260
+<layer1>:Tablelong,5,0,8,n,260
+
+<layer1>:RoundTable,7,0,2, n,260
+<layer1>:Chair1,8,0,2, n
+
+<layer1>:Plant,10,0,10,n,plant1
+<layer1>:Plant,9,0,1,n,plant1
+<layer1>:Plant,10,0,1,n,plant1
+
+<layer1>:Bshelf,6,0,10,e,Bshelf5
+<layer1>:Bshelf,7,0,10,e,Bshelf5
+<layer1>:Door1-1,9,0,10,e,door3-7
+
+<layer1>:Door1-1,9,0,10,e,door3-7
+<EVENT>:  GotoAHall2, 9,10, 1,1, 1,1
+<SETCHARPOS>: 4,0,9, e, ContinueMap
+
+//End of Ateneo-Classroom
+
+<LIGHT>: AMBIENT, 0,0,0, .8,.8,.8, DUMMYD1
+<LIGHT>: Directional, 0,0,0, .3,.3,.3, DUMMYD1
+
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Rozs
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, AMan1
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, AMan3
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, AMan2
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, AMan5
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, AMan6
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Priest
+
+<BLOCKROW>: 0
+<BLOCKCOL>: 0
+<BLOCKROW>: 11
+<BLOCKCOL>: 11

@@ -1,0 +1,21 @@
+<NEXTEVENT>
+<SETCAMPOS>: 1,5,1, Rozs
+<Message>: _&AteneoScene<100>_, 5,None
+<playsound>: Ateneo-rozs10
+</>
+
+<NEXTEVENT>
+<Message>: _&AteneoScene<101>_, 7,None
+<PlaySound>: Ateneo-Rozs11
+</>
+
+//Knife view
+<NEXTEVENT>
+<Item>: Item-Knife, On
+<ShowPreview>: PocketKnife
+<Task>: TaskA4
+</>
+
+<NEXTEVENT>
+<LoadMap>: Ateneo-C7-none-2
+</>

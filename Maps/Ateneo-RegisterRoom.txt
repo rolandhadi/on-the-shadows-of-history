@@ -1,0 +1,82 @@
+<ENABLESAVE>
+<MapName>: _Ateneo Register's Room_
+<DRAWBACK>: 450
+<LMOUSE>: 20
+<HMOUSE>: 60
+<FOG>: 400,450, 100, 100
+
+<SOUND>: BoxMove
+
+<OBJECT>: Plant
+<OBJECT>: Door2-1
+<OBJECT>: RoundTable
+<OBJECT>: Sofa
+<OBJECT>: Chair2
+<OBJECT>: BShelf
+<OBJECT>: RecepTable
+
+<DUMMY>: D1,0,0,0
+<DUMMY>: D2,28,0,6
+
+<CHARACTER>: Rozs, 9,0,5, n
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 8
+<ANIMATION>: Run,  8
+<ANIMATION>: Push, 8
+<ANIMATION>: Dock, 8
+
+<CHARACTER>: Priest, 4,0,3, s
+<ANIMATION>: Wait, 1
+
+<CHARACTER>: Aman6, 7,0,1, w
+<ANIMATION>: Sit, 1
+
+<CHARACTER/>
+
+//ATENEO-Registrar Room
+
+<SURFACE>:   PlaneBox, Wall-3, 1,0,1, 10,5,10, s
+<SURFACE>:   Z4PLANE1, wood24,  1,0,1, 10,0,10, s
+<SURFACE>:   Z1Ceiling, Wall-3,  1,5,1, 10,0,10, s
+
+<Event>: TalkFerrando,5,3, 3,3, 1,1
+<Event>: TalkA-student6,5,1, 3,3, 1,1
+
+<layer1>:Plant,10,0,1,n,plant1
+<layer1>:Plant,10,0,10,n,plant1
+<layer1>:Plant,4,0,8,n,plant1
+
+<layer1>:RecepTable,4,0,3,n,RTable-1
+<layer1>:RecepTable,5,0,8,w,RTable-1
+<layer1>:RecepTable,8,0,8,w,RTable-1
+
+<layer1>:Sofa,1,0,1,n,Rug-1
+<layer1>:Sofa,8,0,0.8,w,Rug-1
+<layer1>:Sofa,6,0,0.8,w,Rug-1
+<layer1>:Sofa,10,0,2,n,Rug-1
+
+<layer1>:RoundTable,1,0,5,e,134
+<layer1>:Chair2,1,0,4,w,none
+<layer1>:Chair2,1,0,6,e,none
+<layer1>:Chair2,3,0,4,s,none
+
+<layer1>:BShelf,4,0,1,n,BShelf5
+<layer1>:BShelf,4,0,2,n,BShelf5
+
+<layer1>:Door2-1,10,0,5,n,Door2-4
+<EVENT>: GotoAteneoWest, 10,5, 1,1, 1,1
+<SETCHARPOS>: 22,0,8,w, ContinueMap
+
+//End of ATENEO-Registrar Room
+
+<LIGHT>: AMBIENT, 0,0,0, .8,.8,.8, DUMMYD1
+<LIGHT>: Directional, 0,0,0, .3,.3,.3, DUMMYD1
+
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Rozs
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Priest
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, CMan6
+
+<BLOCKROW>: 0
+<BLOCKCOL>: 0
+<BLOCKROW>: 11
+<BLOCKCOL>: 11

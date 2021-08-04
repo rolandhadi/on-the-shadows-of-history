@@ -1,0 +1,113 @@
+<stopBG>
+<PlayBG>: FS-3, Loop
+
+<Setcampos>: 18,7,48, None, 18,2, 20
+<MESSAGE>: __, 5, None
+
+<NEXTEVENT>
+<Setcharpos>: Rozs, 16,0,12,s
+<Setcharpos>: Josephine, 15,0,13,n
+<CharFace>: Josephine, Rozs
+<CharFace>: Rozs, Josephine
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 12,4,9, Rozs
+<MESSAGE>: __, 3, None
+</>
+
+<NEXTEVENT>
+<RotateCam>: Josephine, Left, 500, 6
+<MESSAGE>: _&FSScene<18>_, 6, None
+<PLaysound>: FSBracken23
+<CharAnimate>: Josephine, Give, Once, 50, 5
+</>
+
+<NextEvent>
+<CharAnimate>: Rozs, Give, Once, 50, 3
+<MESSAGE>: __, 1, None
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 19,4,13, Josephine
+<CharAnimate>: Josephine, Give, Reverse, 50, 2
+<MESSAGE>: _&FSScene<19>_, 4, None
+</>
+
+<NextEvent>
+<ShowPreview>: ImitationOfChrist
+<Item>: Item-Imitation, On
+</>
+
+<NextEvent>
+<CharAnimate>: Rozs, Give, Reverse, 50, 2
+<MESSAGE>: __, 1, None
+</>
+
+<NEXTEVENT>
+<Setcampos>: 18,3,16, Rozs
+<MESSAGE>: _&FSScene<20>_, 3, None
+<Playsound>: Rozs68
+</>
+
+<NEXTEVENT>
+<RotateCam>: Josephine, Left, 500, 7
+<CharAnimate>: Josephine, Talk, Once, 50, 3
+<MESSAGE>: _&FSScene<116>_, 7, None
+<Playsound>: FSBracken21
+</>
+
+<NextEvent>
+<CharAnimate>: Josephine, Talk, Reverse, 50, 3
+<MESSAGE>: __, 3, None
+</>
+
+<NEXTEVENT>
+<CharFace>: Josephine, Rozs, Back
+<CHARANIMATE>: Josephine, Walk, Loop, 100, 4
+<MoveChar>: Josephine, n, .4, 4
+</>
+
+<NextEvent>:
+<Setcharpos>: Josephine, 1,10,1, n
+</>
+
+<NextEvent>:
+<Setcampos>: 23,5,13, None, 17,7,23
+<MESSAGE>: __, 10, None
+<RotateCam>: DummyD3, Left, 500,7
+<PlaySound>: CalambaIntro
+</>
+
+<NextEvent>:
+<Setcampos>: 13,4,7, Rozs
+<Setcharpos>: Rozs, 16,0,13, e
+<MESSAGE>: _&FSScene<117>_, 8, None
+<PLaysound>: FSRozs14
+<PlayBG>: TaskComplete
+</>
+
+<NextEvent>
+<MESSAGE>: _&FSScene<118>_, 7, None
+<PLaysound>: FS-rozs11
+</>
+
+<NextEvent>
+<PlaySound>: Teleport
+<RotateCam>: Rozs, Left, 30000,4
+</>
+
+<NextEvent>
+<PlaySound>: Teleport
+<RotateCam>: Rozs, Left, 90000,3
+</>
+
+<NextEvent>
+<SETCHARPOS>: Rozs, 1,10,1, e
+<PlaySound>: Waah
+<MESSAGE>: __, 5, None
+</>
+
+<NextEvent>:
+<LoadMap>: Luneta
+</>

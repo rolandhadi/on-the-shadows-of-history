@@ -1,0 +1,12 @@
+<Message>: _NARCISA RIZAL (1852-1939) _, 2
+
+<NEXTEVENT>
+<Message>: _&Narcisa<1>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Narcisa<2>_, 3
+</>
+
+ 
+

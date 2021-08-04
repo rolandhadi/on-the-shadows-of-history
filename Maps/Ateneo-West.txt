@@ -1,0 +1,394 @@
+<ENABLESAVE>
+<MapName>: _West Side Of Ateneo_
+<DRAWBACK>: 1000
+<LMOUSE>: 27
+<HMOUSE>: 60
+<FOG>: 0,700, 100, 0
+
+<OBJECT>: Fence2
+
+<OBJECT>: Tree
+<OBJECT>: Bench3
+<OBJECT>: Grass
+<OBJECT>: SnackArea
+<OBJECT>: Tunnel
+<OBJECT>: Blockx2
+<OBJECT>: Building
+<OBJECT>: TrashCan
+<OBJECT>: Fence2
+<OBJECT>: Shed
+<OBJECT>: Door2-1
+<OBJECT>: FruitStand
+
+<DUMMY>: D1,0,0,0
+
+<CHARACTER>: Rozs, 33,0,8, n
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 8
+<ANIMATION>: Run,  8
+<ANIMATION>: Push, 8
+<ANIMATION>: Dock, 8
+
+<CHARACTER>: CWoman1, 23,0,15, s
+<ANIMATION>: Wait, 1
+
+<CHARACTER>: AMan2, 30,0,41, w
+<ANIMATION>: Wait, 1
+
+<CHARACTER>: AMan3, 33,0,26, n
+<ANIMATION>: Wait, 1
+
+<CHARACTER>: AMan6, 13,0,13, n
+<ANIMATION>: Wait, 1
+
+<CHARACTER/>
+
+<SURFACE>:   Z1Ceiling, sky2,  -10,8,-10, 56,0,71, s
+<SURFACE>:   Z5PLANE1,  Land-4,  -10,0,-10, 56,0,71, s
+<SURFACE>:   PLANEBox,  wall9,  1,0,1, 38,10,50, s
+
+//Events of each Characters
+<AI>: Aman6, AIIdle, Wait, None
+
+<EVENT>: TalkA-Vendor,21,14, 3,3, 1,1 
+<EVENT>: TalkA-student2,28,40, 3,3, 1,1 
+<EVENT>: TalkA-student3,31,25, 3,3, 1,1 
+<EVENT>: TalkA-student5,11,12, 3,3, 1,1
+
+<LAYER1>: TrashCan, 27,0,29, e, trashcan-1
+<LAYER1>: TrashCan, 5,0,20, e, trashcan-1
+<LAYER1>: TrashCan, 5,0,33, e, trashcan-1
+<LAYER1>: TrashCan, 37,0,46, e, trashcan-1
+
+//Codes of Ateneo-West Map BEGINS:
+
+<LAYER1>:   Tunnel,13,0,48, e, Tunnel-2
+<EVENT>: GotoAteneoEast, 14,47, 1,1, 1,1
+<SETCHARPOS>: 15,0,5,w, ContinueMap
+
+<SURFACE>:   Z1PLANE1,  Land-3,  33,0.01,9, 2,0,5, s
+<SURFACE>:   Z1PLANE1,  Land-3,  35,0.01,12, 4,0,2, s
+
+<LAYER1>: Tree, 34,0,10, S, tree
+<LAYER1>: Tree, 34,0,11, S, tree
+<LAYER1>: Tree, 33,0,10, S, tree
+<LAYER1>: Tree, 33,0,11, S, tree
+
+<LAYER1>: Tree, 35,0,12, S, tree
+<LAYER1>: Tree, 36,0,12, S, tree
+<LAYER1>: Tree, 37,0,12, S, tree
+<LAYER1>: Tree, 38,0,12, S, tree
+
+<LAYER1>: Tree, 38,0,12, S, tree
+<LAYER1>: Bench3, 36,0,15, n, 167
+<LAYER1>: Bench3, 36,0,19, n, 167
+
+<LAYER1>: Tree, 36,0,23, S, tree
+<LAYER1>: Tree, 36,0,24, e, tree
+<LAYER1>: Tree, 37,0,12, S, tree
+<LAYER1>: Tree, 37,0,12, w, tree
+
+<LAYER1>: Tree, 36,0,38, S, tree-1
+<LAYER1>: Tree, 36,0,39, e, tree
+<LAYER1>: Tree, 37,0,39, S, tree-1
+<LAYER1>: Tree, 37,0,38, w, tree
+
+<LAYER1>: Bench3, 36,0,40, w, 167
+<LAYER1>: Bench3, 35,0,39, n, 167
+
+//<SURFACE>:   Z1PLANE1,  grass3,  33,0.01,26, 6,0,8, s
+//<SURFACE>:   Z1PLANE1,  grass3,  36,0.01,34, 3,0,3, s
+
+<LAYER1>: Blockx2, 18,0,42, w, 153
+<LAYER1>: Blockx2, 20,0,42, w, 153
+<LAYER1>: Blockx2, 22,0,42, w, 153
+<LAYER1>: Blockx2, 24,0,42, w, 153
+<LAYER1>: Blockx2, 26,0,42, w, 153
+<LAYER1>: Blockx2, 28,0,42, w, 153
+<LAYER1>: Blockx2, 29,0.01,42, n, 153
+<LAYER1>: Blockx2, 29,0,44, n, 153
+<LAYER1>: Blockx2, 29,0.01,45, w, 153
+<LAYER1>: Blockx2, 31,0,45, w, 153
+<LAYER1>: Blockx2, 33,0,45, w, 153
+<LAYER1>: Blockx2, 34,0.01,45, n, 153
+<LAYER1>: Blockx2, 34,0,47, n, 153
+<LAYER1>: Blockx2, 34,0,48, n, 153
+
+<LAYER1>: Blockx2, 18,0.01,42, n, 153
+<LAYER1>: Blockx2, 18,0.01,44, n, 153
+<LAYER1>: Blockx2, 18,0.01,46, n, 153
+<LAYER1>: Blockx2, 18,0.01,48, n, 153
+
+<LAYER1>: Tree, 11,0,44, w, tree
+<LAYER1>: Tree, 11,0,45, w, tree-1
+<LAYER1>: Tree, 11,0,46, w, tree
+<LAYER1>: Tree, 11,0,47, w, tree
+<LAYER1>: Tree, 11,0,48, w, tree-1
+<LAYER1>: Tree, 11,0,49, w, tree
+
+<SURFACE>:   Z1PLANE1,  grass3,  4,0.01,44, 7,0,6, s
+<SURFACE>:   Z1PLANE1,  grass3,  1,0.01,41, 3,0,9, s
+
+<LAYER1>: Tree, 17,0,44, w, tree-1
+<LAYER1>: Tree, 17,0,45, w, tree-1
+<LAYER1>: Tree, 17,0,46, w, tree
+<LAYER1>: Tree, 17,0,47, w, tree
+<LAYER1>: Tree, 17,0,48, w, tree
+<LAYER1>: Tree, 17,0,49, w, tree-1
+
+<LAYER1>: Bench3, 3,0,37, s, 167
+<LAYER1>: Bench3, 3,0,27, s, 167
+<LAYER1>: Bench3, 3,0,23, s, 167
+
+<LAYER1>: Tree, 3,0,34, w, tree-1
+<LAYER1>: Tree, 3,0,35, e, tree
+<LAYER1>: Tree, 3,0,31, s, tree
+<LAYER1>: Tree, 3,0,32, w, tree-1
+<LAYER1>: Tree, 3,0,20, w, tree
+<LAYER1>: Tree, 3,0,21, s, tree
+
+<LAYER1>: Tree, 16,0,12, s, tree-1
+<LAYER1>: Tree, 16,0,20, n, tree
+<LAYER1>: Tree, 17,0,12, w, tree
+<LAYER1>: Tree, 17,0,13, s, tree-1
+<LAYER1>: Tree, 17,0,19, w, tree
+<LAYER1>: Tree, 17,0,20, s, tree-1
+<LAYER1>: Bench3, 16,0,15, n, 167
+
+<LAYER1>: Tree, 14,0,2, s, tree
+<LAYER1>: Tree, 15,0,2, w, tree-1
+<LAYER1>: Tree, 16,0,2, w, tree
+<LAYER1>: Tree, 17,0,2, s, tree
+
+<SURFACE>:   Z1PLANE1,  water1,  18.5, 0.5, 42.5, 5,0,8, s
+<SURFACE>:   Z1PLANE1,  water1,  23.5, 0.5, 42.5, 6,0,8, s
+<SURFACE>:   Z1PLANE1,  water1,  29.5, 0.5, 45.5, 5,0,5, s
+
+//Classroom
+<LAYER1>: Building, 2,0,4, s, building-1
+<LAYER1>: Building, 2,0,13, s, building-1
+<LAYER1>: Door2-1, 8,0,6, s, Door2-4
+<EVENT>:  GotoALobby, 8,6, 1,1, 1,1
+<SETCHARPOS>: 9,0,5, n, ContinueMap
+
+//Registration Area
+<LAYER1>: Building, 19,0,1, w, building-1
+<LAYER1>: Door2-1, 21,0,7, w, Door2-4
+<EVENT>:  GotoARegister, 21,7, 1,1, 1,1
+<SETCHARPOS>: 9,0,5, n, ContinueMap
+
+//Sculpture Room
+<LAYER1>: Building, 13,0,24, n, building-1
+<LAYER1>: Door2-1, 12,0,26, n, Door2-4
+<EVENT>:  GotoASculpture, 12,26, 1,1, 1,1
+<SETCHARPOS>: 9,0,5, n, ContinueMap
+
+//Drawing Room
+<LAYER1>: Building, 13,0,32, n, building-1
+<LAYER1>: Door2-1, 12,0,34, n, Door2-4
+<EVENT>:  GotoADrawing, 12,34, 1,1, 1,1
+<SETCHARPOS>: 9,0,5, n, ContinueMap
+
+//BoardingHouse Room
+<LAYER1>: Building, 33,0,26, n, building-1
+<LAYER1>: Building, 33,0,32, n, building-1
+<LAYER1>: Door2-1, 32,0,28, n, Door1-4
+<EVENT>:  GotoA-BLobby, 32,28, 1,1, 1,1
+<SETCHARPOS>: 9,0,5, n, ContinueMap
+
+<LAYER1>: Tree, 12,0,1, n, tree
+<LAYER1>: Tree, 8,0,1, w, tree
+<LAYER1>: Tree, 8,0,2, s, tree
+<LAYER1>: Tree, 7,0,3, s, tree
+<LAYER1>: Bench3, 9,0,1, w, 167
+<LAYER1>: Tree, 7,0,10, s, tree
+<LAYER1>: Tree, 7,0,11, w, tree
+<LAYER1>: Tree, 7,0,12, n, tree
+
+<LAYER1>: SnackArea, 20,0,22, n, RTable-2 
+<LAYER1>: SnackArea, 20,0,25, n, RTable-2 
+<LAYER1>: SnackArea, 20,0,27, n, RTable-2 
+<LAYER1>: SnackArea, 26,0,18, n, RTable-2 
+<LAYER1>: SnackArea, 26,0,21, n, RTable-2 
+<LAYER1>: SnackArea, 26,0,23, n, RTable-2 
+
+<SURFACE>:   Z1PLANE1,  grass3,  12,0.01,12, 6,0,9, s
+<SURFACE>:   Z1PLANE1,  grass3,  29,0.01,1, 5,0,5, s
+<LAYER1>: Bench3, 29,0,2, s, 167
+<LAYER1>: Bench3, 30,0,1, w, 167
+<LAYER1>: Tree, 33,0,1, n, tree
+
+//Pathway
+<SURFACE>:   Z1PLANE1,  stone5,  35,0.01,7, 4,0,2, s
+<SURFACE>:   Z1PLANE1,  stone5,  32,0.01,7, 3,0,2, s
+<SURFACE>:   Z1PLANE1,  stone5,  30,0.01,6, 2,0,4, s
+<SURFACE>:   Z1PLANE1,  stone5,  30,0.01,10, 2,0,4, s
+<SURFACE>:   Z1PLANE1,  stone5,  30,0.01,14, 2,0,4, s
+<SURFACE>:   Z1PLANE1,  stone5,  30,0.01,18, 2,0,4, s
+<SURFACE>:   Z1PLANE1,  stone5,  30,0.01,22, 2,0,4, s
+<SURFACE>:   Z1PLANE1,  stone5,  30,0.01,26, 2,0,4, s
+<SURFACE>:   Z1PLANE1,  stone5,  30,0.01,30, 2,0,4, s
+<SURFACE>:   Z1PLANE1,  stone5,  30,0.01,34, 2,0,4, s
+<SURFACE>:   Z1PLANE1,  stone5,  30,0.01,38, 2,0,3, s
+<SURFACE>:   Z1PLANE1,  stone5,  32,0.01,39, 2,0,3, s
+<SURFACE>:   Z1PLANE1,  stone5,  32,0.01,42, 2,0,3, s
+<SURFACE>:   Z1PLANE1,  stone5,  34,0.01,43, 2,0,2, s
+<SURFACE>:   Z1PLANE1,  stone5,  36,0.01,43, 2,0,3, s
+<SURFACE>:   Z1PLANE1,  stone5,  27,0.01,8, 3,0,2, s
+<SURFACE>:   Z1PLANE1,  stone5,  23,0.01,8, 4,0,2, s
+<SURFACE>:   Z1PLANE1,  stone5,  21,0.01,7, 3,0,2, w
+<SURFACE>:   Z1PLANE1,  stone5,  18,0.01,8, 3,0,2, s
+<SURFACE>:   Z1PLANE1,  stone5,  21,0.01,7, 3,0,2, w
+<SURFACE>:   Z1PLANE1,  stone5,  14,0.01,8, 4,0,2, s
+<SURFACE>:   Z1PLANE1,  stone5,  14,0.01,6, 2,0,2, w
+<SURFACE>:   Z1PLANE1,  stone5,  11,0.01,8, 3,0,2, s
+<SURFACE>:   Z1PLANE1,  stone5,  8,0.01,6, 6,0,2, s
+<SURFACE>:   Z1PLANE1,  stone5,  9,0.01,8, 2,0,3, s
+<SURFACE>:   Z1PLANE1,  stone5,  9,0.01,11, 2,0,4, s
+<SURFACE>:   Z1PLANE1,  stone5,  8,0.01,15, 3,0,2, s
+<SURFACE>:   Z1PLANE1,  stone5,  9,0.01,17, 2,0,4, s
+<SURFACE>:   Z1PLANE1,  stone5,  9,0.01,21, 2,0,5, s
+<SURFACE>:   Z1PLANE1,  stone5,  9,0.01,26, 4,0,2, s
+<SURFACE>:   Z1PLANE1,  stone5,  9,0.01,34, 4,0,2, s
+<SURFACE>:   Z1PLANE1,  stone5,  9,0.01,28, 2,0,6, s
+<SURFACE>:   Z1PLANE1,  stone5,  9,0.01,36, 2,0,5, s
+<SURFACE>:   Z1PLANE1,  stone5,  11,0.01,39, 4,0,2, s
+<SURFACE>:   Z1PLANE1,  stone5,  15,0.01,39, 4,0,2, s
+<SURFACE>:   Z1PLANE1,  stone5,  19,0.01,39, 4,0,2, s
+<SURFACE>:   Z1PLANE1,  stone5,  23,0.01,39, 4,0,2, s
+<SURFACE>:   Z1PLANE1,  stone5,  27,0.01,39, 3,0,2, s
+<SURFACE>:   Z1PLANE1,  stone5,  14,0.01,41, 4,0,2, w
+<SURFACE>:   Z1PLANE1,  stone5,  14,0.01,45, 4,0,2, w
+<SURFACE>:   Z1PLANE1,  stone5,  26,0.01,15, 4,0,2, s
+<SURFACE>:   Z1PLANE1,  stone5,  23,0.01,15, 3,0,2, s
+<SURFACE>:   Z1PLANE1,  stone5,  23,0.01,17, 4,0,2, w
+<SURFACE>:   Z1PLANE1,  stone5,  23,0.01,21, 4,0,2, w
+<SURFACE>:   Z1PLANE1,  stone5,  23,0.01,25, 4,0,2, w
+<SURFACE>:   Z1PLANE1,  stone5,  23,0.01,29, 4,0,2, w
+<SURFACE>:   Z1PLANE1,  stone5,  26,0.01,33, 4,0,2, s
+<SURFACE>:   Z1PLANE1,  stone5,  23,0.01,33, 3,0,2, s
+<SURFACE>:   Z1PLANE1,  stone5,  32,0.01,28, 1,0,2, s
+
+<LAYER1>: Fence2, 28,0,6, n, 33
+<LAYER1>: Fence2, 28,0,5, n, 33
+<LAYER1>: Fence2, 28,0,4, n, 33
+<LAYER1>: Fence2, 28,0,3, n, 33
+<LAYER1>: Fence2, 28,0,2, n, 33
+<LAYER1>: Fence2, 28,0,1, n, 33
+
+<LAYER1>: Fence2, 25,0,1, w, 33
+<LAYER1>: Fence2, 26,0,1, w, 33
+<LAYER1>: Fence2, 27,0,1, w, 33
+<LAYER1>: Fence2, 28,0,1, w, 33
+
+<LAYER1>: Fence2, 25,0,6, w, 33
+<LAYER1>: Fence2, 26,0,6, w, 33
+<LAYER1>: Fence2, 27,0,6, w, 33
+<LAYER1>: Fence2, 28,0,6, w, 33
+
+<LAYER1>: Shed, 19,0,17, n, SArea
+<LAYER1>: FruitStand, 19,0,18, n, FruitStand-1
+<LAYER1>: Shed, 21,0,17, n, SArea
+<LAYER1>: FruitStand, 21,0,18, n, FruitStand-1
+<LAYER1>: Shed, 19,0,13, n, SArea
+<LAYER1>: FruitStand, 19,0,14, n, FruitStand-1
+<LAYER1>: Shed, 21,0,13, n, SArea
+<LAYER1>: FruitStand, 21,0,14, n, FruitStand-1
+<LAYER1>: Shed, 23,0,12, w, SArea
+<LAYER1>: FruitStand, 24,0,12, w, FruitStand-1
+<LAYER1>: Tree, 19,0,12, n, tree-1
+<LAYER1>: Tree, 20,0,12, n, tree-1
+<LAYER1>: Tree, 21,0,12, n, tree-1
+<LAYER1>: Tree, 22,0,12, n, tree-1
+<LAYER1>: Tree, 27,0,13, n, tree-1
+<LAYER1>: Tree, 28,0,12, n, tree-1
+<LAYER1>: Tree, 28,0,13, n, tree-1
+
+<SURFACE>:   Z1PLANE1,  Land-3,  25,0.01,1, 4,0,6, s
+<LAYER1>: Grass, 25,0,2, n, grass1
+<LAYER1>: Grass, 25,0,3, n, grass1
+<LAYER1>: Grass, 25,0,4, n, grass1
+<LAYER1>: Grass, 25,0,5, n, grass1
+
+<LAYER1>: Grass, 26,0,2, n, grass1
+<LAYER1>: Grass, 26,0,3, n, grass1
+<LAYER1>: Grass, 26,0,4, n, grass1
+<LAYER1>: Grass, 26,0,5, n, grass1
+
+<LAYER1>: Grass, 27,0,2, n, grass1
+<LAYER1>: Grass, 27,0,3, n, grass1
+<LAYER1>: Grass, 27,0,4, n, grass1
+<LAYER1>: Grass, 27,0,5, n, grass1
+
+<SURFACE>:   Z1PLANE1,  grass3,  3,0.01,23, 4,0,7, s
+<SURFACE>:   Z1PLANE1,  grass3,  19,0.01,22, 4,0,9, s
+<SURFACE>:   Z1PLANE1,  grass3,  26,0.01,18, 4,0,9, s
+
+<LAYER1>: Blockx2, 19,0,32, w, stone4
+<LAYER1>: Blockx2, 21,0,32, w, stone4
+<LAYER1>: Blockx2, 22,0.01,32, n, stone4
+<LAYER1>: Blockx2, 22,0,34, n, stone4
+<LAYER1>: Blockx2, 19,0,37, w, stone4
+<LAYER1>: Blockx2, 21,0,37, w, stone4
+<LAYER1>: Blockx2, 23,0,37, w, stone4
+<LAYER1>: Blockx2, 25,0,37, w, stone4
+<LAYER1>: Blockx2, 27,0,37, w, stone4
+
+<LAYER1>: Blockx2, 19,0,35, w, stone4
+<LAYER1>: Blockx2, 21,0.01,35, w, stone4
+<LAYER1>: Blockx2, 23,0,35, w, stone4
+<LAYER1>: Blockx2, 25,0,35, w, stone4
+<LAYER1>: Blockx2, 27,0,35, w, stone4
+<LAYER1>: Blockx2, 28,0.01,35.5, n, stone4
+
+<SURFACE>:   Z1PLANE1,  Land-3,  18.5, 0.5, 32.5, 4,0,4, s
+<SURFACE>:   Z1PLANE1,  Land-3,  18.5, 0.6, 35.5, 10,0,2, s
+
+<LAYER1>: Grass, 19,0.5,33, n, grass1
+<LAYER1>: Grass, 19,0.5,34, n, grass1
+<LAYER1>: Grass, 20,0.5,33, n, grass1
+<LAYER1>: Grass, 20,0.5,34, n, grass1
+<LAYER1>: Grass, 21,0.5,33, n, grass1
+<LAYER1>: Grass, 21,0.5,34, n, grass1
+
+<LAYER1>: Grass, 19,0.5,36, n, grass1
+<LAYER1>: Grass, 20,0.5,36, n, grass1
+<LAYER1>: Grass, 21,0.5,36, n, grass1
+<LAYER1>: Grass, 22,0.5,36, n, grass1
+<LAYER1>: Grass, 23,0.5,36, n, grass1
+<LAYER1>: Grass, 24,0.5,36, n, grass1
+<LAYER1>: Grass, 25,0.5,36, n, grass1
+<LAYER1>: Grass, 26,0.5,36, n, grass1
+<LAYER1>: Grass, 27,0.5,36, n, grass1
+
+<LAYER1>: Tree, 35,0,46, S, tree
+<LAYER1>: Tree, 36,0,46, S, tree-1
+<LAYER1>: Tree, 38,0,46, S, tree
+
+<LAYER1>: Grass, 18,0,4, n, grass2
+<LAYER1>: Grass, 18,0,5, n, grass2
+<LAYER1>: Grass, 18,0,6, n, grass2
+<LAYER1>: Grass, 17,0,4, n, grass2
+<LAYER1>: Grass, 17,0,5, n, grass2
+<LAYER1>: Grass, 17,0,6, n, grass2
+
+<LAYER1>: Door2-1, 38,0,7, N, Door3-4
+//<EVENT>:  GotoAteneoOutside, 38,7, 1,1, 1,1
+//<SETCHARPOS>: 33,0,6, s, ContinueMap
+
+//End of Ateneo-West Map
+
+<LIGHT>: AMBIENT, 0,0,0, .8,.8,.8, DUMMYD1
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Rozs
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, CWoman1
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, AMan1
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, AMan2
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, AMan3
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, AMan4
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, AMan5
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, AMan6
+
+//<BLOCKROW>: 0
+//<BLOCKCOL>: 0
+<BLOCKROW>: 50
+<BLOCKCOL>: 39

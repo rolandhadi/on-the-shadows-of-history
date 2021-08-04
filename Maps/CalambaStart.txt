@@ -1,0 +1,4 @@
+<StartEvent>: CalambaStart
+<BGMusic>: Calamba2, Loop
+<ForcePlayBG>: Calamba2
+<ForceLoadMap>: Calamba-SE

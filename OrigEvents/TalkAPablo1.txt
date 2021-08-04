@@ -1,0 +1,26 @@
+<CHARFACE>: Aman6, Rozs
+<CHARFACE>: Rozs, Aman6
+<MESSAGE>: _&AteneoScene<62>_, 5
+
+<NEXTEVENT>
+<MESSAGE>: _&AteneoScene<63>_, 5
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&AteneoScene<64>_, 5
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&AteneoScene<65>_, 5
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&AteneoScene<66>_, 5
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&AteneoScene<67>_, 5
+</>
+
+
+

@@ -1,0 +1,312 @@
+<STARTEVENT>: MArtifacts
+
+<ENABLESAVE>
+<DRAWBACK>: 450
+<LMOUSE>: 27
+<HMOUSE>: 60
+<FOG>: 400,450, 100, 100
+
+<MapName>: _Museum Artifacts Area_
+
+<OBJECT>: RoundTable
+<OBJECT>: Chair1
+<OBJECT>: Chair2
+<OBJECT>: BShelf
+<OBJECT>: Plant
+<OBJECT>: ATable
+<OBJECT>: PoemTable
+<OBJECT>: Paper
+<OBJECT>: Door2-1
+<OBJECT>: Frame3X2
+<OBJECT>: Painting3X2
+<OBJECT>: Frame2X2
+<OBJECT>: Painting2X2
+<OBJECT>: SacredHeart
+<OBJECT>: Stand
+<OBJECT>: Imitation
+<OBJECT>: DrawingTable
+<OBJECT>: DrawingPicture
+<OBJECT>: Frame2X3
+<OBJECT>: Painting2X3
+<OBJECT>: ALamp
+<OBJECT>: A
+<OBJECT>: Knife
+<OBJECT>: Frame2X3
+<OBJECT>: Painting2X3
+
+<CHARACTER>: Rozs, 3,0,26, e
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 8
+<ANIMATION>: Run,  8
+<ANIMATION>: OneHand, 8
+<ANIMATION>: Dock, 8
+
+<CHARACTER>: RLady, 8,0,17, w
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 8
+<ANIMATION>: Bow, 8
+
+<CHARACTER>: Glaiz, 6,0,18, e
+<ANIMATION>: Wait, 1
+
+<CHARACTER>: Girl2, 12,0,4, e
+<ANIMATION>: Wait, 1
+
+<CHARACTER>: BShelf,  3,0,15, e
+<ANIMATION>: Still, 1
+<ANIMATION>: Taob,  8
+
+<CHARACTER>: BShelfB,  3,0,17, s
+<ANIMATION>: Still, 1
+<ANIMATION>: Taob,  8
+
+<CHARACTER>: BShelfB2, 3,0,19, s
+<ANIMATION>: Still, 1
+<ANIMATION>: Taob,  8
+
+<CHARACTER>: BShelfB3, 3,0,21, s
+<ANIMATION>: Still, 1
+<ANIMATION>: Taob,  8
+
+<CHARACTER/>
+
+//Events (Characters)
+<AI>: Rlady, AIIdle, Wait, None
+
+<EVENT>: TalkMGirl, 10,3, 3,3, 1,1
+<EVENT>: Taob2, 2,14, 2,2, 1,1
+<EVENT>: TalkMRLady, 7,17, 3,3, 1,1
+<EVENT>: TalkMAGlaiz, 6,18, 3,3, 1,1
+
+
+//Coding of Map begins
+<SURFACE>:   PlaneBox,  Wall-8, 1,0,1, 17,10,28, s
+<SURFACE>:   Z2Ceiling, Roof-1,  1,5,1, 17,0,28, s
+<SURFACE>:   Z5PLANE1, 66,  1,0,1, 30,0,30, s 
+<SURFACE>:   Z2PLANE1, 333,  4,.01,4, 10,0,9, s 
+<SURFACE>:   Z2PLANE1, 333,  12,.01,13, 2,0,5, s
+<SURFACE>:   Z2PLANE1, 333,  4,.01,18, 10,0,10, s 
+<SURFACE>:   Z1PLANE1, 333,  2,.01,26, 2,0,3, s 
+<SURFACE>:   Z1PLANE1, 333,  14,.01,26, 2,0,3, s 
+
+//Artifacts Area
+<LAYER1>: PoemTable, 2,0,18, n, 2
+<LAYER1>: PoemTable, 2,0,20, n, 2
+<LAYER1>: PoemTable, 2,0,16, n, 2
+<LAYER1>: Paper,     2,0,16, n, Poem-1
+<EVENT>: SaAkingMgaKababata, 1,16, 3,1, 1,1
+
+<LAYER1>: SacredHeart, 2,0,18, s, RTable-4
+<EVENT>: SacredHeart, 1,18, 3,1, 1,1
+
+<LAYER1>: Stand, 2,0,18, s, Stand
+<LAYER1>: Imitation, 2,0,20, s, Imitation
+<EVENT>: ImitationOfChrist, 1,20, 3,1, 1,1
+
+<LAYER1>: Stand, 2,0,20, s, Wall-8
+<LAYER1>: DrawingTable, 2,0,22, s, 281
+<LAYER1>: DrawingPicture, 2,0,22, s, SegundaPainting
+
+<LAYER1>: Roundtable, 2,0,3, n, wall-8
+<LAYER1>: Roundtable, 3,0,2, w, wall-8
+
+<LAYER1>: Plant, 16,0,25, n, Plant1
+<LAYER1>: Plant, 16,0,26, w, Plant1
+<LAYER1>: Plant, 16,0,27, n, Plant1
+<LAYER1>: Plant, 1,0,25, n, Plant1
+<LAYER1>: Plant, 1,0,26, w, Plant1
+<LAYER1>: Plant, 1,0,27, n, Plant1
+<LAYER1>: Plant, 9,0,2, e, plant1
+
+//Noli and El Fili
+<LAYER1>: PoemTable, 4,0,16, w, 117
+<LAYER1>: Stand, 4,0,16, w, Stand
+<LAYER1>: Imitation, 4,0,16, w, ElFili
+<LAYER1>: PoemTable, 6,0,16, w, 117
+<LAYER1>: Stand, 6,0,16, w, Stand
+<LAYER1>: Imitation, 6,0,16, w, Noli2
+
+<LAYER1>: DrawingTable, 8,0,15, w, 281
+<LAYER1>: DrawingPicture,8,0,15, w, LeonorSketch
+
+<LAYER1>: DrawingTable, 9,0,15, w, 281
+<LAYER1>: DrawingPicture,9,0,15, w, JosephineSketch
+
+/<LAYER1>: DrawingTable, 10,0,15, w, 281
+/<LAYER1>: DrawingPicture,9,0,15, w, JosephineSketch
+
+<LAYER1>: BShelf, 1,0,14, s, BShelf1
+<LAYER1>: BShelf, 1,0,13, s, BShelf1
+<LAYER1>: BShelf, 1,0,11, s, BShelf1
+<LAYER1>: BShelf, 1,0,10, s, BShelf1
+
+<LAYER1>: RoundTable, 9,0,12, e, wall-8
+<LAYER1>: Chair2, 9,0,13, e, none
+<LAYER1>: Chair2, 9,0,11, w, none
+<LAYER1>: Chair2, 8,0,12, s, none
+<LAYER1>: Chair2, 10,0,12, n, none
+
+<LAYER1>: RoundTable, 6,0,14, e, wall-8
+<LAYER1>: Chair2, 6,0,15, e, none
+<LAYER1>: Chair2, 6,0,13, w, none
+<LAYER1>: Chair2, 5,0,14, s, none
+<LAYER1>: Chair2, 7,0,14, n, none
+
+//Mga gamit ni Rizal na matatagpuan sa ibang bansa
+<LAYER1>: PoemTable, 16,0,7, s, 115
+<LAYER1>: Stand, 16,0,7, n, Stand
+<LAYER1>: Imitation, 16,0,7, n, Diary
+<EVENT>: RDiary, 15,7, 1,1, 1,1
+
+<LAYER1>: PoemTable, 16,0,8, s, 115
+<LAYER1>: A, 16,0,8, n, ADiamondRing
+<EVENT>: DiamondRing, 15,8, 1,1, 1,1
+
+<LAYER1>: PoemTable, 16,0,9, s, 115
+<LAYER1>: A, 16,0,9, n, ADiamondRing
+<EVENT>: GoldenWatch, 15,9, 1,1, 1,1
+//Mga gamit ni Rizal na matatagpuan sa ibang bansa
+
+
+
+//Mga gamit ni Rizal sa Ateneo
+/<LAYER1>: PoemTable, 6,0,2, s, 2
+
+<LAYER1>: PoemTable, 8,0,2, s, 2
+<LAYER1>: Paper, 8,0,2, n, Poem-1
+<EVENT>:  Poem5, 8,3, 1,1, 1,1
+
+<LAYER1>: PoemTable, 7,0,2, s, 2
+<LAYER1>: Knife, 7,.9,2, s, Door3-5
+<EVENT>:  MPocketKnife, 7,3, 1,1, 1,1
+
+//Mga gamit ni Rizal sa Ateneo
+
+
+//Ibat-ibang gamit ni Rizal
+<LAYER1>: PoemTable, 15,0,3, n, 139
+<LAYER1>: Paper, 15,0,3, n, Poem-1
+<EVENT>:  ManuscriptCover, 14,3, 1,1, 1,1
+
+<LAYER1>: PoemTable, 15,0,4, s, 139
+<LAYER1>: Stand, 15,0,4, n, Stand
+<LAYER1>: Imitation, 15,0,4, n, TomCabin
+<EVENT>:  ViewtcABIN, 14,4, 1,1, 1,1
+
+<LAYER1>: PoemTable, 15,0,5, s, 139
+<LAYER1>: Stand, 15,0,5, n, Stand
+<LAYER1>: Imitation, 15,0,5, n, WJew
+<EVENT>:  ViewWJew, 14,5, 1,1, 1,1
+
+
+//Ibat-ibang gamit ni Rizal
+
+
+/<LAYER1>: PoemTable, 11,0,2, s, 134
+/<LAYER1>: PoemTable, 12,0,2, s, 134
+/<LAYER1>: PoemTable, 13,0,2, s, 134
+
+/<LAYER1>: PoemTable, 15,0,11, s, 138
+/<LAYER1>: PoemTable, 15,0,12, s, 138
+/<LAYER1>: PoemTable, 15,0,13, s, 138
+
+
+
+//Rizal Poems in Ateneo De Manila
+<LAYER1>: PoemTable, 15,0,17, s, 243
+<LAYER1>: Paper, 15,0,17, s, Poem-1
+<EVENT>: Poem1, 14,17, 1,1, 1,1
+
+<LAYER1>: PoemTable, 15,0,18, s, 243
+<LAYER1>: Paper, 15,0,18, s, Poem-1
+<EVENT>: Poem4, 14,18, 1,1, 1,1
+
+<LAYER1>: PoemTable, 15,0,19, s, 243
+<LAYER1>: Paper, 15,0,19, s, Poem-1
+<EVENT>: Poem3, 14,19, 1,1, 1,1
+//End Rizal Poems in Ateneo De Manila
+
+
+
+//Last possesion of Rizal when he was in the Fort Santiago
+<LAYER1>: PoemTable, 15,0,21, s, 117
+<LAYER1>: Paper, 15,0,21, s, Poem-1
+<EVENT>: Poem2, 14,21, 1,1, 1,1
+
+<LAYER1>: PoemTable, 15,0,22, s, 117
+<LAYER1>: Alamp, 15,0,22, s, Alamp
+<EVENT>: Aburner, 14,22, 1,1, 1,1
+
+/<LAYER1>: PoemTable, 15,0,23, s, 117
+//Last possesion of Rizal when he was in the Fort Santiago
+
+<LAYER1>: Frame3X2,    1,1,7, s, 244
+<LAYER1>: Painting3X2, 1,1,7, s, Rizal-Splay
+<EVENT>: ARizal-Splay, 2,8, 1,1, 1,1
+
+<LAYER1>: DrawingTable, 14,0,16, n, 281
+<LAYER1>: DrawingPicture,14,0,16, n, Poems
+
+<LAYER1>: Frame2X2,    9,1,1, w, 244
+<LAYER1>: Painting2X2, 9,1,1, w, RizalGroup
+
+<LAYER1>: Frame3X2,    5,1,1, w, 244
+<LAYER1>: Painting3X2, 5,1,1, w, Josephine2
+
+<LAYER1>: Frame3X2,    13,1,1, w, 244
+<LAYER1>: Painting3X2, 13,1,1, w, Leonor2
+
+<LAYER1>: Door2-1, 2,0,28, e, MDoor2
+<EVENT>: GotoHallWay2-1, 2,28, 2,2, 1,1
+<SETCHARPOS>: 3,0,2, W, ContinueMap
+
+<LAYER1>: Door2-1, 14,0,28, e, MDoor2
+<EVENT>: GotoHallWay2-2, 14,27, 2,2, 1,1
+<SETCHARPOS>: 14,0,2, W, ContinueMap
+
+<LAYER1>: Frame2X2,    17,1,22, n, wood16
+<LAYER1>: Painting2X2, 17,1,22, n, FRQuote1
+
+<LAYER1>: Frame2X2,    17,1,19, n, wood16
+<LAYER1>: Painting2X2, 17,1,19, n, FRQuote2
+
+<LAYER1>: Frame2X2,    17,1,16, n, wood16
+<LAYER1>: Painting2X2, 17,1,16, n, FRQuote3
+
+<LAYER1>: Frame2X2,    17,1,12, n, wood16
+<LAYER1>: Painting2X2, 17,1,12, n, FRQuote4
+
+<LAYER1>: Frame2X2,    17,1,9, n, wood16
+<LAYER1>: Painting2X2, 17,1,9, n, FRQuote5
+
+<LAYER1>: Frame2X2,    17,1,6, n, wood16
+<LAYER1>: Painting2X2, 17,1,6, n, FRQuote6
+
+<LAYER1>: DrawingTable, 14,0,24, n, 281
+<LAYER1>: DrawingPicture,14,0,24, n, SPossesion
+
+
+//End of Artifacts Area 
+
+<DUMMY>: L1,0,0,0
+<DUMMY>: C1,1,0,1
+<DUMMY>: C2,1,0,28
+<DUMMY>: C3,17,0,1
+<DUMMY>: C4,17,0,28
+
+<LIGHT>: AMBIENT, 0,0,0, .8,.8,.8, DUMMYL1
+<LIGHT>: DIRECTIONAL, 0,0,0, .1,.1,.1, DUMMYL1
+<LIGHT>: SPOT, 8,7,14, 1,1,1, DUMMYC1
+<LIGHT>: SPOT, 8,7,14, 1,1,1, DUMMYC2
+<LIGHT>: SPOT, 8,7,14, 1,1,1, DUMMYC3
+<LIGHT>: SPOT, 8,7,14, 1,1,1, DUMMYC4
+
+<LIGHT>: SPOT, 0,4,2, .7,.5,.5, Rozs
+<LIGHT>: SPOT, 0,4,2, .7,.5,.5, Girl2
+<LIGHT>: SPOT, 0,4,2, .7,.5,.5, Glaiz
+<LIGHT>: SPOT, 0,4,2, .7,.5,.5, RLady
+
+<BLOCKROW>: 0
+<BLOCKCOL>: 0
+<BLOCKROW>: 29
+<BLOCKCOL>: 18

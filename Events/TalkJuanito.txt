@@ -1,0 +1,14 @@
+<CHARFACE>: CMan3, Rozs
+<CHARFACE>: Rozs, CMan3
+
+<CharAnimate>: Cman3, Talk, Once, 50, 3
+<MESSAGE>: _&FSScene<42>_, 3, None
+
+<NEXTEVENT>
+<MESSAGE>: _&FSScene<43>_, 3, None
+</>
+
+<NEXTEVENT>
+<CharAnimate>: Cman3, Talk, Reverse, 50, 3
+<MESSAGE>: _&FSScene<44>_, 3, None
+</>

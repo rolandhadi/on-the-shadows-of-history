@@ -1,0 +1,7 @@
+<Case>: Con-RizalJosephine
+<Message>: _&Tasks<31>_, 1, NONE
+<Case Else>
+<SWitch>:NakapasokFS, On
+<Message>: _&Entering<36>_, 1, NONE
+<LoadMap>: fs-dulo
+<End Select>

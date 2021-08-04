@@ -1,0 +1,16 @@
+<Case>: TaposKey
+<Message>: _ _, 0,None
+
+<Case>: Switch-Key
+
+<Message>: _&FSScene<50>_, 3,None
+/<Item>: Item-Key, Off
+<Switch>: TaposKey, On
+<LoadMap>: Maze-1
+
+<Case Else>
+
+<Message>: _&FSScene<49>_, 5
+
+<End Select>
+

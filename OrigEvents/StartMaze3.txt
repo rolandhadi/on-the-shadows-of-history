@@ -1,0 +1,7 @@
+<SETCAMPOS>: 33,5,7, Rozs
+<MESSAGE>: __, 3,none
+
+<NeXTEVENT>
+<Message>: _&FSScene<51>_, 5
+//<PLaysound>: 
+</>

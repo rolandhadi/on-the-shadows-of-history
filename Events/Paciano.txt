@@ -1,0 +1,11 @@
+<Message>: _PACIANO RIZAL (1851-1930)_, 2
+
+<NEXTEVENT>
+<Message>: _&Paciano<1>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Paciano<2>_, 3
+</>
+ 
+

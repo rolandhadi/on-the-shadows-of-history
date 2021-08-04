@@ -1,0 +1,13 @@
+<Case>: CRLady1
+<Message>: _&Entering<17>_, 1, NONE
+<PlaySound>: Door-1
+<StopBG>:
+<PlayBG>: Calamba2, Loop
+<LoadMap>: Calamba-NW2
+<Case Else>
+<Message>: _&Entering<17>_, 1, NONE
+<PlaySound>: Door-1
+<StopBG>:
+<PlayBG>: Calamba2, Loop
+<LoadMap>: Calamba-NW
+<End Select>

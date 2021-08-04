@@ -1,0 +1,18 @@
+<CASE>: MViewed4
+
+<CASE ELSE>
+<SETCAMPOS>: 2,4,1, NONE, 13,1,12
+
+<NEXTEVENT>:
+<MESSAGE>: __, 5,none
+</>
+
+<NEXTEVENT>:
+<SETCAMPOS>: 14,3,10, NONE, 2,2,9
+<MESSAGE>: __, 5,none
+</>
+
+<SWITCH>: MViewed4, On
+</>
+<END SELECT>
+

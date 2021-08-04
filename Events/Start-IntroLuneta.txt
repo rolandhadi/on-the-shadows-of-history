@@ -1,0 +1,223 @@
+<SETCAMPOS>: 19,1,2, None, 6,1,22
+<Fog>: 0,10, 0,0
+<PlayBG>: Demonic,Loop
+
+<NextEvent>:
+<CHARFACE>: Josephine, RizalF
+<CHARFACE>: Priest, RizalF
+<CHARFACE>: CMan1, RizalF
+<CHARFACE>: Rozs, RizalF
+<PlaySound>: LunetaRozs1
+<Message>: _&LunetaScene<1>_, 3, None
+</>
+
+<NextEvent>
+<Fog>: 0,10, 0,0
+<Message>: __, 0, None
+</>
+
+<NextEvent>
+<Fog>: 0,60, 0,0
+<Message>: __, 0, None
+</>
+
+<NextEvent>
+<Fog>: 0,110, 0,0
+<Message>: __, 0, None
+</>
+
+<NextEvent>
+<Fog>: 0,160, 0,0
+<Message>: __, 0, None
+</>
+
+<NextEvent>
+<Fog>: 0,250, 0,0
+<Message>: __, 0, None
+</>
+
+<NextEvent>
+<Fog>: 0,350, 0,0
+<Message>: __, 0, None
+</>
+
+<NextEvent>
+<Fog>: 0,700, 0,0
+<PlaySound>: LunetaRozs2
+<Message>: _&LunetaScene<2>_, 5, None
+</>
+
+<NextEvent>:
+<SETCAMPOS>: 10,1,13, RizalF
+<Message>: __, 1, None
+<PlaySound>: Flash
+</>
+
+<NextEvent>:
+<SETCAMPOS>: 17,1,13, RizalF
+<Message>: __, 1, None
+<PlaySound>: Flash
+</>
+
+<NextEvent>:
+<SETCAMPOS>: 1,1,13, RizalF
+<Message>: __, 1, None
+<PlaySound>: Flash
+</>
+
+<NextEvent>:
+<SETCAMPOS>: 3,1,5, None, 16,1,21
+<Message>: __, 1, None
+<PlaySound>: Flash
+</>
+
+<NextEvent>:
+<SETCAMPOS>: 20,1,14, RizalF
+<Message>: __, 1, None
+<PlaySound>: Flash
+</>
+
+<NextEvent>:
+<SETCAMPOS>: 19,1,2, None, 6,1,22
+<Message>: __, 1, None
+/<PlaySound>: HG1
+<PlaySound>: LunetaGCivil1
+<Message>: _&LunetaScene<5>_, 3, None
+</>
+
+<NextEvent>:
+<CharAnimate>: GuardGun,  Fire,  Once, 40, 1
+<CHARFACE>: GuardGun, RizalF
+<PlaySound>: Rifle
+</>
+
+<NextEvent>:
+<CharAnimate>: GuardGun1, Fire, Once, 40, 1
+<CHARFACE>: GuardGun1, RizalF
+<PlaySound>: Rifle
+</>
+
+<NextEvent>:
+<CharAnimate>: GuardGun2, Fire, Once, 40, 1
+<CHARFACE>: GuardGun2, RizalF
+<PlaySound>: Rifle
+</>
+
+<NextEvent>:
+<CharAnimate>: GuardGun3, Fire, Once, 40, 1
+<CHARFACE>: GuardGun3, RizalF
+<PlaySound>: Rifle
+</>
+
+<NextEvent>:
+<PlaySound>: LunetaRozs3
+<Message>: _&LunetaScene<3>_, 5, None
+</>
+
+<NextEvent>:
+<SETCAMPOS>: 17,1,26, None, 4,1,6
+<PlaySound>: Flash
+<PlaySound>: LunetaRozs4
+<Message>: _&LunetaScene<4>_, 3, None
+</>
+
+<NextEvent>:
+<Message>: __, 3, None
+<PlaySound>: Rifle1
+</>
+
+<NextEvent>:
+<SETCAMPOS>: 17,1,26, Rozs
+<PlaySound>: Flash
+<PlaySound>: LunetaRozs5
+<Message>: _&LunetaScene<627>_, 3, None
+</>
+
+<NextEvent>:
+<CHARFACE>: GuardGun, Rozs
+<CHARFACE>: GuardGun1, Rozs
+<CHARFACE>: GuardGun2, Rozs
+<CHARFACE>: GuardGun3, Rozs
+<CHARFACE>: HGuard, Rozs
+<SETCAMPOS>: 20,1,18, HGuard
+<PlaySound>: Flash
+<PlaySound>: LunetaGCivil3
+<Message>: _&LunetaScene<7>_, 5, None
+</>
+
+<NextEvent>:
+<SETCAMPOS>: 20,1,18, Rozs
+<PlaySound>: Flash
+<PlaySound>: LunetaRozs6
+<Message>: _&LunetaScene<8>_, 5, None
+</>
+
+<NextEvent>:
+<SETCAMPOS>: 20,1,18, HGuard
+<PlaySound>: Flash
+<PlaySound>: LunetaGCivil4
+<Message>: _&LunetaScene<9>_, 5, None
+</>
+
+<NextEvent>:
+<SETCAMPOS>: 20,1,18, Rozs
+<PlaySound>: Flash
+<PlaySound>: LunetaRozs7
+<Message>: _&LunetaScene<10>_, 5, None
+</>
+
+<NextEvent>:
+<SETCAMPOS>: 4,1,10, None, 12,1,14
+<PlaySound>: Flash
+<Message>: _&LunetaScene<11>_, 3, None
+<PlaySound>: LunetaGCivil2
+<CharAnimate>: HGuard, sign, Once, 50, 2
+</>
+
+<NextEvent>:
+<SETCAMPOS>: 9,1,20, None, 23,1,8
+<PlaySound>: Rifle2
+<CharAnimate>: Rozs, Die, Once, 50, 2
+<PlaySound>: LunetaRozs8
+<stopbg>
+</>
+
+<NextEvent>
+<playBG>: Departure, loop
+<Setcampos>: 15,7,14, Rozs
+<Message>: __, 7, None
+</>
+
+<NextEvent>
+<Fog>: 0,350,  0,0
+<Setcampos>: 15,6,14, Rozs
+<Message>: __, 5, None
+</>
+
+<NextEvent>
+<Fog>: 0,250, 0,0
+<Setcampos>: 15,5,14, Rozs
+<Message>: __, 4, None
+</>
+
+<NextEvent>
+<Fog>: 0,110, 0,0
+<Setcampos>: 15,3,14, Rozs
+<Message>: __, 3, None
+</>
+
+<NextEvent>
+<Fog>: 0,60, 0,0
+<Setcampos>: 15,2,14, Rozs
+<Message>: __, 2, None
+</>
+
+<NextEvent>
+<Fog>: 0,10, 0,0
+<Message>: __, 2, None
+</>
+
+<NextEvent>
+<stopbg>
+<LoadMap>: sti-library
+</>

@@ -1,0 +1,12 @@
+<1>
+<A>: _The third child. married Antonio Lopez at Morong, Rizal._
+<B>: _Ang pangatlong anak. Ikinasal kay Antonio Lopez sa Morong, Rizal._
+<C>: 
+</>
+
+<2>
+<A>: _A teacher and musician._
+<B>: _Isang guro at mang aawit._
+<C>: 
+</>
+

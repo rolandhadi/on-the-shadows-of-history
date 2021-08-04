@@ -1,0 +1,6 @@
+<RotateCam>: Invisible, Left, 500, 20
+<ShowSprite>: 256,210, 80,80, End2-2, 20
+
+<NextEvent>
+<LoadMap>: Ending-3
+</>

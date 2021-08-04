@@ -1,0 +1,1036 @@
+<1>
+<A>: _Hubert: This is Ateneo Municipal, a college under the supervision of the Spanish Jesuits._
+<B>: _Hubert: Eto ang Ateneo Municipal, ang paaralang kolehiyo sa ilalim ng pamamahala ng Spanish Jesuits._
+<C>: 
+</>
+
+<2>
+<A>: _JP: Did you know that Ateneo Municipal was formerly the Escuela Pia._
+<B>: _JP: Alam mo ba na ang Ateneo Municipal ay ang dating Escuela Pia. _
+<C>: 
+</>
+
+<3>
+<A>: _J.Paul: A school for boys in Manila which was established by the city government in 1817._
+<B>: _J.Paul: Ang paaralan para sa mga lalaki na itinayo ng pamahalaan noong 1817. _
+<C>: 
+</>
+
+<4>
+<A>: _Kate: Would you like to buy some apples?_
+<B>: _Kate: Gusto mo bang bumili ng mansanas?_
+<C>: 
+</>
+
+<5>
+<A>: _Charles: I want to belong to the Roman Empire..._
+<B>: _Charles: Gusto kong mapabilang sa Roman Empire..._
+<C>: 
+</>
+
+<6>
+<A>: _Miguel: Students here are composed into to two groups..._
+<B>: _Miguel: Ang mga studyante dito ay nahahati sa dalawang grupo..._
+<C>: 
+</>
+
+<7>
+<A>: _Miguel: These are the Roman empire or the "Internos" or Boarders..._
+<B>: _Miguel: Ang una ay ang Roman Empire o ang tinatawag na "Internos" o ang mga nangungupahan..._
+<C>: 
+</>
+
+
+<8>
+<A>: _Miguel: And the other one is the Carthaginian or the "Externos" or Non-Boarders_
+<B>: _Miguel: Ang pangalawang grupo ay ang mga Carthaginian o ang mga "Externos" o ang mga hindi nangungupahan...  _
+<C>: 
+</>
+
+
+<9>
+<A>: _Pablo: You're quite new here, are you one of the externos?_
+<B>: _Pablo: Isa kaba sa mga externos, mukhang bago ka lamang dito?_
+<C>: 
+</>
+
+<10>
+<A>: _Niño: Could you help me in my Spanish lessons?_
+<B>: _Niño: Maaari mo ba akong tulungan sa aking araling Espanyol?_
+<C>: 
+</>
+
+
+<11>
+<A>: _Juan: Painting is my passion. How about you?_
+<B>: _Juan: Ang aking hilig ay pagpipinta. Ikaw ano ang hilig mo?_
+<C>: 
+</>
+
+<12>
+<A>: _Goodmorning. May I Help you?_
+<B>: _Magandang umaga. Maaari mo ba akong tulungan?_
+<C>: 
+</>
+
+<13>
+<A>: _Ross: Have you seen Fr. Leonart?_
+<B>: _Ross: Nakita mo ba si Padre Leonart?_
+<C>: 
+</>
+
+<14>
+<A>: _Sheryl: The church opens at 6:00 in the evening._
+<B>: _Sheryl: Ang simbahan ay magbubukas ng 6:00 ng gabi. _
+<C>: 
+</>
+
+<15>
+<A>: _Kristy: Are you looking for a boarding house?_
+<B>: _Kristy: Naghahanap ka ba ng paupahan?_
+<C>: 
+</>
+
+<16>
+<A>: _Kristy: Just head straight and you will find Ateneo Municipal..._
+<B>: _Kristy: Dumiretso ka lamang at makikita mo ang Ateneo Municipal... _
+<C>: 
+</>
+
+<17>
+<A>: _Peter: Are you looking for Pablo?_
+<B>: _Peter: Hinahanap mo ba si Pablo?_
+<C>: 
+</>
+
+<18>
+<A>: _Peter: Oh! The student?! Yes!_
+<B>: _Peter: Oh! Ang studyante! Oo!_
+<C>: 
+</>
+
+<19>
+<A>: _Peter: Are you looking for his boarding house?_
+<B>: _Peter: Hinahanap mo ba ang kanyang inuupahan?_
+<C>: 
+</>
+
+<20>
+<A>: _Peter: Just walk up straight, then head right..._
+<B>: _Peter: Dumiretso ka lamang, pagkatapos kumanan ka... _
+<C>: 
+</>
+
+<21>
+<A>: _Peter: ...turn down to the last street, then turn left. Got it?_
+<B>: _Peter: ...bumaba ka sa huling eskinita, pagkatapos kumaliwa ka. Nakuha mo ba?_ 
+<C>: 
+</>
+
+<22>
+<A>: _Rozs: Where am I? I better find Rizal as soon as possible..._
+<B>: _Rozs: Nasaan ako? Kailangan kong makita si Rizal sa lalong madaling panahon._
+<C>:
+</>
+
+<23>
+<A>: _Guard: Hey!Why are you not wearing your uniform?_
+<B>: _Guard: Sandali lang! Bakit hindi ka naka uniporme?_ 
+<C>:
+</>
+
+<24>
+<A>: _Rozs: Errr...Ahhh...Sorry._
+<B>: _Rozs: Errr...Ahhh...Paumanhin po._ 
+<C>:
+</>
+
+<25>
+<A>: _Guard: Go away. You are not a student!_
+<B>: _Guard: Hindi namin pinapayagan makapasok ang hindi estudyante dito. Makakaalis ka na!_
+<C>: 
+</>
+
+<26>
+<A>: _Rozs: Are you Maria?Oh It's you again!_
+<B>: _Rozs: Paumanhin,ikaw ba si Maria?Nagkita tayong muli!_ 
+<C>: 
+</>
+
+<27>
+<A>: _Receptionist: Shhh! Listen that girl is Maria._
+<B>: _Receptionist: Makinig Ka! Ang babaeng yan ay si Maria._ 
+<C>: 
+</>
+
+<28>
+<A>: _Rozs: ...Thanks._
+<B>: _Rozs: ...Salamat._ 
+<C>: 
+</>
+
+<29>
+<A>: _Rozs: Maria, Pablo wants me to give this to you..._
+<B>: _Rozs: Maria, ipinabibigay ni Pablo ang sulat na ito._ 
+<C>: 
+</>
+
+<30>
+<A>: _Maria: Oh thank you!_
+<B>: _Maria: Maraming salamat!_ 
+<C>: 
+</>
+
+<31>
+<A>: _Rozs: I'll have to find Rozs now._
+<B>: _Rozs: Kailangan ko nang matagpuan si Rizal._ 
+<C>: 
+</>
+
+<32>
+<A>: _Teacher: As usual the highest grade came from Rizal._
+<B>: _Teacher: Katulad ng inaasahan ang  mataas na marka ay nagmula kay Rizal._ 
+<C>: 
+</>
+
+<33>
+<A>: _Teacher: Let's clap our hands for Rizal._
+<B>: _Teacher: Palakpakan natin si Rizal._ 
+<C>: 
+</>
+
+<34>
+<A>: _Rizal: Thank you Sir._
+<B>: _Rizal: Maraming salamat Maestro._ 
+<C>: 
+</>
+
+<35>
+<A>: _Teacher: Ok class dismissed...See you tomorrow._
+<B>: _Teacher: Maari na kayong lumabas...MGakita nalang tayo bukas._ 
+<C>: 
+</>
+
+<36>
+<A>: _Rozs: It's Rizal's pocket knife I'll have to returned it._
+<B>: _Rozs: Kailangan ko itong ibalik dahil kay Rizal ang lansetang ito ._ 
+<C>: 
+</>]
+
+<37>
+<A>: _Fr. Lleonart: Rizal will you do me favor?_
+<B>: _Fr. Lleonart: Rizal puede bang humingi ng pabor?_ 
+<C>: 
+</>
+
+<38>
+<A>: _Rizal: What is it Father?_
+<B>: _Rizal: Ano po iyon Padre?_ 
+<C>:
+</>
+
+<39>
+<A>: _Fr. Lleonart: I heard you are quite good in doing sculptural works._
+<B>: _Fr. Lleonart: Nabalitaan kong mahusay kang gumawa ng skultura._ 
+<C>: 
+</>
+
+<40>
+<A>: _Fr. Lleonart: Will you make me a sculpture of Sacred Heart of Jesus?_
+<B>: _Fr. Lleonart: Maari mo ba akong iukit ng Kabanal-banalang Puso ni Hesus?_ 
+<C>: 
+</>
+
+<41>
+<A>: _Rizal: Yes, it's a pleasure Father!_
+<B>: _Rizal: Ikinagagalak ko po!_ 
+<C>: 
+</>
+
+<42>
+<A>: _Fr. Lleonart: Thank you,son. As soon as you finished it, kindly bring it to me Jose..._
+<B>: _Fr. Lleonart: Maraming salamat Jose. Kapag natapos mo Jose ang skultura ibig kong makita ito agad..._ 
+<C>: 
+</>
+
+<43>
+<A>: _Rizal: Oh no!Where is my knife? I lost it. What will I do?_
+<B>: _Rizal: Nasaan na ang aking lanseta?_ 
+<C>: 
+</>
+
+<44>
+<A>: _Fr. Lleonart: It's amazing. Thank you, Rizal!_
+<B>: _Fr. Lleonart: Napakaganda ng iyong nagawa. Maraming salamat sa iyo Rizal._ 
+<C>: 
+</>
+
+<45>
+<A>: _Rizal: Mi amigo, Thank you for helping me. Here this is yours._
+<B>: _Rizal: Maraming salamat kaibigan. Heto kunin mo, para ito sayo... _ 
+<C>: 
+</>
+
+<46>
+<A>: _Rozs: Thank you._
+<B>: _Rozs: Maraming salamat._ 
+<C>: 
+</>
+
+<47>
+<A>: _Pablo: Hey Rozs! Let's go to Segunda's party!_
+<B>: _Pablo: Rozs! Tayo'y pumunta sa pagtitipon ni Segunda._ 
+<C>: 
+</>
+
+<48>
+<A>: _Rozs: That would be nice!_
+<B>: _Rozs: Ikinagagalak kong sumama!_ 
+<C>: 
+
+<49>
+<A>: _Mariano: Jose, will you paint my sister Segunda. Surely, she will love it!_
+<B>: _Mariano: Jose, maari mo bang ipinta si Segunda. Tiyak  na magugustuhan nya ito!_ 
+<C>: 
+
+<50>
+<A>: _Rizal: It's my pleasure, my friend._
+<B>: _Rizal: Ikinagagalak ko, aking kaibigan._ 
+<C>: 
+</>
+
+<51>
+<A>: _Rizal: My heart now is broken the girl I love is already engaged._
+<B>: _Rizal: Nagdurugo ang aking puso, ang babaeng aking pinakamamahal ay natakda ng ikasal._ 
+<C>: 
+</>
+
+<52>
+<A>: _Rizal: What the purpose of this portrait...at an early hour, my first love!_
+<B>: _Rizal: Ano pa ang silbi ng larawang ito!_ 
+<C>: 
+</>
+</>
+
+<53>
+<A>: _Rizal: My virgin heart will always mourn._
+<B>: _Rizal: Ang aking puso ay laging magtatangis._ 
+<C>: 
+</>
+
+<54>
+<A>: _Rozs: Don't be sad..._
+<B>: _Rozs: Wag ka nang malumbay ._ 
+<C>: 
+</>
+
+<55>
+<A>: _Rizal: Here it's yours now.Keep it._
+<B>: _Rizal: Heto itago mo. Sayo na ito._ 
+<C>: 
+</>
+
+<56>
+<A>: _Rozs: Thank you._
+<B>: _Rozs: Maraming salamat._ 
+<C>: 
+</>
+
+<57>
+<A>: _Rizal: Farewell._
+<B>: _Rizal: Paalam._ 
+<C>: 
+</>
+
+<58>
+<A>: _Rozs: But wait, where did I put my chrono pad?_
+<B>: _Rozs: Teka sandali, saan ko nailagay ang aking chrono pad?_ 
+<C>: 
+</>
+
+<59>
+<A>: _Corazon: I'm sorry son, but there is no vacant room here..._
+<B>: _Corazon: Ikinalulungkot ko, subalit wala ng bakanteng kwarto dito..._ 
+<C>: 
+</>
+
+<60>
+<A>: _Alfred: Are you looking for Pablo? He's on the next room._
+<B>: _Alfred: Hinahanap mo ba si Pablo? Nandoon siya sa kabilang kawrto._ 
+<C>: 
+</>
+
+<61>
+<A>: _Joseph: Pablo's not here...try to check the other room._
+<B>: _Joseph: Wala si Pablo dito... Kung gusto mo tingnan mo yun kabilang kwarto._ 
+<C>: 
+</>
+
+<62>
+<A>: _Pablo: You're quite new here... Why do you want to enter to the Municipal?_
+<B>: _Pablo: Isang baguhan dito... Bakit mo nais makapasok sa Ateneo Municipal?_ 
+<C>: 
+</>
+
+<63>
+<A>: _Rozs: Oh, yes, I have to find Jose... Do you know him?_
+<B>: _Rozs: Siya nga pala, Kailangan kong makita si Jose... Kilala mo ba siya?_ 
+<C>: 
+</>
+
+<64>
+<A>: _Pablo: Of course I do. He is one of the brightest and talented student here... Why do you ask so?_
+<B>: _Pablo: Aba oo ginoo. Isa siya sa mga magagaling at matalino estudyante rito... Bakit mo naman naitanong?_ 
+<C>: 
+</>
+
+<65>
+<A>: _Pablo: By the way, you cannot enter the municipal if you're wearing that kind of clothes._
+<B>: _Pablo: Siya nga pala, hindi ka makapapasok sa loob kung ganyan ang iyong kasuotan._ 
+<C>: 
+</>
+
+<66>
+<A>: _Pablo: If you want to, I will lend you some of my uniform. Would you like too?_
+<B>: _Pablo: Kung gusto mo, ipahihiram ko sa iyo yung isa ko pang uniporme._ 
+<C>: 
+</>
+
+<67>
+<A>: _Pablo: Come and visit me at my boarding room. I'll wait for you there._
+<B>: _Pablo: Halika't puntahan mo ako sa aking dormitoryo. Iintayin kita doon. _ 
+<C>: 
+</>
+
+<68>
+<A>: _Pablo: Fine then...Its up to you..._
+<B>: _Pablo: Maganda kung ganun...Nasa sa iyo yan... _ 
+<C>: 
+</>
+
+<69>
+<A>: _Rozs: That would be great!!! Thanks man._
+<B>: _Rozs: Salamat sa iyo..._ 
+<C>: 
+</>
+
+<70>
+<A>: _Pablo: What took you so long? Here take this..._
+<B>: _Pablo: Bakit ngayon ka lang? Heto tanggapin mo..._ 
+<C>: 
+</>
+
+<71>
+<A>: _Pablo: With that, you can pass through the Municipal's gate._
+<B>: _Pablo: Sa pamamagitan nyan makakapasok ka na sa loob ng Municipal._ 
+<C>: 
+</>
+
+<72>
+<A>: _Rozs: Thanks for your help..._
+<B>: _Rozs: Salamat sa iyong tulong..._ 
+<C>: 
+</>
+
+<73>
+<A>: _Pablo: No problem, amigo. It's a pleasure to help..._
+<B>: _Pablo: Walang anuman, kaibigan. Ikinagagalak kong tulungan ka..._ 
+<C>: 
+</>
+
+<74>
+<A>: _Pablo: Go and find Jose..._
+<B>: _Pablo: Humayo ka't hanapin mo na si Jose..._ 
+<C>: 
+</>
+
+<75>
+<A>: _Pablo: You look nice wearing that uniform._
+<B>: _Pablo: Bagay pala sa iyo ang aking uniporme._ 
+<C>: 
+</>
+
+<76>
+<A>: _Rozs: Oh no! What will I do?_
+<B>: _Rozs: Naku! Ano na kayang gagawin ko?_ 
+<C>: 
+</>
+
+<77>
+<A>: _Pablo: But wait, can you do me some favor?_
+<B>: _Pablo: Pero teka muna, maaari mo rin ba akong tulungan?_ 
+<C>: 
+</>
+
+<78>
+<A>: _Pablo: Will you give this letter to Maria. I think she's in the park. The Park is located in front of the church._
+<B>: _Pablo: Maaari mo bang ibigay ito kay Maria. Sa aking pagkakaalam, siya ay naroroon sa parke._ 
+<C>: 
+</>
+
+<79>
+<A>: _Rozs: Sure I'll give it to her._
+<B>: _Rozs: Aba oo ibibigay ko ito sa kanya._ 
+<C>: 
+</>
+
+<80>
+<A>: _-Letter to Maria-_
+<B>: _-Sulat para kay Maria-_ 
+<C>: 
+</>
+
+<81>
+<A>: _A letter from Pablo. This must be given to Maria._
+<B>: _Sulat galing kay Pablo. Dapat maibigay ito kay Maria._ 
+<C>: 
+</>
+
+<82>
+<A>: _-Ateneo De Manila Uniform-_
+<B>: _-Kasuotan ng Ateneo De Manila-_ 
+<C>: 
+</>
+
+<83>
+<A>: _Pablo lend this for me to enter the school._
+<B>: _Pinahiram ni Pablo sa akin upang makapasok ako sa paaralan._ 
+<C>: 
+</>
+
+<84>
+<A>: _Maria: I want to be alone..._
+<B>: _Maria: Gusto ko sanang mapag-isa..._ 
+<C>: 
+</>
+
+<85>
+<A>: _Rozs: Excuse me, are you Maria?_
+<B>: _Rozs: Ipagpaumanhin nyo po, kayo po si Maria?..._ 
+<C>: 
+</>
+
+<86>
+<A>: _Maria: Yes..._
+<B>: _Maria: Ako nga..._ 
+<C>: 
+</>
+
+<87>
+<A>: _Fr. Magin Ferrando: What can I do for you son?_
+<B>: _Fr. Magin Ferrando: Ano ang maitutulong ko sa iyo?_ 
+<C>: 
+</>
+
+<88>
+<A>: _Paulo: Father Magin Ferrando was the school registrar here._
+<B>: _Paulo: Si Father Magin Ferrando ang aming school registrar dito._ 
+<C>: 
+</>
+
+<89>
+<A>: _Priest: What can I do for you,son?_
+<B>: _Priest: Anong maitutulong ko sayo, iho?_ 
+<C>: 
+</>
+
+<90>
+<A>: _Rozs: Good morning Father, I'm looking for Jose._
+<B>: _Rozs: Magandang umaga Padre, hinahanap ko po si Jose._ 
+<C>: 
+</>
+
+<91>
+<A>: _Priest: Oh Jose, the bright student. Yes. He's gone a while ago._
+<B>: _Priest: A si Jose, ang matalinong estudyante. Kaaalis nya lang kani-kanina._ 
+<C>: 
+</>
+
+<92>
+<A>: _Rozs: Thank you Father._
+<B>: _Rozs: Salamat po Padre._ 
+<C>: 
+</>
+
+<93>
+<A>: _Rozs: That uniform helps me a lot. Thanks to Pablo. But I have to remove it now._
+<B>: _Rozs: Ang unipormeng iyon ay nakatulong sa akin ng malaki. Salamat kay Pablo. Pero kailangan ko ng hubarin iyon._ 
+<C>: 
+</>
+
+<94>
+<A>: _Rozs: I cannot leave now. I must find Rizal_
+<B>: _Rozs: Hindi ako maaring umalis. Dapat kong hanapin si Rizal_ 
+<C>: 
+</>
+
+<95>
+<A>: _Rozs: Excuse me, have you seen Jose?_
+<B>: _Rozs: Paumanhin, nakita nyo ba si Jose?_ 
+<C>: 
+</>
+
+<96>
+<A>: _Raymond: Sorry, I haven't seen him._
+<B>: _Raymond: Paumanhin, ngunit hindi ko siya nakita._ 
+<C>: 
+</>
+
+<97>
+<A>: _Robert: I've seen him near the library._
+<B>: _Robert: Nakita ko siya kanina malapit sa silid-aralan._ 
+<C>: 
+</>
+
+<98>
+<A>: _Carlos: I think his on the drawing room._
+<B>: _Carlos: Sa tingin ko naroon siya sa silid-pintahan._ 
+<C>: 
+</>
+
+<99>
+<A>: _Rozs: Yes I will do that Father. Adios._
+<B>: _Rozs: Padre, mauuna na po ako. Paalam._ 
+<C>: 
+</>
+
+<100>
+<A>: _Rozs: Whose knife is this?_
+<B>: _Rozs: Kanino kaya ang lansetang ito?_ 
+<C>: 
+</>
+
+//Mavi-view  yung knife...
+
+<101>
+<A>: _Rizal: Oh! This must be Rizal's pocket knife... I have to find him as soon as possible._
+<B>: _Rizal: Naku! Ito ang lanseta ni Rizal... Kailangan ko siyang makita sa madaling panahon._ 
+<C>: 
+</>
+
+<102>
+<A>: _Robert: You're not in your uniform, how did you get in?.._
+<B>: _Robert: Hindi ka naka-uniporme, paano ka nakapasok?_ 
+<C>: 
+</>
+
+<103>
+<A>: _Rozs: I think I should change my clothes now._
+<B>: _Rozs: Sa tingin ko dapat na akong magpalit ng damit._ 
+<C>: 
+</>
+
+<104>
+<A>: _Eduardo: Are you looking for Jose? He's gone... He's looking for something I think..._
+<B>: _Eduardo: Nakita mo ba si Jose? Sa tingin ko may hinahanap sya..._ 
+<C>: 
+</>
+
+<105>
+<A>: _Manuel: Oh I remembered...he's looking for his pocket knife! I think he lost it somewhere._
+<B>: _Manuel: Ah natatandaan ko na...hinahanap nya ang kanyang lanseta! Sa tingin koy naiwala nya ito. _ 
+<C>: 
+</>
+
+<106>
+<A>: _Rozs: Tell me, where can I find him?_
+<B>: _Rozs: Maari ko bang malaman kung saan ko sya matatagpuan? _ 
+<C>: 
+</>
+
+<107>
+<A>: _Eduardo: I bet he's on his dormitory now. Try to look for him there..._
+<B>: _Eduardo: Sa tingin koy nasa dormitoryo sya. Subukan mong puntahan sya dun..._ 
+<C>: 
+</>
+
+<108>
+<A>: _Welcome to the Internos Boarding House!_
+<B>: _Maligayang pagdating sa Dormitoryo ng mga Internos_ 
+<C>: 
+</>
+
+<109>
+<A>: _Rozs: Excuse me, where can I find Jose?_
+<B>: _Rozs: Ipagpaumanhin nyo po, saan ko po ba matatagpuan si Jose?_ 
+<C>: 
+</>
+
+<110>
+<A>: _Charles: I think he's on his class..._
+<B>: _Charles: Sa tingin ko naroroon siya sa kanyang klase..._ 
+<C>: 
+</>
+
+<111>
+<A>: _Christopher: I bet he's on his bedroom._
+<B>: _Christopher: Sa tingin ko naroon siya sa kanilang kwarto._ 
+<C>: 
+</>
+
+<112>
+<A>: _Rozs: May I know what is his room number? _
+<B>: _Rozs: Pwede ko po bang malaman kung anong numeri ng kwarto nya?_ 
+<C>: 
+</>
+
+<113>
+<A>: _Christopher: I think he's on the last room, just check if it is on the right or the left side..._
+<B>: _Christopher: Sa tingin doon siya sa huling kwarto, tingnan mo nalang kung sa kaliwa o kanang kwarto..._ 
+<C>: 
+</>
+
+<114>
+<A>: _Vincent: I'm sorry but Jose is not here, try to check the other rooms._
+<B>: _Vincent: Paumanhin ngunit si Jose ay wala dito, bakit hindi mo tingnan sa kabilang kwarto._ 
+<C>: 
+</>
+
+<115>
+<A>: _Rozs: Excuse me, are you Jose?_
+<B>: _Rozs: Kayo po ba si Jose? _ 
+<C>: 
+</>
+
+<116>
+<A>: _Rizal: I was so careless... the sculpture..._
+<B>: _Rizal: Napakapabaya ko talaga... paano na to..._ 
+<C>: 
+</>
+
+<117>
+<A>: _Rozs:At last Jose I found you...I've been searching for you all the time..._
+<B>: _Rozs:Sa wakas Jose natagpuan din kita...Hinanap kita buong araw... _ 
+<C>: 
+</>
+
+<118>
+<A>: _Rozs: I think this is his room... _
+<B>: _Rozs: Sa tingin koy eto na ang kanyang silid aralan... _ 
+<C>: 
+</>
+
+<119>
+<A>: _Rozs: I have something for you... I think this is yours. I accidentally found it. _
+<B>: _Rozs: May ibibigay ako sayo... Sa tingin koy sayo eto. Aksidenteng natagpuan ko eto. _ 
+<C>: 
+</>
+
+<120>
+<A>: _Rizal: My pocket knife! thanks to you, you are really a great help._
+<B>: _Rizal: Ang aking lanseta! Maraming salamat, isa kang malaking tulong. _ 
+<C>: 
+</>
+
+<121>
+<A>: _Rizal: But wait who are you? You look different, you're not a student here aren't you?_
+<B>: _Rizal: Sandali lang sino ka? Mukhang kakaiba ka, hindi ka estudyante dito, tama ba? _ 
+<C>: 
+</>
+
+<122>
+<A>: _Rozs: I'm Rozs..._
+<B>: _Rozs: Ako si Rozs..._ 
+<C>: 
+</>
+
+<123>
+<A>: _Rizal: Well I'm Jose Rizal, Rozs can you do me a favor? _
+<B>: _Rizal: Ako nga pala si Jose Rizal, Rozs maaari mo ba akong tulungan?_ 
+<C>:
+</>
+
+<124>
+<A>: _Rozs: Of course I will, what is it? _
+<B>: _Rozs: Oo maaari, ano ba iyon? _ 
+<C>: 
+</>
+
+<125>
+<A>: _Rizal: Can you deliver this to message to Fr. Leonart? _
+<B>: _Rizal: Maaari mo bang ibigay eto kay Padre Leonart? _ 
+<C>: 
+</>
+
+<126>
+<A>: _Rozs: Yes I will... _
+<B>: _Rozs: Oo gagawin ko... _ 
+<C>: 
+</>
+
+<127>
+<A>: _Rizal: Thank you, Rozs. Please come back here as soon as you deliver the message._
+<B>: _Rizal: Maraming salamat, Rozs. Maaari ka bang bumalik dito pagkabigay mo ng mensahe. _ 
+<C>: 
+</>
+
+<128>
+<A>: _Rizal: But wait, I think you can find Fr. Leonart on the lagoon or in the next building near the lagoon._
+<B>: _Rizal: Sandali lang, Sa tingin ko matatagpuan mo si Padre LKeonart sa lagoon o sa sumunod na gusali malapit sa lagoon. _ 
+<C>: 
+</>
+
+<129>
+<A>: _Rozs: Excuse me Father, Rizal wants me to deliver this message to you..._
+<B>: _Rozs: Paumanhin Padre, inutusan po ako ni Rizal na ihatid po ito sa inyo..._ 
+<C>: 
+</>
+
+
+<130>
+<A>: _Fr. Leonart: A message from Rizal... thank you son._
+<B>: _Fr. Leonart:  Mensahe mula kay Rizal... salamat sa iyo, iho._ 
+<C>: 
+</>
+
+<131>
+<A>: _Neneng: Excuse me Segunda, I have something for you, it's a letter from your fiance, Manuel!_
+<B>: _Neneng: Paumanhin Segunda, Meron akong ihahatid sa iyo, isang sulat mula kay Manuel. _ 
+<C>: 
+</>
+
+<132>
+<A>: _Pablo: I heard that Segunda is soon to be married..._
+<B>: _Pablo: Narinig kong malapit na palang ikasal si Segunda..._ 
+<C>: 
+</>
+
+<133>
+<A>: _Fr. Leonart: Gracias..._
+<B>: _Fr. Leonart: Maraming salamat..._ 
+<C>: 
+</>
+
+<134>
+<A>: _Fr. Leonart: Son this is yours, take it. It is one of the lovely poem made by Rizal._
+<B>: _Fr. Leonart: Anak para sa iyo eto, tanggapin mo. Eto ay isa sa mga  kaibig ibig na tula ni Rizal._ 
+<C>: 
+</>
+
+<135>
+<A>: _Fr. Leonart: Do you find the poem fascinating? _
+<B>: _Fr. Leonart: Nagustuhan mo ba ang tula? _ 
+<C>: 
+</>
+
+<136>
+<A>: _Fr. Leonart: Buenas Dias...what can I do for you son?_
+<B>: _Fr. Leonart: Buenas Dias...ano ang maitutulong ko sa iyo anak?_ 
+<C>: 
+</>
+
+<137>
+<A>: _Rizal: Finally, the sculpture is finished..._
+<B>: _Rizal: Sa wakas, ang skultura ay tapos na..._ 
+<C>: 
+</>
+
+<138>
+<A>: _-Sacred Heart Of Jesus-_
+<B>: _-Kabanalbanalang Puso ni Hesus-_ 
+<C>: 
+</>
+
+<139>
+<A>: _Rizal's Letter to Fr. Lleonart_
+<B>: _Liham ni Rizal para kay Padre Lleonart_ 
+<C>: 
+</>
+
+<140>
+<A>: _I must give this to Fr. Lleonart_
+<B>: _Dapat ko ng ibigay ito kay Padre Lleonart_ 
+<C>: 
+</>
+
+<141>
+<A>: _Carlos: Fr. Jose Villaclara teaches philosophy and sciences._
+<B>: _Carlos: Pilosopiya at Siyensya ang mga itinuturo ni Padre Jose Villaclara._ 
+<C>: 
+</>
+
+<142>
+<A>: _Rozs: I made two sculptures, one for you and one for Fr. leonart _
+<B>: _Rozs: Gumawa ako ng dalawang skulura, isa para sa iyo kaibigan at para kay Padre._ 
+<C>: 
+</>
+
+<143>
+<A>: _Rizal: I've finished it Father, here it is._
+<B>: _Rizal: Natapos ko na po Padre, heto na po at inyong tanggapin..._ 
+<C>: 
+</>
+
+<144>
+<A>: _Rozs: I finally have the sculpture, but still where can I find the next artifact..._
+<B>: _Rozs: Nasa akin na ngayon ang skultura, ngunit saan ko naman kukunin ang susunod na artifact..._ 
+<C>: 
+</>
+
+<145>
+<A>: _Rozs: The pond seems so strange, very weird..._
+<B>: _Rozs: Ang tubig ay tila kakaiba, kakaiba ang mga nangyayari sa paligid ko..._ 
+<C>: 
+</>
+
+<146>
+<A>: _Rizal: I will just prepare my pen and paper..._
+<B>: _Rizal: Ihahanda ko lang ang aking lapis at papel..._ 
+<C>: 
+</>
+
+<147>
+<A>: _Rozs: What's this..._
+<B>: _Rozs: Ano to'..._ 
+<C>: 
+</>
+
+<148>
+<A>: _Rozs: The water... there's a light...._
+<B>: _Rozs: Ang tubig... may kakaibang liwanag rito..._ 
+<C>: 
+</>
+
+<149>
+<A>: _Rozs: Hwaaaaaaaaaaah.........._
+<B>: _Rozs: Hwaaaaaaaaaaah.........._ 
+<C>: 
+</>
+
+<150>
+<A>: _Rozs: What place is this?_
+<B>: _Rozs: Anong lugar ito?_ 
+<C>: 
+</>
+
+<151>
+<A>: _Rozs: I bet I'm on the different place... I was transported again..._
+<B>: _Rozs: Sa tingin ko nasa ibang lugar na naman ako..._ 
+<C>: 
+</>
+
+<152>
+<A>: _Rozs: But where..._
+<B>: _Rozs: Ngunit saan... _ 
+<C>: 
+</>
+
+<153>
+<A>: _Pablo: Hey Rozs! Come inside its cold out there._
+<B>: _Pablo: Hoy Rozs! Pumasok ka na sa loob at mahamog na diyan._ 
+<C>: 
+</>
+
+<154>
+<A>: _Rozs: Pablo?!_
+<B>: _Rozs: Pablo?!_ 
+<C>: 
+</>
+
+<155>
+<A>: _Pablo: Don't you remember, it's Mariano's sister party. Come inside quick..._
+<B>: _Pablo: Hindi mo ba naalala, may pagtitipon ngayon kina Mariano. Pumasok ka na rito, bilis..._ 
+<C>: 
+</>
+
+<156>
+<A>: _Rizal: She was rather short, with eyes that were eloquent and ardent at times and languid at others,_
+<B>: _Rizal: Bagaman siya'y maliit, may mga matang nangungusap at masigla sa oras at nakakapagpahina sa iba, _ 
+<C>: 
+</>
+
+<157>
+<A>: _Rizal: rosy cheeked, witn an enhancing and provocative smile that revealed her very beautiful teeth,_
+<B>: _Rizal: mamula mulang pisngi, nakapangaakit at nakakapagpasiglang mga ngiti na nagpapakita ng ganyang napakagagandang mga ngipin, _ 
+<C>: 
+</>
+
+<158>
+<A>: _Rizal: and the air of sylph; her entire self diffused a mysterious charm._
+<B>: _Rizal: at ang hangin ng kahinhinan ng isang babae; ang kanyang buong pagkatao ay naghahalong mesteryong gayuma. _ 
+<C>: 
+</>
+
+<159>
+<A>: _Mariano: Jose is a true painter. His work is very impressive._
+<B>: _Mariano: Si Jose ay isang totoong pintor. Ang kanyang gawa ay kahanga hanga. _ 
+<C>: 
+</>
+
+<160>
+<A>: _Rizal: Do you like it, Segunda?_
+<B>: _Rizal: Nagustuhan mo ba, Segunda?_ 
+<C>: 
+</>
+
+<161>
+<A>: _Segunda: Yes. I really like it. I love it... Thank you._
+<B>: _Segunda: Oo. Nagustuhan ko talaga at naibigan...Maraming salamat._ 
+<C>: 
+</>
+
+<162>
+<A>: _Rizal: Segunda..., I want you to know that I made it with all my love._
+<B>: _Rizal: Segunda..., Gusto kong malaman mo na ginawa ko yan ng buong puso._ 
+<C>: 
+</>
+
+<163>
+<A>: _Rizal: Truly, my heart feels different when I first saw you..._
+<B>: _Rizal: Talaga, noong una pa lamang kitang makita ay iba na ang aking naramdaman..._ 
+<C>: 
+</>
+
+<164>
+<A>: _Segunda: I am very overwhelmed on what you have said, Jose._
+<B>: _Segunda: Talagang nagagalak ako sa sinabi mo, Jose._ 
+<C>: 
+</>
+
+<165>
+<A>: _Segunda: But it is sad to say that I am already engaged to my townmate. I am very sorry. _
+<B>: _Segunda: Pero ikinalulungkot kong sabihin na ako ay nakatakda nang ikasal. Ipagpatawad mo._ 
+<C>: 
+</>
+
+<166>
+<A>: _Rozs: Now I can go... I now have the sculpture and the portrait..._
+<B>: _Rozs: Ngayon maaari na akong umalis... Nasa akin na ang skultura ang larawan..._ 
+<C>: 
+</>
+
+<167>
+<A>: _Rozs: Where am I? I better find Rizal as soon as possible..._
+<B>: _Rozs: Nasaan ako?_ 
+<C>: 
+</>
+
+<168>
+<A>: _Rozs: I should deliver the letter to Maria first..._
+<B>: _Rozs: Kailangan ko munang ibigay kay Maria ang sulat..._ 
+<C>: 
+</>
+
+<169>
+<A>: _Rozs: I think I should check that thing on the table..._
+<B>: _Rozs: Sa tingin ko kailangan kong tingnan ang bagay na iyon sa lamesa..._ 
+<C>: 
+</>
+
+<170>
+<A>: _Rizal's Pocket Knife._
+<B>: _Ang lanseta ni Rizal._ 
+<C>: 
+</>
+
+<171>
+<A>: _Painting of Segunda Katigbak_
+<B>: _Ang larawan ni Segunda Katigbak_ 
+<C>: 
+</>
+
+<172>
+<A>: _Student: I think he's on his class on Metaphysics. Just search the lobby and the classroom. _
+<B>: _Student: Sa aking palagay siya ay nasa kanyang klase sa metaphysics. Subukan mong hanapin sa bukana at sa silid aralan. _ 
+<C>: 
+</>

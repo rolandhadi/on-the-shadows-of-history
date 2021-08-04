@@ -1,0 +1,7 @@
+<Message>: _&MuseumScene<66>_, 2
+
+<NEXTEVENT>
+<Message>: _&MuseumScene<67>_, 2
+</>
+
+

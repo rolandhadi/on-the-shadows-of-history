@@ -1,0 +1,106 @@
+<StopBG>
+<PlayBG>: ClassRoom, Loop
+<SETCHARPOS>: Rozs, 8,0.2,4, w
+<CharAnimate>: Rozs, Sit,Once, 50,2
+<SETCAMPOS>: 1,2,10, Rozs
+
+<NEXTEVENT>
+<MESSAGE>: _STI Southwoods Room 301_, 2,none
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 6,3,1, Laza
+</>
+
+<NEXTEVENT>
+<PlaySound>: Laza1
+<MESSAGE>: _&STIScene<13>_, 5,none
+<RotateCam>: Laza, Left, 500,5
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&STIScene<14>_, 2,none
+</>
+
+<NEXTEVENT>
+<CHARFACE>: Girl1, Laza
+<SETCAMPOS>: 6,3,6, Girl1
+<PlaySound>: Ruth3
+<MESSAGE>: _&STIScene<131>_, 5,none
+<RotateCam>: Girl1, Left, 500,5
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&STIScene<141>_, 5,none
+<CharAnimate>: Girl1, Talk1, Once, 50, 2
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&STIScene<15>_, 5,none
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&STIScene<16>_, 5,none
+<CharAnimate>: Girl1, Talk1, Reverse, 50, 2
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&STIScene<17>_, 9,none
+<RotateCam>: Girl1, Left, 500,5
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&STIScene<18>_, 5,none
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 7,2,5, Laza
+<PlaySound>: Laza2
+<MESSAGE>: _&STIScene<19>_, 9,none
+<CharAnimate>: Laza, Talk2, Once, 50, 2
+<RotateCam>: Laza, Right, 500,5
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&STIScene<20>_, 10,none
+<CharAnimate>: Laza, Talk2, Reverse, 50, 2
+<RotateCam>: Laza, Right, 500,5
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&STIScene<21>_, 10,none
+<CharAnimate>: Laza, Talk1, Once, 50, 2
+<RotateCam>: Laza, Right, 500,5
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&STIScene<22>_, 10,none
+<RotateCam>: Laza, Right, 500,5
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&STIScene<23>_, 4,none
+</>
+
+<NEXTEVENT>
+<CharFace>: Laza, Glaiz, Back
+<PlaySound>: Door-1
+<PlaySound>: Irene1
+<MESSAGE>: _&STIScene<24>_, 9,none
+</>
+
+<NEXTEVENT>
+<CharFace>: Laza, Rozs
+<PlaySound>: Door-2
+<PlaySound>: Laza3
+<MESSAGE>: _&STIScene<25>_, 3,none
+<CharAnimate>: Laza, Talk1, Once, 50, 2
+</>
+
+<NEXTEVENT>
+<StopBG>
+<PlayBG>: sti, Loop
+<Switch>: LazaTalked, On
+<Task>: TaskSTIF
+<LoadMap>: Sti-301-2
+</>

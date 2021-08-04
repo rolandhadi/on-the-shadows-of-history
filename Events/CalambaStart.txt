@@ -1,0 +1,40 @@
+<Case>: Ini-SE
+<Message>: __,1
+
+<Case Else>
+
+<NextEvent>
+<SETCAMPOS>: 33,6,48, None, 1,1,1
+<Message>: __,3, None
+</>
+
+<NextEvent>
+<SETCAMPOS>: 10,4,1, None, 40,1,40
+<Message>: __,3, None
+</>
+
+<NextEvent>
+<SETCAMPOS>: 7,1,5, None, 29,1,30
+<Message>: __,3, None
+</>
+
+<NextEvent>
+<SETCAMPOS>: 5,1,7, None, 20,1,20
+<Message>: __,3, None
+</>
+
+<NextEvent>
+<ShowIntro>: IntroCalamba
+</>
+
+<NextEvent>
+<SETCHARPOS>: Rozs, 22,0,35, n
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<1>_,4
+<PlaySound>: Rozs17
+<Switch>: Ini-SE, On
+</>
+"
+<End Select>

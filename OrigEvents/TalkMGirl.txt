@@ -1,0 +1,14 @@
+<CASE>: Bshelf
+<CharFace>: Girl2, Rozs
+<CharFace>: Rozs, Girl2
+<Message>: _&MuseumScene<64>_, 1
+<CASE ELSE>
+<CharFace>: Girl2, Rozs
+<CharFace>: Rozs, Girl2
+<Message>: _&MuseumScene<64>_, 1
+<SWITCH>: BShelf, On
+<Task>: TaskMelisa
+<NextEvent>
+<Reload>
+</>
+<END SELECT>

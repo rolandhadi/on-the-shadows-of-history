@@ -1,0 +1,12 @@
+<Message>: _OLYMPIA RIZAL (1855-1887)_, 2
+
+<NEXTEVENT>
+<Message>: _&Olimpia<1>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Olimpia<2>_, 3
+</>
+
+
+ 

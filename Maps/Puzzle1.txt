@@ -1,0 +1,59 @@
+<DRAWBACK>: 650
+<FOG>: 0,600, 100, 0
+
+<OBJECT>: FencePost
+<OBJECT>: BigFence
+<OBJECT>: Box1X1
+
+<DUMMY>: D1,0,0,0
+
+<SOUND>: BoxMove
+
+<CHARACTER>: Rozs, 4,0,7, w
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 8
+<ANIMATION>: Run,  8
+<ANIMATION>: Push, 8
+
+<CHARACTER>: Man1, 10,0,10, w
+<ANIMATION>: Wait, 1
+<CHARACTER/>
+
+<SURFACE>:   Z5PLANE1,  213,  -10,0,-10, 56,0,71, s
+<SURFACE>:   PlaneBox,  Calamba3, -10,0,-10,  56,8,71,s
+
+//Codes of Puzzle Map BEGINS:
+
+//Fence Around
+<SURFACE>: Z1BigFence, 284, 1,0,1, 1,1,30, N
+<SURFACE>: Z1BigFence, 284, 30,0,1, 1,1,30, N
+
+<SURFACE>: Z1BigFence, 284, 1,0,1, 1,1,4, W
+<SURFACE>: Z1BigFence, 284, 7,0,1, 1,1,24, W
+
+<SURFACE>: Z1BigFence, 284, 1,0,30, 1,1,25, W
+<SURFACE>: Z1BigFence, 284, 28,0,30, 1,1,3, W
+
+//POSTING
+<LAYER1>: FencePost ,1,0,1, n, 169
+<LAYER1>: FencePost ,1,0,30, n, 169
+<LAYER1>: FencePost ,30,0,1, n, 169
+<LAYER1>: FencePost ,30,0,30, n, 169
+
+<LAYER1>: FencePost ,4.5,0,1, n, 169
+<LAYER1>: FencePost ,6.5,0,1, n, 169
+
+<LAYER1>: FencePost ,25.5,0,30, n, 169
+<LAYER1>: FencePost ,27.5,0,30, n, 169
+
+//End of Fence
+
+<LAYER1>: Box1X1 ,20,0,20, n, 283
+<LAYER1>: Box1X1 ,21,0,21, n, 283
+<LAYER1>: Box1X1 ,22,0,22, n, 283
+<LAYER1>: Box1X1 ,23,0,21, n, 283
+<LAYER1>: Box1X1 ,19,0,20, n, 283
+<LAYER1>: Box1X1 ,24,0,24, n, 283
+
+<LIGHT>: AMBIENT, 0,0,0, .8,.8,.8, DUMMYD1
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Rozs

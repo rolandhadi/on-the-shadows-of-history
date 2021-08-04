@@ -1,0 +1,3 @@
+<PlaySound>: Door-1
+<PlaySound>: Door1-2
+<Message>: _The door is closed._, 2

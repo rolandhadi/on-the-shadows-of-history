@@ -1,0 +1,13 @@
+<CHARFACE>: AMan5, Rozs
+<CHARFACE>: Rozs, AMan5
+
+<NextEvent>
+<SETCAMPOS>: 6,5,8, Aman5
+<Message>: _&AteneoScene<109>_, 3
+//<PlaySound>:
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<110>_, 3
+</>
+

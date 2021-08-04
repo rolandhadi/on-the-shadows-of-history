@@ -1,0 +1,20 @@
+<CASE>: TaposPriest
+
+<CharFace>: Aman1, Rozs
+<CharFace>: Rozs, Aman1
+
+<Message>: _&AteneoScene<95>_, 3
+//<PlaySound>: Rozs
+
+<NextEvent>
+<Message>: _&AteneoScene<97>_, 3
+</>
+
+<CASE ELSE>
+
+<CharFace>: Aman1, Rozs
+<CharFace>: Rozs, Aman1
+
+<Message>: _&AteneoScene<102>_, 5
+
+<END SELECT>

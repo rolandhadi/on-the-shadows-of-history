@@ -1,0 +1,11 @@
+<Message>: _TRINIDAD RIZAL (1868-1951)_, 2
+
+<NEXTEVENT>
+<Message>: _&Trinidad<1>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Trinidad<2>_, 3
+</>
+
+

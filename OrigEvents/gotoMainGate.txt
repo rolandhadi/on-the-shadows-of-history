@@ -1,0 +1,3 @@
+//<PlaySound>: Door-1
+<Message>: _Entering Fort Santiago main Gate_, 1, NONE
+<LoadMap>: fs-maingate

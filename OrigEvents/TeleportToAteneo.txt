@@ -1,0 +1,46 @@
+<Case>: Poem-1
+
+<SetCharPos>: Rozs, 8,0,10, s
+<SetCamPos>: 6,4,9, Rozs
+
+<Message>: _&TownCalambaScene<108>_, 1
+<PlaySound>: CRozs33
+
+<NextEvent>
+<Message>: _&TownCalambaScene<109>_, 1
+<PlaySound>: CRozs34
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<110>_, 1
+<PlaySound>: CRozs35
+</>
+
+<NextEvent>
+<PlaySound>: Teleport
+<RotateCam>: Rozs, Left, 30000,4
+</>
+
+<NextEvent>
+<PlaySound>: Teleport
+<RotateCam>: Rozs, Left, 90000,3
+</>
+
+<NextEvent>
+<PlaySound>: Waah
+<SETCHARPOS>: Rozs, 20,0,20, e
+</>
+
+<NextEvent>
+<Message>: __, 2,None
+<Task>: TaskCalamba
+<STOPBG>
+<LoadMap>: StartAteneo
+</>
+
+
+<Case Else>
+
+<Message>: __, 1,None
+
+<End Select>

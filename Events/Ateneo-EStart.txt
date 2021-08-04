@@ -1,0 +1,91 @@
+<Case>: AEStart
+
+<MESSAGE>: __, 1,none
+
+<Case>: TaposPriest
+
+//Note: Events on Viewing the School
+
+<SETCHARPOS>: RizalA, 12,0,21, w
+<SETCHARPOS>: Priest, 12,0,22, e
+
+<SETCAMPOS>: 8,2,8, DummyD2
+<MESSAGE>: __, 3,none
+
+<NeXTEVENT>
+<SETCAMPOS>: 33,7,41, DummyD4
+<MESSAGE>: __, 3,none
+</>
+
+<NeXTEVENT>
+<SETCAMPOS>: 35,7,5, DummyD5
+<MESSAGE>: __, 3,none
+</>
+
+<NeXTEVENT>
+<Switch>: AEStart, On
+<SETCAMPOS>: 11,7,21, DummyD3
+<MESSAGE>: __, 3,none
+</>
+
+//Note: Conversation between Rizal and Fr. Leonart
+
+<NextEvent>
+<SetCampos>: 15,7,28, Priest
+<RotateCam>: Priest, Right, 500, 5
+<Message>: _&AteneoScene<37>_, 5, None
+<PLaySound>: FLleonart1
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<38>_, 5,None
+<PLaySound>: Rizal-EAteneo1
+<RotateCam>: RizalA, Left, 500, 5
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<39>_, 4, None
+<PLaySound>: FLleonart2
+<RotateCam>: RizalA, Right, 500, 4
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<40>_, 5,None
+<PLaySound>: FLleonart9
+<RotateCam>: RizalA, Right, 500, 5
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<41>_, 3,None
+<PLaySound>: Rizal-EAteneo2
+<RotateCam>: RizalA, Right, 500, 3
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<42>_, 7,None
+<PLaySound>: FLleonart3
+<RotateCam>: Priest, Right, 500, 7
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<99>_, 5,None
+<RotateCam>: Priest, Right, 500, 5
+<PlaySound>:  Rizal-Eateneo15
+</>
+
+<NextEvent>
+<SETCHARPOS>: RizalA, 1,10,1,s
+<SETCHARPOS>: Priest, 1,10,1,s
+<SETCAMPOS>: 8,2,8, DummyD2
+<MESSAGE>: __, 3,none
+</>
+
+<NextEvent>
+<RELOAD>
+</>
+
+<Case Else>
+
+<MESSAGE>: __, 0,none
+
+<End Select>

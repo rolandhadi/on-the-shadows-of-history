@@ -1,0 +1,96 @@
+<Case>: Switch-DXComplete
+
+<Task>: TaskSTI
+<CHARFACE>: AMan1, Rozs
+<CHARFACE>: Rozs, AMan1
+<MESSAGE>: _&STIScene<45>_,4, None
+<PlaySound>: STILibrary4
+<Task>: TaskSTI
+
+<Case>: Switch-DX
+
+<CHARFACE>: AMan1, Rozs
+<CHARFACE>: Rozs, AMan1
+
+<MESSAGE>: _&STIScene<44>_,4, None
+<CharAnimate>: Rozs, Give, Once, 50,4
+<PlaySound>: STI-Rozs8
+
+<NextEvent>
+<CharAnimate>: AMan1, Give, Once, 50,4
+<MESSAGE>: _&STIScene<45>_,4, None
+<PlaySound>: STILibrary4
+</>
+
+<NextEvent>
+<MESSAGE>: _&STIScene<46>_,4, None
+<PlaySound>: STILibrary5
+</>
+
+<NextEvent>
+<StopBG>
+<PlayBG>: Victory
+<MESSAGE>: _&STIScene<47>_,2, None
+<Item>: Item-STIPic, On
+<Item>: Item-DX, Off
+<Switch>: Switch-DXComplete, On
+<Task>: TaskSTI
+</>
+
+<NextEvent>
+<MESSAGE>: _&STIScene<48>_,3, None
+<PlayBG>: STI
+<ShowPreview>: STIPic
+</>
+
+<NextEvent>
+<CharAnimate>: Rozs, Give, Reverse, 50,3
+</>
+
+<NextEvent>
+<CharAnimate>: AMan1, Give, Reverse, 50,3
+</>
+
+<Case>: HelpNoel
+
+<MESSAGE>: _&STIScene<37>_,5
+
+<Case Else>
+<CHARFACE>: AMan1, Rozs
+<CHARFACE>: Rozs, AMan1
+<PlaySound>: STILibrary1
+<CHOICE>: _&STIScene<34>_
+<YES>
+
+<NextEvent>
+<MESSAGE>: _&STIScene<35>_,4, None
+<PlaySound>: STI-Rozs3
+</>
+
+<NextEvent>
+<StopBG>
+<PlayBG>: Info
+<MESSAGE>: _&STIScene<37>_,4, None
+<PlaySound>: STILibrary2
+<Switch>: HelpNoel, On
+<Task>: TaskNoel
+<PlayBG>: STI
+</>
+
+<NextEvent>
+<Reload>
+</>
+
+<NO>
+
+<MESSAGE>: _&STIScene<36>_,4, None
+<PlaySound>: STI-Rozs4
+
+<NextEvent>
+<MESSAGE>: _&STIScene<38>_,4, None
+<PlaySound>: STILibrary3
+</>
+
+<CHOICE END>
+
+<End Select>

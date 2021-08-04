@@ -1,0 +1,15 @@
+<CHARFACE>: CMan1, Rozs
+<CHARFACE>: Rozs, CMan1
+<MESSAGE>: _&CalambaScene<4>_, 5,NONE
+<CharAnimate>: CMan1, Talk, Once, 50,2
+
+
+<NEXTEVENT>
+<MESSAGE>: _&CalambaScene<5>_, 5
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&CalambaScene<6>_, 5, NONE
+<CharAnimate>: CMan1, Talk, Reverse, 50,2
+</>
+

@@ -1,0 +1,38 @@
+<CASE>: Switch-TalkMarj
+<Switch>: In305, On
+<PlaySound>: Door-1
+<Message>: _&STIScene<69>_, 1, NONE
+<LoadMap>: Stud-Gallery
+
+
+<Case Else>
+
+<CHARFACE>: Harlene, Rozs
+<CHARFACE>: Rozs, Harlene
+<SetCamPos>: 5,1,7, None, 3,1,5
+
+<MESSAGE>: _&STIScene<65>_,5, None
+<PlaySound>: Marj1
+
+<NextEvent>
+<MESSAGE>: _&STIScene<66>_,7, None
+<PlaySound>: Marj2
+</>
+
+<NextEvent>
+<MESSAGE>: _&STIScene<67>_,5, None
+<PlaySound>: Marj3
+</>
+
+<NextEvent>
+<MESSAGE>: _&STIScene<68>_,5, None
+<PlaySound>: Marj4
+<SWITCH>: Switch-TalkMarj, On
+<Switch>: In305, On
+</>
+
+<NextEvent>
+<LoadMap>: Stud-Gallery
+</>
+
+<End Select>

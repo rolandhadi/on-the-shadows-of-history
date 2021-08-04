@@ -1,0 +1,19 @@
+<Case>: Pepe1
+<Message>: _&Entering<19>_, 1, NONE
+<PlaySound>: Door-1
+<StopBG>:
+<PlayBG>: Calamba2, Loop
+<LoadMap>: Calamba-SW2
+<Case>: CRLady1
+<Message>: _&Entering<19>_, 1, NONE
+<PlaySound>: Door-1
+<StopBG>:
+<PlayBG>: Calamba2, Loop
+<LoadMap>: Calamba-SW
+<Case Else>
+<Message>: _&Entering<19>_, 1, NONE
+<PlaySound>: Door-1
+<StopBG>:
+<PlayBG>: Calamba2, Loop
+<LoadMap>: Calamba-SW2
+<End Select>

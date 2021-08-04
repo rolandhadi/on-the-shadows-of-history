@@ -1,0 +1,33 @@
+<Message>: _Nelly Bousted_, 2
+
+<NEXTEVENT>
+<Message>: _&Nelly<1>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Nelly<2>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Nelly<3>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Nelly<4>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Nelly<5>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Nelly<6>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Nelly<7>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Nelly<8>_, 3
+</>

@@ -1,0 +1,47 @@
+<1>
+<A>: _Having lost Leonor Rivera, Rizal entertained the thought of courting other ladies._
+<B>: _Nang nabigo kay Leonor Rivera, Si Rizal ay nag isip na manligaw sa ibang babae._
+<C>: 
+</>
+
+<2>
+<A>: _While a guest of the Boustead family at their residence in the resort city of Biarritz, he had befriended the two pretty daughters of his host, Eduardo Boustead._
+<B>: _Nang naging bisita ng pamilyang Boustead, kinaibigan nya ang dalawang anak ng kanilang tagapag salita na si Eduardo Boustead._
+<C>: 
+</>
+
+<3>
+<A>: _Rizal used to fence with the sisters at the studio of Juan Luna. Antonio Luna, Juan's brother and also a frequent visitor of the Boustead's, courted Nellie but she was deeply infatuated with Rizal._
+<B>: _Si Rizal ay gumamit ng eskrima kasama ang kanyang mga kapatid sa pintahan ni Juan Luna. Antonio Luna, kapatid ni Juan at isa sa madalas na bisita ng pamilyang Boustead, niligawan si Nellie ngunit nabighani kay Rizal._
+<C>: 
+</>
+
+<4>
+<A>: _In a party held by Filipinos in Madrid, a drunken Antonio Luna uttered unsavory remarks against Nellie Boustead. This prompted Rizal to challenge Luna into a duel._
+<B>: _Sa isang pagdiriwang na ginanap ng mga Filipino sa Madrid, ang lasing na si Antonio ay nagsalita ng di kanais-nais laban kay Nellie Boustead. Ito ang nagdulot ng isang paghamon ni Rizal kay Luna sa isang pagtutuos. _
+<C>: 
+</>
+
+<5>
+<A>: _Fortunately, Luna apologized to Rizal, thus averting tragedy for the compatriots._
+<B>: _Sa kabutihang palad, humingi ng paumanhin si Luna kay Rizal, dahil dito naiwasan ang di magandang mangyayari para sa mga kasamahan._
+<C>: 
+</>
+
+<6>
+<A>: _Their love affair unfortunately did not end in marriage._
+<B>: _Sa kasamaang palad ang kanilang pagiibigan ay hindi nauwi sa pagiisang dibdib._
+<C>: 
+</>
+
+<7>
+<A>: _It failed because Rizal refused to be converted to the Protestant faith, as Nellie demanded and Nellie's mother did not like a physician without enough paying clientele to be a son-in-law._
+<B>: _Nangyari ito dahil tinanggihan ni Rizal ang pagpapalit ng kanyang pananampalataya sa prostestante, sa kahilingan ni Nellie at ng kanyang ina ayaw nila sa isang manggagamot na walang sapat na kabayaran mula sa mga pasyente na magiging kanyang manugang. _
+<C>: 
+</>
+
+<8>
+<A>: _The lovers, however, parted as good friends when Rizal left Europe._
+<B>: _Ang nagiibigan, samakatuwid ay naghiwalay na mabuting magkaibigan nang umalis si Rizal patungo sa Europa_
+<C>: 
+</>

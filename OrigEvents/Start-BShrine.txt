@@ -1,0 +1,19 @@
+<CHARFACE>: Josephine, RozsF
+<CHARFACE>: RozsF, Josephine
+
+<NextEvent>
+<SETCAMPOS>: 15,4,27, Josephine
+<MESSAGE>: _&FSScene<74>_, 5, None
+<PLaysound>: FSRozs8
+</>
+
+<NextEvent>
+<RotateCam>: Josephine, Left, 500, 5
+<MESSAGE>: _&FSScene<75>_, 5, None
+<PLaysound>: FSBracken8
+</>
+
+<NextEvent>
+<LoadMap>: RPrison-RJ
+//yung map ay mag-uusap na c Josephine at Rizal
+</>

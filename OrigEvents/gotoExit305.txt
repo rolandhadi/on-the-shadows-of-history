@@ -1,0 +1,4 @@
+<PlaySound>: Door-1
+<Message>: _&STIScene<70>_, 1, NONE
+<Switch>: TaposBread, On
+<LoadMap>: sti-hallway

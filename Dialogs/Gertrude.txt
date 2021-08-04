@@ -1,0 +1,30 @@
+<1>
+<A>: _While Rizal was in London annotating the Sucesos de las Islas Filipinas, he boarded in the house of the Beckett family, within walking distance of the British Museum._
+<B>: _Habang si Rizal ay nasa London ginagawa ang Sucesos de las Islas Filipinas, nkitira sya sa bahay ng pamilyang Beckett, na malapit lamang sa British Museum._
+<C>: 
+</>
+
+<2>
+<A>: _Gertrude, a blue-eyed and buxom girl was the oldest of the three Beckett daughters._
+<B>: _Gertrude, ang panganay sa tatlong magkakapatid na may asul na mata._
+<C>: 
+</>
+
+<3>
+<A>: _She fell in love with Rizal. Tottie helped him in his painting and sculpture._
+<B>: _Nahulog ang kanyang loob kay Rizal. Tinulungan sya ni Tottie sa kanyang larawan at skultura._
+<C>: 
+</>
+
+<4>
+<A>: _But Rizal suddenly left London for Paris to avoid Gertrude, who was seriously in love with him._
+<B>: _Pero si Rizal ay umalis sa London patungong Paris para iwasan si Gertrude, na talagang nahulog ang loob sa kanya._
+<C>: 
+</>
+
+<5>
+<A>: _Before leaving London, he was able to finish the group carving of the Beckett sisters. He gave the group carving to Gertrude as a sign of their brief relationship._
+<B>: _Bago sya umalis ng London, natapos nya ang inukit ng magkakapatid na Beckett.Ibinigay nya ito kay Gertrude tanda ng kanilang relasyon._
+<C>: 
+</>
+

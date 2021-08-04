@@ -1,0 +1,7 @@
+<CHARFACE>: AMan1, Rozs
+<CHARFACE>: Rozs, AMan1
+<MESSAGE>: _&AteneoScene<2>_, 5
+<NEXTEVENT>:
+<MESSAGE>: _&AteneoScene<3>_, 5
+</>
+

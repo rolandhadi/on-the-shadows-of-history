@@ -1,0 +1,82 @@
+<Case>: Switch-BreadBookMarker
+
+<CHARFACE>: AMan1, Rozs
+<CHARFACE>: Rozs, AMan1
+<SetCamPos>: 10,1,4, None, 7,1,3
+<MESSAGE>: _&STIScene<86>_,5
+
+<Case>: TaposBread
+<CHARFACE>: AMan1, Rozs
+<CHARFACE>: Rozs, AMan1
+<SetCamPos>: 10,1,4, None, 7,1,3
+<StopBG>
+<PlayBG>: Victory
+<Item>: Item-BreadBookMarker, On
+<MESSAGE>: _&STIScene<84>_,5
+
+<NextEvent>
+<MESSAGE>: _&STIScene<85>_,5
+</>
+
+<NextEvent>
+<MESSAGE>: _&STIScene<86>_,5
+<PlayBG>: STI
+</>
+
+<NextEvent>
+<Reload>
+</>
+
+<Case>: Switch-TalkBread
+
+<CHARFACE>: AMan1, Rozs
+<CHARFACE>: Rozs, AMan1
+<SetCamPos>: 10,1,4, None, 7,1,3
+
+<MESSAGE>: _&STIScene<59>_,7, None
+<PlaySound>: Egbert1
+
+<NextEvent>
+<MESSAGE>: _&STIScene<60>_,7, None
+<PlaySound>: Egbert2
+</>
+
+<NextEvent>
+<MESSAGE>: _&STIScene<61>_,7, None
+<PlaySound>: Egbert3
+</>
+
+<NextEvent>
+<MESSAGE>: _&STIScene<62>_,7, None
+<PlaySound>: Egbert4
+<SWITCH>: Switch-TalkBread, On
+</>
+
+<Case Else>
+
+<CHARFACE>: AMan1, Rozs
+<CHARFACE>: Rozs, AMan1
+<SetCamPos>: 10,1,4, None, 7,1,3
+
+<MESSAGE>: _&STIScene<59>_,7, None
+<PlaySound>: Egbert1
+
+<NextEvent>
+<MESSAGE>: _&STIScene<60>_,7, None
+<PlaySound>: Egbert2
+</>
+
+<NextEvent>
+<MESSAGE>: _&STIScene<61>_,7, None
+<PlaySound>: Egbert3
+</>
+
+<NextEvent>
+<MESSAGE>: _&STIScene<62>_,7, None
+<PlaySound>: Egbert4
+<SWITCH>: Switch-TalkBread, On
+</>
+<NextEvent>
+<Reload>
+</>
+<End Select>

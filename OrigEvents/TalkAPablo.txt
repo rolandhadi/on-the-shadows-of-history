@@ -1,0 +1,100 @@
+<Case>: Switch-AUniform
+
+<CHARFACE>: Aman6, Rozs
+<CHARFACE>: Rozs, Aman6
+
+<nextEvent>
+<CharAnimate>: Aman6, Talk, Once, 50, 5
+<MESSAGE>: _&AteneoScene<75>_, 5, None
+<Playsound>: Pablo10
+</>
+
+<nextEvent>
+<CharAnimate>: Aman6, Talk, Reverse, 50, 3
+</>
+
+<Case>: GetUniform
+
+<CHARFACE>: Aman6, Rozs
+<CHARFACE>: Rozs, Aman6
+
+<nextevent>
+<RotateCam>: Aman6, Left, 500, 3
+<CharAnimate>: Aman6, Give, Once, 50, 5
+<MESSAGE>: _&AteneoScene<70>_, 3, None
+<Playsound>: Pablo6
+<StopBG>
+<PlayBG>: Victory
+</>
+
+<NeXTEVENT>
+<PlayBG>: Ateneo
+<MESSAGE>: _&AteneoScene<71>_, 3, None
+<Playsound>: Pablo7
+</>
+
+<NeXTEVENT>
+<CharAnimate>: Rozs, Give, Once, 50, 3
+<MESSAGE>: _&AteneoScene<72>_, 3, None
+<PLaysound>: Ateneo-Rozs2
+</>
+
+<NeXTEVENT>
+<CharAnimate>: Aman6, Give, Reverse, 50, 3
+<MESSAGE>: _&AteneoScene<73>_, 3, None
+<Playsound>: Pablo8
+</>
+
+<NeXTEVENT>
+<CharAnimate>: Rozs, Give, Reverse, 50, 2
+<MESSAGE>: _&AteneoScene<74>_, 3, None
+<Playsound>: Pablo9
+<Item>: Item-Pablo, On
+<Item>: Item-AUniform, On
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&AteneoScene<77>_, 5, None
+<playsound>: Pablo11
+</>
+
+<NEXTEVENT>
+<CharAnimate>: Aman6, Give, Once, 50, 3
+<MESSAGE>: _&AteneoScene<78>_, 5, None
+<playsound>: Pablo12
+<PlayBG>: Info
+<Task>: TaskMaria
+</>
+
+<NEXTEVENT>
+<CharAnimate>: Rozs, Give, Once, 50, 2
+<MESSAGE>: _&AteneoScene<79>_, 5, None
+<playsound>: Ateneo-Rozs4
+</>
+
+<nextEvent>
+<CharAnimate>: Aman6, Give, Reverse, 50, 2
+<MESSAGE>: __, 2
+</>
+
+<nextEvent>
+<CharAnimate>: Rozs, Give, Reverse, 50, 2
+<MESSAGE>: __, 2
+</>
+
+<Case Else>
+
+<CHARFACE>: Aman6, Rozs
+<CHARFACE>: Rozs, Aman6
+
+<nextEvent>
+<CharAnimate>: Aman6, Talk, Once, 50, 5
+<MESSAGE>: _&AteneoScene<75>_, 5, None
+<playsound>: Pablo10
+</>
+
+<nextEvent>
+<CharAnimate>: Aman6, Talk, Reverse, 50, 3
+</>
+
+<End Select>

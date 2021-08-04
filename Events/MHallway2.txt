@@ -1,0 +1,20 @@
+<CASE>: UnknownRoom
+
+<SETCHARPOS>: Rozs, 10,0,4, w
+<SETCAMPOS>: 25,4,4, NONE, 10,1,4
+<Message>: _&MuseumScene<61>_, 1
+
+<CASE>: MViewed2
+<MESSAGE>: __, 0,none
+
+<CASE ELSE>
+
+<SETCAMPOS>: 25,4,4, NONE, 10,1,4
+
+<NEXTEVENT>:
+<MESSAGE>: __, 5,none
+<SWITCH>: MViewed2, On
+</>
+
+<END SELECT>
+

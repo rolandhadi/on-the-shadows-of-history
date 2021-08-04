@@ -1,0 +1,90 @@
+<DRAWBACK>: 450
+<LMOUSE>: 20
+<HMOUSE>: 60
+<FOG>: 400,450, 100, 100
+<MapName>: _Bedroom 4_
+<ENABLESAVE>
+
+<OBJECT>: Bed
+<OBJECT>: Plant
+<OBJECT>: Door2-1
+<OBJECT>: Door1-1
+<OBJECT>: BShelf
+<OBJECT>: Chair1
+<OBJECT>: Cabinet1x1
+<OBJECT>: Wall1x4
+<OBJECT>: Wall1x2
+<OBJECT>: TableLong
+<OBJECT>: Sofa
+
+<DUMMY>: D1,0,0,0
+<DUMMY>: D2,28,0,6
+<DUMMY>: DStat,5,0,5
+
+<CHARACTER>: Rozs, 9,0,3, n
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 8
+<ANIMATION>: Run,  8
+<ANIMATION>: Push, 8
+<ANIMATION>: Dock, 8
+<CHARACTER/>
+
+//ATENEO-Boarding House
+
+<SURFACE>:   PlaneBox, Wall-4, 1,0,1, 10,5,10, s
+<SURFACE>:   Z4PLANE1, wood23,  1,0,1, 10,0,10, s
+<SURFACE>:   Z1Ceiling, Wall-3,  1,5,1, 10,0,10, s
+
+<layer1>:Plant,10,0,1,n,plant1
+<layer1>:Plant,7,0,2,n,plant1
+<layer1>:Plant,7,0,5,n,plant1
+
+<layer1>:Sofa,5,0,8,w,wall1
+
+<layer1>:TableLong,9,0,8,n,wood13
+<layer1>:Chair1,9,0,7,w,none
+<layer1>:Chair1,8,0,8,s,none
+<layer1>:Chair1,8,0,9,s,none
+<layer1>:Chair1,10,0,8,n,none
+<layer1>:Chair1,10,0,9,n,none
+<layer1>:Chair1,9,0,10,e,none
+
+<layer1>:Cabinet1x1,9,0,1,w,Cabinet2
+<layer1>:Cabinet1x1,8,0,1,w,Cabinet2
+
+<layer1>:BShelf,3,0,8,w,BShelf3
+<layer1>:BShelf,2,0,8,w,BShelf3
+<layer1>:BShelf,1,0,9,S,BShelf3
+<layer1>:BShelf,1,0,10,S,BShelf3
+
+<layer1>:Bed,1,0,1,s,Bed1
+<layer1>:Bed,3,0,1,s,Bed1
+<layer1>:Bed,5,0,1,s,Bed1
+
+<layer1>:Bed,1,0,5,n,Bed1
+<layer1>:Bed,3,0,5,n,Bed1
+<layer1>:Bed,5,0,5,n,Bed1
+
+<layer1>:Wall1x2,6,0,1,n,Wall-3
+<layer1>:Wall1x2,6,0,5,n,Wall-3
+<layer1>:Wall1x4,1,0,7,w,Wall-3
+<layer1>:Wall1x2,5,0,7,w,Wall-3
+
+
+<layer1>:Door1-1,10,0,3,n,Door1-4
+<EVENT>:  GotoOBLobby, 10,3, 1,1, 1,1
+<SETCHARPOS>: 5,0,19, s, ContinueMap
+
+
+//End of ATENEO-Boarding House
+
+<LIGHT>: AMBIENT, 0,0,0, .8,.8,.8, DUMMYD1
+<LIGHT>: Directional, 0,0,0, .3,.3,.3, DUMMYD1
+
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Rozs
+<LIGHT>: SPOT, 4,5,5, 1,1,1, DUMMYDStat
+
+<BLOCKROW>: 0
+<BLOCKCOL>: 0
+<BLOCKROW>: 11
+<BLOCKCOL>: 11

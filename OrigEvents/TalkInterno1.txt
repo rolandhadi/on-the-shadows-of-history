@@ -1,0 +1,9 @@
+<CHARFACE>: AMan4, Rozs
+<CHARFACE>: Rozs, AMan4
+
+<NextEvent>
+<SETCAMPOS>: 2,7,1, Aman4
+<Message>: _&AteneoScene<108>_, 5
+//<PlaySound>:
+</>
+

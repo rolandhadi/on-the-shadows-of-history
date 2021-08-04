@@ -1,0 +1,141 @@
+<Case>: Pepe1
+
+<PlayBG>: Calamba2, loop
+
+<CharFace>: YoungRizal, Rozs
+<CharFace>: Rozs, YoungRizal
+
+<Message>: _&TownCalambaScene<40>_, 5,None
+<PlaySound>: Pepe8
+
+<NextEvent>
+<Message>: _&TownCalambaScene<41>_, 5,None
+</>
+
+<Case Else>
+<StopBG>
+<PlayBG>: Solace2, loop
+<CharFace>: YoungRizal, Rozs
+<CharFace>: Rozs, YoungRizal
+<Switch>: Pepe1, On
+<RotateCam>: Rozs, Left, 500,5
+
+<NextEvent>
+<Message>: _&TownCalambaScene<24>_, 5,None
+<PlaySound>: Rozs29
+<RotateCam>: Rozs, Left, 500,5
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<25>_, 5,None
+<PlaySound>: Pepe1
+<RotateCam>: Rozs, Left, 500,5
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<26>_, 5,None
+<PlaySound>: Rozs30
+<RotateCam>: Rozs, Left, 500,5
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<27>_, 5,None
+<PlaySound>: Pepe2
+<RotateCam>: Rozs, Left, 500,5
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<28>_, 5,None
+<PlaySound>: Rozs31
+<RotateCam>: Rozs, Left, 500,5
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<29>_, 5,None
+<PlaySound>: Pepe3
+<RotateCam>: Rozs, Left, 500,5
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<30>_, 5,None
+<PlaySound>: Rozs32
+<RotateCam>: Rozs, Left, 500,5
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<31>_, 7,None
+<PlaySound>: Pepe4
+<RotateCam>: Rozs, Left, 500,5
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<32>_, 5,None
+<RotateCam>: Rozs, Left, 500,5
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<33>_, 5,None
+<PlaySound>: Rozs33
+<RotateCam>: Rozs, Left, 500,5
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<34>_, 5,None
+<PlaySound>: Pepe5
+<RotateCam>: Rozs, Left, 500,5
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<35>_, 5,None
+<PlaySound>: PepeMam1
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<36>_, 5,None
+<PlaySound>: Pepe6
+<RotateCam>: Rozs, Left, 500,5
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<37>_, 5,None
+<PlaySound>: Pepe7
+<RotateCam>: Rozs, Left, 500,5
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<38>_, 5,None
+<RotateCam>: Rozs, Left, 500,5
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<39>_, 5,None
+<PlaySound>: Rozs34
+<RotateCam>: Rozs, Left, 500,5
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<40>_, 5,None
+<PlaySound>: Pepe8
+<RotateCam>: Rozs, Left, 500,5
+</>
+
+<NextEvent>
+<StopBG>:
+<Message>: _&TownCalambaScene<41>_, 5,None
+<RotateCam>: Rozs, Left, 500,5
+<PlayBG>: Riddle 
+</>
+
+<NextEvent>
+<StopBG>:
+<Message>: _&TownCalambaScene<42>_, 5,None
+<PlaySound>: Rozs35
+<Task>: TaskInk
+<PlayBG>: Calamba, Loop
+</>
+
+<NextEvent>
+<Reload>
+</>
+
+<End Select>

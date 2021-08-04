@@ -1,0 +1,3 @@
+<Caption>:_&STIScene<50>_
+<Preview>:STIPic
+<Switch>: Switch-DX, On

@@ -1,0 +1,3 @@
+<Caption>:_&STIScene<57>_
+<Details>:_&STIScene<58>_ 
+<Switch>: Switch-DX, On

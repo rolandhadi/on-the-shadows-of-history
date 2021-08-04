@@ -1,0 +1,6 @@
+<SIZE>
+2, 1, 2
+<BLOCKCOL>
+1
+<BLOCKCOL>
+2

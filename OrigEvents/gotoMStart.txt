@@ -1,0 +1,35 @@
+<CASE>: LazaTalked
+
+<CHOICE>: _&STIScene<52>_
+
+<YES>:
+
+<AutoSave>
+<MESSAGE>: _&STIScene<54>_,1,NONE
+
+<NextEvent>
+<StopBG>
+<Fog>: 0,0,0,0
+<Message>: __, 5, None
+</>
+
+<NextEvent>
+<PlayBG>: Intro
+<Message>: _&STIScene<87>_, 8, None
+</>
+
+<NextEvent>
+<LOADMAP>: MuseumLounge
+</>
+
+<NO>:
+
+<MESSAGE>: _&STIScene<55>_,1
+
+<CHOICE END>
+
+<CASE ELSE>
+
+<MESSAGE>: _&STIScene<53>_,1
+
+<END SELECT>

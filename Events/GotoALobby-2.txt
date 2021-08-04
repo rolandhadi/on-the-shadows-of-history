@@ -1,0 +1,3 @@
+<PlaySound>: Door-1
+<Message>: _&Entering<222>_, 1,NONE
+<LoadMap>: Ateneo-Lobby-2

@@ -1,0 +1,6 @@
+<Message>: _&CannotLeaveMuseum<1>_,3
+
+<NEXTEVENT>
+<Message>: _&CannotLeaveMuseum<2>_, 3
+</>
+

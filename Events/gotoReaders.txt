@@ -1,0 +1,7 @@
+<CASE>: UnknownRoom
+<Message>: _&MuseumScene<61>_, 1
+<CASE ELSE>
+<PlaySound>: Door-1
+<Message>: _Entering Reader's Area_, 1, NONE
+<LoadMap>: MuseumReaders
+<End Select>

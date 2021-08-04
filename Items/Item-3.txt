@@ -1,0 +1,4 @@
+<Caption>:_Necklace_
+<Details>:_From Glaiza _ 
+<Preview>:SaAkingMgaKababata
+<Switch>: Neck-1, On

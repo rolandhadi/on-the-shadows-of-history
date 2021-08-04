@@ -1,0 +1,27 @@
+<CharFace>: RLady1, Rozs
+<CharFace>: Rozs, RLady1
+
+<NextEvent>
+<CharAnimate>: Rozs, Wait, Once, 50,1
+</>
+
+<NextEvent>
+<SETCAMPOS>: 9,3,35, RLady1
+<Message>: _&TownCalambaScene<16>_, 6,None
+<PlaySound>: Recep14
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<17>_, 5,None
+</>
+
+<NextEvent>
+<SETCAMPOS>: 9,5,35, Rozs
+<Message>: _&TownCalambaScene<18>_, 5,None
+<PlaySound>: Rozs25
+<Switch>: CRlady1, On
+</>
+
+<NextEvent>
+<SetCharPos>: RLady1, -10,10,-10, n
+</>

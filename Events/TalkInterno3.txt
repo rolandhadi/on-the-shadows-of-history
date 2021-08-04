@@ -1,0 +1,16 @@
+<NextEvent>
+<SETCAMPOS>: 1,5,6, Aman2
+<Message>: _&AteneoScene<109>_, 3
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<111>_, 3
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<112>_, 3
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<113>_, 3
+</>

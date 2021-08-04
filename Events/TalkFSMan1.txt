@@ -1,0 +1,4 @@
+<CHARFACE>: CMan2, Rozs
+<CHARFACE>: Rozs, CMan2
+
+<MESSAGE>: _&FSScene<21>_, 3

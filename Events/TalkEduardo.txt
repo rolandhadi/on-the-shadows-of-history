@@ -1,0 +1,30 @@
+<CASE>: TaposCarlos
+
+<CharFace>: Aman3, Rozs
+<CharFace>: Rozs, Aman3
+
+<Message>: _&AteneoScene<104>_, 3
+
+<NextEvent>
+<Message>: _&AteneoScene<105>_, 3
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<106>_, 3
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<107>_, 3
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<46>_, 3
+</>
+
+<CASE ELSE>:
+
+<NextEvent>
+<Message>: _&AteneoScene<11>_, 3
+</>
+
+<END SELECT>

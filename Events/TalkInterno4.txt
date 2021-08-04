@@ -1,0 +1,12 @@
+<CHARFACE>: AMan1, Rozs
+<CHARFACE>: Rozs, AMan1
+
+<NextEvent>
+<SETCAMPOS>: 8,5,10, Aman1
+<Message>: _&AteneoScene<115>_, 3
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<114>_, 3
+</>
+

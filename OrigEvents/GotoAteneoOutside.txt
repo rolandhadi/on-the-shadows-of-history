@@ -1,0 +1,11 @@
+<Case>: Ateneo
+<Message>: _&AteneoScene<94>_, 1
+<Case>: Switch-AUniform
+<PlaySound>: Door-1
+<Message>: _&Entering<15>_, 1, NONE
+<LoadMap>: Ateneo-Outside
+<Case Else>
+<PlaySound>: Door-1
+<Message>: _&Entering<15>_, 1, NONE
+<LoadMap>: Ateneo-Outside2
+<End Select>

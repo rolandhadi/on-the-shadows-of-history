@@ -1,0 +1,20 @@
+<CHARFACE>: Priest, Rozs
+<CHARFACE>: Rozs, Priest 
+
+<MESSAGE>: _&AteneoScene<89>_, 5,None
+<playsound>: Ateneo-RPriest4
+
+<NEXTEVENT>:
+<MESSAGE>: _&AteneoScene<90>_, 5,None
+<PLAYSOUND>: Ateneo-rozs5
+</>
+
+<NEXTEVENT>:
+<PLAYSOUND>: Ateneo-RPriest5
+<MESSAGE>: _&AteneoScene<91>_, 7,None
+</>
+
+<NEXTEVENT>:
+<MESSAGE>: _&AteneoScene<92>_, 5,None
+<PLAYSOUND>: Ateneo-Rozs6
+</>

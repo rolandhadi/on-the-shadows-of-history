@@ -1,0 +1,54 @@
+newmtl fur
+Ns 30
+Ka 0 0 0
+Kd 1 0.894118 0.717647
+Ks 0 0 0
+map_Kd Dog Texture.tif
+newmtl footPads
+Ns 30
+Ka 0 0 0
+Kd 0.18999 0.171542 0.1691
+Ks 0.349996 0.336004 0.3402
+map_Kd Dog Texture.tif
+newmtl innerEar
+Ns 30
+Ka 0 0 0
+Kd 0.269993 0.251102 0.254566
+Ks 0.279988 0.265995 0.27393
+map_Kd Dog Texture.tif
+newmtl nose
+Ns 30
+Ka 0 0 0
+Kd 0.129412 0.0862593 0.0470436
+Ks 0.368612 0.368612 0.368612
+map_Kd Dog Texture.tif
+newmtl innerMouth
+Ns 30
+Ka 0 0 0
+Kd 0.133318 0.133318 0.133318
+Ks 0.439994 0.365209 0.387655
+map_Kd Dog Texture.tif
+newmtl tongue
+Ns 30
+Ka 0 0 0
+Kd 0.643122 0.211765 0.141161
+Ks 0.829984 0.738705 0.814786
+map_Kd Dog Texture.tif
+newmtl eyeBall
+Ns 30
+Ka 0 0 0
+Kd 1 0.960006 0.972015
+Ks 0.976471 0.976471 0.976471
+map_Kd Dog Texture.tif
+newmtl pupil
+Ns 30
+Ka 0 0 0
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0.98999 0.940505 0.968551
+map_Kd Dog Texture.tif
+newmtl teeth
+Ns 30
+Ka 0 0 0
+Kd 1 0.929412 0.623514
+Ks 0.717601 0.718654 0.779995
+map_Kd Dog Texture.tif

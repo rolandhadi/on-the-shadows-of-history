@@ -1,0 +1,85 @@
+<Case>: Angelita
+<CHARFACE>: OldLadyDress2, Rozs
+<CHARFACE>: Rozs, OldLadyDress2
+<MESSAGE>: _&TownCalambaScene<64>_, 5
+<PlaySound>: Angelita1
+
+<Case>: Switch-HMedicine2
+<NextEvent>
+<MESSAGE>: _&TownCalambaScene<113>_
+<PlaySound>: CRozs36
+</>
+
+<NextEvent>
+<MESSAGE>: _&TownCalambaScene<114>_
+</>
+
+<NextEvent>
+<MESSAGE>: _&TownCalambaScene<115>_
+<PlaySound>: CRozs37
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&TownCalambaScene<81>_
+<Switch>: HMedicineFinished, On
+<Switch>: Angelita, On
+<Item>: Item-HMedicine, Off
+<PlaySound>: Angelita2
+<Task>: TaskHMedCom
+</>
+
+<Case>: Switch-HMedicine1
+<CHARFACE>: OldLadyDress2, Rozs
+<CHARFACE>: Rozs, OldLadyDress2
+
+<NextEvent>
+<MESSAGE>: _&TownCalambaScene<113>_
+<PlaySound>: CRozs36
+</>
+
+<NextEvent>
+<MESSAGE>: _&TownCalambaScene<114>_
+</>
+
+<NextEvent>
+<MESSAGE>: _&TownCalambaScene<115>_
+<PlaySound>: CRozs37
+</>
+<NEXTEVENT>:
+<MESSAGE>: _&TownCalambaScene<81>_
+<Switch>: Switch-HMedicine2, On
+<Switch>: Angelita, On
+<PlaySound>: Angelita2
+</>
+
+<Case>: Switch-HMedicine
+<CHARFACE>: OldLadyDress2, Rozs
+<CHARFACE>: Rozs, OldLadyDress2
+
+<NextEvent>
+<MESSAGE>: _&TownCalambaScene<113>_
+<PlaySound>: CRozs36
+</>
+
+<NextEvent>
+<MESSAGE>: _&TownCalambaScene<114>_
+</>
+
+<NextEvent>
+<MESSAGE>: _&TownCalambaScene<115>_
+<PlaySound>: CRozs37
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&TownCalambaScene<81>_
+<Switch>: Switch-HMedicine1, On
+<Switch>: Angelita, On
+<PlaySound>: Angelita2
+</>
+
+<Case Else>
+<CHARFACE>: OldLadyDress2, Rozs
+<CHARFACE>: Rozs, OldLadyDress2
+<MESSAGE>: _&TownCalambaScene<64>_, 5
+<PlaySound>: Angelita1
+<End Select>

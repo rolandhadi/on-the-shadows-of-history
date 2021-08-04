@@ -1,0 +1,3 @@
+<Caption>:_Direct X Programming Book_
+<Details>:_Microsoft Direct X is used for rendering 2D and 3D images and objects_ 
+<Switch>: Switch-DX, On

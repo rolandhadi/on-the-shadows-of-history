@@ -1,0 +1,36 @@
+<Case>: TaposAOutside
+<Message>: __, 0, None
+<Case Else>
+
+<SetCharPos>: Rozs, 30,0, 43, n
+<SetCamPos>: 26,5,43, None, 15,0,15
+<Message>: __, 5, None
+
+<NextEvent>
+<SetCamPos>: 7,4,3, None, 6,0,25
+<Message>: __, 5, None
+</>
+
+<NextEvent>
+<SetCamPos>: 34,2,20, Guard
+<Message>: __, 5, None
+</>
+
+<NextEvent>
+<SetCamPos>: 17,15,24, None, 13,0,2
+<Message>: __, 5, None
+</>
+
+<NextEvent>
+<ShowIntro>: IntroAteneo
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<167>_, 5, None
+<RotateCam>: Rozs, Right, 700, 5
+<PlaySound>: AteneoRozs1
+<Switch>: TaposAOutside, On
+<Task>: TaskA1
+</>
+
+<End Select>

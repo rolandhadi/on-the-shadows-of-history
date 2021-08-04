@@ -1,0 +1,15 @@
+<CHARFACE>: Josephine, RozsF
+<CHARFACE>: RozsF, Josephine
+
+<NextEvent>
+<RotateCam>: Josephine, Left, 500, 3
+<MESSAGE>: _&FSScene<113>_, 5, None
+<Playsound>: FSRozs13
+</>
+
+<NextEvent>
+<Setcampos>: 11,4,26, RozsF
+<MESSAGE>: _&FSScene<114>_, 5, None
+<Playsound>: FSBracken20
+</>
+

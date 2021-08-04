@@ -1,0 +1,5 @@
+<Message>: _Get Ready For The Next Level..._, 4
+
+<NextEvent>
+<LoadMap>: Puzzle3
+</>

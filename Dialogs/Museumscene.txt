@@ -1,0 +1,522 @@
+<1>
+<A>: _Student:  What a wonderful gallery! Is this real?_
+<B>: _Estudyante: Kahanga-hangang galeriya! Totoo bang lahat ng naririto?_
+<C>: 
+</>
+
+<2>
+<A>: _Receptionist:  Welcome to the Artifacts Gallery! I hope something bad will not happen today..._
+<B>: _Receptionist: Maligayang pagbisita! Sana walang masamang mangyari sa araw na ito._
+<C>: 
+</>
+
+<3>
+<A>: _These are the precious artifacts of our national hero._
+<B>: _Ito ang mga natatanging ginawa ng ating pambansang bayani._
+<C>: 
+</>
+
+<4>
+<A>: _I hope you'll enjoy sight-seeing Rizal's art works._
+<B>: _Inaasahan ko na masisiyahan kayo sa inyong pamamasyal at pagtingin sa mga ginawa ni Rizal._
+<C>: 
+</>
+
+<5>
+<A>: _Receptionist:  Yes Mam. This is the real copy or the original manuscript of_
+<B>: _Receptionist:  Opo ginoo. Ito ang tunay at orihinal na kopya ng Noli Me Tangere_
+<C>: 
+</>
+
+<6>
+<A>: _Noli Me Tangere. You can touch and browse it, but be sure to handle it with care._
+<B>: _Pwede nyo po itong hawakan at buklatin subalit siguraduhin na pagiingatan ito._
+<C>: 
+</>
+
+<7>
+<A>: _ _
+<B>: _ _
+<C>: 
+</>
+
+<8>
+<A>: _Rozs:  Okay, Thanks._
+<B>: _Rozs:  Okey, Salamat._
+<C>: 
+</>
+
+<9>
+<A>: _Rozs:  This is incridible! I don't believe it? They all preserved it._
+<B>: _Rozs:  Pambihira! di ako makapaniwala. Pinanatili at iningatan nila ito._
+<C>: 
+</>
+
+<10>
+<A>: _Rozs:  What a magnificient art!!!_
+<B>: _Rozs:  Anong karingalan ng kasanayan!!
+<C>: 
+</>
+
+<11>
+<A>: _Rozs:  No... No... No..!!! I'm sorry... Fire someone help me..._
+<B>: _Rozs:  Hindi... Hindi.. Hindi!! Patawad... Sunog, tulungan Nyo ako..._
+<C>: 
+</>
+
+<12>
+<A>: _Receptionist:  What have you done?!!! The artifacts! They are all ruined._
+<B>: _Receptionist:  Anong ginawa mo?!!.. Ang mga gawang sining. lahat nasira na._
+<C>: 
+</>
+
+<13>
+<A>: _Rozs:  I'm sorry... I didn't mean it,,, I'm so sorry._
+<B>: _Rozs:  Ipagpatawad mo.. Di ko sinasadya... Patawad_
+<C>: 
+</>
+
+<14>
+<A>: _Receptionist: It happened again._
+<B>: _Receptionist: Nangyari na naman_
+<C>: 
+</>
+
+<15>
+<A>: _Rozs:  What! I said I'm sorry._
+<B>: _Rozs:  Ano? Sabi ko Patawad!_
+<C>: 
+</>
+
+<16>
+<A>: _Receptionist:  Your apology will not bring back those artifacts!!!_
+<B>: _Receptionist:  Ang paghingi mo ng tawad ay hindi kayang ibalik ang mga nasirang sining!_
+<C>: 
+</>
+
+<17>
+<A>: _ We have to do something before the visitors and the owner recognize that there's something missing!_
+<B>: _Kailangang mayroon tayong gawin bago pa dumating at mahalata ng mgay-ari na may nawawala._
+<C>: 
+</>
+
+<18>
+<A>: _Rozs:  What are you talking about? How can I bring it back? _
+<B>: _Rozs:  Anu and sinasabi mo!? Paano ko maibabalik yan?_
+<C>: 
+</>
+
+<19>
+<A>: _Those artifacts are made by Rizal long time ago. What are we going to do?!_
+<B>: _Ang mga sining na ito ay ginawa pa ni Rizal matagal na ang nakalipas. Ano ang ating gagawin?_
+<C>: 
+</>
+
+<20>
+<A>: _Receptionist:  Well, that is your fault! You are going to bring it back._
+<B>: _Receptionist:  Kasalanan mo ito! Kailangang maibalik mo yan ._
+<C>: 
+</>
+
+<21>
+<A>: _I am the one responsible for this museum and those artifacts that you ruined!!_
+<B>: _ Ako ang responsable dito sa museo at sa mga sining na nasira mo._
+<C>: 
+</>
+
+<22>
+<A>: _Rozs:  But, it was an accident... I said I'm sorry._
+<B>: _Rozs:  Subalit isa itong aksidente... Humingi na ako ng tawad._
+<C>: 
+</>
+
+<23>
+<A>: _Receptionist:  Follow me, young man._
+<B>: _Receptionist:  Sumunod ka sa akin bata._
+<C>: 
+</>
+
+<24>
+<A>: _Rozs:  Where are we going?_
+<B>: _Rozs:  Saan tayo pupunta?_
+<C>: 
+</>
+
+<25>
+<A>: _Receptionist:  Just follow me. No more questions. You've got to help me._
+<B>: _Receptionist:  Basta sumunod ka lang. Wala ng tanong. Kailangang mo akong tulungan._
+<C>: 
+</>
+
+<26>
+<A>: _In return, I will also help you. Just follow me._
+<B>: _Bilang kapalit tutulungan din kita. Sumunod ka lang sa akin._
+<C>: 
+</>
+
+<27>
+<A>: _Rozs:  I hope this is it..._
+<B>: _Rozs:  Umaasa akong tama ang aking nakuha._
+<C>: 
+</>
+
+<28>
+<A>: _Receptionist:  This is the one.The original copy of the poem.One down to go.!_              
+<B>: _Receptionist:  Eto nga!Ang orihinal na kopya ng tula. Dalawa na lamang ang iyong dapat mkuha._ 
+<C>: 
+</>
+
+<29>
+<A>: _Rozs:  What?!_
+<B>: _Rozs:  Ano?!_
+<C>: 
+</>
+
+<30>
+<A>: _Receptionist:  That's right! now you'll have to retrieve two important items._
+<B>: _Receptionist:  Cya nga!Ngayon kailingan mo nang makuha ang dalawang importanteng bagay._ 
+<C>: 
+</>
+
+<31>
+<A>: _The sculpture of the Scared Heart of Jesus and the portrait of Segunda Katigbak that was made by Rizal._  
+<B>: _Una ang Kabanal banalang Puso ni Hesus at ang pangalawa ay ang larawan ni Segunda Katigbak na gawa ni Rizal._
+<C>: 
+
+<32>
+<A>: _Hurry up!Time is running out!_  
+<B>: _Ika'y magmadali at baka gahulin ka sa oras!_
+<C>: 
+
+<33>
+<A>: _Rozs:  Ok. I'll go then..._
+<B>: _Rozs:  Sige at ako'y aalis na..._
+<C>: 
+</>
+
+<34>
+<A>: _Receptionist:  Quite impressive!_
+<B>: _Receptionist:  Kahanga hanga!_
+<C>: 
+</>
+
+<35>
+<A>: _Rozs:  What the..! Youre like a ghost, you scared me!_
+<B>: _Rozs:  Sinong..! Para kang multo, tinakot mo ako!_
+<C>: 
+</>
+
+<36>
+<A>: _Receptionist:  You have retrieved the 3 precious artifacts._
+<B>: _Receptionist:  Naibalik mo na ang tatlong mahalagang bagay. _
+<C>: 
+</>
+
+<37>
+<A>: _Just one more to complete your mision._
+<B>: _Isa na lamang ang kailangan mo upang makumpleto ang iyong misyon._
+<C>: 
+</>
+
+<38>
+<A>: _Rozs:  Where will I be going next?_
+<B>: _Rozs:  Saan ang susunod na aking patutunguhan?_
+<C>: 
+</>
+
+<39>
+<A>: _Receptionist:  To the Fort Santiago, what are you waiting for? Go Ahead!_
+<B>: _Receptionist:  Sa Fort Santiago, ano pa ang hinihintay mo? Pumunta ka na!_
+<C>: 
+</>
+
+<40>
+<A>: _Rozs:  What!!No way!_
+<B>: _Rozs:  Ano!!Hindi maari!_
+<C>: 
+</>
+
+<41>
+<A>: _Receptionist:  Good luck to you!_
+<B>: _Receptionist:  Magtagumpay ka sana!_
+<C>: 
+</>
+
+<42>
+<A>: _Ruth: Amazing Beauty! I've never seen something like this before..._
+<B>: _Ruth: Ang pangit naman dito!_
+<C>: 
+</>
+
+<43>
+<A>: _Michael: The picture says "La Tumba"..._
+<B>: _Michael: Ang larawan ay nagsasad ng "La Tumba"..._
+<C>: 
+</>
+
+<44>
+<A>: _Glaiz: The portrtait seems to be valuable and antique..._
+<B>: _Glaiz: Ang mga larawan dito ay napakahahalaga at mga antigo..._
+<C>: 
+</>
+
+<45>
+<A>: _Michelle: A Statue of Rizal..._
+<B>: _Michelle: Ang istatwa ni Rizal..._
+<C>: 
+</>
+
+<46>
+<A>: _Receptionist: Welcome to the Museum!_
+<B>: _Receptionist: Maligayang pagdating sa Museyo_
+<C>: 
+</>
+
+<47>
+<A>: _Harlene: Is that the real Jose Rizal? He is so cute!_
+<B>: _Harlene: Siya ba talaga si Jose Rizal? Maganda pala siyang lalaki!_
+<C>: 
+</>
+
+<48>
+<A>: _Student: These books are great!_
+<B>: _Student: Lahat ng librong ito ay magaganda!_
+<C>: 
+</>
+
+<49>
+<A>: _Student: Come and let's read..._
+<B>: _Student: Halina't basahin natin ito..._
+<C>: 
+</>
+
+<50>
+<A>: _Katherine: Don't disturb me, I'm busy..._
+<B>: _Katherine: Huwag mo kong gambalain, marami akong ginagawa..._
+<C>: 
+</>
+
+<51>
+<A>: _John: I really like this poem, would you like to read it?_
+<B>: _John: Gustong-gusto ko talaga ng tulang ito, nais mo bang basahin?_
+<C>: 
+</>
+
+<52>
+<A>: _Alex: According to this book, Rizal was shot at Bagumbayan and died exactly at 7:03 a.m._
+<B>: _Alex: Base sa librong ito, si Rizal ay binaril sa Bagumbayan at namatay ng 7:03 ng umaga_
+<C>: 
+</>
+
+<53>
+<A>: _Chester: This is the book of Noli Me Tangere._
+<B>: _Chester: Ito ang libro ng Noli Me Tangere._
+<C>: 
+</>
+
+<54>
+<A>: _Robin: I can't find the book I want to read..._
+<B>: _Robin: Hindi ko mahanap ang librong gusto kong basahin..._
+<C>: 
+</>
+
+<55>
+<A>: _Robin: Would you like to help me?_
+<B>: _Robin: Nais mo ba akong tulungan?_
+<C>: 
+</>
+
+<56>
+<A>: _The Poem -To My Fellow Children-. It was written by Rizal at the age of 8._
+<B>: _Ang Tulang -Sa Aking Mga Kababata-. Ito ay sinulat ni Rizal noong siya ay pitong taong gulang pa lamang._
+<C>: 
+</>
+
+<57>
+<A>: _The Sculpture -Sacred Heart Of Jesus-. Rizal created it during his studies in Ateneo De Manila._
+<B>: _Ang Skulpturang -Kabanal-banalang Puso Ni Hesus-. Ginawa ito ni Rizal noong siya ay nag-aaral pa sa Ateneo De Manila._
+<C>: 
+</>
+
+<58>
+<A>: _The Book -Imitation Of Christ-. The book that Rizal gave to Josephine Bracken in Fort Santiago._
+<B>: _Ang Aklat na -Paggaya kay Kristo-. Ang aklat na ibinigay ni Rizal kay Josephine Bracken sa Fort Santiago._
+<C>: 
+</>
+
+<59>
+<A>: _Rozs: This bookshelf needs to be moved. It looks like it will fall down._
+<B>: _Rozs: Ang lalagyan ng librong ito ay dapat maiayos. Mukha kasing babagsak ito. _
+<C>: 
+</>
+
+<60>
+<A>: _Rozs: I think I should push it a little bit._
+<B>: _Rozs: Sa tingin ko dapat ko itong itulak ng bahagya._
+<C>: 
+</>
+
+<61>
+<A>: _Rozs: I think I should follow the receptionist..._
+<B>: _Rozs: Sa tingin ko dapat kong sundan ang babaeng iyon patungo sa lihim na silid sa silid aralan._
+<C>: 
+</>
+
+<62>
+<A>: _Rozs: I think I should see the artifacts first._
+<B>: _Rozs: Sa tingin ko dapat ko munang tignan ang mga nandito._
+<C>: 
+</>
+
+<63>
+<A>: _Rozs: I think I should see the bookshelf first._
+<B>: _Rozs: Sa tingin ko dapat ko munang tignan ang lalagyan ng libro._
+<C>: 
+</>
+
+<64>
+<A>: _Melisa: There are a lot of beautiful things found in that bookshelf over there. The one facing West. Check it out._
+<B>: _Melisa: Maraming magagandang bagay na makikita doon sa lalagyan ng libro doon. Yung isang nakaharap sa Kanluran. Tingnan mo._
+<C>: 
+</>
+
+<65>
+<A>: _Man: I saw the receptionist pushing something then she enters the door at the corner of the room.Isn't it weird?_
+<B>: _Man: Nakita ko yung babaeng namamahala dio na may tinutulak at saka pumasok doon sa pinto sa may dulo nitong silid. Kakaiba hindi ba?_
+<C>: 
+</>
+
+<66>
+<A>: _"Jose Rizal"_
+<B>: _"Jose Rizal"_
+<C>: 
+</>
+
+<67>
+<A>: _"The last studio portrait, Madrid 1890, aged 29"_
+<B>: _"Ang larawan ni Jose, Madrid 1890, edad 29"_
+<C>: 
+</>
+   
+<68>
+<A>: _Rozs: What! It happened what? What are you talking about?_
+<B>: _Rozs: Ano po iyon?! Ano pong sinasabi nyo?_
+<C>: 
+</>
+
+<69>
+<A>: _I said I’m sorry. I didn’t mean it. I swear…_
+<B>: _Ipagpaumanhin nyo po ang aking nagawa, Ngunit hindi ko po ito sinasadya..._
+<C>: 
+</>
+
+<70>
+<A>: _It’s just happened that when I found out that the bookshelf will fall upon me…_
+<B>: _Mabilis at biglaan ang pangyayari, napansin ko kasi sa akin matutumba yung mga silid..._
+<C>: 
+</>
+
+<71>
+<A>: _And suddenly I’m pushing the shelf…_
+<B>: _At naiisip ko itong galawin ng kaunti, ngunit..._
+<C>: 
+</>
+
+<72>
+<A>: _Then… then the whole thing crashes down… I’m so sorry._
+<B>: _Tapos, pagkatapos, natumba na at nasira na ang lahat. Hindi ko po sinasadya._
+<C>: 
+</>
+
+<73>
+<A>: _JC: Rizal has many women... I envy him..._
+<B>: _JC: Si Rizal ay maraming babae... Nakaka-inggit..._
+<C>: 
+</>
+
+<74>
+<A>: _Alcohol Burner -  The alcohol burner in which the poem was hidden._
+<B>: _Alcohol Burner -  Ang alcohol burner na kung saan ang tula ay nakatago. _
+<C>: 
+</>
+
+<75>
+<A>: _Rizal in a Play-Staged at the Ateneo de Manila_
+<B>: _Si Rizal sa isang entablado ng Ateneo de Manila _
+<C>: 
+</>
+
+<76>
+<A>: _Rozs: The diary seems odd..., it indicates something in!_
+<B>: _Rozs: Tila kakaiba ang diary na ito..., sa ilang pahina nito ay may nasusulat!_
+<C>: 
+</>
+
+<77>
+<A>: _Jose Rizal's Diary_
+<B>: _Jose Rizal's Diary_
+<C>: 
+</>
+
+<78>
+<A>: _Written by Thomas-a-Kempis_
+<B>: _Isinulat ni Thomas-a-Kempis_
+<C>: 
+</>
+
+<79>
+<A>: _Rozs: There is something in the book! The book inscribed a note..._
+<B>: _Rozs: Mayroong kakaiba sa aklat. Ang aklat ay may nakasulat na mensahe..._
+<C>: 
+</>
+
+<80>
+<A>: _"To my dear and unhappy wife, Josephine. December 30th 1896. Jose Rizal."_
+<B>: _"Sa aking mahal at malungkot na asawa, Josephine. Disyembre 30th 1986. Jose Rizal."_
+<C>: 
+</>
+
+<81>
+<A>: _Receptionist: Welcome to the Artifacts Area!_
+<B>: _Receptionist: Maligayang pagbisita sa lugar ng mga sining!_
+<C>: 
+</>
+
+<82>
+<A>: _C'mon check it out! These are the original manuscripts of Noli and El Filibusterismo._
+<B>: _Sige suriin mo ito! Ito ang mga orihinal na sulat ng Noli Me Tangere at El Filibusterismo._
+<C>: 
+</>
+
+<83>
+<A>: _Student: Madam, there's something in the picture!_
+<B>: _Student: Madam, meron kakaiba sa larawan._
+<C>: 
+</>
+
+<84>
+<A>: _Francis: Take a look! Here is a portrait during Rizal's execution._
+<B>: _Sige suriin mo ito! Ito ang mga orihinal na sulat ng Noli Me Tangere at El Filibusterismo._
+<C>: 
+</>
+
+<85>
+<A>: _...And so Rozs did return all the artfacts..._
+<B>: __
+<C>: 
+</>
+
+<86>
+<A>: _And everything now is back in order._
+<B>: __
+<C>: 
+</>
+
+<87>
+<A>: _I'm glad that Rozs did it. Because it is very hard to be On The Shadows Of History..._
+<B>: __
+<C>: 
+</>
+
+
+

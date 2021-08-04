@@ -1,0 +1,45 @@
+<CASE>: AStart
+
+<MESSAGE>: __, 0,none
+
+<Case Else>
+
+<MESSAGE>: __, 1,none
+<SETCAMPOS>: 18,7,22, NONE, 1,1,1
+
+<NEXTEVENT>
+<MESSAGE>: __, 4,none
+</>
+
+<NEXTEVENT>
+<MESSAGE>: __, 1,none
+<SETCAMPOS>: 30,7,23, NONE, 1,1,49
+</>
+
+<NEXTEVENT>
+<MESSAGE>: __, 4,none
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 18,7,22, NONE, 38,1,1
+<MESSAGE>: __, 4,none
+</>
+
+<NEXTEVENT>
+<Switch>: AStart,On
+<Switch>: Ateneo, On
+<SETCAMPOS>: 18,7,22, NONE, 38,1,49
+<MESSAGE>: __, 4,none
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 18,7,22, Rozs
+<MESSAGE>: _&AteneoScene<93>_, 7, None
+<PLaysound>: Ateneo-Rozs7
+</>
+
+<NEXTEVENT>
+<Reload>
+</>
+
+<End Select>

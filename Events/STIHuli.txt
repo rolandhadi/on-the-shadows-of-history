@@ -1,0 +1,7 @@
+<CharAnimate>: Rozs, Wait, Once, 50,2
+<SetCamPos>: 5,2,5, Aman2
+<Message>: _Huli ka!!!_, 5
+
+<NextEvent>
+<LoadMap>: sti-305
+</>

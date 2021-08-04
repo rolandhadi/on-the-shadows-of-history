@@ -1,0 +1,11 @@
+<RotateCam>: Invisible, Left, 500, 20
+<ShowSprite>: 256,210, 80,80, End11, 20
+
+<NextEvent>
+<FOG>: 0,0,0,0
+<Message>: __, 5, None
+</>
+
+<NextEvent>
+<EXIT>
+</>

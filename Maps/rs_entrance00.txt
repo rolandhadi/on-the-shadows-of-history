@@ -1,0 +1,53 @@
+<ENABLESAVE>
+
+<DRAWBACK>: 450
+<LMOUSE>: 20
+<HMOUSE>: 60
+<FOG>: 400,450, 100, 100
+
+<SOUND>: BoxMove
+<OBJECT>: tablelong
+<OBJECT>: cabinet2x1
+<OBJECT>: chair1
+<OBJECT>: plant
+<OBJECT>: door1-1
+<OBJECT>: bshelf
+
+<DUMMY>: D1,0,0,0
+<DUMMY>: D2,28,0,6
+
+<CHARACTER>: Rozs, 5,0,6, e
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 8
+<ANIMATION>: Run,  8
+<ANIMATION>: Push, 8
+<ANIMATION>: Dock, 8
+//Library Area
+<SURFACE>:   PlaneBox,  281, 1,0,1, 7,10,7, s
+<SURFACE>:   Z3PLANE1, wood2,  1,0,1, 7,0,7, s
+
+<layer1>:plant, 1,0,1, s, plant1
+<layer1>:cabinet2x1, 1,0,3, s, cabinet1
+<layer1>:bshelf, 1,0,7, s, bshelf1
+<layer1>:chair1, 4,0,1, w, none
+<layer1>:chair1, 3,0,6, s, none
+<layer1>:tablelong, 4,0,2, e, 219
+<layer1>:tablelong, 3,0,7, w, 219
+<layer1>:plant, 7,0,1, n, plant1
+<layer1>:plant, 7,0,7, s, plant1
+<layer1>:door1-1, 7,0,4, n, door1-1
+<layer1>:door1-1, 2,0,1, w, door1-1
+
+
+//End of Library Area
+<LIGHT>: AMBIENT, 0,0,0, .8,.8,.8, DUMMYD1
+<LIGHT>: Directional, 0,0,0, .3,.3,.3, DUMMYD1
+
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Rozs
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Man1
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Man2
+
+<BLOCKROW>: 0
+<BLOCKCOL>: 0
+<BLOCKROW>: 50
+<BLOCKCOL>: 35

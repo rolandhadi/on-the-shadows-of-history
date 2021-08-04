@@ -1,0 +1,17 @@
+<Case>: TaposRKey
+
+<MESSAGE>: __, 0, None
+
+<Case Else>
+
+<SETCAMPOS>: 9,4,5, RozsF
+
+<NEXTEVENT>
+<MESSAGE>: _&FSScene<73>_, 3
+<PLaysound>: FSRozs7
+<Switch>: TaposRKey, On
+</>
+
+<End Select>
+
+

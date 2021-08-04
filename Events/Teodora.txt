@@ -1,0 +1,21 @@
+<Message>: _TEODORA ALONSO (1827-1913)_, 2
+
+<NEXTEVENT>
+<Message>: _&Teodora<1>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Teodora<2>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Teodora<3>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Teodora<4>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Teodora<5>_, 3
+</>

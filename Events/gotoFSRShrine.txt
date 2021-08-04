@@ -1,0 +1,13 @@
+<Case>: Con-RizalJosephine
+<Message>: _&Entering<25>_, 1, NONE
+<LoadMap>: fs-RizalShrine4
+
+<Case>: TaposRScon
+<Message>: _&Entering<25>_, 1, NONE
+<LoadMap>: fs-RizalShrine3
+
+<Case Else>
+<Message>: _&Entering<25>_, 1, NONE
+<LoadMap>: fs-RizalShrine
+
+<End Select>

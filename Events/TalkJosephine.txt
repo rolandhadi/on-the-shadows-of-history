@@ -1,0 +1,73 @@
+<Case>: TaposUsapJosephine
+<CHARFACE>: Josephine, Rozs
+<CHARFACE>: Rozs, Josephine
+
+<NextEvent>
+<RotateCam>: Josephine, Left, 500, 5
+<MESSAGE>: _&FSScene<59>_, 5, None
+<PLaysound>: FSRozs3
+</>
+
+<NextEvent>
+<MESSAGE>: _&FSScene<60>_, 5, None
+<PLaysound>: FSRozs4
+</>
+
+<NextEvent>
+<RotateCam>: Rozs, Left, 500, 5
+<MESSAGE>: _&FSScene<61>_, 5, None
+<PLaysound>: FSBracken5
+</>
+
+<CASE>: Switch-Key
+
+<CHARFACE>: Josephine, Rozs
+<CHARFACE>: Rozs, Josephine
+
+<NextEvent>
+<RotateCam>: Josephine, Left, 500, 5
+<MESSAGE>: _&FSScene<59>_, 5, None
+<PLaysound>: FSRozs3
+</>
+
+<NextEvent>
+<MESSAGE>: _&FSScene<60>_, 5, None
+<PLaysound>: FSRozs4
+</>
+
+<NextEvent>
+<RotateCam>: Rozs, Left, 500, 5
+<MESSAGE>: _&FSScene<61>_, 5, None
+<PLaysound>: FSBracken5
+<Switch>: TaposUsapJosephine, On
+</>
+
+<NextEvent>
+<Reload>
+</>
+
+<CASE ELSE>
+
+<CHARFACE>: Josephine, Rozs
+<CHARFACE>: Rozs, Josephine
+
+<NextEvent>
+<SETCAMPOS>: 22,5,39, Josephine
+<MESSAGE>: _&FSScene<45>_, 5, None
+<PLaysound>: FSBracken4
+</>
+
+<NextEvent>
+<RotateCam>: Josephine, Left, 500, 5, None
+<MESSAGE>: _&FSScene<46>_, 5, None
+<PLaysound>: FSBracken22
+</>
+
+<NextEvent>
+<RotateCam>: Rozs, Right, 500, 3
+<MESSAGE>: _&FSScene<5>_, 5, None
+<Playsound>: FS-Rozs3
+<Task>: TaskFS1
+</>
+
+<END SELECT>

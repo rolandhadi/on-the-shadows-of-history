@@ -1,0 +1,8 @@
+<Case>: AEStart
+<PlaySound>: Door-1
+<Message>: _&Entering<14>_,1,NONE
+<LoadMap>: Ateneo-BBed11
+<Case Else>
+<PlaySound>: Door-1
+<Message>: _&Entering<31>_,1
+<End Select>

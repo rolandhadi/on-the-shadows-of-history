@@ -1,0 +1,6 @@
+"
+<LANGUAGE>: 0
+<BGVOL>: -300
+<SEVOL>: 0
+
+"

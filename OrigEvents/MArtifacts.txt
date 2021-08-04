@@ -1,0 +1,76 @@
+<CASE>: MViewed5
+
+<CASE ELSE>
+<SETCAMPOS>: 9,4,27, NONE, 9,1,12
+
+<NEXTEVENT>:
+<MESSAGE>: __, 4,none
+</>
+
+<NEXTEVENT>:
+<SETCAMPOS>: 2,4,16, NONE, 8,1,12
+<MESSAGE>: __, 4,none
+</>
+
+<NEXTEVENT>:
+<SETCAMPOS>: 9,3,2, NONE, 9,1,25
+<MESSAGE>: __, 4,none
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 3,3,20, Glaiz
+</>
+
+<NEXTEVENT>
+<RotateCam>: Glaiz, Right, 1500, 5
+<PlaySound>: Stud1
+<MESSAGE>: _&MuseumScene<1>_, 5,none
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 12,1,20, RLady
+<MESSAGE>: __, 1,none
+</>
+
+<NEXTEVENT>
+<PlaySound>: Recep0
+<RotateCam>: RLady, Left, 1500, 4
+<MESSAGE>: _&MuseumScene<2>_, 4,none
+<CharAnimate>: RLady, Bow, Once, 50,4
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&MuseumScene<3>_, 3,none
+<PlaySound>: Recep1
+<RotateCam>: RLady, Left, 1500, 3
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&MuseumScene<4>_, 5,none
+<CharAnimate>: RLady, Bow, Reverse, 50,3
+<RotateCam>: RLady, Left, 1500, 5
+</>
+
+<NEXTEVENT>
+<CharFace>: RLady, Glaiz
+<PlaySound>: Recep2
+<MESSAGE>: _&MuseumScene<5>_, 3,none
+<RotateCam>: RLady, Left, 1500, 3
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&MuseumScene<6>_, 5,none
+<RotateCam>: RLady, Left, 1500, 5
+</>
+
+/<NEXTEVENT>
+/<MESSAGE>: _&MuseumScene<7>_, 4,none
+/</>
+
+<NEXTEVENT>
+<SWITCH>: MViewed5, On
+</>
+
+
+<END SELECT>
+

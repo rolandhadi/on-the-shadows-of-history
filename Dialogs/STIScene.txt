@@ -1,0 +1,551 @@
+<1>
+<A>: _Ruth:  Hey guyz! It's 4:20 we only have 10 minutes more, hurry up we have a class! _
+<B>: _Ruth:  Ika-apat at dalawampung minuto na, sampung minuto na lang ang nalalabi, dali!_
+<C>: 
+</>
+
+<2>
+<A>: _Ruth:  We have to finish this._
+<B>: _Ruth:  Kailangang matapos na ito._
+<C>: 
+</>
+
+<3>
+<A>: _Mitch:  Oh no! Glaiz, your friend has fallen asleep again._
+<B>: _Mitch:  Oh hindi! Glaiz, ang iyong kaibigan ay nakatulog na naman._
+<C>: 
+</>
+
+<4>
+<A>: _Mitch:  Quick, wake him up or else will be late._
+<B>: _Mitch:  Bilis gisingin mo na siya kung hindi mahuhuli na tayo._
+<C>: 
+</>
+
+<5>
+<A>: _Glaiz:  Not again... Hey Rozs wake up! Wake up!_
+<B>: _Glaiz:  Wag na naman... Hoy Rozs gumising ka, gising!_
+<C>: 
+</>
+
+<6>
+<A>: _Ruth:  Hey Glaiz! We will go ahead. See yah!_
+<B>: _Ruth:  Glaiz, mauuna na kami. Hanggang mamaya!_
+<C>: 
+</>
+
+<7>
+<A>: _Glaiz:  Okay. Mr. Rozs, Wake up!!!_
+<B>: _Glaiz:  Okey. Hoy Mr. Rozs, gising!!_
+<C>: 
+</>
+
+<8>
+<A>: _Rozs: What?!_
+<B>: _Rozs: Ano?!_
+<C>: 
+</>
+
+<9>
+<A>: _Glaiz:  You're always doing this. Why don't you stop playing games!_
+<B>: _Glaiz:  Palagi mo na lang itong ginagawa. Bakit di mo tigilan ang paglalaro ng computer!_
+<C>: 
+</>
+
+<10>
+<A>: _Glaiz:  Hurry up, we have a class._
+<B>: _Glaiz:  magmadali ka mayroon tayong klase._
+<C>: 
+</>
+
+<11>
+<A>: _Rozs:  Sorry... I just felt sleepy._
+<B>: _Rozs:  Ipagpaumanhin mo... Inantok lamang ako._
+<C>: 
+</>
+
+<12>
+<A>: _Glaiz:  Same old thing...Why don't you pick up your things and let's go._
+<B>: _Glaiz:  Tulad pa rin ng dati... Bakit di mo kuhanin ang mga gamit mo at umalis na tau_
+<C>: 
+</>
+
+<13>
+<A>: _Dr. Laza:  Good afternoon class. Where did we stopped last meeting?_
+<B>: _Dr. Laza:  Magandang hapon sa inyo mga estudyante! Saan natigil ang ating _
+<C>: 
+</>
+
+<14>
+<A>: _Dr. Laza: Yes, Ms. Abadiano._
+<B>: _Dr. Laza: talakayan noong huli nating pagkikita? Sige, Binibining Abadiano._
+<C>: 
+</>
+
+<131>
+<A>: _Ms. Abadiano:  Sir, we stopped at chapter 4 "Scholastic triumphs at Ateneo de manila"._
+<B>: _Ms. Abadiano:  Ginoo, tayo po ay tumigil sa ikaapat na kabanata" Mga gantimpalang natamo sa Ateneo de Manila"_
+<C>: 
+</>
+
+<141>
+<A>: _Ms. Abadiano: Here, our national hero enters Ateneo wherein Rizal was not accepted because of his height._
+<B>: _Ms. Abadiano: Dito ang ating pambansang bayani ay pumasok sa Ateneo kung saan si Rizal ay hindi natanggap dahil siya ay maliit._
+<C>: 
+</>
+
+<15>
+<A>: _Ms. Abadiano: He was also sick and late for registration._
+<B>: _Ms. Abadiano: Siya rin ay sakitin at nahuli sa pagpapalista._
+<C>: 
+</>
+
+<16>
+<A>: _Ms. Abadiano: However, he was still admitted with the help of Manuel Perez Burgos, the nephew of Fr. Burgos._
+<B>: _Ms. Abadiano: Subalit, natanggap pa rin siya sa tulong ni Manuel Perez Burgos, ang pamangkin ni Padre Burgos._
+<C>: 
+</>
+
+
+<17>
+<A>: _Ms. Abadiano:In Ateneo, Rizal was also fond in writing poems, engaged in some extra-curricular activities like Marian congregation and Spanish Literature. _
+<B>: _Ms. Abadiano: Sa Ateneo nakilala siya sa pagsulat ng mga tula, pagsali sa mga paligsahan katulad ng Marian Congregation at Spanish Literature._
+<C>: 
+</>
+
+<18>
+<A>: _Ms. Abadiano: He also loved doing sculptural works._
+<B>: _Ms. Abadiano: Mahilig rin siya sa eskultura._
+<C>: 
+</>
+
+<19>
+<A>: _Dr. Laza:  Thank you, Ms. Abadiano. What a nice answer! Before we continue our discussion, I will announce something important._
+<B>: _Dr. Laza:  Salamat binibining Abadiano.Isang magandang sagot! Bago tayo magpatuloy sa ating talakayan nais ko munang ipagbigay alam sa inyo ang isang mahalagang bagay._
+<C>: 
+</>
+
+<20>
+<A>: _Dr. Laza: We will be having an educational field trip on August 31, so prepare yourselves. Okay class._
+<B>: _Dr. Laza: Magkakaroon tayo ng isang pangkaalamang paglalakbay sa Agosto 31 kaya maghanda kayo._
+<C>: 
+</>
+
+
+<21>
+<A>: _Dr. Laza: We are lucky because we got the permission that we can stay a little longer to admire the precious artifacts of Jose Rizal._
+<B>: _Dr. Laza: Maswerte tayo dahil pinahintulutan tayong na magtagal sa museo upang pagmasdan ang kahanga-hangang ginawa ni Rizal._
+<C>: 
+</>
+
+<22>
+<A>: _Dr. Laza: By the way, you have to be careful on those artifacts or else._
+<B>: _Dr. Laza: Siyangapala, maging maingat kayo sa mga nasa museo._
+<C>: 
+</>
+
+<23>
+<A>: _Dr. Laza: Of course, the owner of that museum is my old friend._
+<B>: _Dr. Laza: Siyempre ang may-ari ng museo ay dati kong kaibigan._
+<C>: 
+</>
+
+
+<24>
+<A>: _Ms. Irene:  Excuse me Sir. I am sorry for the interruption. There will be a faculty meeting at exactly 5:30 pm. Thank you._
+<B>: _Ms. Irene:  Paumanhin Ginoo, Ipagpaumanhin ninyo ang aking pangaabala magkakaroon ng pulong ang mga guro bandang ikatatlo at kalahati ng hapon. Salamat!_
+<C>: 
+</>
+
+
+<25>
+<A>: _Dr. Laza:  Okay class. You are now dismissed._
+<B>: _Dr. Laza:  Okey. Tapos na ang klase._
+<C>: 
+</>
+
+<26>
+<A>: _Kaye: I think the library is closed, it will open after lunch._
+<B>: _Kaye: Sa pagkakaalam ko sarado ang silid-aralan, magbubukas naman ito pagkatapos ng tanghalian._
+<C>: 
+</>
+
+<27>
+<A>: _JP: I think the SSG is closed...What do you think?_
+<B>: _JP: Sa tingin ko sarado ang SSG ngayon...ano kaya sa tingin mo?_
+<C>: 
+</>
+
+<28>
+<A>: _Hubert: I really hate this class..._
+<B>: _Hubert: Ayoko talaga ng klaseng ito..._
+<C>: 
+</>
+
+<29>
+<A>: _Glaiz: You can wonder around the school if you want. Just wait for me downstairs._
+<B>: _Glaiz: Maari ka munang maglibot sa paaralan kung nais mo. Antayin mo na lamang ako sa baba._
+<C>: 
+</>
+
+<30>
+<A>: _Dr. Laza: Are you excited? See you tomorrow._
+<B>: _Dr. Laza: Di ka na ba makapag-antay? Magkita na lang tayo bukas._
+<C>: 
+</>
+
+<31>
+<A>: _Harlene: Would you like to borrow a book?._
+<B>: _Harlene: Nais mo bang humiram ng aklat?_
+<C>: 
+</>
+
+<32>
+<A>: _Would you like to go to your class now?._
+<B>: _Nais mo na bang pumasok sa iyong klase?_
+<C>: 
+</>
+
+<33>
+<A>: _Going to your class..._
+<B>: _Patungong silid aralan..._
+<C>: 
+</>
+
+<34>
+<A>: _Noel: I cannot find the book I'm looking for. Can you help me?_
+<B>: _Noel: Hindi ko mahanap ang hinahanap kong libro. Maari mo ba akong tulungan?_
+<C>: 
+</>
+
+<35>
+<A>: _Rozs: Yes. I can help you._
+<B>: _Rozs: Sige. Maari kitang tulungan._
+<C>: 
+</>
+
+<36>
+<A>: _Rozs: No. I will be late on my class_
+<B>: _Rozs: Hindi pwede. Mahuhuli na ako sa aking klase._
+<C>: 
+</>
+
+<37>
+<A>: _Noel: Thank You! You can find the book "The Life & Works Of Rizal" in those bookshelves. Pls. bring it to me._
+<B>: _Noel: Salamat! Makikita mo ang librong "Ang Buhay at mga Gawa Ni Rizal" doon sa mga lalagyan ng libro. Paki hanap naman para sa akin._
+<C>: 
+</>
+
+<38>
+<A>: _Noel: Ok. Thank you..._
+<B>: _Noel: Sige. Salamat na lang..._
+<C>: 
+</>
+
+<39>
+<A>: _Rozs: These are Nursing Books_
+<B>: _Rozs: Ang mga ito ay para sa mga medisina_
+<C>: 
+</>
+
+<40>
+<A>: _Rozs: These are Engineering Books_
+<B>: _Rozs: Ang mga ito ay para sa mga Ehinyero_
+<C>: 
+</>
+
+<41>
+<A>: _Rozs: These are Academic Books_
+<B>: _Rozs: Ang mga ito ay mga aklat pangakademiko_
+<C>: 
+</>
+
+<42>
+<A>: _Rozs: I think I found it! This is it!_
+<B>: _Rozs: Sa tingin ko ay nakita ko na! Ito na nga iyon!_
+<C>: 
+</>
+
+<43>
+<A>: _You got the book "The Life & Workd of Rizal"_
+<B>: _Iyong nakuha ang librong "Ang Buhay at mga Gawa ni Rizal"_
+<C>: 
+</>
+
+<44>
+<A>: _Rozs: Here I found it._
+<B>: _Rozs: Eto, Nakuha ko na._
+<C>: 
+</>
+
+<45>
+<A>: _Noel: Thank You! This will be a great help! I need to study in this subject._
+<B>: _Noel: Salamat! Malaking tulong ito. Kailangan ko kasing mag-aral sa paksang ito._
+<C>: 
+</>
+
+<46>
+<A>: _Noel: Here take this. This is the picture of STI. I captured it by myself!_
+<B>: _Noel: Eto tanggapin mo. Ito ang larawan ng STI. Ako mismo ang kumuha niyan._
+<C>: 
+</>
+
+<47>
+<A>: _You got the STI Picture_
+<B>: _Iyong nakuha ang larawan ng STI_
+<C>: 
+</>
+
+<48>
+<A>: _Rozs: Thank You!_
+<B>: _Rozs: Maraming Salamat_
+<C>: 
+</>
+
+<49>
+<A>: _Rozs: I must move fast I'm late_
+<B>: _Rozs: Dapat na akong magmadali. Late na ako._
+<C>: 
+</>
+
+<50>
+<A>: _STI Southwood's Picture_
+<B>: _Larawan ng STI Southwoods_
+<C>: 
+</>
+
+<51>
+<A>: _There is nothing I need in here_
+<B>: _Wala naman dito ang kailangan ko_
+<C>: 
+</>
+
+<52>
+<A>: _Do you want to exit school?_
+<B>: _Nais mo na bang lumisan sa paaralan?_
+<C>: 
+</>
+
+<53>
+<A>: _I cannot leave now. I have a to attend to my class._
+<B>: _Hindi pa ako maaring umalis. Dapat pa akong pumunta sa aking klase._
+<C>: 
+</>
+
+<54>
+<A>: _Rozs: I need to go home now._
+<B>: _Rozs: Kailangan ko nang umusi sa amin._
+<C>: 
+</>
+
+<54>
+<A>: _Rozs: I think I should stay a little while in the school._
+<B>: _Rozs: Sa tingin ko ay dapat pa akong manatili muna sa paaralan._
+<C>: 
+</>
+
+<55>
+<A>: _Do you wish to go to the library?_
+<B>: _Nais mo bang pumunta sa silid aklatan?_
+<C>: 
+</>
+
+<56>
+<A>: _Going to the Library..._
+<B>: _Patungong Silid Aklatan..._
+<C>: 
+</>
+
+<57>
+<A>: _The Life & Works of Rizal_
+<B>: _Ang Buhay at mga Gawa ni Rizal_
+<C>: 
+</>
+
+<58>
+<A>: _The book that Noel needs._
+<B>: _Ang aklat na kailangan ni Noel_
+<C>: 
+</>
+
+<59>
+<A>: _Egbert: Hi Rozs! This is the Bible Reader's Society or BREAD Society for short._
+<B>: _Egbert: Kamusta Rozs! Ito ang Bible Reader's Society o sa madaling salita ang BREAD Society._
+<C>: 
+</>
+
+<60>
+<A>: _Egbert: We are conducting our fund raising project for us to have suffecient funds for our projects._
+<B>: _Egbert: Kami ngayon ay nagdadaos ng aming proyekto upang makalikom kami ng sapat na salapi upang magamit namin sa aming proyekto. _
+<C>: 
+</>
+
+<61>
+<A>: _Egbert: This time it is a puzzle. Since You are the first one to try it. Check it out!_
+<B>: _Egbert: Ngayon ang napili namin ay palaisipan. Dahil Ikaw pa lamang ang unang makakasubok, Subukan mo na!_
+<C>: 
+</>
+
+<62>
+<A>: _Egbert: If you are interested. Enter the door beside me. Good Luck!_
+<B>: _Egbert: Kung gusto mong subukan, Pumasok ka sa pintong katabi ko. Galingan Mo!_
+<C>: 
+</>
+
+<63>
+<A>: _Egbert: Would You like to solve our puzzle?_
+<B>: _Egbert: Nais mo bang subukan ang aming palaisipan?_
+<C>: 
+</>
+
+<64>
+<A>: _Egbert: Good Luck!_
+<B>: _Egbert: Galingan Mo!_
+<C>: 
+</>
+
+<65>
+<A>: _Marj: The Physics Lab is temporarily used as the Student's Gallery Room._
+<B>: _Marj: Ang Physics Lab ay pansamantalang gigagamit bilang Student's Gallery Room._
+<C>: 
+</>
+
+<66>
+<A>: _Marj: Every year, We display the pictures of the events and activities of the STI students._
+<B>: _Marj: Kada taon, Ipinakikita namin ang mga larawan ng mga gawain at mga aktibidades na ginagawa ng mga studyante sa STI._
+<C>: 
+</>
+
+<67>
+<A>: _Marj: This helps to unite all the students of STI Southwoods._
+<B>: _Marj: Ito ay nakakatulong sa pagpapatibay ng mga studyante sa STI Southwoods._
+<C>: 
+</>
+
+<68>
+<A>: _Marj: If You want to see it for yourself. Enter the door besides me._
+<B>: _Marj: Kung gusto mo itong makita. Pumasok ka sa pinto na nasa tabi ko._
+<C>: 
+</>
+
+<69>
+<A>: _Entering STI Southwoods Student's Gallery._
+<B>: _Patungong STI Southwoods Student's Gallery._
+<C>: 
+</>
+
+<70>
+<A>: _Entering STI Southwoods 3rd Floor Hallway..._
+<B>: _Patungong STI Southwoods 3rd Floor Hallway..._
+<C>: 
+</>
+
+<71>
+<A>: _Entering STI Southwoods Room 301..._
+<B>: _Patungong STI Southwoods Silid Bilang 301..._
+<C>: 
+</>
+
+<72>
+<A>: _Entering STI Southwoods Room 302..._
+<B>: _Patungong STI Southwoods Silid Bilang 302..._
+<C>: 
+</>
+
+<73>
+<A>: _Entering STI Southwoods Room 303..._
+<B>: _Patungong STI Southwoods Silid Bilang 303..._
+<C>: 
+</>
+
+
+<74>
+<A>: _Entering STI Southwoods Room 304..._
+<B>: _Patungong STI Southwoods Silid Bilang 304..._
+<C>: 
+</>
+
+<75>
+<A>: _Entering STI Southwoods Room 305..._
+<B>: _Patungong STI Southwoods Silid Bilang 305..._
+<C>: 
+</>
+
+<76>
+<A>: _Entering STI Southwoods Room 306..._
+<B>: _Patungong STI Southwoods Silid Bilang 306..._
+<C>: 
+</>
+
+<77>
+<A>: _Entering STI Southwoods Room 307..._
+<B>: _Patungong STI Southwoods Silid Bilang 307..._
+<C>: 
+</>
+
+<78>
+<A>: _SSG - "Student Services Government"_
+<B>: _SSG - "Student Services Government"..._
+<C>: 
+</>
+
+<79>
+<A>: _blank_
+<B>: _walang laman _
+<C>: 
+</>
+
+<80>
+<A>: _blank_
+<B>: _walang laman _
+<C>: 
+</>
+
+<81>
+<A>: _Comfort Room_
+<B>: _Palikuran _
+<C>: 
+</>
+
+<82>
+<A>: _The door is locked._
+<B>: _Ang pinto ay sarado. _
+<C>: 
+</>
+
+<83>
+<A>: _Bible Readers Society BookMarker_
+<B>: _Bible Readers Society BookMarker_
+<C>: 
+</>
+
+<84>
+<A>: _Egbert: Great Job Rozs!! Here take this limited edition bookmarker of the Bread Society!!_
+<B>: _Egbert: Magaling Rozs!! Heto tanggapin mo ang limitadong edisyon ng bookmarker ng Bread Society!!_
+<C>: 
+</>
+
+<85>
+<A>: _Rozs: Thank You!_
+<B>: _Rozs: Salamat!_
+<C>: 
+</>
+
+<86>
+<A>: _Egbert: Do not forget to read the Bible daily. Take care._
+<B>: _Egbert: Huwag mong kakalimutang magbasa ng Biblia sa tuwina. Ingat ka palagi._
+<C>: 
+</>
+
+<87>
+<A>: _August 31st at Rizal's Museum...._
+<B>: _Ika 31 ng Agosto sa Museyo ni Rizal..._
+<C>: 
+</>
+
+<88>
+<A>: _Rozs: Was that a dream?..._
+<B>: _Rozs: Isa ba yung panaginip?..._
+<C>: 
+</>
+

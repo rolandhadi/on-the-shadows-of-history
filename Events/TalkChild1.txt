@@ -1,0 +1,39 @@
+<Case>: Pepe1
+<CharFace>: Child1, Rozs
+<CharFace>: Rozs, Child1
+
+<NextEvent>
+<Message>: _&TownCalambaScene<21>_, 5,None
+<CharFace>: Child1, YoundRizal
+<PlaySound>: Child1
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<22>_, 5,None
+</>
+
+<Case Else>
+
+<CharFace>: Child1, Rozs
+<CharFace>: Rozs, Child1
+
+<NextEvent>
+<Message>: _&TownCalambaScene<20>_, 5,None
+<PlaySound>: Rozs27
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<21>_, 5,None
+<CharFace>: Child1, YoundRizal
+<PlaySound>: Child1
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<22>_, 5,None
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<23>_, 5,None
+<PlaySound>: Rozs28
+</>
+<End Select>

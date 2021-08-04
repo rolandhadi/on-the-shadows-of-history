@@ -1,0 +1,5 @@
+<PlaySound>: Door-1
+<StopBG>:
+<PlayBG>: Calamba2, Loop
+<Message>: _ _, 1, NONE
+<LoadMap>: Calamba-NE

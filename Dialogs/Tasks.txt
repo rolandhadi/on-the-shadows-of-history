@@ -1,0 +1,185 @@
+<1>
+<A>: _......_
+<B>: _......_
+<C>: 
+</>
+
+<2>
+<A>: _Rozs: I need to find that book and give it to Noel. It is somewhere in those bookshelves..._
+<B>: _Rozs: Kailangan kong hanapin ang libro iyon at ibigay kay Noel. Maaring nakalagay ito sa isa sa mga lalagyan ng libro doon..._
+<C>: 
+</>
+
+<3>
+<A>: _Rozs: I need to go to my class. My classroom is room 301._
+<B>: _Rozs: Kailangan ko nang pumasok sa aking klase. Ang aking silid aralan ay silid bilang 301._
+<C>: 
+</>
+
+<4>
+<A>: _Rozs: I need to find the young Jose Rizal. I should get his first poem._
+<B>: _Rozs: Dapat ko ng hanapin ang batang Jose Rizal. Kailangan ko ng makuha ang kanyang unang tula._
+<C>: 
+</>
+
+<5>
+<A>: _Rozs: I need to follow the Receptionist in the Library._
+<B>: _Rozs: Kailangan kong sundan yung babae sa silid aklatan._
+<C>: 
+</>
+
+<6>
+<A>: _Rozs: I need to see all the artifacts made by Jose Rizal._
+<B>: _Rozs: Kailangang kong makita ang mga bagay na nilikha ni Jose Rizal._
+<C>: 
+</>
+
+<7>
+<A>: _Rozs: I need to find some ink in this town to help Pepe. I must search the whole town..._
+<B>: _Rozs: Kailangan kong maghanap ng tinta sa bayang ito para matulungan ko si Pepe. Kailangan kong maghanap sa buong bayan..._
+<C>: 
+</>
+
+<8>
+<A>: _Rozs: I need to find some Sambong leaves in exchange of the ink. I must find it fast..._
+<B>: _Rozs: Kailangan kong makakuha ng dahon ng sambong para maipalit ko sa tinta. Dapat akong magmadali.. _
+<C>: 
+</>
+
+<9>
+<A>: _Rozs: I think I should see those bookshelves. There must be something interesting there..._
+<B>: _Rozs: Sa tingin ko ay dapat ko munang tingnan yung mga aklat. Marahil ay may kasiyasiyang bagay na naroroon..._
+<C>: 
+</>
+
+<10>
+<A>: _Rozs: I think I should help Josephine Bracken. I need to talk to her..._
+<B>: _Rozs: Sa palagay ko kailangan kong tulungan si Josephine Bracken. Kailangan ko siyang makausap..._
+<C>: 
+</>
+
+<11>
+<A>: _Rozs: I need to know how to enter Fort Santiago... I need to ask some people here..._
+<B>: _Rozs: Kailangan kong malaman kung paano ako makakapasok sa Fort Santiago... kailangan kong magtanong sa ibang tao dito._
+<C>: 
+</>
+
+<12>
+<A>: _Rozs: I need to find Luis ang get the key from him..._
+<B>: _Rozs: Kailangan kong matagpuan si Luis at makuha ang susi na nasa kanya._
+<C>: 
+</>
+
+<13>
+<A>: _Rozs: I need to find the underground tunnel to enter Fort Santiago but I should inform Josephine about this first..._ 
+<B>: _Rozs; Kailangan kong matagpuan ang ialalim na lagusan upang makapasok sa Fort Santiago ngunit dapat ko munang ipagbigay alam kay Josephine ang tungkol dito. _
+<C>: 
+</>
+
+<14>
+<A>: _Rozs: I need to deliver this herbal medicines to Carl's sisters. Carl will give me sambong leaves in return._
+<B>: _Rozs: Kailangan kong madala ang halamang gamot na ito sa kapatid ni Carl. Ibibigay sa akin ni Carl ang dahon ng sambong bilang kabayaran._
+<C>: 
+</>
+
+<15>
+<A>: _Rozs: I have delivered all the herbal medicine. I have to return to Carl to get the sambong leaves..._
+<B>: _Rozs: Nadala ko na ang mga halamang gamot. Kailangan ko nang bumalik kay Carl upang kunin ang mga dahon ng sambong..._
+<C>: 
+</>
+
+<16>
+<A>: _Rozs: I now have the sambong leaves. I need to bring it to the woman in exchange of the ink..._
+<B>: _Rozs: Nasa akin na ngayon ang dahon ng sambong. Kailangan ko itong madala sa Ginang bilang kapalit ng tinta..._
+<C>: 
+</>
+
+<17>
+<A>: _Rozs: I now have the ink. I must go to Rizal's house to bring it to him. Maybe, He is on the second floor..._
+<B>: _Rozs: Nasa akin na ang tinta. Dapat na akong pumunta sa bahay ni Rizal upang dalhin ito sa kanya. Maaring siya ay nasa ikalawang palapag..._
+<C>: 
+</>
+
+<18>
+<A>: _Rozs: I must move fast..._
+<B>: _Rozs: Kailangan kong magmadali..._
+<C>: 
+</>
+
+<19>
+<A>: _Rozs: I think I should search for Rizal inside Ateneo De Manila..._
+<B>: _Rozs: Sa aking palagay kailangan kong hanapin si Rizal sa loob ng Ateneo De Manila..._
+<C>: 
+</>
+
+<20>
+<A>: _Rozs: I think I should follow Pablo for me to borrow his uniform..._
+<B>: _Rozs: Sa palagay ko dapat kong sundan si Pablo para makapanghiram ako ng uniporme..._
+<C>: 
+</>
+
+<21>
+<A>: _Rozs: Now that I have the uniform, I can enter Ateneo now. I must find Rizal fast..._
+<B>: _Rozs: Ngayong nasa akin na ang uniporme, maaari na akong makapasok sa Ateneo. Kailangan ko agad makita si Rizal..._
+<C>: 
+</>
+
+<22>
+<A>: _Rozs: I must start searching for Rizal. He is got to be somewhere here._
+<B>: _Rozs: Dapat ko nang simulang ang paghahanap kay Rizal. Siya ay maaaring na sa kung saan._
+<C>: 
+</>
+
+<23>
+<A>: _Rozs: Rizal cannot curve the sculpture without his knife. I need to find him fast._
+<B>: _Rozs: Hindi makakapag-ukit si Rizal kung wala ang kanyang balisong. Kailangan ko siyang makita kaagad._
+<C>: 
+</>
+
+<24>
+<A>: _Rozs: I must deliver this letter to Fr. Lleonart. His room is located in the west near the lagoon._
+<B>: _Rozs: Kailangan kong maihatid ang sulat galing kay Padre Lleonart. Ang kanyang silid ay na sa kanluran malapit sa lawa._
+<C>: 
+</>
+
+<25>
+<A>: _Rozs: I must return to Rizal in his boarding room now._
+<B>: _Rozs: kailangan kong makabalik kay Rizal sa kanyang bahay na inuupahan._
+<C>: 
+</>
+
+<26>
+<A>: _Rozs: My class is over. I can leave the school now_
+<B>: _Rozs: Tapos na ang aking klase. Maari na akong umalis sa eskwelahan._
+<C>: 
+</>
+
+<27>
+<A>: _Rozs: I must give this letter to Maria. She is sitting in the park in front of the church._
+<B>: _Rozs: Kailangan kong ibigay ang sulat na ito kay Maria. Siya ay nakaupo doon sa tapat ng simbahan._
+<C>: 
+</>
+
+<28>
+<A>: _Rozs: I have to find Rizal's Cell here..._
+<B>: _Rozs: _
+<C>: 
+</>
+
+<29>
+<A>: _Rozs: I should meet Ms. Bracken first at the Front Gate before searching Rizal's Cell..._
+<B>: _Rozs: _
+<C>: 
+</>
+
+<30>
+<A>: _Rozs: I should let Ms. Bracken enter..._
+<B>: _Rozs: _
+<C>: 
+</>
+
+<31>
+<A>: _Rozs: I have to meet Ms. Bracken at the Front Gate..._
+<B>: _Rozs: _
+<C>: 
+</>

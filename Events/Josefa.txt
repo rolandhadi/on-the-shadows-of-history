@@ -1,0 +1,12 @@
+<Message>: _JOSEFA RIZAL (1865-1945)_, 2
+
+<NEXTEVENT>
+<Message>: _&Josefa<1>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Josefa<2>_, 3
+</>
+
+
+

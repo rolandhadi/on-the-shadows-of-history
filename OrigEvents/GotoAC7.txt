@@ -1,0 +1,11 @@
+<CASE>: TaposPriest
+<PlaySound>: Door-1
+<Message>: __, 2,NONE
+<LoadMap>: Ateneo-C7-None-2
+
+<CASE ELSE>:
+<PlaySound>: Door-1
+<Message>: _&Entering<55>_, 1,NONE
+<LoadMap>: Ateneo-C7
+
+<END SELECT>

@@ -1,0 +1,68 @@
+<CASE>: TaposFSfront
+
+<MESSAGE>: __, 0,None
+
+<CASE ELSE>
+
+//Note: Viewing of Fort Santiago Front
+<SetCharPos>: Rozs, 13,0,4, n
+<SETCAMPOS>: 28,6,3, None, 21,1,20
+<MESSAGE>: __, 3, None
+
+<NEXTEVENT>
+<SETCAMPOS>: 4,6,46, None, 17,1,28
+<MESSAGE>: __, 3, None
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 15,2,40, None, 19,2,22
+<MESSAGE>: __, 3, None
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 27,6,34, None, 19,1,46
+<MESSAGE>: __, 3, None
+<SWITCH>:  TaposFSfront, On
+</>
+
+<NEXTEVENT>
+<ShowIntro>: Intro-FortSantiago
+</>
+
+<NEXTEVENT>
+<SetCharPos>: Rozs, 16,0,4, w
+<SETCAMPOS>: 14,4,9, Rozs
+<MESSAGE>: _&FSScene<1>_, 5, none
+<PLaySound>: FS-Rozs1
+</>
+
+<NextEvent>
+<SetCharPos>: Josephine, 20,0,47, n
+<CharFace>: GuardGun3, Josephine
+<CharFace>: Josephine, GuardGun3
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 27,7,40, Josephine
+<MESSAGE>: _&FSScene<2>_, 7, none
+<PLaySound>: FSBracken1
+</>
+
+<NextEvent>
+<MESSAGE>: _&FSScene<3>_, 5, none
+<PLaySound>: Guard-Shrine5
+</>
+
+<NextEvent>
+<SetCharPos>: Josephine, 30,0,36, n
+<SetCharPos>: GuardGun3, 22,0,47, e
+</>
+
+<NextEvent>
+<SETCAMPOS>: 22,5,12, Rozs
+<MESSAGE>: _&FSScene<4>_, 5, None
+<Playsound>: FS-Rozs2
+<Task>: TaskFSStart
+</>
+
+<END SELECT>

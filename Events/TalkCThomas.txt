@@ -1,0 +1,3 @@
+<CHARFACE>: Cman1, Rozs
+<CHARFACE>: Rozs, Cman1
+<MESSAGE>: _&TownCalambaScene<71>_, 5

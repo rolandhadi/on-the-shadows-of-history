@@ -1,0 +1,14 @@
+<CHARFACE>: RLady, Rozs
+<CHARFACE>: Rozs, RLady
+
+<NextEvent>
+<RotateCam>: Rlady, Left, 500, 3
+<CharAnimate>: RLady, Talk1, Once, 50,3
+<MESSAGE>: __, 3,none
+<MESSAGE>: _&MuseumScene<81>_, 3, None
+</>
+
+<NextEvent>
+<CharAnimate>: RLady, Talk1, Reverse, 50,3
+<MESSAGE>: __, 3,none
+</>

@@ -1,0 +1,4 @@
+<CHARFACE>: CMan1, Rozs
+<CHARFACE>: Rozs, CMan1
+<MESSAGE>: _&AteneoScene<13>_, 5
+

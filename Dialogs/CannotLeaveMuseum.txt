@@ -1,0 +1,13 @@
+<1>
+<A>: _I cannot leave now..._
+<B>: _Hindi pa ako pwedeng umalis dito..._
+<C>: 
+</>
+
+<2>
+<A>: _I must see the things in here_
+<B>: _Kailangan ko pang makita ang mga bagay na nandito_
+<C>: 
+</>
+
+

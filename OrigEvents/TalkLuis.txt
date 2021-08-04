@@ -1,0 +1,67 @@
+<CASE>:TaposLuis
+
+<MESSAGE>: _&FSScene<41>_, 5, None
+<PLaysound>: Luis3
+
+<CASE>:TaposJuan
+
+<CHARFACE>: CMan2, Rozs
+<CHARFACE>: Rozs, CMan2
+<SETCAMPOS>: 6, 3, 4, CMan2
+<MESSAGE>: _&FSScene<35>_, 5, None
+<<Playsound>: aFS-rozs3
+
+<NEXTEVENT>
+<RotateCam>: Cman2, Left, 200, 5
+<MESSAGE>: _&FSScene<36>_, 5, None
+<PLaysound>: Luis1
+</>
+
+<NEXTEVENT>
+<Setcampos>: 7, 2, 4, Rozs
+<MESSAGE>: _&FSScene<37>_, 3, None
+<Playsound>: aFS-rozs4 
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 6, 3, 5, CMan2
+<MESSAGE>: _&FSScene<38>_, 7, None
+<PLaysound>: Luis2
+<CharAnimate>: Cman2, Talk, Once, 50,7 
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&FSScene<39>_, 5, None
+<Playsound>: aFS-rozs5
+<CharAnimate>: Rozs, Give, Once, 50, 2
+</>
+
+<NextEvent>
+<CharAnimate>: Cman2, Talk, Reverse, 50, 2
+<Message>: __, 2,None
+</>
+
+<NextEvent>
+<CharAnimate>: Rozs, Give, Reverse, 50, 2
+<StopBG>
+<PlayBG>: Victory
+<Message>: _&FSScene<112>_, 5,None
+</>
+
+<NextEvent>
+<StopBG>
+<PlayBG>: FS-2
+</>
+
+
+<NextEvent>
+<SWITCH>: TaposLuis, On
+<Item>: Item-Key, On
+<SWITCH>: UsapJosephine, On
+<Task>: TaskFS3
+</>
+
+<CASE ELSE>
+<MESSAGE>: _&FSScene<40>_, 5, None
+<PLaysound>: Luis4
+<END SELECT>

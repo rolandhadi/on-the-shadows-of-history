@@ -1,0 +1,141 @@
+<STARTEVENT>: MLibrary
+
+<ENABLESAVE>
+
+<MapName>: _Museum Library_
+
+<DRAWBACK>: 450
+<LMOUSE>: 27
+<HMOUSE>: 60
+<FOG>: 400,450, 100, 100
+
+<OBJECT>: Lamp
+<OBJECT>: RoundTable
+<OBJECT>: Chair2
+<OBJECT>: Plant
+<OBJECT>: BShelf
+<OBJECT>: Door1-1
+<OBJECT>: Door2-1
+<OBJECT>: GClock
+
+<CHARACTER>: Rozs, 7,0,2, e
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 8
+<ANIMATION>: Run,  8
+<ANIMATION>: Push, 8
+<ANIMATION>: Dock, 8
+
+<CHARACTER>: Man2, 5,0,8, n
+<ANIMATION>: Wait, 1
+
+<CHARACTER>: AMan3, 10,-0.1,7, w
+<ANIMATION>: Sit, 1
+
+<CHARACTER>: Glaiz, 9,0,8, s
+<ANIMATION>: Sit, 1
+
+<CHARACTER>: AMan6, 4,0,15, w
+<ANIMATION>: Wait, 1
+
+
+<CHARACTER/>
+
+//Library Area
+
+<EVENT>: TalkMStudent1, 2,14, 3,3, 1,1
+<EVENT>: TalkMStudent2, 7,7, 3,3, 1,1
+<EVENT>: TalkMStudent3, 8,6, 3,3, 1,1
+<EVENT>: TalkMMan, 3,7, 3,3, 1,1
+
+<SURFACE>:   PlaneBox, Wall-8, 1,0,1, 12,10,16, s
+<SURFACE>:   Z2Ceiling, Roof-1,  1,5,1, 12,0,16, s
+<SURFACE>:   Z5PLANE1, 66,  1,0,1, 30,0,30, s
+<SURFACE>:   Z2PLANE1, 333,  4,0.01,5, 4,0,10, s
+
+<LAYER1>: Lamp, 4,0,3, w, none
+<LAYER1>: Plant, 2,0,4, n, plant1
+<LAYER1>: Plant, 2,0,7, n, plant1
+<LAYER1>: Plant, 2,0,10, n, plant1
+<LAYER1>: Plant, 2,0,13, n, plant1
+<LAYER1>: Lamp, 7,0,16, e, none
+
+<LAYER1>: Lamp, 11,0,7, n, none
+<LAYER1>: Lamp, 11,0,9, n, none
+<LAYER1>: Lamp, 11,0,11, n, none
+
+<LAYER1>: Plant, 10,0,15, n, plant1
+<LAYER1>: Plant, 11,0,14, w, plant1
+
+<LAYER1>: Roundtable, 10,0,4, w, 117
+<LAYER1>: Chair2, 9,0,4, s, none
+<LAYER1>: Chair2, 11,0,4, n, none
+<LAYER1>: Chair2, 10,0,3, w, none
+<LAYER1>: Chair2, 10,0,5, e, none
+
+<LAYER1>: Roundtable, 9,0,8, w, 117
+<LAYER1>: Chair2, 8,0,8, s, none
+<LAYER1>: Chair2, 10,0,8, n, none
+<LAYER1>: Chair2, 9,0,9, e, none
+<LAYER1>: Chair2, 9,0,7, w, none
+
+<LAYER1>: Roundtable, 9,0,12, w, 117
+<LAYER1>: Chair2, 8,0,12, s, none
+<LAYER1>: Chair2, 10,0,12, n, none
+<LAYER1>: Chair2, 9,0,11, w, none
+<LAYER1>: Chair2, 9,0,13, e, none
+
+<LAYER1>: BShelf, 2,0,5, s, Bshelf3
+<LAYER1>: BShelf, 2,0,6, s, Bshelf3
+<LAYER1>: BShelf, 2,0,8, s, Bshelf3
+<LAYER1>: BShelf, 2,0,9, s, Bshelf3
+<LAYER1>: BShelf, 2,0,11, s, Bshelf3
+<LAYER1>: BShelf, 2,0,12, s, Bshelf3
+<LAYER1>: BShelf, 2,0,14, s, Bshelf3
+<LAYER1>: BShelf, 2,0,15, s, Bshelf3
+
+<LAYER1>: BShelf, 3,0,16, e, Bshelf3
+<LAYER1>: BShelf, 4,0,16, e, Bshelf3
+<LAYER1>: BShelf, 5,0,16, e, Bshelf3
+<LAYER1>: BShelf, 6,0,16, e, Bshelf3
+<LAYER1>: BShelf, 8,0,16, e, Bshelf3
+<LAYER1>: BShelf, 9,0,16, e, Bshelf3
+
+<LAYER1>: BShelf, 3,0,3, w, Bshelf3
+<LAYER1>: BShelf, 4,0,3, w, Bshelf3
+
+<LAYER1>: GClock, 4,0,2, s, GClock-1
+<LAYER1>: Plant, 4,0,1, w, Plant1
+
+<LAYER1>: Door2-1, 6,0,1, w, MDoor2
+<EVENT>: GotoHallway2-2, 6,1, 2,2, 1,1
+<SETCHARPOS>: 20,0,6, E, ContinueMap
+
+<LAYER1>: Door1-1, 1,0,16, s, MDoor1
+<EVENT>:gotoURoom, 1,16, 2,2, 1,1
+<SETCHARPOS>: 1,0,1, E, ContinueMap
+
+//End of Library Area
+
+<DUMMY>: L1,0,0,0
+<DUMMY>: C1,1,0,1
+<DUMMY>: C2,1,0,16
+<DUMMY>: C3,12,0,1
+<DUMMY>: C4,12,0,16
+
+<LIGHT>: AMBIENT, 0,0,0, .8,.8,.8, DUMMYL1
+<LIGHT>: DIRECTIONAL, 0,0,0, .1,.1,.1, DUMMYL1
+<LIGHT>: SPOT, 6,7,8, 1,1,1, DUMMYC1
+<LIGHT>: SPOT, 6,7,8, 1,1,1, DUMMYC2
+<LIGHT>: SPOT, 6,7,8, 1,1,1, DUMMYC3
+<LIGHT>: SPOT, 6,7,8, 1,1,1, DUMMYC4
+
+<LIGHT>: SPOT, 0,4,2, .7,.5,.5, Rozs
+<LIGHT>: SPOT, 0,4,2, .7,.5,.5, Man2
+<LIGHT>: SPOT, 0,4,2, .7,.5,.5, Aman6
+//<LIGHT>: SPOT, 0,4,2, .7,.5,.5, AMan3
+<LIGHT>: SPOT, 0,4,2, .7,.5,.5, Glaiz
+
+<BLOCKROW>: 0
+<BLOCKCOL>: 0
+<BLOCKROW>: 17
+<BLOCKCOL>: 13

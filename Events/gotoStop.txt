@@ -1,0 +1,18 @@
+<Case>: TaposUsapJosephine
+
+<PlaySound>: Door-1
+<Message>: _&Entering<35>&_, 2,NONE
+<Switch>: TaposUsapJosephine, On
+<LoadMap>: fs-storetop
+
+<Case>: UsapJosephine
+
+<Message>: _&Tasks<13>_, 5
+
+<Case Else>
+<PlaySound>: Door-1
+<Message>: _&Entering<35>&_, 2,NONE
+<Switch>: TaposUsapJosephine, On
+<LoadMap>: fs-storetop
+<End Select>
+

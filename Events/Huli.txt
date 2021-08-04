@@ -1,0 +1,6 @@
+<PlaySound>: Huli
+<Message>: _Who are you!!!?!_, 3
+
+<NextEvent>
+<ExecuteEvent>: gotoPuzzle4
+</>

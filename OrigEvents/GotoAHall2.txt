@@ -1,0 +1,11 @@
+<Case>: Switch-Knife
+<PlaySound>: Door-1
+<Message>: _&Entering<7>_, 1,NONE
+<LoadMap>: Ateneo-Hall2
+<Case>: DiTaposKnife
+<Message>: _&AteneoScene<169>_, 1
+<Case Else>
+<PlaySound>: Door-1
+<Message>: _&Entering<7>_, 1,NONE
+<LoadMap>: Ateneo-Hall2
+<End Select>

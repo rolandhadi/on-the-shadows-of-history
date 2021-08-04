@@ -1,0 +1,29 @@
+<1>
+<A>: _The mother of Jose Rizal._
+<B>: _Butihing ina ni Jose Rizal._
+<C>: 
+</>
+
+<2>
+<A>: _The second child of Lorenzo Alonso and Brijida de Quintos._
+<B>: _Pangalawang anak nina Lorenzo Alonzo at Brijida de Quintos._
+<C>: 
+</>
+
+<3>
+<A>: _She studied at the Colegio de Santa Rosa._
+<B>: _Nag-aral siya sa Colegio de Santa Rosa._
+<C>: 
+</>
+
+<4>
+<A>: _She was a business minded woman._
+<B>: _Siya ay isang babaeng mahilig magnegosyo._
+<C>: 
+</>
+
+<5>
+<A>: _She was courteous, religious, hard-working and well read._
+<B>: _Siya ay magalang, relihiyosa, masipag at magaling bumasa._
+<C>: 
+</>

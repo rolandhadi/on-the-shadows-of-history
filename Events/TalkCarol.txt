@@ -1,0 +1,3 @@
+<CHARFACE>: OldLadyDress3, Rozs
+<CHARFACE>: Rozs, OldLadyDress3
+<MESSAGE>: _&CalambaScene<10>_, 5

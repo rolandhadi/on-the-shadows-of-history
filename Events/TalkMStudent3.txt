@@ -1,0 +1,7 @@
+//<CHARFACE>: Glaiz, Rozs
+//<CHARFACE>: Rozs, Glaiz
+<MESSAGE>: _&MuseumScene<51>_, 5
+
+
+
+

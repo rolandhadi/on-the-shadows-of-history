@@ -1,0 +1,4 @@
+<PlaySound>: Door-1
+<Message>: __, 2,NONE
+<LoadMap>: SegundaOutside
+

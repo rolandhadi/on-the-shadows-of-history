@@ -1,0 +1,452 @@
+<StartEvent>: Start-CalambaNE
+<ENABLESAVE>
+
+<MapName>: _Calamba North-East_
+
+<DRAWBACK>: 1000
+<LMOUSE>: 27
+<HMOUSE>: 60
+<FOG>: 0,700, 100, 0
+
+<OBJECT>: Fence2
+<OBJECT>: House
+<OBJECT>: Tree
+<OBJECT>: Tree1
+<OBJECT>: Tree2
+<OBJECT>: Bench
+<OBJECT>: Bench2
+<OBJECT>: Grass
+<OBJECT>: Kubo
+<OBJECT>: FencePost
+<OBJECT>: BigFence
+<OBJECT>: OrdinaryHouse
+<OBJECT>: Door3-1
+<OBJECT>: Door1-1
+<OBJECT>: Slight
+<OBJECT>: CGate
+<OBJECT>: SBoard
+<LAYER1>: Sboard, 4,0,2, W, NW
+<LAYER1>: Sboard, 33,0,16, N, SE
+<LAYER1>: Sboard, 33,0,34, N, SE
+<LAYER1>: Sboard, 21,0,2, W, NW
+
+
+<DUMMY>: D1,0,0,0
+
+<CHARACTER>: Rozs, 21,0,35, n
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 8
+<ANIMATION>: Run,  8
+<ANIMATION>: Push, 8
+<ANIMATION>: Dock, 8
+
+<CHARACTER>: CMan1, 4,0,16, s
+<ANIMATION>: Wait, 1
+<ANIMATION>: Talk, 8
+
+<CHARACTER>: CMan2, 26,0,29, n
+<ANIMATION>: Wait, 1
+
+<CHARACTER>: CMan3, 15,0,9, n
+<ANIMATION>: Wait, 1
+
+<CHARACTER>: OldLadyDress2, 22,0,11, s
+<ANIMATION>: Wait, 1
+
+<CHARACTER>: OldLadyDress1, 33,0,26, s
+<ANIMATION>: Wait, 1
+
+<CHARACTER/>
+
+<EVENT>: TalkCMan1, 2,15, 3,3,1,1
+<EVENT>: TalkCMan2, 24,28, 3,3,1,1
+<EVENT>: TalkCMan3, 13,8, 3,3,1,1
+<EVENT>: TalkCSusan, 20,10, 3,3,1,1
+<EVENT>: TalkCJosephine, 31,25, 3,3,1,1
+
+<AI>: CMan1, AIIDLE, WAIT, None
+<AI>: CMan2, AIIDLE, WAIT, None
+<AI>: CMan3, AIIDLE, WAIT, None
+<AI>: OldLadyDress2, AIIDLE, WAIT, None
+<AI>: OldLadyDress1, AIIDLE, WAIT, None
+
+<SURFACE>:   Z1Ceiling, Cloud-4,  -10,8,-10, 56,0,71, s
+<SURFACE>:   Z5PLANE1,  Land-2,  -10,0,-10, 56,0,71, s
+<SURFACE>:   PlaneBox,  Calamba3, -10,0,-10,  56,8,71,s
+
+//Mga Daan sa North-East
+
+//Way 4
+<LAYER1>: CGate, 35.01,0,14, n, CGate
+<EVENT>:  GotoCalambaSE-1,34,14, 3,3, 1,1
+<SETCHARPOS>: 3,0,15, S, ContinueMap
+
+//Way 5
+<LAYER1>: CGate, 35.01,0,35, n, CGate
+<EVENT>:  GotoCalambaSE-2,34,35, 3,3, 1,1
+<SETCHARPOS>: 3,0,36, S, ContinueMap
+
+//Way 1
+<LAYER1>: CGate, 5,0,1.01, w, CGate
+<EVENT>:  GotoCalambaNW-1,6,2, 1,1, 1,1
+<SETCHARPOS>: 5,0,46, e, ContinueMap
+
+//Way 3
+<LAYER1>: CGate, 19,0,1.01, w, CGate
+<EVENT>:  GotoCalambaNW-2,19,2, 3,3, 1,1
+<SETCHARPOS>: 20,0,46, e, ContinueMap
+
+
+<SURFACE>:   Z1PLANE1,  Land-4,  5,0.01,1, 2,0,3, s
+<SURFACE>:   Z1PLANE1,  Land-4,  5,0.01,4, 5,0,5, s
+<SURFACE>:   Z1PLANE1,  Land-4,  7,0.01,9, 2,0,8, s
+<SURFACE>:   Z1PLANE1,  Land-4,  5,0.01,15, 2,0,5, s
+<SURFACE>:   Z1PLANE1,  Land-4,  5,0.01,20, 2,0,5, s
+<SURFACE>:   Z1PLANE1,  Land-4,  5,0.01,25, 2,0,6, s
+
+<SURFACE>:   Z1PLANE1,  Land-4,  7,0.01,23, 7,0,8, s
+<SURFACE>:   Z1PLANE1,  Land-4,  12,0.01,31, 2,0,4, s
+<SURFACE>:   Z1PLANE1,  Land-4,  20,0.01,30, 2,0,5, s
+
+<SURFACE>:   Z1PLANE1,  Land-4,  13,0.01,7, 2,0,4, s
+<SURFACE>:   Z1PLANE1,  Land-4,  13,0.01,11, 2,0,4,s
+<SURFACE>:   Z1PLANE1,  Land-4,  13,0.01,15, 2,0,4, s
+<SURFACE>:   Z1PLANE1,  Land-4,  13,0.01,19, 2,0,4, s
+
+<SURFACE>:   Z1PLANE1,  Land-4,  2,0.01,35, 8,0,2, s
+<SURFACE>:   Z1PLANE1,  Land-4,  10,0.01,35, 8,0,2, s
+<SURFACE>:   Z1PLANE1,  Land-4,  18,0.01,35, 8,0,2,s
+<SURFACE>:   Z1PLANE1,  Land-4,  26,0.01,35, 9,0,2, s
+
+<SURFACE>:   Z1PLANE1,  Land-4,  19,0.01,25, 4,0,5, s
+<SURFACE>:   Z1PLANE1,  Land-4,  23,0.01,25, 4,0,5, s
+
+<SURFACE>:   Z1PLANE1,  Land-4,  25,0.01,19, 2,0,6, s
+<SURFACE>:   Z1PLANE1,  Land-4,  21,0.01,19, 4,0,3, s
+<SURFACE>:   Z1PLANE1,  Land-4,  15,0.01,19, 6,0,3, s
+
+<SURFACE>:   Z1PLANE1,  Land-4,  27,0.01,19, 5,0,2, s
+<SURFACE>:   Z1PLANE1,  Land-4,  30,0.01,14, 2,0,5, s
+
+<SURFACE>:   Z1PLANE1,  Land-4,  13,0.01,5, 7,0,2, s
+<SURFACE>:   Z1PLANE1,  Land-4,  20,0.01,5, 6,0,2, s
+<SURFACE>:   Z1PLANE1,  Land-4,  26,0.01,5, 6,0,2, s
+
+<SURFACE>:   Z1PLANE1,  Land-4,  19,0.01,2, 2,0,3, s
+<SURFACE>:   Z1PLANE1,  Land-4,  20,0.01,14, 2,0,2, s
+<SURFACE>:   Z1PLANE1,  Land-4,  32,0.01,14, 3,0,2, s
+<SURFACE>:   Z1PLANE1,  Land-4,  29,0.01,10.5, 2,0,2, s
+
+//Codes of North-East Map BEGINS:
+
+<LAYER1>: Bench,4,0,29, n, 167
+<LAYER1>: Bench,5,0,32, w, 167
+<LAYER1>: Bench,9,0,32, w, 167
+
+<LAYER1>: Tree, 3,0,1, S, tree
+<LAYER1>: Tree1, 3,0,2, e, tree
+
+<LAYER1>: Fence2,3,0,3, n, 256
+<LAYER1>: Fence2,3,0,4, n, 256
+<LAYER1>: Fence2,3,0,5, n, 256
+<LAYER1>: Fence2,3,0,6, n, 256
+<LAYER1>: Fence2,3,0,7, n, 256
+<LAYER1>: Fence2,3,0,8, n, 256
+
+//House#7
+<LAYER1>: OrdinaryHouse, 2,0,9, n, OrdinaryHouse-2
+<LAYER1>: Door1-1, 6,0,12, s, Door3-3
+<EVENT>:  GotoOH7, 6,12, 1,1, 1,1
+<SETCHARPOS>: 10,0,3,n, ContinueMap
+
+<LAYER1>: Tree2, 3,0,14, S, tree
+<LAYER1>: Tree1, 3,0,15, e, tree
+<LAYER1>: Tree1, 2,0,16, S, tree
+<LAYER1>: Tree2, 2,0,17, e, tree
+<LAYER1>: Tree, 3,0,18, S, tree
+<LAYER1>: Tree1, 3,0,19, e, tree
+
+<LAYER1>: Fence2,3,0,20, n, 256
+<LAYER1>: Fence2,3,0,21, n, 256
+<LAYER1>: Fence2,3,0,22, n, 256
+<LAYER1>: Fence2,3,0,23, n, 256
+<LAYER1>: Fence2,3,0,24, n, 256
+
+<LAYER1>: Fence2,11,0,6, n, 256
+<LAYER1>: Fence2,11,0,7, n, 256
+<LAYER1>: Fence2,11,0,8, n, 256
+<LAYER1>: Fence2,11,0,9, n, 256
+<LAYER1>: Fence2,11,0,10, n, 256
+<LAYER1>: Fence2,11,0,11, n, 256
+<LAYER1>: Fence2,11,0,12, n, 256
+
+<LAYER1>: Tree2, 11,0,13, S, tree
+<LAYER1>: Tree, 11,0,14, e, tree
+<LAYER1>: Tree2, 11,0,15, S, tree
+<LAYER1>: Tree, 11,0,16, e, tree
+
+
+//House#8
+<LAYER1>: OrdinaryHouse, 8,0,17, n, OrdinaryHouse-3
+<LAYER1>: Door3-1, 12,0,19, s, Door3-5
+<EVENT>:  GotoOH8, 12,19, 1,1, 1,1
+<SETCHARPOS>: 10,0,8,n, ContinueMap
+
+<LAYER1>: Tree1, 16,0,2, w, tree
+<LAYER1>: Tree, 17,0,2, w, tree
+
+<LAYER1>: Tree1, 16,0,8, n, tree
+<LAYER1>: Tree2, 16,0,9, n, tree
+<LAYER1>: Tree1, 16,0,10, n, tree
+<LAYER1>: Tree, 16,0,11, n, tree
+
+
+//House#9
+<LAYER1>: OrdinaryHouse, 16,0,13, n, OrdinaryHouse-2
+<LAYER1>: Door1-1, 20,0,14, s, Door3-1
+<EVENT>:  GotoOH9, 20,14, 1,1, 1,1
+<SETCHARPOS>: 10,0,3,n, ContinueMap
+
+<LAYER1>: Tree2, 22,0,2, w, tree
+<LAYER1>: Tree1, 23,0,2, w, tree
+
+<LAYER1>: Fence2,24,0,2, w, 256
+<LAYER1>: Fence2,25,0,2, w, 256
+<LAYER1>: Fence2,26,0,2, w, 256
+<LAYER1>: Fence2,27,0,2, w, 256
+<LAYER1>: Fence2,28,0,2, w, 256
+<LAYER1>: Fence2,29,0,2, w, 256
+<LAYER1>: Fence2,30,0,2, w, 256
+<LAYER1>: Fence2,31,0,2, w, 256
+<LAYER1>: Fence2,32,0,2, w, 256
+
+<LAYER1>: Tree, 33,0,4, w, tree
+<LAYER1>: Tree1, 34,0,4, w, tree
+<LAYER1>: Tree, 34,0,5, w, tree
+<LAYER1>: Tree1, 34,0,6, w, tree
+<LAYER1>: Tree, 34,0,7, w, tree
+
+
+//House#10
+<LAYER1>: OrdinaryHouse, 31,0,8, n, OrdinaryHouse
+<LAYER1>: Door1-1, 30,0,11, n, Door3-2
+<EVENT>:  GotoOH10, 30,11, 1,1, 1,1
+<SETCHARPOS>: 10,0,8,n, ContinueMap
+
+<LAYER1>: Tree1, 34,0,17, n, tree
+<LAYER1>: Tree, 34,0,18, e, tree
+
+
+//House#11
+<LAYER1>: OrdinaryHouse, 28,0,26, n, OrdinaryHouse-3
+<LAYER1>: Door3-1, 32,0,28, s, Door3-1
+<EVENT>:  GotoOH11, 32,28, 1,1, 1,1
+<SETCHARPOS>: 10,0,3,n, ContinueMap
+
+
+<LAYER1>: Tree1, 22,0,22, n, tree
+<LAYER1>: Tree2, 23,0,22, e, tree
+<LAYER1>: Tree1, 22,0,23, s, tree
+
+<LAYER1>: Fence2,17,0,23, w, 256
+<LAYER1>: Fence2,18,0,23, w, 256
+<LAYER1>: Fence2,19,0,23, w, 256
+<LAYER1>: Fence2,20,0,23, w, 256
+<LAYER1>: Fence2,21,0,23, w, 256
+
+<LAYER1>: Tree1, 16,0,24, n, tree
+<LAYER1>: Tree, 15,0,24, e, tree
+<LAYER1>: Tree1, 15,0,25, s, tree
+
+<LAYER1>: Fence2,15,0,26, n, 256
+<LAYER1>: Fence2,15,0,27, n, 256
+<LAYER1>: Fence2,15,0,28, n, 256
+<LAYER1>: Fence2,15,0,29, n, 256
+<LAYER1>: Fence2,15,0,30, n, 256
+
+<LAYER1>: Kubo,16,0.01,31, w, kubo
+
+<LAYER1>: Bench,17,0,27, n, 167
+
+<LAYER1>: Tree1, 23,0,31, s, tree
+<LAYER1>: Tree1, 24,0,31, e, tree
+<LAYER1>: Tree, 25,0,31, n, tree
+<LAYER1>: Tree, 26,0,31, s, tree
+<LAYER1>: Tree1, 27,0,31, s, tree
+<LAYER1>: Tree, 28,0,31, n, tree
+<LAYER1>: Tree1, 29,0,31, w, tree
+<LAYER1>: Tree, 30,0,31, s, tree
+<LAYER1>: Tree1, 31,0,31, e, tree
+<LAYER1>: Tree1, 32,0,31, s, tree
+<LAYER1>: Tree, 33,0,31, w, tree
+<LAYER1>: Tree1, 34,0,31, s, tree
+<LAYER1>: Tree, 35,0,31, s, tree
+
+<LAYER1>: Tree1, 23,0,33, s, tree
+<LAYER1>: Tree2, 24,0,33, s, tree
+<LAYER1>: Tree, 25,0,33, e, tree
+<LAYER1>: Tree1, 26,0,33, n, tree
+<LAYER1>: Tree2, 27,0,33, s, tree
+<LAYER1>: Tree, 28,0,33, s, tree
+<LAYER1>: Tree1, 29,0,33, e, tree
+<LAYER1>: Tree1, 30,0,33, n, tree
+<LAYER1>: Tree, 31,0,33, s, tree
+<LAYER1>: Tree1, 32,0,33, s, tree
+<LAYER1>: Tree, 33,0,33, s, tree
+<LAYER1>: Tree, 34,0,33, n, tree
+<LAYER1>: Tree, 35,0,33, s, tree
+
+<LAYER1>: Tree, 23,0,32, n, tree
+<LAYER1>: Tree1, 35,0,32, s, tree
+
+<LAYER1>: Tree1, 28,0,22, n, tree
+<LAYER1>: Tree, 28,0,23, s, tree
+
+<LAYER1>: Tree, 33,0,23, n, tree
+<LAYER1>: Tree, 34,0,23, s, tree
+<LAYER1>: Tree1, 34,0,22, s, tree
+
+<LAYER1>: Fence2,34,0,19, n, 256
+<LAYER1>: Fence2,34,0,20, n, 256
+<LAYER1>: Fence2,34,0,21, n, 256
+
+<LAYER1>: Fence2,29,0,23, w, 256
+<LAYER1>: Fence2,30,0,23, w, 256
+<LAYER1>: Fence2,31,0,23, w, 256
+<LAYER1>: Fence2,32,0,23, w, 256
+
+<LAYER1>: Tree, 3,0,25, n, tree
+<LAYER1>: Tree1, 3,0,26, n, tree
+<LAYER1>: Tree, 3,0,27, n, tree
+<LAYER1>: Tree1, 3,0,28, n, tree
+<LAYER1>: Tree2, 3,0,29, n, tree
+<LAYER1>: Tree, 3,0,30, n, tree
+<LAYER1>: Tree1, 3,0,31, n, tree
+<LAYER1>: Tree, 3,0,32, n, tree
+<LAYER1>: Tree, 3,0,33, n, tree
+
+<LAYER1>: Tree1, 1,0,33, n, tree
+<LAYER1>: Tree, 2,0,33, n, tree
+<LAYER1>: Tree1, 3,0,33, n, tree
+<LAYER1>: Tree, 4,0,33, n, tree
+<LAYER1>: Tree1, 5,0,33, n, tree
+<LAYER1>: Tree2, 6,0,33, n, tree
+<LAYER1>: Tree1, 7,0,33, n, tree
+<LAYER1>: Tree, 8,0,33, n, tree
+<LAYER1>: Tree1, 9,0,33, n, tree
+<LAYER1>: Tree, 10,0,33, n, tree
+<LAYER1>: Tree1, 11,0,33, n, tree
+
+<SURFACE>: TileGrass, 104, 1,0,38, 35,.5,13, S
+
+<LAYER1>: Fence2,1,0,37, w, 256
+<LAYER1>: Fence2,2,0,37, w, 256
+<LAYER1>: Fence2,3,0,37, w, 256
+<LAYER1>: Fence2,4,0,37, w, 256
+<LAYER1>: Fence2,5,0,37, w, 256
+<LAYER1>: Fence2,6,0,37, w, 256
+<LAYER1>: Fence2,7,0,37, w, 256
+<LAYER1>: Fence2,8,0,37, w, 256
+<LAYER1>: Fence2,9,0,37, w, 256
+<LAYER1>: Fence2,10,0,37, w, 256
+<LAYER1>: Fence2,11,0,37, w, 256
+<LAYER1>: Fence2,12,0,37, w, 256
+<LAYER1>: Fence2,13,0,37, w, 256
+<LAYER1>: Fence2,14,0,37, w, 256
+<LAYER1>: Fence2,15,0,37, w, 256
+<LAYER1>: Fence2,16,0,37, w, 256
+<LAYER1>: Fence2,17,0,37, w, 256
+<LAYER1>: Fence2,18,0,37, w, 256
+<LAYER1>: Fence2,19,0,37, w, 256
+<LAYER1>: Fence2,20,0,37, w, 256
+<LAYER1>: Fence2,21,0,37, w, 256
+<LAYER1>: Fence2,22,0,37, w, 256
+<LAYER1>: Fence2,23,0,37, w, 256
+<LAYER1>: Fence2,24,0,37, w, 256
+<LAYER1>: Fence2,25,0,37, w, 256
+<LAYER1>: Fence2,26,0,37, w, 256
+<LAYER1>: Fence2,27,0,37, w, 256
+<LAYER1>: Fence2,28,0,37, w, 256
+<LAYER1>: Fence2,29,0,37, w, 256
+<LAYER1>: Fence2,30,0,37, w, 256
+<LAYER1>: Fence2,31,0,37, w, 256
+<LAYER1>: Fence2,32,0,37, w, 256
+<LAYER1>: Fence2,33,0,37, w, 256
+<LAYER1>: Fence2,34,0,37, w, 256
+<LAYER1>: Fence2,35,0,37, w, 256
+
+<LAYER1>: Tree, 11,0,3, s, tree
+<LAYER1>: Tree1, 11,0,4, s, tree
+<LAYER1>: Tree1, 11,0,5, n, tree
+<LAYER1>: Tree, 16,0,3, n, tree
+
+<LAYER1>: Fence2,9,0,3, w, 256
+<LAYER1>: Fence2,10,0,3, w, 256
+<LAYER1>: Fence2,11,0,3, w, 256
+<LAYER1>: Fence2,12,0,3, w, 256
+<LAYER1>: Fence2,13,0,3, w, 256
+<LAYER1>: Fence2,14,0,3, w, 256
+<LAYER1>: Fence2,15,0,3, w, 256
+
+<LAYER1>: Tree, 8,0,1, n, tree
+<LAYER1>: Tree1, 8,0,2, n, tree
+<LAYER1>: Tree, 8,0,3, n, tree
+
+<LAYER1>: Tree, 18,0,12, n, tree
+<LAYER1>: Tree1, 19,0,12, e, tree
+<LAYER1>: Bench,18,0,8, n, 167
+<LAYER1>: Tree, 33,0,2, n, tree
+<LAYER1>: Tree, 33,0,3, e, tree
+
+<SURFACE>:   Z1PLANE1,  grass3,  22,0.01,8, 7,0,10, s
+<LAYER1>: Bench,22,0,10, n, 167
+<LAYER1>: Bench,24,0,8, w, 167
+<LAYER1>: Slight,22,0,8, n, Slight-2
+<LAYER1>: Slight,28,0,17, n, Slight-2
+<LAYER1>: Slight,28,0,8, n, Slight-2
+
+//Fence Around
+
+<SURFACE>: Z1BigFence, 284, 1,0,1, 1,1,50, N
+
+<SURFACE>: Z1BigFence, 284, 1,0,1, 1,1,4, W
+<SURFACE>: Z1BigFence, 284, 7,0,1, 1,1,12, W
+<SURFACE>: Z1BigFence, 284, 21,0,1, 1,1,14, W
+
+<SURFACE>: Z1BigFence, 284, 35,0,1, 1,1,13, N
+<SURFACE>: Z1BigFence, 284, 35,0,16, 1,1,19, N
+<SURFACE>: Z1BigFence, 284, 35,0,37 1,1,15, N
+
+<LAYER1>: FencePost ,1,0,1, n, 278
+<LAYER1>: FencePost ,4.5,0,1, w, 278
+<LAYER1>: FencePost ,6.5,0,1, w, 278
+
+<LAYER1>: FencePost ,18.5,0,1, w, 278
+<LAYER1>: FencePost ,20.5,0,1, w, 278
+
+<LAYER1>: FencePost ,35,0,13.5, n, 278
+<LAYER1>: FencePost ,35,0,15.5, n, 278
+
+<LAYER1>: FencePost ,1,0,34.5, n, 278
+<LAYER1>: FencePost ,35,0,34.5, n, 278
+
+//End of Fence
+//End of North-East Map
+
+<MAKEBLOCK>: 1,1, 1,50
+<MAKEBLOCK>: 1,1, 35,1
+<MAKEBLOCK>: 1,50, 35,1
+<MAKEBLOCK>: 35,1, 1,50
+
+<LIGHT>: AMBIENT, 0,0,0, .8,.8,.8, DUMMYD1
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Rozs
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, CMan1
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, CMan2
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, CMan3
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, OldLadyDress2
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, OldLadyDress1
+
+<BLOCKROW>: 0
+<BLOCKCOL>: 0
+<BLOCKROW>: 51
+<BLOCKCOL>: 36

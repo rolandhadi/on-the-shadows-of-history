@@ -1,0 +1,186 @@
+<StartEvent>: MHallway1
+<ENABLESAVE>
+<MapName>: _Museum Hallway_
+<DRAWBACK>: 450
+<LMOUSE>: 27
+<HMOUSE>: 60
+<FOG>: 400,450, 100, 100
+
+<OBJECT>: Sofa
+<OBJECT>: Lamp
+<OBJECT>: RoundTable
+<OBJECT>: Plant
+<OBJECT>: Blocker
+<OBJECT>: Candle
+<OBJECT>: Door2-1
+<OBJECT>: Painting1X1
+<OBJECT>: Painting1X2
+<OBJECT>: Painting2X1
+<OBJECT>: Painting2X3
+<OBJECT>: Painting3X2
+<OBJECT>: Frame2X1
+<OBJECT>: Frame2X3
+<OBJECT>: Frame1X2
+<OBJECT>: Frame1X1
+<OBJECT>: Frame3X2
+
+<DUMMY>: L1,0,0,0
+<DUMMY>: C1,1,0,1
+<DUMMY>: C2,1,0,26
+<DUMMY>: C3,10,0,1
+<DUMMY>: C4,10,0,26
+
+<CHARACTER>: Rozs, 3,0,8, n
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 8
+<ANIMATION>: Run,  8
+<ANIMATION>: Push, 8
+<ANIMATION>: Dock, 8
+
+<CHARACTER>: Man1, 9,0,8, s
+<ANIMATION>: Wait, 1
+
+<CHARACTER>: Harlene, 6,0,23, w
+<ANIMATION>: Wait, 1
+
+<CHARACTER/>
+
+<EVENT>: TalkMan2, 7,7, 3,3, 1,1
+<EVENT>: TalkMHarlene, 5,22, 3,3, 1,1
+
+//Fisrt Hallway Area
+
+//<SURFACE>:   Z3PLANE1, 333,  4,0.01,3, 4,0,19, s
+<SURFACE>:   Z1PLANE1, 333,  4,0.01,3, 4,0,4, w
+<SURFACE>:   Z1PLANE1, 333,  4,0.01,7, 4,0,4, w
+<SURFACE>:   Z1PLANE1, 333,  4,0.01,11, 4,0,4, w
+<SURFACE>:   Z1PLANE1, 333,  4,0.01,15, 4,0,4, w
+<SURFACE>:   Z1PLANE1, 333,  4,0.01,19, 3,0,4, w
+<SURFACE>:   Z1PLANE1, 333,  5,0.01,22, 2,0,2, s
+
+<SURFACE>:   PlaneBox,  Wall-8, 1,0,1, 10,10,26, s
+<SURFACE>:   Z2Ceiling, Roof-1,  1,5,1, 10,0,26, s
+<SURFACE>:   Z5PLANE1, 66,  1,0,1, 30,0,30, s
+
+<LAYER1>: Lamp, 2,0,5, n, none
+<LAYER1>: Lamp, 2,0,11, n, none
+<LAYER1>: Lamp, 2,0,13, n, none
+<LAYER1>: Lamp, 2,0,15, n, none
+<LAYER1>: Lamp, 2,0,17, n, none
+<LAYER1>: Lamp, 2,0,19, n, none
+<LAYER1>: Lamp, 2,0,21, n, none
+
+<LAYER1>: Lamp, 9,0,5, s, none
+<LAYER1>: Lamp, 9,0,11, s, none
+<LAYER1>: Lamp, 9,0,13, s, none
+<LAYER1>: Lamp, 9,0,15, s, none
+<LAYER1>: Lamp, 9,0,17, s, none
+<LAYER1>: Lamp, 9,0,19, s, none
+<LAYER1>: Lamp, 9,0,21, s, none
+
+<LAYER1>: Candle, 4,0,25, w, Candle-1
+<LAYER1>: Candle, 7,0,25, w, Candle-1
+
+<LAYER1>: Blocker, 4,0,24, w, Blocker1
+<LAYER1>: Blocker, 5,0,24, w, Blocker1
+<LAYER1>: Blocker, 6,0,24, w, Blocker1
+<LAYER1>: Blocker, 7,0,24, w, Blocker1
+
+<LAYER1>: Blocker, 2,0,23, w, Blocker1
+<LAYER1>: Blocker, 3,0,23, w, Blocker1
+<LAYER1>: Blocker, 3,0,24, n, Blocker1
+
+<LAYER1>: Blocker, 8,0,23, w, Blocker1
+<LAYER1>: Blocker, 9,0,23, w, Blocker1
+<LAYER1>: Blocker, 8,0,24, n, Blocker1
+
+<LAYER1>: Door2-1, 4,0,1, w, MDoor2
+<EVENT>: GotoMuseumLounge-1, 4,1, 4,2, 1,1
+<SETCHARPOS>: 14,0,26, E, ContinueMap
+
+<LAYER1>: Door2-1, 7,0,1, w, MDoor2
+<EVENT>: GotoMuseumLounge-2, 4,1, 4,2, 1,1
+<SETCHARPOS>: 16,0,26, E, ContinueMap
+
+<LAYER1>: Door2-1, 1,0,8, s, MDoor2
+<EVENT>: GotoHallWay2-1, 1,8, 2,2, 1,1
+<SETCHARPOS>: 24,0,5, N, ContinueMap
+
+<LAYER1>: Roundtable, 2,0,2, s, 1
+<LAYER1>: Roundtable, 9,0,2, s, 1
+
+//Rizal Portraits
+<LAYER1>: Frame3X2,    5,1,26, e, 244
+<LAYER1>: Painting3X2, 5,1,26, e, YoungRizal
+
+<LAYER1>: Frame1X1,    1,1,12, s, 244
+<LAYER1>: Painting1X1, 1,1,12, s, Rizal11Yr
+<EVENT>:  Rizal11, 1,12, 1,1, 1,1
+
+<LAYER1>: Frame1X1,    1,1,14, s, 244
+<LAYER1>: Painting1X1, 1,1,14, s, Rizal16Yr
+<EVENT>:  Rizal16, 1,14, 1,1, 1,1
+
+<LAYER1>: Frame1X1,    1,1,16, s, 244
+<LAYER1>: Painting1X1, 1,1,16, s, Rizal18Yr
+<EVENT>:  Rizal18, 1,16, 1,1, 1,1
+
+<LAYER1>: Frame1X1,    1,1,18, s, 244
+<LAYER1>: Painting1X1, 1,1,18, s, Rizal25Yr
+<EVENT>:  Rizal25, 1,18, 1,1, 1,1
+
+<LAYER1>: Frame1X1,    1,1,20, s, 244
+<LAYER1>: Painting1X1, 1,1,20, s, Rizal35Yr
+<EVENT>:  Rizal35, 1,20, 1,1, 1,1
+
+//Rizal Women's
+
+<LAYER1>: Frame1X1,    10,1,3, n, 244
+<LAYER1>: Painting1X1, 10,1,3, n, Segunda
+<EVENT>:  Segunda, 10,3, 1,1, 1,1
+
+<LAYER1>: Frame1X1,    10,1,7, n, 244
+<LAYER1>: Painting1X1, 10,1,7, n, LeonorValenzuela
+<EVENT>:  LeonorV, 10,7, 1,1, 1,1
+
+<LAYER1>: Frame1X1,    10,1,9, n, 244
+<LAYER1>: Painting1X1, 10,1,9, n, Leonor
+<EVENT>:  LeonorR, 10,9, 1,1, 1,1
+
+<LAYER1>: Frame1X1,    10,1,12, n, 244
+<LAYER1>: Painting1X1, 10,1,12, n, Oseisan
+<EVENT>:  O-SeiSan, 10,12, 1,1, 1,1
+
+<LAYER1>: Frame1X1,    10,1,14, n, 244
+<LAYER1>: Painting1X1, 10,1,14, n, Gertrude
+<EVENT>:  Gertrude, 10,14, 1,1, 1,1
+
+<LAYER1>: Frame1X1,    10,1,16, n, 244
+<LAYER1>: Painting1X1, 10,1,16, n, Jacoby
+<EVENT>:  Susan, 10,16, 1,1, 1,1
+
+<LAYER1>: Frame1X1,    10,1,18, n, 244
+<LAYER1>: Painting1X1, 10,1,18, n, Nelly
+<EVENT>:  Nelly, 10,18, 1,1, 1,1
+
+<LAYER1>: Frame1X1,    10,1,20, n, 244
+<LAYER1>: Painting1X1, 10,1,20, n, Josephine
+<EVENT>:  Josephine, 10,20, 1,1, 1,1
+
+//End of Hallway
+
+<LIGHT>: AMBIENT, 0,0,0, .8,.8,.8, DUMMYL1
+<LIGHT>: DIRECTIONAL, 0,0,0, .1,.1,.1, DUMMYL1
+<LIGHT>: SPOT, 5,7,13, 1,1,1, DUMMYC1
+<LIGHT>: SPOT, 5,7,13, .7,.7,.7, DUMMYC2
+<LIGHT>: SPOT, 5,7,13, 1,1,1, DUMMYC3
+<LIGHT>: SPOT, 5,7,13, .7,.7,.7, DUMMYC4
+
+<LIGHT>: SPOT, 0,4,2, .7,.5,.5, Rozs
+<LIGHT>: SPOT, 0,4,2, .7,.5,.5, Man1
+<LIGHT>: SPOT, 0,4,2, .7,.5,.5, Harlene
+
+<BLOCKROW>: 0
+<BLOCKCOL>: 0
+<BLOCKROW>: 27
+<BLOCKCOL>: 11

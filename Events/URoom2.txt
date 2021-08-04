@@ -1,0 +1,127 @@
+<SETCHARPOS>: Rozs, 5,0,6, e
+<SETCHARPOS>: RLady,4,0,5, n
+
+<CharFace>: RLady, Rozs, Back
+<CharFace>: Rozs, RLady
+<Message>: _&MysteriousRoom<1>_, 3,None
+<RotateCam>: Rozs, Left, 4000,8
+<PlaySound>: Rozs12
+
+<NextEvent>
+<SETCAMPOS>: 5,4,8, RLady
+<PlaySound>: Recep9
+<Message>: _&MysteriousRoom<2>_, 4,None
+<RotateCam>: Rlady, Left, 500,4
+</>
+
+<NextEvent>
+<PlaySound>: Recep10
+<Message>: _&MysteriousRoom<3>_, 6,None
+<RotateCam>: Rlady, Left, 500,6
+</>
+
+<NextEvent>
+<SETCAMPOS>: 5,4,8, Rozs
+<PlaySound>: Rozs13
+<Message>: _&MysteriousRoom<4>_, 4,None
+<SETCAMPOS>: 5,3,8, Rozs
+</>
+
+<NextEvent>
+<CharFace>: RLady, Rozs
+<SETCAMPOS>: 5,4,8, RLady
+<PlaySound>: Recep11
+<Message>: _&MysteriousRoom<5>_, 4,None
+<RotateCam>: Rlady, Right, 500,4
+<CharAnimate>: RLady, Give, Once, 50, 4
+</>
+
+
+<NextEvent>
+<RotateCam>:   Rozs, Left, 500,2
+<CharAnimate>: Rozs, Give, Once, 50, 2
+</>
+
+<NextEvent>
+<RotateCam>:   Rozs, Left, 500,2
+<CharAnimate>: Rozs, Give, Reverse, 50, 2
+</>
+
+<NextEvent>
+<SETCAMPOS>: 5,4,8, Rozs
+<PlaySound>: Rozs14
+<Message>: _&MysteriousRoom<6>_, 4,None
+<RotateCam>: Rozs, Left, 500,4
+<CharAnimate>: RLady, Give, Reverse, 50, 4
+</>
+
+<NextEvent>
+<SETCAMPOS>: 5,4,8, RLady
+<PlaySound>: Recep12
+<Message>: _&MysteriousRoom<7>_, 4,None
+<RotateCam>: Rlady, Right, 500,4
+</>
+
+<NextEvent>
+<Message>: _&MysteriousRoom<8>_, 5,None
+<RotateCam>: Rlady, Right, 500,5
+</>
+
+<NextEvent>
+<PlaySound>: Rozs15
+<Message>: _&MysteriousRoom<9>_, 3,None
+<SETCAMPOS>: 6,4,7, Rozs
+</>
+
+<NextEvent>
+<PlaySound>: Recep13
+<Message>: _&MysteriousRoom<10>_, 6,None
+<RotateCam>: Rlady, Right, 500,6
+</>
+
+<NextEvent>
+<Message>: _&MysteriousRoom<11>_, 8,None
+<RotateCam>: Rlady, Right, 500,8
+</>
+
+<NextEvent>
+<Message>: _&MysteriousRoom<12>_, 7,None
+<RotateCam>: Rlady, Left, 500,7
+</>
+
+<NextEvent>
+<Message>: _&MysteriousRoom<13>_, 4,None
+<RotateCam>: Rlady, Left, 500,5
+</>
+
+<NextEvent>
+<Message>: _&MysteriousRoom<14>_, 7,None
+<RotateCam>: Rlady, left, 500,7
+</>
+
+<NextEvent>
+<PlaySound>: Rozs16
+<Message>: _&MysteriousRoom<15>_, 4,None
+<RotateCam>: Rozs, Left, 500,5
+</>
+
+<NextEvent>
+<PlaySound>: Teleport
+<RotateCam>: Rozs, Left, 30000,7
+</>
+
+<NextEvent>
+<SETCHARPOS>: Rozs, 20,0,20, e
+</>
+
+<NextEvent>
+<SETCAMPOS>: 4,5,4, RLady
+</>
+
+<NextEvent>
+<Message>: __, 1,None
+<Task>: TaskCalamba
+<STOPBG>
+<LoadMap>: CalambaStart
+</>
+

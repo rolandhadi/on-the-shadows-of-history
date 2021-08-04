@@ -1,0 +1,21 @@
+<Case>: TaposABed11
+<Message>: __, 1, None
+<Case Else>
+<NextEvent>
+<SETCAMPOS>: 10,5,10, RizalA
+<Message>: _&AteneoScene<43>_, 7, None
+<PLaysound>: Rizal-EAteneo3
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<116>_, 5, None
+<PLaysound>: Rizal-EAteneo13
+</>
+
+<NextEvent>
+<SETCAMPOS>: 3,5,3, Rozs
+<Message>: _&AteneoScene<118>_, 5
+//note wala pa poh!
+<Switch>: TaposABed11, On
+</>
+<End Select>

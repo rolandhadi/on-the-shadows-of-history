@@ -1,0 +1,36 @@
+<Case>: MariaFinished
+
+<MESSAGE>: _&AteneoScene<84>_, 3
+<PlaySound>: Maria1
+
+<Case>: Switch-Pablo
+
+<MESSAGE>: _&AteneoScene<85>_, 5
+<PlaySound>: Rozs51
+
+<NEXTEVENT>:
+<MESSAGE>: _&AteneoScene<86>_, 3
+<PlaySound>: Maria2
+</>
+
+<NEXTEVENT>:
+<MESSAGE>: _&AteneoScene<29>_, 3
+<PlaySound>: Rozs53
+</>
+
+<NEXTEVENT>:
+<MESSAGE>: _&AteneoScene<30>_, 5
+<Switch>: MariaFinished, On
+<Item>: Item-Pablo, Off
+<PlaySound>: Maria3
+<Task>: TaskA3
+</>
+
+<NEXTEVENT>
+<Reload>
+</>
+
+
+<Case Else>
+<MESSAGE>: _&AteneoScene<84>_, 3
+<End Select>

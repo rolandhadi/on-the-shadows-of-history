@@ -1,0 +1,12 @@
+<CHARFACE>: Guard3, Rozs
+<CHARFACE>: Rozs, Guard3
+<MESSAGE>: _&FSScene<54>_, 3
+
+<NEXTEVENT>
+<MESSAGE>: _&FSScene<55>_, 3
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&FSScene<56>_, 3
+</>
+

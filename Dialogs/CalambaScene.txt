@@ -1,0 +1,62 @@
+<1>
+<A>: _Do you know that the Rizal family belongs to the "principalia" - a town aristocracy in Spanish Philippines._
+<B>: _Alam mo ba ang pamilya ni Rizal ay nabibilang sa "principalia" - ang bayan ng aristokrata sa Spanish Philippines._
+<C>: 
+</>
+
+<2>
+<A>: _They are the ones distinguished families here in Calamba._
+<B>: _Isa sila sa mga kilalang pamilya dito sa Calamba._
+<C>: 
+</>
+
+<3>
+<A>: _This is the town of calamba - an hacienda town belonged to the Dominican Order._
+<B>: _Eto ang bayan ng Calamba - ang hasyenda na nabibilang sa Dominican Order._
+<C>: 
+</>
+
+<4>
+<A>: _Calamba's landmark in the plains is the Mount Makiling._
+<B>: _Ang kaakit akit na lugar sa Calamba ay ang Mount Makiling._
+<C>: 
+</>
+
+<5>
+<A>: _The flat lands around it produces Sugar and Rice._
+<B>: _Ang lupa na pinalilibutan ng asukal at bigas._
+<C>: 
+</>
+
+<6>
+<A>: _The region is part of the called "The Rice Bascet Of The Philippines. The most productive area in the country._
+<B>: _Ang parte ng rehiyon ay tinatawag na "The Rice Bascet Of The Philippines". Isa sa mga kapaki pakinabang na lugar sa bansa._
+<C>: 
+</>
+
+<7>
+<A>: _Francisco Mercado was a prosperous Sugar planter and Land holder._
+<B>: _Si Francisco Mercado ay isang asukarero ang tagapag may ari ng lupa._
+<C>: 
+</>
+
+<8>
+<A>: _His house is large and strong with earthquake-proof foundations and it was built by himself._
+<B>: _Ang kanyang bahay ay matibay at malaki at kanyang sariling gawa._
+<C>: 
+</>
+
+<9>
+<A>: _It is located South-West of Calamba._
+<B>: _Dun siya nakatira sa Timog-Kanluran ng Calamba._
+<C>: 
+</>
+
+<10>
+<A>: _Carol: The water here is very cold..._
+<B>: _Carol: Ang tubig dito'y napakalamig..._
+<C>: 
+</>
+
+
+

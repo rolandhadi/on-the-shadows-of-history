@@ -1,0 +1,4 @@
+<CHARFACE>: Harlene, Rozs
+<CHARFACE>: Rozs, Harlene
+<MESSAGE>: _&MuseumScene<47>_, 5
+

@@ -1,0 +1,9 @@
+<Case>: UnknownRoom
+<CHARFACE>: Man2, Rozs
+<CHARFACE>: Rozs, Man2
+<MESSAGE>: _&MuseumScene<65>_, 5
+<PlaySound>: LMan
+<Case Else>
+<MESSAGE>: _..._, 5
+<End Select>
+

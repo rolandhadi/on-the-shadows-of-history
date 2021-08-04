@@ -1,0 +1,24 @@
+<CHARFACE>: RizalA, Priest
+<CHARFACE>: Priest, RizalA
+
+<SetCamPos>: 6, 4, 8, RizalA
+
+<NextEvent>
+<Message>: _&AteneoScene<143>_, 5,None
+<PLaysound>: Rizal-EAteneo11
+<CharAnimate>: RizalA, Give, Once, 50 ,5
+</>
+
+<NextEvent>
+<CharAnimate>: RizalA, Give, Reverse, 50 ,3
+</>
+
+<NextEvent>
+<RotateCam>: Priest, Right, 500, 5
+<PLaysound>: FLleonart4
+<Message>: _&AteneoScene<44>_, 5,None
+</>
+
+<NEXTEVENT>
+<LOADMAP>: AEast-None
+</>

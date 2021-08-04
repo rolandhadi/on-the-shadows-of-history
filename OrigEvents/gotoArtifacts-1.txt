@@ -1,0 +1,8 @@
+<CASE>: UnknownRoom
+<Message>: _&MuseumScene<61>_, 1
+<CASE ELSE>
+<PlaySound>: Door-1
+<Message>: _&Entering<10>_, 1, NONE
+<Switch>: ARoom, On
+<LoadMap>: MuseumArtifacts
+<END SELECT>

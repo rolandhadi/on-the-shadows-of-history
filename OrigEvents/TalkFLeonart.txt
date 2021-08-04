@@ -1,0 +1,43 @@
+<Case>: LeonartFinish
+
+<Message>: _&AteneoScene<135>_, 5,None
+<Playsound>: FLleonart8
+
+<CASE>: RizalLetter
+
+<CHARFACE>: Priest, Rozs
+<CHARFACE>: Rozs, Priest
+
+<NextEvent>
+<SETCAMPOS>: 9,3,2, Priest
+<Message>: _&AteneoScene<129>_, 7,None
+<Playsound>: Ateneo-Rozs18
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<130>_, 5,None
+<Playsound>: FLleonart5
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<133>_, 3,None
+<Playsound>: FLleonart6
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<134>_, 7,None
+<Playsound>: FLleonart10
+</>
+
+<NextEvent>
+<Switch>: LeonartFinish, On
+<Item>: Item-MyFirstInspiration, On
+<ShowPreview>: MyFirstInspiration
+<Item>: Item-RizalLetter, Off
+<Task>: TaskA6
+</>
+
+<Case Else>:
+<Message>: _&AteneoScene<136>_, 7
+<Playsound>: FLleonart7
+<END SELECT>

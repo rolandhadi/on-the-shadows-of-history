@@ -1,0 +1,15 @@
+<Message>: _&RLady<1>_, 2, NONE
+<CharAnimate>: RLady, Talk1, Once, 50,2
+
+<NextEvent>
+<Message>: _&Rozs<1>_, 2, NONE
+<CharAnimate>: Rozs, Talk1, Once, 50,2
+</>
+
+<NextEvent>
+<CharAnimate>: RLady, Talk1, Reverse, 50,1
+</>
+
+<NextEvent>
+<CharAnimate>: Rozs, Talk1, Reverse, 50,1
+</>

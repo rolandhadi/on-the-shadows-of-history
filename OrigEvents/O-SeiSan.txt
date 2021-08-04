@@ -1,0 +1,19 @@
+<Message>: _O-Sei Kiyo San_, 2
+
+<NEXTEVENT>
+<Message>: _&O-SeiSan<1>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&O-SeiSan<2>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&O-SeiSan<3>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&O-SeiSan<4>_, 3
+</>
+
+

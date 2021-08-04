@@ -1,0 +1,62 @@
+/<SetCamPos>: 33,5,18, Rozs
+
+<NextEvent>
+<Fog>: 0,500, 0,0
+<SetCamPos>: 23,7,3, Rozs
+<Message>: _&AteneoScene<144>_,5, None
+<PlaySound>: Rozs70
+//note: isang sound lang lahat okie!
+</>
+
+<NextEvent>
+<Fog>: 0,400, 0,0
+<SetCamPos>: 25,6,4, Rozs
+<Message>: _&AteneoScene<145>_,3, None
+</>
+
+<NextEvent>
+<SetCamPos>: 27,5,5, Rozs
+<Fog>: 0,300, 0,0
+<Message>: _&AteneoScene<147>_,3, None
+</>
+
+<NextEvent>
+<SetCamPos>: 28,5,6, Rozs
+<Fog>: 0,200, 0,0
+<Message>: _&AteneoScene<148>_,3, None
+</>
+
+
+<NextEvent>
+<StopBG>
+<CharAnimate>: Rozs, Taob, Once, 1, 0
+</>
+
+<NextEvent>
+<CharAnimate>: Rozs, Taob, Reverse, 1, 0
+</>
+
+<NextEvent>
+<CharAnimate>: Rozs, Taob, Once, 1, 0
+</>
+
+<NextEvent>
+<CharAnimate>: Rozs, Taob, Reverse, 1, 0
+</>
+
+<NextEvent>
+<PlaySound>: Waah
+<Message>: _&AteneoScene<149>_,5, None
+<PlayBG>: Op
+<RotateCam>: Rozs, Left, 10000, 5
+<CharAnimate>: Rozs, Taob, Once, 150, 7
+</>
+
+<Nextevent>
+<stopbg>
+<playbg>: bg-segunda, loop
+</>
+
+<NextEvent>
+<LoadMap>: SegundaOutside
+</>

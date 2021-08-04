@@ -1,0 +1,22 @@
+<Case>: Con-RizalJosephine
+
+//note: ito yun magpapalit na c Rozs ng uniform ng civil guard
+<SETCAMPOS>: 11,1,9, Rozs
+<MESSAGE>: _&FSScene<105>_, 3, None
+
+<NEXTEVENT>
+<LoadMap>: fs-front3
+</>
+
+<Case>: NakapasokFS
+
+<Message>: _&Entering<23>_, 1, NONE
+<LoadMap>: fs-front2
+
+<Case Else>
+<StopBG>
+<PlayBG>: FS-1
+<Message>: _&Entering<23>_, 1, NONE
+<LoadMap>: fs-front
+
+<End Select>

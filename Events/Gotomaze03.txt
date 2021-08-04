@@ -1,0 +1,4 @@
+<PlaySound>: Door-1
+<Message>: _&Entering<34>&_, 2,NONE
+<LoadMap>: Maze-3
+

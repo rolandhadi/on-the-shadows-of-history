@@ -1,0 +1,71 @@
+<1>
+<A>: _Rozs: Where am I?_
+<B>: _Rozs: Nasaan ako?_
+<C>: 
+</>
+
+<2>
+<A>: _Rozs: Oh no! It's Rizal! What is he doing there?_
+<B>: _Rozs: Hindi maari! Si Rizal! Ano ang ginagawa niya dito?_
+<C>: 
+</>
+
+<3>
+<A>: _Rozs: There are guards! They are going to shoot Rizal. Stop!!!_
+<B>: _Rozs: May mga gwardiya! Babarilin nila si Rizal. Itigil nyo yan!!!_
+<C>: 
+</>
+
+<4>
+<A>: _Rozs: Hey wait!!! Stop!!!!_
+<B>: _Rozs: Sandali lang!!! Itigil nyo yan!!!_
+<C>: 
+</>
+
+<5>
+<A>: _Guardia Civil: Aim!!!!!!!!!_
+<B>: _Guardia Civil: Handa!!!!!!!!!_
+<C>: 
+</>
+
+<6>
+<A>: _Guardia Civil: Fire!!!!!!!!_
+<B>: _Guardia Civil: Barilin siya!!!!!!!!_
+<C>: 
+</>
+
+<627>
+<A>: _Rozs: Please stop this now!!!_
+<B>: _Rozs: Maaari bang itigil nyo yan!!!_
+<C>: 
+</>
+
+<7>
+<A>: _Guardia Civil: Who are you? Why are you here?!_
+<B>: _Guardia Civil: Sino ka? Bakit ka naririto?!_
+<C>: 
+</>
+
+<8>
+<A>: _Rozs: Stop this! That man is Rizal! Don't shoot him!!!_
+<B>: _Rozs: Itigil nyo yan! Ang lalaking yan ay si Rizal! Huwag nyo syang barilin!!! _
+<C>: 
+</>
+
+<9>
+<A>: _Guardia Civil: This man is interfering. Shoot him!!!_
+<B>: _Guardia Civil: Ang lalaking yan ay nanggugulo. Barilin nyo sya!!!_
+<C>: 
+</>
+
+<10>
+<A>: _Rozs: No! No! No! Wait!!! I should not be here!!!_
+<B>: _Rozs: Hindi! Sandali lang!!! Hindi ako dapat naririto!!!_
+<C>: 
+</>
+
+<11>
+<A>: _Guardia Civil: Fire!!!_
+<B>: _Guardia Civil: Barilin siya!!!_
+<C>: 
+</>

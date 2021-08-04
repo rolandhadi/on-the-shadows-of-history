@@ -1,0 +1,11 @@
+<Case>: Con-RizalJosephine
+<Message>: _&Tasks<31>_,1
+<Case>: DiPaUsapJosephine
+<Message>: _&Tasks<29>_,1
+<Case>: Switch-Rkey
+<Message>: _&Entering<37>_, 1, NONE
+<LoadMap>: RPrison-none
+<Case Else>
+<Message>: _&Entering<37>_, 1, NONE
+<LoadMap>: RPrison
+<End Select>

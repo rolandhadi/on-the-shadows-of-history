@@ -1,0 +1,79 @@
+//Note: naibalik na lahat ni Rozs un artifacts sa gallery
+<StopBG>
+<PlayBG>: parting1,LOOP
+<Setcharpos>: Rozs, 1, 10, 1, s 
+<Charface>: Aman1,Rlady
+<Charface>: Glaiz, Rlady 
+<Charface>: Aman6, Rlady
+<Charface>: Rlady, Glaiz
+
+<nextevent>
+<Setcampos>: 8,1,4, None, 5,1,4
+<MESSAGE>: __, 7,none
+</>
+
+<nextevent>
+<Setcampos>: 6,1,10, None, 4,1,7
+<MESSAGE>: __, 7,none
+</>
+
+<NEXTEVENT>
+<Setcampos>: 4,3,1, RLAdy
+<PlaySound>: Recep0
+<MESSAGE>: _&MuseumScene<2>_, 4,none
+<CharAnimate>: RLady, Bow, Once, 50,4
+</>
+
+<NextEvent>
+<MESSAGE>: _&MuseumScene<84>_, 5,none
+<PLaysound>: Francis
+<CharAnimate>: RLady, Bow, Reverse, 50, 3
+</>
+
+<NextEvent>
+<MESSAGE>: _&MuseumScene<83>_, 5,none
+<PLaysound>: Stud2
+</>
+
+<nextevent>
+<StopBG>
+<PlayBG>: Riddle
+<ShowSprite>: 640,480, 0,0, RizalEX, 15
+</>
+
+<nextevent>
+<StopBG>
+<FOG>: 0,0,0,0
+<Message>: __, 4, None
+</>
+
+<nextevent>
+<Message>: _&MuseumScene<85>_, 3, None
+<PlaySound>: End
+</>
+
+<nextevent>
+<Message>: _&MuseumScene<86>_, 3, None
+</>
+
+<nextevent>
+<Message>: _&MuseumScene<87>_, 8, None
+</>
+
+
+
+<nextevent>
+<Fog>: 0,0,0,0
+<Message>: __, 1, None
+</>
+
+<NextEvent>
+<ShowEnd>
+</>
+
+<NextEvent>
+<LoadMap>: Ending-1
+</>
+
+
+

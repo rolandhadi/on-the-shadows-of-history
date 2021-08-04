@@ -1,0 +1,42 @@
+<SETCAMPOS>: 3,5,3, RizalA
+
+<CharFace>: RizalA, Segunda
+<CharFace>: Segunda, RizalA
+
+<MESSAGE>: _&AteneoScene<160>_, 3, None
+<PLaySound>: Rizal-Katigbak3
+
+<NEXTEVENT>
+<RotateCam>: Segunda, Left, 500, 5
+<MESSAGE>: _&AteneoScene<161>_, 5, None
+<PLaySound>: Segunda1
+</>
+
+<NEXTEVENT>
+<RotateCam>: RizalA, Left, 500, 7
+<MESSAGE>: _&AteneoScene<162>_, 7, None
+<PLaySound>: Rizal-Katigbak4
+</>
+
+<NEXTEVENT>
+<RotateCam>: RizalA, Right, 500, 7
+<MESSAGE>: _&AteneoScene<163>_, 7, None
+<PLaySound>: Rizal-Katigbak5
+</>
+
+<NEXTEVENT>
+<RotateCam>: Segunda, Left, 500, 6
+<MESSAGE>: _&AteneoScene<164>_, 6, None
+<PLaySound>: Segunda2
+</>
+
+<NEXTEVENT>
+<RotateCam>: Segunda, Left, 500, 7
+<MESSAGE>: _&AteneoScene<165>_, 7, None
+<PLaySound>: Segunda3
+</>
+
+<NEXTEVENT>
+<LOADMAP>: SegundaOutside
+</>
+

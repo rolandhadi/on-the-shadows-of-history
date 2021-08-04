@@ -1,0 +1,15 @@
+<Case>: InNW2
+<Message>: __,1
+<Switch>: INSW2, Off
+<Switch>: INSE2, Off
+<Switch>: INNE2, Off
+<Switch>: INNW2, Off
+<Case>: InNW
+<Message>: __,1
+<Case>: Ini-RLadyCalamba
+<Switch>: InNW2, On
+<LoadMap>: Calamba-NW2
+<Case Else>
+<Switch>: InNW, On
+<LoadMap>: Calamba-NW
+<End Select>

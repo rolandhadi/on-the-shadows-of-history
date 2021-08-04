@@ -1,0 +1,29 @@
+<1>
+<A>: _Would you like to help me?_
+<B>: _Maaari mo ba akong tulungan?_
+<C>: 
+</>
+
+<2>
+<A>: _I think these catalogues aren't useful enough._
+<B>: _Sa tingin ko ang mga gabay na ito ay hindi gaanong makakatulong._
+<C>: 
+</>
+
+<3>
+<A>: _Oh Bun-Bun it's You?_
+<B>: _Oh Bun-Bun ikaw pala?_
+<C>: 
+</>
+
+<4>
+<A>: _I've been looking for you all over the jungle!!!_
+<B>: _Naghanap ako sa iyo sa lahat ng sulok ng gubat_
+<C>: 
+</>
+
+<5>
+<A>: _Would you like to borrow a book?_
+<B>: _Gusto mo bang humiram ng aklat?_
+<C>: 
+</>

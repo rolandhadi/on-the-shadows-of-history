@@ -1,0 +1,44 @@
+<DRAWBACK>: 450
+<LMOUSE>: 5
+<HMOUSE>: 150
+<FOG>: 400,450, 100, 100
+
+<SOUND>: BoxMove
+<OBJECT>: Box1X1
+
+<DUMMY>: D1,0,0,0
+<DUMMY>: D2,28,0,6
+
+<CHARACTER>: Rozs, 5,0,6, e
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 8
+<ANIMATION>: Run,  8
+<ANIMATION>: Push, 8
+<ANIMATION>: Dock, 8
+//Library Area
+<SURFACE>:   PlaneBox, 200, 1,0,1, 10,10,8, s
+<SURFACE>:   Z2PLANE1, 86,  1,0,1, 10,0,8, s
+
+<layer1>:Box1x1, 2,0,2, n,Num10,box10
+<layer1>:Box1x1, 3,0,3, n,Num9, box9
+<layer1>:Box1x1, 4,0,4, n,Num8, box8
+<layer1>:Box1x1, 5,0,5, n,Num7, box7
+<layer1>:Box1x1, 6,0,6, n,Num6, box6
+<layer1>:Box1x1, 7,0,2, n,Num5, box5
+<layer1>:Box1x1, 7,0,6, n,Num4, box4
+<layer1>:Box1x1, 8,0,3, n,Num3, box3
+<layer1>:Box1x1, 8,0,5, n,Num2, box2
+<layer1>:Box1x1, 9,0,5, n,Num1, box1
+
+//End of Library Area
+<LIGHT>: AMBIENT, 0,0,0, .8,.8,.8, DUMMYD1
+<LIGHT>: Directional, 0,0,0, .3,.3,.3, DUMMYD1
+
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Rozs
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Man1
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Man2
+
+<BLOCKROW>: 0
+<BLOCKCOL>: 0
+<BLOCKROW>: 8
+<BLOCKCOL>: 10

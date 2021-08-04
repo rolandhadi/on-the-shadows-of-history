@@ -1,0 +1,16 @@
+<Message>: _&MuseumScene<58>_, 2
+
+<NEXTEVENT>
+<RotateCam>: Rozs, Left, 500, 3
+<Message>: _&MuseumScene<78>_, 3, None
+</>
+
+<NEXTEVENT>
+<Message>: _&MuseumScene<79>_, 3, None
+</>
+
+<NEXTEVENT>
+<Message>: _&MuseumScene<80>_, 3, None
+</>
+
+

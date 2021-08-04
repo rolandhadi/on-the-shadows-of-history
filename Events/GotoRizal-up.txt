@@ -1,0 +1,9 @@
+<CASE>: Pepe1
+<PlaySound>: Door-1
+<Message>: _&Entering<43>_, 1, NONE
+<LoadMap>: Rizalhouse-up2
+<CASE ELSE>
+<PlaySound>: Door-1
+<Message>: _&Entering<43>_, 1, NONE
+<LoadMap>: Rizalhouse-up
+<END SELECT>

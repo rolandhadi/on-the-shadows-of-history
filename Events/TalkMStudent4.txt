@@ -1,0 +1,10 @@
+<CHARFACE>: Girl1, Rozs
+<CHARFACE>: Rozs, Girl1
+<MESSAGE>: _&MuseumScene<54>_, 5
+
+<NEXTEVENT>
+<Message>: _&MuseumScene<55>_, 5
+</>
+
+
+

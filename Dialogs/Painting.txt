@@ -1,0 +1,34 @@
+<1>
+<A>: _Actual picture of Jose Rizal's execution._
+<B>: _larawan nung Jose Rizal's execution. _
+<C>: 
+</>
+
+<2>
+<A>: _Rizal family picture taken after Jose's burial_
+<B>: _Larawan ng pamilya ni Rizal, kinuha pagtapos ng libing ni Rizal._
+<C>: 
+</>
+
+<3>
+<A>: _Jose's tomb_
+<B>: _Jose's tomb_ 
+<C>: 
+</>
+
+<4>
+<A>: _Ateneo Municipal, located within the Walls of Intramuros_
+<B>: _Ateneo Municipal, kung saan nasa dingding ng Intramuros_
+<C>: 
+</>
+
+<5>
+<A>: _Died on December 30, 1896_
+<B>: _Namatay noong Disyembre 30, 1896_
+<C>: 
+</>
+
+
+
+
+

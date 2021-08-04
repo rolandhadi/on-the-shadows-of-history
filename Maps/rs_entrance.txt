@@ -1,0 +1,70 @@
+<ENABLESAVE>
+
+<DRAWBACK>: 450
+<LMOUSE>: 20
+<HMOUSE>: 60
+<FOG>: 400,450, 100, 100
+
+<SOUND>: BoxMove
+<OBJECT>: slight
+//<OBJECT>: sghouse
+<OBJECT>: tree
+//<OBJECT>: oldhouse
+
+
+<DUMMY>: D1,0,0,0
+<DUMMY>: D2,28,0,6
+
+<CHARACTER>: Rozs, 5,0,6, e
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 8
+<ANIMATION>: Run,  8
+<ANIMATION>: Push, 8
+<ANIMATION>: Dock, 8
+//Library Area
+//<SURFACE>:   PlaneBox,  61, 1,0,1, 35,10,50, s
+<SURFACE>:   Z5PLANE1, 46,  1,0,1, 35,0,50, s
+
+<layer1>:slight, 1,0,1, s, slight-2
+<layer1>:slight, 1,0,4, s, slight-2
+<layer1>:slight, 1,0,7, s, slight-2
+<layer1>:slight, 1,0,10, s, slight-2
+<layer1>:slight, 4,0,1, n, slight-2
+<layer1>:slight, 4,0,4, n, slight-2
+<layer1>:slight, 4,0,7, n, slight-2
+<layer1>:slight, 4,0,10, n, slight-2
+<layer1>:slight, 7,0,10, w, slight-2
+<layer1>:slight, 9,0,11, n, slight-2
+<layer1>:slight, 9,0,14, n, slight-2
+<layer1>:slight, 7,0,15, n, slight-2
+<layer1>:slight, 6,0,13, s, slight-2
+<layer1>:slight, 3,0,13, w, slight-2
+<layer1>:tree, 4,0,19, s, tree
+<layer1>:tree, 5,0,33, n, tree
+<layer1>:tree, 7,0,33, e, tree
+<layer1>:tree, 7,0,37, s, tree
+<layer1>:tree, 9,0,23, s, tree
+<layer1>:tree, 9,0,35, s, tree
+<layer1>:tree, 10,0,33, e, tree
+<layer1>:tree, 11,0,21, s, tree
+<layer1>:tree, 12,0,18, s, tree
+<layer1>:tree, 12,0,25, s, tree
+<layer1>:tree, 12,0,38, s, tree
+//<layer1>:oldhouse, 31,0,3, n, none
+//<layer1>:oldhouse, 31,0,8, n, none
+//<layer1>:oldhouse, 31,0,13, n, none
+//<layer1>:oldhouse, 31,0,18, n, none
+
+
+//End of Library Area
+<LIGHT>: AMBIENT, 0,0,0, .8,.8,.8, DUMMYD1
+<LIGHT>: Directional, 0,0,0, .3,.3,.3, DUMMYD1
+
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Rozs
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Man1
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Man2
+
+<BLOCKROW>: 0
+<BLOCKCOL>: 0
+<BLOCKROW>: 50
+<BLOCKCOL>: 35

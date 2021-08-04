@@ -1,0 +1,219 @@
+<ENABLESAVE>
+
+<DRAWBACK>: 700
+<LMOUSE>: 40
+<HMOUSE>: 70
+<FOG>: 0,490, 100, 0
+<MapName>: _Outside Ateneo De Manila_
+<OBJECT>: Fence2
+<OBJECT>: Tree1
+<OBJECT>: Tree2
+<OBJECT>: Tree
+<OBJECT>: Bench3
+<OBJECT>: OrdinaryHouse
+<OBJECT>: Building
+<OBJECT>: Fence2
+<OBJECT>: Building
+<OBJECT>: Wall1x5
+<OBJECT>: Wall1x4
+<OBJECT>: Church
+<OBJECT>: Door2-1
+<OBJECT>: Door1-1
+
+<DUMMY>: D1,0,0,0
+
+<CHARACTER>: RozsA, 30,0,43, s
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 8
+<ANIMATION>: Run,  8
+<ANIMATION>: Push, 8
+<ANIMATION>: Dock, 8
+
+<CHARACTER>: CWoman2, 7,0,10, s
+<ANIMATION>: Wait, 1
+
+<CHARACTER>: CWoman1, 24,0,48, w
+<ANIMATION>: Wait, 1
+
+<CHARACTER>: CWoman3, 33,0,33, s
+<ANIMATION>: Wait, 1
+
+<CHARACTER>: Aman3, 12,0,19, e
+<ANIMATION>: Sit, 1
+
+<CHARACTER>: Glaiz, 19,0.1,4, n
+<ANIMATION>: Sit, 1
+
+<CHARACTER>: Guard, 33,0,5, s
+<ANIMATION>: Wait, 1
+<ANIMATION>: Talk1, 8
+
+<CHARACTER>: Aman6, 32,10,14, e
+<ANIMATION>: Wait, 1
+
+
+<CHARACTER/>
+
+<AI>: CWoman2, AIidle, Wait, none
+
+<SURFACE>:   Z1Ceiling, sky2,  -10,8,-10, 56,0,71, s
+<SURFACE>:   Z5PLANE1,  Land-4,  -10,0,-10, 56,0,71, s
+<SURFACE>:   PLANEBox,  wall9,  1,0,1, 35,10,50, s
+
+<EVENT>: TalkAMaria, 17,3, 3,3, 1,1 
+
+<EVENT>: TalkA-RWoman1,5,9, 3,3, 1,1 
+<EVENT>: TalkA-RWoman2,22,47, 3,3, 1,1 
+<EVENT>: TalkA-RWoman3,31,32, 3,3, 1,1 
+<EVENT>: TalkA-RWoman4,10,18, 3,3, 1,1 
+
+/<EVENT>: TalkAGuard,31,4, 3,3, 1,1 
+/<EVENT>: TalkAPablo1,31,13, 3,3, 1,1 
+
+//Codes of Ateneo-Outside Map BEGINS:
+<LAYER1>: Building, 1,0,17, n, Building-1
+<LAYER1>: Building, 1,0,23, n, Building-1
+<LAYER1>: Building, 1,0,29, n, Building-1
+
+<LAYER1>: Tree, 5,0,35, n, Tree
+
+<LAYER1>: Church, 1,0,1, n, Church
+<LAYER1>: Church, 1,0,7, s, Church2
+
+<LAYER1>: OrdinaryHouse, 1,0,36, n, OrdinaryHouse
+
+<LAYER1>: OrdinaryHouse, 10,0,26, w, OrdinaryHouse
+<LAYER1>: OrdinaryHouse, 15,0,26, w, OrdinaryHouse
+<LAYER1>: OrdinaryHouse, 20,0,26, w, OrdinaryHouse
+
+<LAYER1>: OrdinaryHouse, 10,0,34, w, OrdinaryHouse
+<LAYER1>: OrdinaryHouse, 15,0,34, w, OrdinaryHouse
+<LAYER1>: OrdinaryHouse, 20,0,34, w, OrdinaryHouse
+
+<LAYER1>: OrdinaryHouse, 1,0,43, w, OrdinaryHouse-2
+<LAYER1>: OrdinaryHouse, 6,0,43, w, OrdinaryHouse-2
+<LAYER1>: OrdinaryHouse, 11,0,43, w, OrdinaryHouse-2
+
+<LAYER1>: OrdinaryHouse, 20,0,43, w, OrdinaryHouse
+
+<LAYER1>: Tree, 31,0,31, n, Tree
+<LAYER1>: Tree, 31,0,32, n, Tree
+<LAYER1>: Tree, 31,0,33, n, Tree
+
+<LAYER1>: Tree, 29,0,45, n, Tree
+<LAYER1>: Tree, 30,0,45, n, Tree
+<LAYER1>: Tree, 31,0,45, n, Tree
+
+<LAYER1>: Tree, 31,0,39, n, Tree
+<LAYER1>: Tree, 30,0,40, n, Tree
+<LAYER1>: Tree, 30,0,41, n, Tree
+<LAYER1>: Tree, 31,0,39, n, Tree
+
+<LAYER1>: OrdinaryHouse, 29,0,26, n, OrdinaryHouse-2
+<LAYER1>: OrdinaryHouse, 29,0,34, n, OrdinaryHouse-2
+
+<LAYER1>: Tree2, 19,0,1, n, Tree
+<LAYER1>: Tree, 19,0,2, n, Tree
+<LAYER1>: Tree1, 19,0,3, n, Tree
+<LAYER1>: Tree, 19,0,4, n, Tree
+<LAYER1>: Tree, 19,0,5, n, Tree
+<LAYER1>: Tree, 19,0,6, n, Tree
+<LAYER1>: Tree, 19,0,7, n, Tree
+<LAYER1>: Tree2, 19,0,8, n, Tree
+<LAYER1>: Tree, 19,0,9, n, Tree
+<LAYER1>: Tree1, 19,0,10, n, Tree
+<LAYER1>: Tree, 19,0,11, n, Tree
+<LAYER1>: Tree1, 19,0,12, n, Tree
+<LAYER1>: Tree, 19,0,13, n, Tree
+<LAYER1>: Tree2, 19,0,14, n, Tree
+<LAYER1>: Tree, 19,0,15, n, Tree
+<LAYER1>: Tree1, 19,0,16, n, Tree
+
+<LAYER1>: Fence2, 19,0,17, n, 167
+<LAYER1>: Fence2, 19,0,18, n, 167
+<LAYER1>: Fence2, 19,0,19, n, 167
+<LAYER1>: Fence2, 19,0,20, n, 167
+
+<LAYER1>: Fence2, 10,0,20, w, 167
+<LAYER1>: Fence2, 11,0,20, w, 167
+<LAYER1>: Fence2, 12,0,20, w, 167
+<LAYER1>: Fence2, 13,0,20, w, 167
+<LAYER1>: Fence2, 14,0,20, w, 167
+<LAYER1>: Fence2, 15,0,20, w, 167
+<LAYER1>: Fence2, 16,0,20, w, 167
+<LAYER1>: Fence2, 17,0,20, w, 167
+<LAYER1>: Fence2, 18,0,20, w, 167
+<LAYER1>: Fence2, 19,0,20, w, 167
+
+<SURFACE>:   Z2PLANE1,  grass2,  12,0.02,3, 5,0,6, s
+<SURFACE>:   Z2PLANE1,  grass2,  12,0.02,12, 5,0,6, s
+
+<SURFACE>:   Z3PLANE1,  stone5,  10,0.01,1, 10,0,10, s
+<SURFACE>:   Z3PLANE1,  stone5,  10,0.01,11, 10,0,10, s
+
+<LAYER1>: Wall1x5, 21,0,1, n, wall7
+<LAYER1>: Wall1x5, 21,0,6, n, wall7
+<LAYER1>: Wall1x5, 21,0,11, n, wall7
+<LAYER1>: Wall1x5, 21,0,16, n, wall7
+
+<LAYER1>: Wall1x5, 22,0,20, w, wall7
+<LAYER1>: Wall1x5, 27,0,20, w, wall7
+
+<LAYER1>: Wall1x5, 31,0,1, n, wall7
+<LAYER1>: Wall1x5, 31,0,6, n, wall7
+<LAYER1>: Wall1x5, 31,0,11, n, wall7
+<LAYER1>: Wall1x4, 31,0,16, n, wall7
+
+<LAYER1>: Door2-1, 6,0,6, s, Door3-4
+<EVENT>: DLocked1, 6,7, 1,1, 1,1
+
+<LAYER1>: Door2-1, 7,0,24, s, Door3-3
+<EVENT>: DLocked2, 7,25, 1,1, 1,1
+
+<LAYER1>: Door2-1, 11,0,25, e, Door3-3
+<EVENT>: DLocked3, 12,25, 1,1, 1,1
+
+<LAYER1>: Door2-1, 22,0,38, w, Door3-3
+<EVENT>: DLocked4, 23,38, 1,1, 1,1
+
+<LAYER1>: Door1-1, 33,0,27, s, Door3-3
+<EVENT>: DLocked5, 33,27, 1,1, 1,1
+
+<LAYER1>: Door1-1, 33,0,35, s, Door3-3
+<EVENT>: DLocked6, 33,35, 1,1, 1,1
+
+<LAYER1>: Door1-1, 5,0,37, s, Door3-3
+<EVENT>: DLocked7, 5,37, 1,1, 1,1
+
+<LAYER1>: Door1-1, 22,0,47, w, Door3-3
+<EVENT>: DLocked8, 22,47, 1,1, 1,1
+
+<LAYER1>: Door2-1, 32,0,6, s, Door3-4
+<EVENT>: GotoAteneoWest, 32,7, 1,1, 1,1
+<SETCHARPOS>: 37,0,7,n, ContinueMap
+
+<LAYER1>: Door2-1, 13,0,47, w, Door3-3
+<EVENT>: GotoOBLobby, 13,47, 1,1, 1,1
+<SETCHARPOS>: 6,0,3,n, ContinueMap
+
+<LAYER1>: Bench3, 11,0,19.2, e, 167
+<LAYER1>: Bench3, 15,0,19, e, 167
+<LAYER1>: Bench3, 18,0,4, n, 167
+<LAYER1>: Bench3, 18,0,11, n, 167
+
+//End of Ateneo-Outside Map
+
+<LIGHT>: AMBIENT, 0,0,0, .8,.8,.8, DUMMYD1
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, RozsA
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, CWoman1
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, CWoman2
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, CWoman3
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Aman3
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Glaiz
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Guard
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Aman6
+
+<BLOCKROW>: 0
+<BLOCKCOL>: 0
+<BLOCKROW>: 51
+<BLOCKCOL>: 36

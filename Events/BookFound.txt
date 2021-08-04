@@ -1,0 +1,22 @@
+<Case>: Switch-DX
+<Message>: _&STIScene<49>_, 2
+<Case>: HelpNoel
+
+<SetCharPos>: Rozs, 3,0,10, n
+<CharAnimate>: Rozs, Give, Once, 50,3
+<Message>: _&STIScene<42>_, 3, None
+
+
+<NextEvent>
+<CharAnimate>: Rozs, Give, Reverse, 50,2
+<Message>: _&STIScene<43>_, 2, None
+<Item>: Item-DX, On
+<Task>: TaskMoveFast
+<Reload>
+</>
+
+<Case Else>
+<Message>: _&STIScene<49>_, 2
+<End Select>
+
+

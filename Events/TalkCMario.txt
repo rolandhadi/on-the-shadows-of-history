@@ -1,0 +1,26 @@
+<CHARFACE>: CMan2, Rozs
+<CHARFACE>: Rozs, CMan2
+<CHARFACE>: DummyD2, Rozs
+
+<NextEvent>
+<CHARFACE>: CMan2, Rozs
+<CHARFACE>: Rozs, CMan2
+
+<RotateCam>: CMan2, Right, 500, 3
+<CharAnimate>: Cman2, Talk, Once, 50, 4
+/<MESSAGE>: __, 1, None
+</>
+
+<NextEvent>
+<SETCAMPOS>: 20,2,22, None, 31,2,39
+<RotateCam>: DummyD2, Left, 500, 5
+
+<PlaySound>: CalambaIntro
+<MESSAGE>: _&TownCalambaScene<65>_, 3, None
+<CharAnimate>: Cman2, Talk, Reverse, 50, 4
+</>
+
+
+
+
+

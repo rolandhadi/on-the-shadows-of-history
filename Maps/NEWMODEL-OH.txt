@@ -1,0 +1,32 @@
+//Ordinary House NEW MODEL
+
+<layer1>:Bed,3,0,10,w,bed1
+<layer1>:Bed,3,0,8,w,bed1
+<layer1>:Cabinet1x1,4,0,9,n,cabinet1
+<layer1>:Cabinet1x1,1,0,6,w,cabinet1
+<layer1>:Cabinet1x1,2,0,6,w,cabinet1
+
+<layer1>:BShelf,6,0,9,s,BShelf5
+<layer1>:BShelf,6,0,10,s,BShelf5
+<layer1>:Roundtable,9,0,9, n, 278
+<layer1>:Chair1,8,0,9,s
+<layer1>:Chair1,10,0,9,n
+<layer1>:Chair1,9,0,8,e
+<layer1>:Chair1,9,0,10,w
+
+<layer1>:Sofa,8,0,1,w,wall1
+<layer1>:Sofa,7,0,2,n,wall1
+<layer1>:Plant,7,0,1,w,plant1
+
+<layer1>:Tablelong,4,0,1,n,1
+<layer1>:Chair1,3,0,1,s
+<layer1>:Chair1,3,0,2,s
+<layer1>:Chair1,5,0,1,n
+<layer1>:Chair1,5,0,2,n
+<layer1>:Chair1,4,0,3,e
+<layer1>:Cabinet1x1,1,0,3,s,cabinet1
+<layer1>:Cabinet1x1,1,0,4,s,cabinet1
+<layer1>:KSink,1,0,1,n,2
+
+<layer1>:Wall1x5,1,0,5,w,Wall-4
+<layer1>:Wall1x4,5,0,7,n,Wall-4

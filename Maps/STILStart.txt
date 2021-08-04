@@ -1,0 +1,4 @@
+<StartEvent>: STILstart
+<BGMusic>: STI, Loop
+<ForcePlayBG>: STI
+<ForceLoadMap>: sti-library

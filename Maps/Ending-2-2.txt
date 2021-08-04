@@ -1,0 +1,219 @@
+<NoProgress>
+<StartEvent>: Ending-2-2
+
+<MapName>: _Museum Lounge_
+
+<DRAWBACK>: 450
+<LMOUSE>: 27
+<HMOUSE>: 60
+<FOG>: 400,450, 100, 100
+
+<OBJECT>: Sofa
+<OBJECT>: Lamp
+<OBJECT>: RoundTable
+<OBJECT>: Chair1
+<OBJECT>: Chair2
+<OBJECT>: BShelf
+<OBJECT>: Plant
+<OBJECT>: Blocker
+<OBJECT>: Statue
+<OBJECT>: Door1-1
+<OBJECT>: Door2-1
+<OBJECT>: RecepTable
+<OBJECT>: BlockX2
+<OBJECT>: TableLong2
+<OBJECT>: Painting1X1
+<OBJECT>: Painting1X2
+<OBJECT>: Painting2X1
+<OBJECT>: Painting2X3
+<OBJECT>: Painting3X2
+<OBJECT>: Frame1X1
+<OBJECT>: Frame2X1
+<OBJECT>: Frame2X3
+<OBJECT>: Frame3X2
+<OBJECT>: Frame1X2
+
+<DUMMY>: L1,0,0,0
+<DUMMY>: L2,15,0,15
+<DUMMY>: C1,1,0,1
+<DUMMY>: C2,1,0,28
+<DUMMY>: C3,18,0,1
+<DUMMY>: C4,18,0,28
+
+
+<SURFACE>:   PlaneBox,  Wall-8, 1,0,1, 18,5,28, s
+<SURFACE>:   Z5PLANE1, 66,  1,0,1, 30,0,30, s
+<SURFACE>:   Z2Ceiling, Roof-1,  1,5,1, 30,0,30, s
+
+//Rizal Family Portrait
+
+<LAYER1>: Frame1X1,    1,1,5, s, 244
+<LAYER1>: Painting1X1, 1,1,5, s, Francisco
+<EVENT>:  Francisco, 1,5, 1,1, 1,1
+
+<LAYER1>: Frame1X1,    1,1,7, s, 244
+<LAYER1>: Painting1X1, 1,1,7, s, Teodora
+<EVENT>:  Teodora, 1,7, 1,1, 1,1
+
+<LAYER1>: Frame1X1,    1,1,9, s, 244
+<LAYER1>: Painting1X1, 1,1,9, s, Saturnina
+<EVENT>:  Saturnina, 1,9, 1,1, 1,1
+
+<LAYER1>: Frame1X1,    1,1,11, s, 244
+<LAYER1>: Painting1X1, 1,1,11, s, Paciano
+<EVENT>:  Paciano, 1,11, 1,1, 1,1
+
+<LAYER1>: Frame1X1,    1,1,13, s, 244
+<LAYER1>: Painting1X1, 1,1,13, s, Narcisa
+<EVENT>:  Narcisa, 1,13, 1,1, 1,1
+
+<LAYER1>: Frame1X1,    1,1,15, s, 244
+<LAYER1>: Painting1X1, 1,1,15, s, Olimpia
+<EVENT>:  Olimpia, 1,15, 1,1, 1,1
+
+<LAYER1>: Frame1X1,    4,1,1, w, 244
+<LAYER1>: Painting1X1, 4,1,1, w, Lucia
+<EVENT>:  Lucia, 4,1, 1,1, 1,1
+
+<LAYER1>: Frame1X1,    6,1,1, w, 244
+<LAYER1>: Painting1X1, 6,1,1, w, Maria
+<EVENT>:  Maria, 6,1, 1,1, 1,1
+
+<LAYER1>: Frame1X1,    8,1,1, w, 244
+<LAYER1>: Painting1X1, 8,1,1, w, Rizal35Yr
+<EVENT>:  Rizal, 8,1, 1,1, 1,1
+
+<LAYER1>: Frame1X1,    14,1,1, w, 244
+<LAYER1>: Painting1X1, 14,1,1, w, Josefa
+<EVENT>:  Josefa, 14,1, 1,1, 1,1
+
+<LAYER1>: Frame1X1,    16,1,1, w, 244
+<LAYER1>: Painting1X1, 16,1,1, w, Soledad
+<EVENT>:  Soledad, 16,1, 1,1, 1,1
+
+<LAYER1>: Frame2X3,    10,1,1, w, 129
+<LAYER1>: Painting2X3, 10,1,1, w, RizalFamily
+<EVENT>:  RizalFamily, 11,1, 1,1, 1,1
+
+<LAYER1>: Frame2X3,    18,1,3, n, 129
+<LAYER1>: Painting2X3, 18,1,3, n, Ateneo
+<EVENT>:  AteneoSch, 18,4, 1,1, 1,1
+
+<LAYER1>: Frame2X3,    18,1,7, n, 129
+<LAYER1>: Painting2X3, 18,1,7, n, FortSantiago
+
+<LAYER1>: Frame2X3,    18,1,11, n, 129
+<LAYER1>: Painting2X3, 18,1,11, n, Execution
+<EVENT>:  Execution, 18,12, 1,1, 1,1
+
+<LAYER1>: Frame2X3,    18,1,24, n, 129
+<LAYER1>: Painting2X3, 18,1,24, n, Latumba
+<EVENT>:  Tomb, 18,25, 1,1, 1,1
+
+//End Rizal Family Portrait
+
+<LAYER1>: Plant, 10,0,25, n, plant1
+
+<LAYER1>: Sofa, 16,0,3, n, Rug-2
+<LAYER1>: Sofa, 16,0,6, n, Rug-2
+<LAYER1>: Sofa, 16,0,11, n, Rug-2
+<LAYER1>: Sofa, 14,0,13, w, Rug-2
+<LAYER1>: Sofa, 11,0,13, w, Rug-2
+<LAYER1>: Sofa, 14,0,2, w, Rug-2
+<LAYER1>: Sofa, 9,0,2, w, Rug-2
+<LAYER1>: Sofa, 1,0,19, n, Rug-2
+<LAYER1>: Plant, 1,0,18, n, plant1
+
+<LAYER1>: Plant, 16,0,5, n, plant1
+<LAYER1>: Plant, 16,0,13, e, plant1
+<LAYER1>: Plant, 6,0,2, e, plant1
+<LAYER1>: Plant, 7,0,2, n, plant1
+
+<LAYER1>: Lamp, 5,0,1, n, none
+<LAYER1>: Lamp, 2,0,4, n, none
+<LAYER1>: Lamp, 3,0,16, n, none
+<LAYER1>: Lamp, 1,0,21, n, none
+
+<LAYER1>: Lamp, 16,0,10, n, none
+<LAYER1>: Lamp, 16,0,8, n, none
+
+<LAYER1>: Roundtable, 16,0,9, n, 62
+
+<SURFACE>:   Z2PLANE1, 333,  6,0.01,4, 9,0,8, s
+<SURFACE>:   Z1PLANE1, 333,  3,0.01,5, 2,0,4, s
+<SURFACE>:   Z1PLANE1, 333,  3,0.01,9, 2,0,4, s
+<SURFACE>:   Z1PLANE1, 333,  3,0.01,13, 2,0,5, s
+<SURFACE>:   Z2PLANE1, 333,  6,0.01,12, 5,0,7, s
+<SURFACE>:   Z2PLANE1, 333,  11,0.01,15, 6,0,12, s
+
+//Museum Hallway1
+<LAYER1>: Door2-1, 12,0,28, e, MDoor2
+<EVENT>: GotoHallWay-1, 12,28, 4,1, 1,1
+<SETCHARPOS>: 4,0,3, W, ContinueMap
+
+<LAYER1>: Door2-1, 15,0,28, e, MDoor2
+<EVENT>: GotoHallWay-2, 15,28, 4,1, 1,1
+<SETCHARPOS>: 7,0,3, W, ContinueMap
+
+
+<LAYER1>: Blocker, 3,0,1, n, Blocker1
+<LAYER1>: Blocker, 3,0,2, n, Blocker1
+<LAYER1>: Blocker, 1,0,3, w, Blocker1
+<LAYER1>: Blocker, 2,0,3, w, Blocker1
+<LAYER1>: Statue,  2,0,2, w, 1
+
+
+<LAYER1>: Blocker, 6,0,20, n, Blocker1
+<LAYER1>: Blocker, 6,0,21, n, Blocker1
+<LAYER1>: Blocker, 8,0,20, n, Blocker1
+<LAYER1>: Blocker, 8,0,21, n, Blocker1
+<LAYER1>: Blocker, 8,0,22, n, Blocker1
+
+//Receptionist Area table
+<LAYER1>: Receptable, 6,0,22, n, RTable-1
+<LAYER1>: Receptable, 7,0,25, w, RTable-1
+<LAYER1>: Receptable, 3,0,22, w, RTable-1
+<LAYER1>: Receptable, 10,0,26, n, RTable-1
+<LAYER1>: BShelf, 2,0,22, w, BShelf1
+<LAYER1>: BShelf, 1,0,22, w, BShelf1
+<LAYER1>: Lamp, 1,0,25, n, none
+<LAYER1>: Roundtable, 1,0,24, n, wood13
+<LAYER1>: Chair1, 2,0,24, n, none
+<LAYER1>: Door1-1, 8,0,28, e, MDoor1
+<LAYER1>: BShelf, 1,0,26, s, BShelf1
+<LAYER1>: BShelf, 1,0,27, s, BShelf1
+//End of Receptionist Area
+
+//Museum Main Door (Closed)
+<LAYER1>: Door2-1, 18,0,17, n, Door3-8
+<EVENT>:  CannotLeaveMuseum,18,17, 2,4, 1,1
+<LAYER1>: Door2-1, 18,0,20, n, Door3-8
+
+//End of Lounge Area
+
+<CHARACTER>: Invisible, 10,3,10, n
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 1
+<ANIMATION>: Run, 1
+<CHARACTER/>
+
+<LIGHT>: AMBIENT, 0,0,0, .8,.8,.8, DUMMYL1
+<LIGHT>: DIRECTIONAL, 15,6,15, .3,.3,.3, DUMMYL2
+
+<BLOCKROW>: 0
+<BLOCKCOL>: 0
+<BLOCKROW>: 29
+<BLOCKROW>: 30
+<BLOCKROW>: 31
+<BLOCKROW>: 32
+<BLOCKROW>: 33
+<BLOCKROW>: 34
+<BLOCKROW>: 35
+<BLOCKCOL>: 19
+<BLOCKCOL>: 20
+<BLOCKCOL>: 21
+<BLOCKCOL>: 22
+<BLOCKCOL>: 23
+<BLOCKCOL>: 24
+<BLOCKCOL>: 25
+<BLOCKCOL>: 26

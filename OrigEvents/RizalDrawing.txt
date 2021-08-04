@@ -1,0 +1,39 @@
+<SetCampos>: 3,7,14, RizalA
+
+<Charface>: RizalA, Segunda
+<Charface>: Man4, RizalA  
+<Charface>: AMan6, Segunda
+<Charface>: Rozs, RizalA  
+
+<NextEvent>
+<Fog>: 0,500,0,0
+<Message>: __, 1,NONE
+</>
+
+<NextEvent>
+<RotateCam>: RizalA, Right, 1000, 10
+<CharAnimate>: RizalA, Draw, Loop, 50, 10
+</>
+
+<NextEvent>
+<RotateCam>: RizalA, Right, 1000, 10
+<CharAnimate>: RizalA, Draw, Loop, 50, 10
+<MESSAGE>: _&AteneoScene<156>_, 10, None
+<Playsound>: Rizal-Katigbak1
+</>
+
+<NextEvent>
+<RotateCam>: RizalA, Right, 1000, 10
+<CharAnimate>: RizalA, Draw, Loop, 50, 10
+<MESSAGE>: _&AteneoScene<157>_, 10, None
+</>
+
+<NextEvent>
+<RotateCam>: RizalA, Right, 1000, 1
+<CharAnimate>: RizalA, Draw, Loop, 50, 1
+<Fog>: 0,0,0,0
+</>
+
+<NextEvent>
+<LoadMap>: SegundaHouse-1
+</>

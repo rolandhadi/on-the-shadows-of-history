@@ -1,0 +1,111 @@
+<StartEvent>: TeleportToAteneo
+<ENABLESAVE>
+
+<DRAWBACK>: 450
+<LMOUSE>: 20
+<HMOUSE>: 60
+<FOG>: 400,450, 100, 100
+
+<OBJECT>: Plant
+<OBJECT>: Tablelong
+<OBJECT>: Door2-1
+<OBJECT>: Door1-1
+<OBJECT>: Chair1
+<OBJECT>: Cabinet1x1
+<OBJECT>: Wall1x1
+<OBJECT>: Wall1x2
+<OBJECT>: Wall1x3
+<OBJECT>: Wall1x4
+<OBJECT>: KSink
+<OBJECT>: Sofa
+<OBJECT>: Bshelf
+<OBJECT>: Stair-2
+<OBJECT>: Lamp
+<OBJECT>: GClock
+
+
+<DUMMY>: D1,0,0,0
+<DUMMY>: D2,28,0,6
+
+<CHARACTER>: Rozs, 8,0,6, e
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 8
+<ANIMATION>: Run,  8
+<ANIMATION>: Push, 8
+<ANIMATION>: Dock, 8
+
+//<Message>: _Rizal House (First Floor)_, 15
+
+//Rizal House
+<SURFACE>:   PlaneBox, Hwall2, 1,0,1, 10,5,15, s
+<SURFACE>:   Z2PLANE1, Wood19,  1,0,1, 10,0,15, s
+
+<layer1>:Plant,1,0,1,s,plant1
+<layer1>:KSink,1,0,3,s,112
+<layer1>:Wall1x2,1,0,5,e,Hwall2
+<layer1>:Lamp,1,0,6,s,114
+<layer1>:Chair1,1,0,9,s
+<layer1>:Chair1,1,0,10,s
+<layer1>:Chair1,1,0,11,s
+<layer1>:Chair1,1,0,12,s
+<layer1>:Chair1,1,0,13,s
+<layer1>:Chair1,1,0,14,s
+<layer1>:cabinet1x1,2,0,1,w,cabinet2
+<layer1>:cabinet1x1,3,0,1,w,cabinet2
+<layer1>:Chair1,2,0,8,w
+<layer1>:Tablelong,1.5,0,9,RTable-2
+<layer1>:Tablelong,1.5,0,11,RTable-2
+<layer1>:Tablelong,1.5,0,13,RTable-2
+<layer1>:Chair1,2,0,15,e
+<layer1>:Chair1,3,0,9,n
+<layer1>:Chair1,3,0,10,n
+<layer1>:Chair1,3,0,11,n
+<layer1>:Chair1,3,0,12,n
+<layer1>:Chair1,3,0,13,n
+<layer1>:Chair1,3,0,14,n
+<layer1>:Wall1x2,5,0,1,s,Hwall2
+<layer1>:Wall1x1,5,0,5,s,Hwall2
+<layer1>:Wall1x4,5,0,8,s,Hwall2
+<layer1>:Wall1x4,5,0,12,s,Hwall2
+<layer1>:Plant,6,0,2,s,plant1
+<layer1>:Lamp,6,0,8,n,114
+<layer1>:Cabinet1x1,6,0,9,s,cabinet3
+<layer1>:Cabinet1x1,6,0,10,s,cabinet3
+<layer1>:plant,6,0,12,s,plant1
+<layer1>:Bshelf,6,0,13,s,Bshelf2
+<layer1>:Bshelf,6,0,14,s,Bshelf2
+<layer1>:Bshelf,6,0,15,s,Bshelf2
+<layer1>:cabinet1x1,7,0,1,w,cabinet3
+<layer1>:cabinet1x1,8,0,1,w,cabinet3
+<layer1>:Wall1x3,8,0,5,w,Hwall2
+<layer1>:Tablelong,8.5,0,12,s,Rtable-3
+<layer1>:plant,10,0,6,w,plant1
+<layer1>:plant,10,0,9,w,plant1
+<layer1>:Sofa,8,0,15,w,Rug-1
+<layer1>:Sofa,10,0,11,n,Rug-1
+<layer1>:Sofa,10,0,13,n,Rug-1
+<layer1>:plant,10,0,15,w,plant1
+<layer1>:GClock,6,0,11,s,Gclock-2
+
+<layer1>:Stair-2,10,0,1,w,Wood24
+<EVENT>: GotoRizal-up, 10,4, 1,1, 1,1
+<SETCHARPOS>: 10,0,3,w, ContinueMap
+
+<layer1>:Door2-1,10,0,7,n,Door3-3
+<EVENT>: GotoCSW, 10,7, 1,1, 1,1
+<SETCHARPOS>: 14,0,25,n, ContinueMap
+
+<layer1>:Door1-1,10,2.3,1,w,Door1-4
+
+
+<LIGHT>: AMBIENT, 0,0,0, .8,.8,.8, DUMMYD1
+<LIGHT>: Directional, 0,0,0, .3,.3,.3, DUMMYD1
+
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Rozs
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Man1
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Man2
+
+<BLOCKROW>: 0
+<BLOCKCOL>: 0
+<BLOCKROW>: 16
+<BLOCKCOL>: 11

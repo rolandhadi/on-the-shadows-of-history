@@ -1,0 +1,3 @@
+<CHARFACE>: Rozs, AMan6
+<CHARFACE>: AMan6, Rozs
+<MESSAGE>: _&AteneoScene<172>_, 5

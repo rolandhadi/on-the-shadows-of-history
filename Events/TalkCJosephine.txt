@@ -1,0 +1,105 @@
+<Case>: Josephine
+<MESSAGE>: _&TownCalambaScene<96>_
+
+<Case>: Switch-HMedicine2
+
+<CHARFACE>: OldLadyDress1, Rozs
+<CHARFACE>: Rozs, OldLadyDress1
+<MESSAGE>: _&TownCalambaScene<82>_,4,None
+<PlaySound>: Josephine1
+<NEXTEVENT>:
+<MESSAGE>: _&TownCalambaScene<83>_,4,None
+<PlaySound>: Josephine2
+</>
+
+<NEXTEVENT>:
+<StopBG>
+<PlayBG>: Victory
+<Item>: Item-Locket, On
+<MESSAGE>: _&TownCalambaScene<84>_,4,None
+<PlaySound>: Josephine3
+</>
+
+<NEXTEVENT>:
+<MESSAGE>: _&TownCalambaScene<85>_,4,None
+<PlaySound>: Josephine4
+</>
+
+<NEXTEVENT>:
+<MESSAGE>: _&TownCalambaScene<86>_,4,None
+<Switch>: HMedicineFinished, On
+<Switch>: Josephine, On
+<Item>: Item-HMedicine, Off
+<PlaySound>: Josephine5
+<Task>: TaskHMedCom
+<PlayBG>: Calamba, Loop
+</>
+
+<Case>: Switch-HMedicine1
+
+<CHARFACE>: OldLadyDress1, Rozs
+<CHARFACE>: Rozs, OldLadyDress1
+<MESSAGE>: _&TownCalambaScene<82>_,4,None
+<PlaySound>: Josephine1
+<NEXTEVENT>:
+<MESSAGE>: _&TownCalambaScene<83>_,4,None
+<PlaySound>: Josephine2
+</>
+
+<NEXTEVENT>:
+<StopBG>
+<PlayBG>: Victory
+<Item>: Item-Locket, On
+<MESSAGE>: _&TownCalambaScene<84>_,4,None
+<PlaySound>: Josephine3
+</>
+
+<NEXTEVENT>:
+<MESSAGE>: _&TownCalambaScene<85>_,4,None
+<PlaySound>: Josephine4
+</>
+
+<NEXTEVENT>:
+<MESSAGE>: _&TownCalambaScene<86>_,4,None
+<PlaySound>: Josephine5
+<Switch>: Switch-HMedicine2, On
+<Switch>: Josephine, On
+<PlayBG>: Calamba, Loop
+</>
+
+<Case>: Switch-HMedicine
+
+<CHARFACE>: OldLadyDress1, Rozs
+<CHARFACE>: Rozs, OldLadyDress1
+<MESSAGE>: _&TownCalambaScene<82>_,4,None
+<PlaySound>: Josephine1
+
+<NEXTEVENT>:
+<MESSAGE>: _&TownCalambaScene<83>_,4,None
+<PlaySound>: Josephine2
+</>
+
+<NEXTEVENT>:
+<StopBG>
+<PlayBG>: Victory
+<Item>: Item-Locket, On
+<MESSAGE>: _&TownCalambaScene<84>_,4,None
+<PlaySound>: Josephine3
+</>
+
+<NEXTEVENT>:
+<MESSAGE>: _&TownCalambaScene<85>_,4,None
+<PlaySound>: Josephine4
+</>
+
+<NEXTEVENT>:
+<MESSAGE>: _&TownCalambaScene<86>_,4,None
+<PlaySound>: Josephine5
+<Switch>: Switch-HMedicine1, On
+<Switch>: Josephine, On
+<PlayBG>: Calamba, Loop
+</>
+
+<Case Else>
+<MESSAGE>: _&TownCalambaScene<96>_
+<End Select>

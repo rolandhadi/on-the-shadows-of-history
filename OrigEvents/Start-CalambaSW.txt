@@ -1,0 +1,32 @@
+<CASE>: TaposCalambaSW
+
+<MESSAGE>: __, 0,None
+
+<CASE ELSE>
+
+<SETCAMPOS>: 17, 7, 41, Rozs
+<MESSAGE>: __, 3, None
+
+<NEXTEVENT>
+<SETCAMPOS>: 6,2,20, None, 18,4,26
+<MESSAGE>: __, 3, None
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 10,3,19, None, 10,3,27
+<PlaySound>: CalambaIntro
+<MESSAGE>: __, 3, None
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 24,2,46, None, 23,1,18
+<MESSAGE>: __, 3, None
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 20,2,6, None, 16,1,17
+<MESSAGE>: __, 3, None
+<SWITCH>:  TaposCalambaSW, On
+</>
+
+<END SELECT>

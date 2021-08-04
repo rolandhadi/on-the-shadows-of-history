@@ -1,0 +1,11 @@
+<CHARFACE>: CMan3, Rozs
+<CHARFACE>: Rozs, CMan3
+<MESSAGE>: _&CalambaScene<10>_, 5
+
+<NEXTEVENT>
+<MESSAGE>: _&CalambaScene<11>_, 5
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&CalambaScene<12>_, 5
+</>

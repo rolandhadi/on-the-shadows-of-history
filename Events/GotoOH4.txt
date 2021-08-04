@@ -1,0 +1,6 @@
+<PlaySound>: Door-1
+<StopBG>:
+<PlayBG>: house1,Loop
+
+<Message>: _&Entering<20>_, 1, NONE
+<LoadMap>: OrdinaryHouse-4

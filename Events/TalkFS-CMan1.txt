@@ -1,0 +1,8 @@
+<CHARFACE>: CMan1, Rozs
+<CHARFACE>: Rozs, CMan1
+
+<NEXTEVENT>
+<MESSAGE>: _&FSScene<111>_, 3
+</>
+
+

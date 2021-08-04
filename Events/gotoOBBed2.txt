@@ -1,0 +1,3 @@
+//<PlaySound>: Door-1
+<Message>: _Entering to Bedroom_, 1, NONE
+<LoadMap>: Ateneo-OBBed2

@@ -1,0 +1,3 @@
+<PlaySound>: Door-1
+<Message>: _&STIScene<73>_, 1, NONE
+<LoadMap>: sti-303

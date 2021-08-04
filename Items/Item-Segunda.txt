@@ -1,0 +1,3 @@
+<Caption>: _&AteneoScene<171>_
+<Preview>: SegundaPic
+<Switch>:  Switch-Segunda, On

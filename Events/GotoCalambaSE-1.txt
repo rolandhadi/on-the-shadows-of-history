@@ -1,0 +1,7 @@
+<Case>: Switch-Painting1
+<Message>: _&Entering<18>_, 1, NONE
+<LoadMap>: Calamba-SE2
+<Case Else>
+<Message>: _&Entering<18>_, 1, NONE
+<LoadMap>: Calamba-SE
+<End Select>

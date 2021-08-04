@@ -1,0 +1,51 @@
+<Case>: TaposCPuzzle
+
+<MESSAGE>: __, 0,None
+
+<Case>: CalambaPuzzle
+
+<SetCharPos>: Rozs, 4,0,6,S
+<CharFace>: CMan3, Rozs
+<CharFace>: Rozs, CMan3
+<CharAnimate>: Rozs, Wait, Once, 50, 2
+
+<NextEvent>
+<SetCamPos>: 5,3,15, Rozs
+<Message>: _&TownCalambaScene<102>_, 3
+</>
+
+<NextEvent>
+<ShowPreview>: Painting1
+</>
+
+<NextEvent>
+<Switch>: TaposCPuzzle, On
+</>
+
+<CASE>: TaposCalambaSE
+
+<MESSAGE>: __, 0,None
+
+<CASE ELSE>
+
+<SETCAMPOS>: 17, 7, 41, Rozs
+<MESSAGE>: __, 3, None
+
+<NEXTEVENT>
+<SETCAMPOS>: 16,2,6, None, 37,1,20
+<MESSAGE>: __, 3, None
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 18,5,29, None, 14,1,18
+<PlaySound>: CalambaIntro
+<MESSAGE>: __, 3, None
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 5,2,19, None, 6,2,40
+<MESSAGE>: __, 3, None
+<SWITCH>:  TaposCalambaSE, On
+</>
+
+<END SELECT>

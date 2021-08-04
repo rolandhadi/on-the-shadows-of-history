@@ -1,0 +1,17 @@
+<1>
+<A>: _Father of Jose Rizal who was the youngest of 13 offsprings of Juan and Cirila Mercado._
+<B>: _Ama ni Jose Rizal na pinakabata sa 13 magkakapatid nina Juan at Cirila Mercado._
+<C>: 
+</>
+
+<2>
+<A>: _Studied in San Jose College, Manila; and died in Manila._
+<B>: _Nag-aral siya sa Kolehiyo ng San Jose, Maynila. Siya ay namatay sa Maynila. _
+<C>: 
+</>
+
+<3>
+<A>: _Born in Biñan, Laguna on April 18, 1818._
+<B>: _Ipinanganak siya sa Biñan, Laguna noong Abril 18, 1818_
+<C>: 
+</>

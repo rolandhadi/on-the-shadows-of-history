@@ -1,0 +1,27 @@
+<CASE>: TaposCalambaNW
+
+<MESSAGE>: __, 0,None
+
+<CASE ELSE>
+
+<SETCAMPOS>: 17, 12, 41, Rozs
+<MESSAGE>: __, 3, None
+
+<NEXTEVENT>
+<SETCAMPOS>: 32,2,42, None, 25,2,46
+<MESSAGE>: __, 3, None
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 18,2,6, None, 25,2,12
+<MESSAGE>: __, 3, None
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 1,2,33, None, 15,1,33
+<MESSAGE>: __, 3, None
+
+<SWITCH>:  TaposCalambaNW, On
+</>
+
+<END SELECT>

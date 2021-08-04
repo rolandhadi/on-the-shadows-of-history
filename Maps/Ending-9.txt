@@ -1,0 +1,649 @@
+<NoProgress>
+<STARTEVENT>: Ending-9
+
+<MapName>: _Fort Santiago Front_
+
+<DRAWBACK>: 700
+<LMOUSE>: 27
+<HMOUSE>: 60
+<FOG>: 0,500, 0, 0
+
+<OBJECT>: store
+<OBJECT>: rizalhouse
+<OBJECT>: tree
+<OBJECT>: ordinaryhouse
+<OBJECT>: door1-1
+<OBJECT>: blockx2
+<OBJECT>: fence2
+<OBJECT>: bench
+<OBJECT>: bench2
+<OBJECT>: wall1x1
+<OBJECT>: wall1x5
+<OBJECT>: wall1x4
+<OBJECT>: tunnel
+<OBJECT>: grass
+<OBJECT>: fence4
+<OBJECT>: stair-1
+<OBJECT>: SnackArea
+<OBJECT>: plant
+<OBJECT>: kubo
+<OBJECT>: slight
+<OBJECT>: SBoard
+<layer1>:SBoard, 7,0,10,  s, Upstairs
+
+<DUMMY>: D1,0,0,0
+<DUMMY>: D2,28,0,6
+
+<CHARACTER>: Invisible, 16,4,24, n
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 1
+<ANIMATION>: Run, 1
+<CHARACTER/>
+
+<SURFACE>:   PlaneBox,  cloud-1, 1,0,1, 33,20,50, s
+<SURFACE>:   Z2PLANE1, land-3,  1,0,1, 33,0,50, s
+<SURFACE>:   Z1Ceiling, cloud-4,  1,0,1, 33,3,50, s
+
+//the code of map begins
+
+<SURFACE>:   z1PLANE1,  grass3,  3,0.01,14,   4,0,3, s
+<SURFACE>:   z1PLANE1,  land-5,  5,0.01,20,   6,0,1, s
+
+<SURFACE>:   z1PLANE1,  land-5,  7,0.01,30,   4,0,1, s
+<SURFACE>:   z1PLANE1,  land-5,  25,0.01,23,   5,0,1, s
+<SURFACE>:   z2PLANE1,  land-4,  27,0.01,29,   6,0,2, s
+<SURFACE>:   z1PLANE1,  land-5,  25,0.01,17,   5,0,1, s
+<SURFACE>:   z1PLANE1,  land-5,  25,0.01,11,   5,0,1, s
+<SURFACE>:   z1PLANE1,  land-5,  25,0.01,5,   5,0,1, s
+
+<SURFACE>:   z2PLANE1,  154,  2,0.01,2,   4,0,10, s
+
+<SURFACE>:   z4PLANE1,  grass2,  3,0.01,35,   8,0,5, s
+
+<SURFACE>:   z2PLANE1,  water2,  1,0.3,41.5,   12,0,3, s
+<SURFACE>:   z2PLANE1,  water2,  18,0.3,41.5,   16,0,3, s
+
+<SURFACE>:   z1PLANE1,  grass2,  13,0.01,24,   8,0,13, s
+<SURFACE>:   z1PLANE1,  grass2,  13,0.01,11,   8,0,13, s
+
+<SURFACE>:   z1PLANE1,  14,  11,0.01,9,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  11,0.01,10,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  11,0.01,11,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  11,0.01,12,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  11,0.01,13,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  11,0.01,14,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  11,0.01,15,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  11,0.01,16,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  11,0.01,17,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  11,0.01,18,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  11,0.01,19,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  11,0.01,20,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  11,0.01,21,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  11,0.01,22,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  11,0.01,23,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  11,0.01,24,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  11,0.01,25,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  11,0.01,26,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  11,0.01,27,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  11,0.01,28,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  11,0.01,29,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  11,0.01,30,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  11,0.01,31,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  11,0.01,32,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  11,0.01,33,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  11,0.01,34,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  11,0.01,35,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  11,0.01,36,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  11,0.01,37,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  11,0.01,38,   2,0,1, s
+
+<SURFACE>:   z1PLANE1,  14,  13,0.01,38,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  15,0.01,38,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  17,0.01,38,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  19,0.01,38,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  21,0.01,38,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  13,0.01,37,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  15,0.01,37,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  17,0.01,37,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  19,0.01,37,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  21,0.01,37,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,35,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,33,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,39,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,38,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,37,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,36,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,35,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,34,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,33,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,32,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,31,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,30,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,29,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,28,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,27,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,26,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,25,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,24,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,23,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,22,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,21,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,20,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,19,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,18,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,17,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,16,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,15,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,14,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,13,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,12,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,11,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,10,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,9,   2,0,1, s
+
+<SURFACE>:   z1PLANE1,  14,  11,0.01,8,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  13,0.01,8,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  15,0.01,8,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  17,0.01,8,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  19,0.01,8,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  21,0.01,8,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  23,0.01,8,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  25,0.01,8,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  27,0.01,8,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  29,0.01,8,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  31,0.01,26,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  33,0.01,25,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  35,0.01,24,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  37,0.01,23,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  39,0.01,22,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  41,0.01,21,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  21,0.01,20,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  21,0.01,19,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  21,0.01,18,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  21,0.01,17,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  21,0.01,16,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  21,0.01,15,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  21,0.01,14,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  21,0.01,13,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  21,0.01,12,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  21,0.01,11,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  21,0.01,9,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  21,0.01,10,   2,0,1, s
+
+<SURFACE>:   z1PLANE1,  14,  19,0.01,9,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  17,0.01,9,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  15,0.01,9,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  13,0.01,9,   2,0,1, s
+
+<SURFACE>:   z1PLANE1,  14,  21,0.01,21,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  19,0.01,10,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  21,0.01,22,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  17,0.01,10,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  21,0.01,23,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  15,0.01,10,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  21,0.01,24,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  13,0.01,10,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  21,0.01,25,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  21,0.01,26,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  21,0.01,27,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  21,0.01,28,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  21,0.01,29,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  21,0.01,30,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  21,0.01,31,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  21,0.01,32,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  21,0.01,33,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  21,0.01,34,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  21,0.01,35,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  21,0.01,36,   2,0,1, s
+
+<SURFACE>:   z1PLANE1,  14,  21,0.01,39,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  19,0.01,39,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  17,0.01,39,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  15,0.01,39,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  13,0.01,39,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  11,0.01,39,   2,0,1, s
+
+<SURFACE>:   z1PLANE1,  14,  14,0.01,40,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  14,0.01,41,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  14,0.01,42,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  14,0.01,43,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  14,0.01,44,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  14,0.01,45,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  16,0.01,40,   1,0,2, s
+<SURFACE>:   z1PLANE1,  14,  16,0.01,42,   1,0,2, s
+<SURFACE>:   z1PLANE1,  14,  16,0.01,44,   1,0,2, s
+
+<SURFACE>:   z1PLANE1,  14,  2,0.01,46,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  4,0.01,46,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  6,0.01,46,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  8,0.01,46,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  10,0.01,46,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  12,0.01,46,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  14,0.01,46,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  16,0.01,46,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  18,0.01,46,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  20,0.01,46,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  22,0.01,46,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  24,0.01,46,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  26,0.01,46,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  28,0.01,46,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  30,0.01,46,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  32,0.01,46,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  2,0.01,47,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  4,0.01,47,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  6,0.01,47,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  8,0.01,47,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  10,0.01,47,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  12,0.01,47,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  14,0.01,47,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  16,0.01,47,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  18,0.01,47,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  20,0.01,47,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  22,0.01,47,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  24,0.01,47,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  26,0.01,47,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  28,0.01,47,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  30,0.01,47,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  32,0.01,47,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  2,0.01,48,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  4,0.01,48,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  6,0.01,48,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  8,0.01,48,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  10,0.01,48,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  12,0.01,48,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  14,0.01,48,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  16,0.01,48,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  18,0.01,48,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  20,0.01,48,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  22,0.01,48,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  24,0.01,48,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  26,0.01,48,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  28,0.01,48,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  30,0.01,48,   2,0,1, s
+<SURFACE>:   z1PLANE1,  14,  32,0.01,48,   2,0,1, s
+
+
+
+<SURFACE>:   z1PLANE1,  grass1,  8,0.01,13,   2,0,7, s
+<SURFACE>:   z1PLANE1,  grass1,  8,0.01,21,   2,0,4, s
+
+<layer1>:grass, 9,0,13, s, grass2
+<layer1>:grass, 9,0,14, s, grass2
+<layer1>:grass, 9,0,15, s, grass2
+<layer1>:grass, 9,0,16, s, grass2
+<layer1>:grass, 9,0,17, s, grass2
+<layer1>:grass, 9,0,18, s, grass2
+<layer1>:grass, 9,0,19, s, grass2
+<layer1>:grass, 9,0,21, s, grass2
+<layer1>:grass, 9,0,22, s, grass2
+<layer1>:grass, 9,0,23, s, grass2
+<layer1>:grass, 27,0,30, s, grass2
+<layer1>:grass, 28,0,30, s, grass2
+<layer1>:grass, 29,0,30, s, grass2
+<layer1>:grass, 29,0,30, s, grass2
+<layer1>:grass, 30,0,30, s, grass2
+<layer1>:grass, 31,0,30, s, grass2
+<layer1>:grass, 27,0,29, s, grass2
+<layer1>:grass, 28,0,29, s, grass2
+<layer1>:grass, 29,0,29, s, grass2
+<layer1>:grass, 30,0,29, s, grass2
+<layer1>:grass, 31,0,29, s, grass2
+
+<layer1>:kubo, 2,0,3, s, 141
+<layer1>:store, 2,0,7, s, 84
+<layer1>:tree, 5,0,37, s, tree
+<layer1>:tree, 5,0,14, s, tree
+<layer1>:tree, 7,0,35, s, tree
+<layer1>:tree, 10,0,38, s, tree
+<layer1>:bench, 4,0,15, e, 163
+
+<layer1>:rizalhouse, 2,0,27, s, rizalhouse
+<layer1>:ordinaryhouse, 29,0,3, n, ordinaryhouse-3
+<layer1>:ordinaryhouse, 29,0,9, n, ordinaryhouse-3
+<layer1>:ordinaryhouse, 29,0,15, n, ordinaryhouse-3
+<layer1>:ordinaryhouse, 29,0,21, n, ordinaryhouse-3
+<layer1>:ordinaryhouse, 2,0,18, s, ordinaryhouse-3
+
+<layer1>:door1-1, 8,0,30, s, door3-3
+<layer1>:door1-1, 4,0,19, s, door3-6
+<layer1>:door1-1, 6,0,20, s, door3-6
+
+<layer1>:tree, 31,0,26, n, tree
+<layer1>:tree, 29,0,28, s, tree
+<layer1>:tree, 32,0,30, s, tree
+<layer1>:tree, 5,0,38, s, tree
+<layer1>:tree, 5,0,40, s, tree
+<layer1>:tree, 32,0,32, s, tree
+<layer1>:tree, 32,0,33, s, tree
+<layer1>:tree, 32,0,34, s, tree
+
+<layer1>:blockx2, 1,0,41, w, brick3
+<layer1>:blockx2, 3,0,41, w, brick3
+<layer1>:blockx2, 5,0,41, w, brick3
+<layer1>:blockx2, 7,0,41, w, brick3
+<layer1>:blockx2, 9,0,41, w, brick3
+<layer1>:blockx2, 11,0,41, w, brick3
+
+<layer1>:blockx2, 1,0,44, e, brick3
+<layer1>:blockx2, 3,0,44, e, brick3
+<layer1>:blockx2, 5,0,44, e, brick3
+<layer1>:blockx2, 7,0,44, e, brick3
+<layer1>:blockx2, 9,0,44, e, brick3
+<layer1>:blockx2, 11,0,44, e, brick3
+
+<layer1>:blockx2, 12.7,0.01,41, s, brick3
+<layer1>:blockx2, 12.7,0.01,43, s, brick3
+
+<layer1>:blockx2, 17.7,0.01,41, n, brick3
+<layer1>:blockx2, 17.7,0.01,43, n, brick3
+
+<layer1>:blockx2, 18,0,41, w, brick3
+<layer1>:blockx2, 20,0,41, w, brick3
+<layer1>:blockx2, 22,0,41, w, brick3
+<layer1>:blockx2, 24,0,41, w, brick3
+<layer1>:blockx2, 26,0,41, w, brick3
+<layer1>:blockx2, 28,0,41, w, brick3
+<layer1>:blockx2, 30,0,41, w, brick3
+<layer1>:blockx2, 32,0,41, w, brick3
+
+<layer1>:blockx2, 18,0,44, e, brick3
+<layer1>:blockx2, 20,0,44, e, brick3
+<layer1>:blockx2, 22,0,44, e, brick3
+<layer1>:blockx2, 24,0,44, e, brick3
+<layer1>:blockx2, 26,0,44, e, brick3
+<layer1>:blockx2, 28,0,44, e, brick3
+<layer1>:blockx2, 30,0,44, e, brick3
+<layer1>:blockx2, 32,0,44, e, brick3
+
+<layer1>:fence2, 2,0,12, e, wood11
+<layer1>:fence2, 3,0,12, e, wood11
+<layer1>:fence2, 4,0,12, e, wood11
+<layer1>:fence2, 5,0,12, e, wood11
+<layer1>:fence2, 6,0,12, e, wood11
+<layer1>:fence2, 7,0,12, e, wood11
+<layer1>:fence2, 8,0,12, e, wood11
+
+<layer1>:fence2, 8,0,12, s, wood11
+<layer1>:fence2, 8,0,13, s, wood11
+<layer1>:fence2, 8,0,14, s, wood11
+<layer1>:fence2, 8,0,15, s, wood11
+<layer1>:fence2, 8,0,16, s, wood11
+<layer1>:fence2, 8,0,17, s, wood11
+<layer1>:fence2, 8,0,18, s, wood11
+<layer1>:fence2, 8,0,19, s, wood11
+<layer1>:fence2, 8,0,21, s, wood11
+<layer1>:fence2, 8,0,22, s, wood11
+<layer1>:fence2, 8,0,23, s, wood11
+<layer1>:fence2, 8,0,24, s, wood11
+
+<layer1>:fence2, 8,0,24, w, wood11
+<layer1>:fence2, 7,0,24, w, wood11
+<layer1>:fence2, 6,0,24, w, wood11
+<layer1>:fence2, 5,0,24, w, wood11
+<layer1>:fence2, 4,0,24, w, wood11
+<layer1>:fence2, 3,0,24, w, wood11
+<layer1>:fence2, 2,0,24, w, wood11
+
+<layer1>:fence2, 2,0,26, e, wood13
+<layer1>:fence2, 3,0,26, e, wood13
+<layer1>:fence2, 4,0,26, e, wood13
+<layer1>:fence2, 5,0,26, e, wood13
+<layer1>:fence2, 6,0,26, e, wood13
+<layer1>:fence2, 7,0,26, e, wood13
+<layer1>:fence2, 8,0,26, e, wood13
+<layer1>:fence2, 9,0,26, e, wood13
+
+<layer1>:fence2, 9,0,26, s, wood13
+<layer1>:fence2, 9,0,27, s, wood13
+<layer1>:fence2, 9,0,28, s, wood13
+<layer1>:fence2, 9,0,29, s, wood13
+<layer1>:fence2, 9,0,31, s, wood13
+<layer1>:fence2, 9,0,32, s, wood13
+<layer1>:fence2, 9,0,33, s, wood13
+<layer1>:fence2, 9,0,34, s, wood13
+
+<layer1>:fence2, 9,0,34, e, wood13
+<layer1>:fence2, 8,0,34, e, wood13
+<layer1>:fence2, 7,0,34, e, wood13
+<layer1>:fence2, 6,0,34, e, wood13
+<layer1>:fence2, 5,0,34, e, wood13
+<layer1>:fence2, 4,0,34, e, wood13
+<layer1>:fence2, 3,0,34, e, wood13
+<layer1>:fence2, 2,0,34, e, wood13
+
+<layer1>:fence2, 34,0,1, e, wood4
+<layer1>:fence2, 33,0,1, e, wood4
+<layer1>:fence2, 32,0,1, e, wood4
+<layer1>:fence2, 31,0,1, e, wood4
+<layer1>:fence2, 30,0,1, e, wood4
+<layer1>:fence2, 29,0,1, e, wood4
+<layer1>:fence2, 28,0,1, e, wood4
+<layer1>:fence2, 27,0,1, e, wood4
+<layer1>:fence2, 26,0,1, e, wood4
+<layer1>:fence2, 25,0,1, e, wood4
+
+<layer1>:fence2, 25,0,1, n, wood4
+<layer1>:fence2, 25,0,2, n, wood4
+<layer1>:fence2, 25,0,3, n, wood4
+<layer1>:fence2, 25,0,4, n, wood4
+<layer1>:fence2, 25,0,6, n, wood4
+<layer1>:fence2, 25,0,7, n, wood4
+<layer1>:fence2, 25,0,8, n, wood4
+<layer1>:fence2, 25,0,9, n, wood4
+<layer1>:fence2, 25,0,10, n, wood4
+<layer1>:fence2, 25,0,12, n, wood4
+<layer1>:fence2, 25,0,13, n, wood4
+<layer1>:fence2, 25,0,14, n, wood4
+<layer1>:fence2, 25,0,15, n, wood4
+<layer1>:fence2, 25,0,16, n, wood4
+<layer1>:fence2, 25,0,18, n, wood4
+<layer1>:fence2, 25,0,19, n, wood4
+<layer1>:fence2, 25,0,20, n, wood4
+<layer1>:fence2, 25,0,21, n, wood4
+<layer1>:fence2, 25,0,22, n, wood4
+<layer1>:fence2, 25,0,24, n, wood4
+<layer1>:fence2, 25,0,25, n, wood4
+<layer1>:fence2, 25,0,26, n, wood4
+<layer1>:fence2, 25,0,27, n, wood4
+<layer1>:fence2, 25,0,28, n, wood4
+<layer1>:fence2, 25,0,29, n, wood4
+<layer1>:fence2, 25,0,30, n, wood4
+<layer1>:fence2, 25,0,31, n, wood4
+
+<layer1>:fence2, 25,0,31, e, wood4
+<layer1>:fence2, 26,0,31, e, wood4
+<layer1>:fence2, 27,0,31, e, wood4
+<layer1>:fence2, 28,0,31, e, wood4
+<layer1>:fence2, 29,0,31, e, wood4
+<layer1>:fence2, 30,0,31, e, wood4
+<layer1>:fence2, 31,0,31, e, wood4
+<layer1>:fence2, 32,0,31, e, wood4
+<layer1>:fence2, 33,0,31, e, wood4
+
+<layer1>:fence2, 25,0,20, e, wood4
+<layer1>:fence2, 26,0,20, e, wood4
+<layer1>:fence2, 27,0,20, e, wood4
+<layer1>:fence2, 28,0,20, e, wood4
+<layer1>:fence2, 29,0,20, e, wood4
+<layer1>:fence2, 30,0,20, e, wood4
+<layer1>:fence2, 31,0,20, e, wood4
+<layer1>:fence2, 32,0,20, e, wood4
+<layer1>:fence2, 33,0,20, e, wood4
+<layer1>:fence2, 34,0,20, e, wood4
+
+<layer1>:fence2, 25,0,14, e, wood4
+<layer1>:fence2, 26,0,14, e, wood4
+<layer1>:fence2, 27,0,14, e, wood4
+<layer1>:fence2, 28,0,14, e, wood4
+<layer1>:fence2, 29,0,14, e, wood4
+<layer1>:fence2, 30,0,14, e, wood4
+<layer1>:fence2, 31,0,14, e, wood4
+<layer1>:fence2, 32,0,14, e, wood4
+<layer1>:fence2, 33,0,14, e, wood4
+<layer1>:fence2, 34,0,14, e, wood4
+
+<layer1>:fence2, 25,0,8, e, wood4
+<layer1>:fence2, 26,0,8, e, wood4
+<layer1>:fence2, 27,0,8, e, wood4
+<layer1>:fence2, 28,0,8, e, wood4
+<layer1>:fence2, 29,0,8, e, wood4
+<layer1>:fence2, 30,0,8, e, wood4
+<layer1>:fence2, 31,0,8, e, wood4
+<layer1>:fence2, 32,0,8, e, wood4
+<layer1>:fence2, 33,0,8, e, wood4
+<layer1>:fence2, 34,0,8, e, wood4
+
+<layer1>:fence4, 2,0,1, e, 282
+<layer1>:fence4, 3,0,1, e, 282
+<layer1>:fence4, 4,0,1, e, 282
+<layer1>:fence4, 5,0,1, e, 282
+<layer1>:fence4, 6,0,1, e, 282
+<layer1>:fence4, 6,0,1, s, 282
+<layer1>:fence4, 6,0,2, s, 282
+<layer1>:fence4, 6,0,3, s, 282
+<layer1>:fence4, 6,0,6, s, 282
+<layer1>:fence4, 6,0,7, s, 282
+<layer1>:fence4, 6,0,8, s, 282
+<layer1>:fence4, 6,0,9, s, 282
+<layer1>:fence4, 6,0,10, s, 282
+
+<SURFACE>:   z1PLANE1,  lotus1-1,  22,0.31,42,   0.5,0,0.5, s
+<SURFACE>:   z1PLANE1,  lotus1-1,  31,0.31,43,   0.6,0,0.6, s
+<SURFACE>:   z1PLANE1,  lotus2-1,  20,0.31,43,   0.6,0,0.6, s
+<SURFACE>:   z1PLANE1,  lotus3-1,  32,0.31,42,   0.5,0,0.5, s
+
+<SURFACE>:   z1PLANE1,  lotus1-1,  10,0.31,42,   0.6,0,0.6, s
+<SURFACE>:   z1PLANE1,  lotus3-1,  3,0.31,43,   0.5,0,0.5, s
+<SURFACE>:   z1PLANE1,  lotus1-1,  5,0.31,42,   0.5,0,0.5, s
+<SURFACE>:   z1PLANE1,  lotus2-1,  12,0.31,43,   0.5,0,0.5, s
+
+<layer1>:wall1x5, 1,0,50, w, 163
+<layer1>:wall1x5, 6,0,50, w, 163
+<layer1>:wall1x5, 11,0,50, w, 163
+<layer1>:wall1x5, 16,0,50, w, 163
+<layer1>:wall1x5, 21,0,50, w, 163
+<layer1>:wall1x5, 26,0,50, w, 163
+<layer1>:wall1x4, 31,0,50, w, 163
+
+<layer1>:wall1x5, 1,5,50, w, 163
+<layer1>:wall1x5, 6,5,50, w, 163
+<layer1>:wall1x5, 11,5,50, w, 163
+<layer1>:wall1x5, 16,5,50, w, 163
+<layer1>:wall1x5, 21,5,50, w, 163
+<layer1>:wall1x5, 26,5,50, w, 163
+<layer1>:wall1x4, 31,5,50, w, 163
+
+<layer1>:wall1x5, 33,0,1, n, 163
+<layer1>:wall1x5, 33,5,1, n, 163
+<layer1>:wall1x5, 33,0,6, n, 163
+<layer1>:wall1x5, 33,5,6, n, 163
+<layer1>:wall1x5, 33,0,11, n, 163
+<layer1>:wall1x5, 33,5,11, n, 163
+<layer1>:wall1x5, 33,0,16, n, 163
+<layer1>:wall1x5, 33,5,16, n, 163
+<layer1>:wall1x5, 33,0,21, n, 163
+<layer1>:wall1x5, 33,5,21, n, 163
+<layer1>:wall1x5, 33,0,26, n, 163
+<layer1>:wall1x5, 33,5,26, n, 163
+<layer1>:wall1x5, 33,0,31, n, 163
+<layer1>:wall1x5, 33,5,31, n, 163
+<layer1>:wall1x5, 33,0,36, n, 163
+<layer1>:wall1x5, 33,5,36, n, 163
+<layer1>:wall1x5, 33,0,41, n, 163
+<layer1>:wall1x5, 33,5,41, n, 163
+
+<layer1>:wall1x4, 33,0,46, n, 163
+<layer1>:wall1x4, 33,5,46, n, 163
+
+
+//<layer1>:wall1x1, 33,0,49, w, 163
+
+<layer1>:wall1x5, 1,0,1, s, 163
+<layer1>:wall1x5, 1,0,6, s, 163
+<layer1>:wall1x5, 1,0,11, s, 163
+<layer1>:wall1x5, 1,0,16, s, 163
+<layer1>:wall1x5, 1,0,21, s, 163
+<layer1>:wall1x5, 1,0,26, s, 163
+<layer1>:wall1x5, 1,0,31, s, 163
+<layer1>:wall1x5, 1,0,36, s, 163
+<layer1>:wall1x5, 1,0,41, s, 163
+<layer1>:wall1x5, 1,0,46, s, 163
+
+<layer1>:wall1x5, 1,5,1, s, 163
+<layer1>:wall1x5, 1,5,6, s, 163
+<layer1>:wall1x5, 1,5,11, s, 163
+<layer1>:wall1x5, 1,5,16, s, 163
+<layer1>:wall1x5, 1,5,21, s, 163
+<layer1>:wall1x5, 1,5,26, s, 163
+<layer1>:wall1x5, 1,5,31, s, 163
+<layer1>:wall1x5, 1,5,36, s, 163
+<layer1>:wall1x5, 1,5,41, s, 163
+<layer1>:wall1x5, 1,5,46, s, 163
+
+<layer1>:slight, 13,0,11, n, slight-2
+<layer1>:slight, 13,0,15, n, slight-2
+<layer1>:slight, 13,0,19, n, slight-2
+<layer1>:slight, 13,0,23, n, slight-2
+<layer1>:slight, 13,0,27, n, slight-2
+<layer1>:slight, 13,0,31, n, slight-2
+<layer1>:slight, 13,0,36, n, slight-2
+<layer1>:slight, 20,0,11, s, slight-2
+<layer1>:slight, 20,0,15, s, slight-2
+<layer1>:slight, 20,0,19, s, slight-2
+<layer1>:slight, 20,0,23, s, slight-2
+<layer1>:slight, 20,0,27, s, slight-2
+<layer1>:slight, 20,0,31, s, slight-2
+<layer1>:slight, 20,0,36, s, slight-2
+<layer1>:slight, 16,0,11, w, slight-2
+<layer1>:slight, 16,0,36, e, slight-2
+
+
+//To MainGate from FS-Front
+<layer1>:tunnel, 18,0,48, e, tunnel-2
+<EVENT>: gotoMainGate, 19,47, 1,2, 1,1
+<SETCHARPOS>: 17,0,6,w, ContinueMap
+
+//To StoreTop
+<layer1>:tunnel, 0.5, 3.6, 10, s, tunnel-2
+<layer1>:stair-1, 2,0,11, s, stone1
+<EVENT>: gotoStop, 7,11, 1,2, 1,1
+<SETCHARPOS>: 12,0,14,n, ContinueMap
+
+//center of the fs-front
+<layer1>:tree, 16,0,23, n, tree
+<layer1>:tree, 16,0,24, n, tree
+<layer1>:tree, 17,0,23, s, tree
+<layer1>:tree, 17,0,24, s, tree
+<layer1>:bench2, 15,0,23, n, wood2
+<layer1>:bench2, 16,0,22, w, wood2
+<layer1>:bench2, 16,0,25, e, wood2
+<layer1>:bench2, 18,0,23, s, wood2
+
+
+//Door Houses
+<layer1>:door1-1, 28,0,5, n, door3-6
+<EVENT>: gotoFSHouse1, 28,5, 1,1, 1,1
+<SETCHARPOS>: 9,0,3, n, Continuemap
+
+<layer1>:door1-1, 28,0,17, n, door3-6
+<EVENT>: gotoFSHouse2, 28,17, 1,1, 1,1
+<SETCHARPOS>: 9,0,3, n, Continuemap
+
+<layer1>:door1-1, 28,0,11, n, door3-6
+<EVENT>: gotoFSHouse3, 28,11, 1,1, 1,1
+<SETCHARPOS>: 9,0,3, n, Continuemap
+
+<layer1>:door1-1, 28,0,23, n, door3-6
+<EVENT>: gotoFSHouse4, 28,23, 1,1, 1,1
+<SETCHARPOS>: 9,0,3, n, Continuemap
+
+
+//End of Fort Santiago Front
+
+<LIGHT>: AMBIENT, 0,0,0, .8,.8,.8, DUMMYD1
+<LIGHT>: Directional, 0,0,0, .3,.3,.3, DUMMYD1
+
+<BLOCKROW>: 0
+<BLOCKCOL>: 0
+<BLOCKROW>: 60
+<BLOCKCOL>: 50

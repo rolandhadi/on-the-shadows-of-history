@@ -1,0 +1,12 @@
+<CharAnimate>: Rozs, Push, Reverse, 10,2
+
+<NextEvent>
+<Switch>: CalambaPuzzle, On
+<Item>: Item-Painting1, On
+</>
+
+<NextEvent>
+<LoadMap>: Calamba-SE2
+</>
+
+

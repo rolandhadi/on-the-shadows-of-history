@@ -1,0 +1,190 @@
+<STARTEVENT>: START-Luneta
+
+<ENABLESAVE>
+
+
+<MapName>: _Bagumbayan_
+
+<DRAWBACK>: 700
+<LMOUSE>: 27
+<HMOUSE>: 60
+<FOG>: 0,400, 100, 0
+
+<OBJECT>: tree
+<OBJECT>: tree1
+<OBJECT>: tree2
+<OBJECT>: grass
+<OBJECT>: plant
+<OBJECT>: slight
+
+<DUMMY>: D1,0,0,0
+<DUMMY>: D2,28,0,6
+
+<CHARACTER>: Rozs, 21,0,21, n
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 8
+<ANIMATION>: Run,  8
+<ANIMATION>: Push, 8
+<ANIMATION>: Dock, 8
+
+<CHARACTER>: GuardGun, 14,0,12, n
+<ANIMATION>: Wait, 1
+<ANIMATION>: Fire, 8
+
+<CHARACTER>: GuardGun1, 15,0,13, n
+<ANIMATION>: Wait, 1
+<ANIMATION>: Fire, 8
+
+<CHARACTER>: GuardGun2, 15,0,14, n
+<ANIMATION>: Wait, 1
+<ANIMATION>: Fire, 8
+
+<CHARACTER>: GuardGun3, 14,0,15, n
+<ANIMATION>: Wait, 1
+<ANIMATION>: Fire, 8
+
+<CHARACTER>: RizalF, 6,0,13, n
+<ANIMATION>: WaitDie, 1
+
+<CHARACTER>: Priest, 19,0,6, n
+<ANIMATION>: Wait, 1
+
+<CHARACTER>: Josephine, 20,0,7, n
+<ANIMATION>: Wait, 1
+
+<CHARACTER>: Cman1, 20,0,6, n
+<ANIMATION>: Wait, 1
+
+<CHARACTER>: HGuard, 12,0,16, E
+<ANIMATION>: Wait, 1
+<ANIMATION>: Sign, 8
+
+<CHARACTER/>
+
+//Luneta
+
+<SURFACE>:   PlaneBox,  Wall9, 1,0,1, 25,20,25, s
+<SURFACE>:   Z2PLANE1, land-3,  1,0,1, 25,0,25, s
+<SURFACE>:   Z1Ceiling, cloud-4,  1,0,1, 25,3,25, s
+
+//the code of map begins
+
+/<SURFACE>:   z1PLANE1,  grass3,  3,0.01,14,   4,0,3, s
+/<SURFACE>:   z1PLANE1,  land-5,  5,0.01,20,   6,0,1, s
+/<SURFACE>:   z4PLANE1,  grass2,  3,0.01,35,   8,0,5, s
+/<SURFACE>:   z1PLANE1,  14,  11,0.01,9,   2,0,1, s
+/<layer1>:grass, 31,0,30, s, grass2
+/<layer1>:tree, 7,0,35, s, tree
+/<layer1>:tree, 10,0,38, s, tree
+/<layer1>:slight, 13,0,27, n, slight-2
+
+<layer1>:slight, 3,0,6, n, slight-2
+<layer1>:slight, 3,0,10, n, slight-2
+<layer1>:slight, 3,0,16, n, slight-2
+<layer1>:slight, 3,0,20, n, slight-2
+<layer1>:slight, 7,0,4, n, slight-2
+<layer1>:slight, 13,0,4, n, slight-2
+<layer1>:slight, 19,0,4, n, slight-2
+<layer1>:slight, 25,0,4, n, slight-2
+
+<layer1>:slight, 7,0,22, n, slight-2
+<layer1>:slight, 13,0,22, n, slight-2
+<layer1>:slight, 19,0,22, n, slight-2
+<layer1>:slight, 25,0,22, n, slight-2
+
+<layer1>:tree, 1,0,3, s, tree
+<layer1>:tree, 1,0,4, s, tree
+<layer1>:tree1, 2,0,2, s, tree
+<layer1>:tree2, 3,0,1, s, tree
+<layer1>:tree, 4,0,1, s, tree
+<layer1>:tree1, 5,0,1, s, tree
+<layer1>:tree, 6,0,1, s, tree
+<layer1>:tree, 8,0,2, s, tree
+<layer1>:tree2, 9,0,1, s, tree
+<layer1>:tree1, 10,0,2, s, tree
+<layer1>:tree2, 11,0,2, s, tree
+<layer1>:tree, 12,0,2, s, tree
+<layer1>:tree2, 13,0,1, s, tree
+<layer1>:tree, 14,0,2, s, tree
+<layer1>:tree2, 1,0,24, s, tree
+<layer1>:tree, 2,0,23, s, tree
+<layer1>:tree1, 4,0,22, s, tree
+<layer1>:tree2, 4,0,24, s, tree
+<layer1>:tree, 5,0,23, s, tree
+<layer1>:tree, 6,0,24, s, tree
+<layer1>:tree2, 7,0,25, s, tree
+<layer1>:tree, 8,0,24, s, tree
+<layer1>:tree, 9,0,22, s, tree
+<layer1>:tree1, 10,0,24, s, tree
+
+<layer1>: grass, 3,0,5, s, grass1
+<layer1>: grass, 4,0,4, s, grass2
+<layer1>: grass, 4,0,5, s, grass1
+<layer1>: grass, 4,0,6, s, grass1
+<layer1>: grass, 5,0,4, s, grass2
+<layer1>: grass, 5,0,5, s, grass1
+
+<SURFACE>:   z1PLANE1,  land-1,  3,0.01,3,   5,0,5, s
+<SURFACE>:   z1PLANE1,  land-1,  3,0.01,19,   5,0,5, s
+
+<SURFACE>:   z1PLANE1,  path1,  1,0.01,1,   5,0,2, s
+<SURFACE>:   z1PLANE1,  path1,  6,0.01,1,   5,0,2, s
+<SURFACE>:   z1PLANE1,  path1,  11,0.01,1,   5,0,2, s
+<SURFACE>:   z1PLANE1,  path1,  16,0.01,1,   5,0,2, s
+<SURFACE>:   z1PLANE1,  path1,  21,0.01,1,   5,0,2, s
+
+<SURFACE>:   z1PLANE1,  path1,  1,0.01,24,   5,0,2, s
+<SURFACE>:   z1PLANE1,  path1,  6,0.01,24,   5,0,2, s
+<SURFACE>:   z1PLANE1,  path1,  11,0.01,24,   5,0,2, s
+<SURFACE>:   z1PLANE1,  path1,  16,0.01,24,   5,0,2, s
+<SURFACE>:   z1PLANE1,  path1,  21,0.01,24,   5,0,2, s
+
+<layer1>: grass, 4,0,19, s, grass1
+<layer1>: grass, 4,0,20, s, grass1
+<layer1>: grass, 5,0,20, s, grass1
+<layer1>: grass, 5,0,21, s, grass1
+<layer1>: grass, 6,0,21, s, grass1
+
+<SURFACE>:   z1PLANE1,  land-5,  23,0.01,3,   4,0,3, w
+<SURFACE>:   z1PLANE1,  land-5,  23,0.01,7,   4,0,3, w
+<SURFACE>:   z1PLANE1,  land-5,  23,0.01,11,   5,0,3, w
+<SURFACE>:   z1PLANE1,  land-5,  23,0.01,16,   4,0,3, w
+<SURFACE>:   z1PLANE1,  land-5,  23,0.01,20,   4,0,3, w
+
+<layer1>:tree1, 24,0,1, s, tree
+<layer1>:tree2, 25,0,2, s, tree
+
+<layer1>:tree, 12,0,25, s, tree
+<layer1>:tree, 13,0,24, s, tree
+<layer1>:tree, 14,0,24, s, tree
+<layer1>:tree, 15,0,25, s, tree
+
+<layer1>: grass, 16,0,24, s, grass1
+<layer1>: grass, 17,0,24, s, grass2
+<layer1>: grass, 17,0,25, s, grass2
+<layer1>: grass, 18,0,24, s, grass2
+<layer1>: grass, 18,0,25, s, grass2
+
+<layer1>:tree1, 20,0,23, s, tree
+<layer1>:tree, 21,0,22, s, tree
+
+//Luneta
+
+<LIGHT>: AMBIENT, 0,0,0, .8,.8,.8, DUMMYD1
+<LIGHT>: Directional, 0,0,0, .3,.3,.3, DUMMYD1
+
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Rozs
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, GuardGun3
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, GuardGun2
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, GuardGun1
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, GuardGun
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, HGuard
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, CMan1
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, CMan2
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, CMan3
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Josephine
+
+<BLOCKROW>: 0
+<BLOCKCOL>: 0
+<BLOCKROW>: 60
+<BLOCKCOL>: 50

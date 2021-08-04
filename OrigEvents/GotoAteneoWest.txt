@@ -1,0 +1,102 @@
+<Case>: InsideAteneo
+
+<Message>: _&Entering<13>_, 1,NONE
+<LoadMap>: Ateneo-West
+
+<Case>: MariaFinished
+
+<PlaySound>: Door-1
+<Message>: _&Entering<13>_, 1,NONE
+<Switch>: InsideAteneo, On
+<Item>: Item-AUniform, Off
+<LoadMap>: AteneoStart
+
+<Case>: Switch-AUniform
+
+<MESSAGE>: _&AteneoScene<168>_, 3
+
+<Case>: GetUniform
+<PlaySound>: G2
+<MESSAGE>: _&AteneoScene<25>_, 2,None
+
+<Case Else>
+
+//Note: Papasok c Rozs sa Ateneo, sisitahin cya nung Guard
+<CHARFACE>: Guard, Rozs
+<CHARFACE>: Rozs, Guard
+<MESSAGE>: _&AteneoScene<23>_, 3, None
+<PlaySound>: G1
+
+<SETCAMPOS>: 35,3,10, Guard
+<CharAnimate>: Guard, Talk2, Once, 50, 3
+<PlaySound>: G1
+
+<NEXTEVENT>
+<MESSAGE>: _&AteneoScene<24>_, 3,NONE
+<PlaySound>: Rozs71
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&AteneoScene<25>_, 3,NONE
+<PlaySound>: G2
+</>
+
+<NEXTEVENT>
+<CHARFACE>: Rozs, Guard, Back
+<MESSAGE>: _&AteneoScene<76>_, 5,NONE
+<PlaySound>: Ateneo-Rozs3
+</>
+
+<NextEvent>
+<SetCharPos>: AMan6, 33,0,9, e
+</>
+
+<NextEvent>
+<CHARFACE>: Aman6, Rozs
+<CHARFACE>: Rozs, Aman6
+<MESSAGE>: _&AteneoScene<62>_, 5, None
+<SETCAMPOS>: 35,1,3, AMan6
+<CharAnimate>: Guard, Talk2, Reverse, 50, 3
+<PlaySound>: Pablo1
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&AteneoScene<63>_, 5,NONE
+<PlaySound>: Ateneo-Rozs1
+
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&AteneoScene<64>_, 8,NONE
+<PlaySound>: Pablo2
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&AteneoScene<65>_, 7,NONE
+<PlaySound>: Pablo3
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&AteneoScene<66>_, 7,NONE
+<PlaySound>: Pablo4
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&AteneoScene<67>_, 5,NONE
+<PlaySound>: Pablo5
+</>
+
+<NextEvent>
+<SETCAMPOS>: 35,3,10, Guard
+</>
+
+<NEXTEVENT>
+<SetCharPos>: AMan6, 32,10,14, e
+<MESSAGE>: _&AteneoScene<25>_, 3,NONE
+<PlaySound>: G2
+<Switch>: GetUniform, On
+<PlaySound>: G2
+<Task>: TaskA2
+</>
+
+<End Select>

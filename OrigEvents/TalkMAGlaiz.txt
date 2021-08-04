@@ -1,0 +1,14 @@
+<CHARFACE>: Glaiz, Rozs
+<CHARFACE>: Rozs, Glaiz
+
+<NextEvent>
+<RotateCam>: Glaiz, Right, 500, 3
+/<CharAnimate>: Glaiz, Talk1, Once, 50,3
+/<MESSAGE>: __, 3,none
+<MESSAGE>: _&MuseumScene<82>_, 3, None
+</>
+
+/<NextEvent>
+/<CharAnimate>: Glaiz, Talk1, Reverse, 50,3
+/<MESSAGE>: __, 3,none
+/</>

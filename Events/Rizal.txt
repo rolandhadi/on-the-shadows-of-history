@@ -1,0 +1,13 @@
+<Message>: _JOSE RIZAL (1861-1896)_, 2
+
+<NEXTEVENT>
+<Message>: _&Jose<1>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Jose<2>_, 3
+</>
+
+
+
+ 

@@ -1,0 +1,3 @@
+<BGMusic>: FS-1, Loop
+<ForcePlayBG>:  FS-1
+<ForceLoadMap>: Fs-Front

@@ -1,0 +1,15 @@
+<Case>: AMan6
+
+<MESSAGE>: _&MuseumScene<48>_, 5
+<CHARFACE>: AMan6, Rozs
+<CHARFACE>: Rozs, AMan6
+
+<Case Else>
+
+<MESSAGE>: _&MuseumScene<49>_, 5
+<CHARFACE>: AMan6, Rozs
+<CHARFACE>: Rozs, AMan6
+
+<SWITCH>: AMan6, on
+<End Select>
+

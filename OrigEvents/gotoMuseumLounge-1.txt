@@ -1,0 +1,3 @@
+<PlaySound>: Door-1
+<Message>: _Entering Museum Lounge_, 1, NONE
+<LoadMap>: MuseumLounge

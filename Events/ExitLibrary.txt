@@ -1,0 +1,9 @@
+<CHOICE>: _&STIScene<32>_
+<YES>
+<MESSAGE>: _&STIScene<33>_,1,NONE
+<NextEvent>
+<LoadMap>: Sti-Hallway
+</>
+<NO>
+<MESSAGE>: __,1,NONE
+<CHOICE END>

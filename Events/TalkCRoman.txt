@@ -1,0 +1,11 @@
+<Case>: Switch-Painting1
+<MESSAGE>: _&TownCalambaScene<66>_, 5
+<NextEvent>
+<MESSAGE>: _&TownCalambaScene<67>_, 5
+</>
+<Case Else>
+<CHARFACE>: CMan3, Rozs
+<CHARFACE>: Rozs, CMan3
+<MESSAGE>: _&TownCalambaScene<101>_, 5
+<PlayBG>: Info
+<End Select>

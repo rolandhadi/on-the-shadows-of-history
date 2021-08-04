@@ -1,0 +1,10 @@
+<Case>: Pepe1
+<Message>: _&Entering<19>_, 1, NONE
+<LoadMap>: Calamba-SW2
+<Case>: CRLady1
+<Message>: _&Entering<19>_, 1, NONE
+<LoadMap>: Calamba-SW
+<Case Else>
+<Message>: _&Entering<19>_, 1, NONE
+<LoadMap>: Calamba-SW2
+<End Select>

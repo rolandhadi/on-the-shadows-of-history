@@ -1,0 +1,8 @@
+<CHARFACE>: CMan1, Rozs
+<CHARFACE>: Rozs, CMan1
+
+<ROTATECAM>: Rozs, Left, 500, 3
+<MESSAGE>: _&FSScene<27>_, 3, None
+
+
+

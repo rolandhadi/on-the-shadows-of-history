@@ -1,0 +1,81 @@
+<ENABLESAVE>
+<MapName>: _House in Calamba_
+<DRAWBACK>: 450
+<LMOUSE>: 20
+<HMOUSE>: 60
+<FOG>: 400,450, 100, 100
+
+<OBJECT>: Plant
+<OBJECT>: Tablelong
+<OBJECT>: Roundtable
+<OBJECT>: Door3-1
+<OBJECT>: Chair1
+<OBJECT>: Bshelf
+<OBJECT>: Sofa
+<OBJECT>: Bed
+<OBJECT>: Wall1x5
+<OBJECT>: Wall1x4
+<OBJECT>: KSink
+<OBJECT>: Cabinet1x1
+
+<DUMMY>: D1,0,0,0
+<DUMMY>: D2,28,0,6
+
+<CHARACTER>: Rozs, 9,0,3, n
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 8
+<ANIMATION>: Run,  8
+<ANIMATION>: Push, 8
+<ANIMATION>: Dock, 8
+<CHARACTER/>
+
+<SURFACE>:   Z2PLANE1, Wood22,  1,0,1, 10,0,10, s
+<SURFACE>:   PlaneBox, Wall-4,  1,0,1,  10,5,10,s
+<SURFACE>:   Z2Ceiling,Wood23,  1,4,1, 10,0,10, s
+
+<layer1>:Door3-1,10,0,3,n,Door3-1
+<EVENT>: GotoCSW, 10,3, 1,1, 1,1
+<SETCHARPOS>: 32,0,36,e, ContinueMap
+
+//Ordinary House NEW MODEL
+
+<layer1>:Bed,3,0,10,w,bed1
+<layer1>:Bed,3,0,8,w,bed1
+<layer1>:Cabinet1x1,4,0,9,n,cabinet1
+<layer1>:Cabinet1x1,1,0,6,w,cabinet1
+<layer1>:Cabinet1x1,2,0,6,w,cabinet1
+
+<layer1>:BShelf,6,0,9,s,BShelf5
+<layer1>:BShelf,6,0,10,s,BShelf5
+<layer1>:Roundtable,9,0,9, n, 278
+<layer1>:Chair1,8,0,9,s
+<layer1>:Chair1,10,0,9,n
+<layer1>:Chair1,9,0,8,e
+<layer1>:Chair1,9,0,10,w
+
+<layer1>:Sofa,8,0,1,w,wall1
+<layer1>:Sofa,7,0,2,n,wall1
+<layer1>:Plant,7,0,1,w,plant1
+
+<layer1>:Tablelong,4,0,1,n,1
+<layer1>:Chair1,3,0,1,s
+<layer1>:Chair1,3,0,2,s
+<layer1>:Chair1,5,0,1,n
+<layer1>:Chair1,5,0,2,n
+<layer1>:Chair1,4,0,3,e
+<layer1>:Cabinet1x1,1,0,3,s,cabinet1
+<layer1>:Cabinet1x1,1,0,4,s,cabinet1
+<layer1>:KSink,1,0,1,n,2
+
+<layer1>:Wall1x5,1,0,5,w,Wall-4
+<layer1>:Wall1x4,5,0,7,n,Wall-4
+
+<LIGHT>: AMBIENT, 0,0,0, .8,.8,.8, DUMMYD1
+<LIGHT>: Directional, 0,0,0, .3,.3,.3, DUMMYD1
+
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Rozs
+
+<BLOCKROW>: 0
+<BLOCKCOL>: 0
+<BLOCKROW>: 11
+<BLOCKCOL>: 11

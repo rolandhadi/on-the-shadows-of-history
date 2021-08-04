@@ -1,0 +1,23 @@
+<SetCampos>: 3,7,14, RizalA
+
+<Charface>: RizalA, Segunda
+<Charface>: Man4, RizalA  
+<Charface>: AMan6, Segunda
+<Charface>: Rozs, RizalA  
+
+<NextEvent>
+<RotateCam>: RizalA, Right, 1000, 10
+<CharAnimate>: RizalA, Draw, Loop, 50, 10
+</>
+
+
+<NextEvent>
+<RotateCam>: RizalA, Right, 1000, 10
+<CharAnimate>: RizalA, Draw, Loop, 50, 10
+<MESSAGE>: _&AteneoScene<158>_, 20, None
+<Playsound>: Rizal-Katigbak2
+</>
+
+<NEXTEVENT>
+<LOADMAP>: SegundaHouse-Rizal
+</>

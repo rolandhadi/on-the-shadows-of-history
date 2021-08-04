@@ -1,0 +1,6 @@
+<Case>: Switch-Key
+<Message>: _&FSScene<50>_, 5
+<LoadMap>: Maze-1
+<Case Else>
+<Message>: _&FSScene<49>_, 5
+<End Select>

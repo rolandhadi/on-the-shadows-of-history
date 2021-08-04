@@ -1,0 +1,144 @@
+<SETCAMPOS>: 19,1,2, None, 6,1,22
+<Fog>: 0,10, 0,0
+<PlayBG>: Demonic,Loop
+
+<NextEvent>:
+<CHARFACE>: Josephine, RizalF
+<CHARFACE>: Priest, RizalF
+<CHARFACE>: CMan1, RizalF
+<CHARFACE>: Rozs, RizalF
+</>
+
+<NextEvent>
+<Fog>: 0,10, 0,0
+<Message>: __, 0, None
+</>
+
+<NextEvent>
+<Fog>: 0,60, 0,0
+<Message>: __, 0, None
+</>
+
+<NextEvent>
+<Fog>: 0,110, 0,0
+<Message>: __, 0, None
+</>
+
+<NextEvent>
+<Fog>: 0,160, 0,0
+<Message>: __, 0, None
+</>
+
+<NextEvent>
+<Fog>: 0,250, 0,0
+<Message>: __, 0, None
+</>
+
+<NextEvent>
+<Fog>: 0,350, 0,0
+<Message>: __, 0, None
+</>
+
+<NextEvent>
+<Fog>: 0,700, 0,0
+</>
+
+<NextEvent>:
+<SETCAMPOS>: 10,1,13, RizalF
+<Message>: __, 1, None
+<PlaySound>: Flash
+</>
+
+<NextEvent>:
+<SETCAMPOS>: 17,1,13, RizalF
+<Message>: __, 1, None
+<PlaySound>: Flash
+</>
+
+<NextEvent>:
+<SETCAMPOS>: 1,1,13, RizalF
+<Message>: __, 1, None
+<PlaySound>: Flash
+</>
+
+<NextEvent>:
+<SETCAMPOS>: 3,1,5, None, 16,1,21
+<Message>: __, 1, None
+<PlaySound>: Flash
+</>
+
+<NextEvent>:
+<SETCAMPOS>: 20,1,14, RizalF
+<Message>: __, 1, None
+<PlaySound>: Flash
+</>
+
+<NextEvent>:
+<SETCAMPOS>: 19,1,2, None, 6,1,22
+<Message>: __, 1, None
+/<PlaySound>: HG1
+<PlaySound>: LunetaGCivil1
+<Message>: _&LunetaScene<5>_, 3, None
+</>
+
+<NextEvent>:
+<CharAnimate>: GuardGun,  Fire,  Once, 40, 1
+<CHARFACE>: GuardGun, RizalF
+<PlaySound>: Rifle
+</>
+
+<NextEvent>:
+<CharAnimate>: GuardGun1, Fire, Once, 40, 1
+<CHARFACE>: GuardGun1, RizalF
+<PlaySound>: Rifle
+</>
+
+<NextEvent>:
+<CharAnimate>: GuardGun2, Fire, Once, 40, 1
+<CHARFACE>: GuardGun2, RizalF
+<PlaySound>: Rifle
+</>
+
+<NextEvent>:
+<CharAnimate>: GuardGun3, Fire, Once, 40, 1
+<CHARFACE>: GuardGun3, RizalF
+<PlaySound>: Rifle
+</>
+
+<NextEvent>:
+<Message>: __, 3, None
+<PlaySound>: Rifle1
+</>
+
+<NextEvent>:
+<SETCAMPOS>: 4,1,10, None, 12,1,14
+<PlaySound>: Flash
+<Message>: _&LunetaScene<11>_, 3, None
+<PlaySound>: LunetaGCivil2
+<CharAnimate>: HGuard, sign, Once, 50, 3
+</>
+
+<NextEvent>:
+<SETCAMPOS>: 15,1,12, None, 17,1,9
+<Message>: __, 1, None
+</>
+
+<NextEvent>:
+<SETCAMPOS>: 17,1,9, None, 15,1,11
+<Message>: __, 1, None
+</>
+
+<NextEvent>:
+<Fog>: 0,0,0,0
+</>
+
+<NextEvent>:
+<PlaySound>: Rifle2
+<stopbg>
+<Message>: __, 3, None
+</>
+
+
+<NextEvent>:
+<LoadMap>: TheEnd
+</>

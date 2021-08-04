@@ -1,0 +1,3 @@
+<Caption>:_&AteneoScene<80>_
+<Details>:_&AteneoScene<81>_ 
+<Switch>: Switch-Pablo, On

@@ -1,0 +1,254 @@
+<Case>: Con-RizalJosephine
+
+<MESSAGE>: __, 0, None
+
+<Case Else>
+
+<Switch>: Con-RizalJosephine, On
+<StopBG>
+<PlayBg>: Departure, loop
+
+<SetCharpos>: RizalF, 3,0,6, w
+<SetCharpos>: Josephine, 3,0,7, e
+
+<NEXTEVENT>
+<CharFace>: Josephine, RizalF
+<CharFace>: RizalF, Josephine
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 4,3,3, Josephine
+<MESSAGE>: _&FSScene<78>_, 5, None
+<PLaysound>: FSRizal1
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 4,3,8, RizalF
+<MESSAGE>: _&FSScene<79>_, 5, None
+<PLaysound>: FSBracken9
+</>
+
+<NEXTEVENT>
+<ROTATECAM>: RizalF, Left, 500, 5
+<CharAnimate>: RizalF, Talk2, Once, 50, 3
+<MESSAGE>: _&FSScene<80>_, 7, None
+<PLaysound>: FSRizal2
+</>
+
+<NEXTEVENT>
+<ROTATECAM>: Josephine, Right, 500, 3
+<MESSAGE>: _&FSScene<81>_, 5, None
+<PLaysound>: FSBracken10
+</>
+
+<NextEvent>
+<CharAnimate>: RizalF, Talk2, Reverse, 50, 3
+<MESSAGE>: __, 3, None
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 4,2,7, RizalF
+<MESSAGE>: _&FSScene<82>_, 3, None
+<PLaysound>: FSRizal3
+</>
+
+<NEXTEVENT>
+<ROTATECAM>: Josephine, Left, 500, 5
+<CharAnimate>: Josephine, Talk, Once, 50, 7
+<MESSAGE>: _&FSScene<83>_, 7, None
+<PLaysound>: FSBracken11
+</>
+
+<NextEvent>
+<CharAnimate>: Josephine, Talk, Reverse, 50, 2
+<MESSAGE>: __, 3, None
+</>
+
+<NEXTEVENT>
+<ROTATECAM>: RizalF, Left, 500, 2
+<MESSAGE>: _&FSScene<84>_, 2, None
+<PLaysound>: FSRizal4
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 3,2,4, Josephine
+<MESSAGE>: _&FSScene<85>_, 5, None
+<PLaysound>: FSBracken12
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 3,3,8, RizalF
+<MESSAGE>: _&FSScene<86>_, 7, None
+<PLaysound>: FSRizal5
+</>
+
+<NEXTEVENT>
+<ROTATECAM>: Josephine, Left, 500, 5
+<MESSAGE>: _&FSScene<87>_, 7, None
+<PLaysound>: FSBracken13
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 3,2,8, RizalF
+<CharAnimate>: RizalF, Talk1, Once, 50, 3
+<MESSAGE>: _&FSScene<88>_, 4, None
+<PLaysound>: FSRizal6
+</>
+
+<NextEvent>
+<CharAnimate>: RizalF, Talk1, Reverse, 50, 3
+<MESSAGE>: __, 3, None
+</>
+
+<NEXTEVENT>
+<CharAnimate>: Josephine, Talk, Once, 50, 4
+<ROTATECAM>: Josephine, Left, 500, 7
+<MESSAGE>: _&FSScene<89>_, 7, None
+<PLaysound>: FSBracken14
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 3,2,7, RizalF
+<MESSAGE>: _&FSScene<90>_, 3, None
+<PLaysound>: FSRizal7
+</>
+
+<NEXTEVENT>
+<CharAnimate>: Josephine, Talk, Reverse, 50, 2
+<MESSAGE>: __, 2, None
+</>
+
+//note: bibigay ni Rizal yun Imitation...
+<NEXTEVENT>
+<CharAnimate>: RizalF, Give, Once, 50, 2
+<ROTATECAM>: RizalF, Left, 500, 2
+<MESSAGE>: _&FSScene<91>_, 2, None
+<PLaysound>: FSRizal8
+</>
+
+<NEXTEVENT>
+<CharAnimate>: Josephine, Give, Once, 50, 2
+</>
+
+<NEXTEVENT>
+<ROTATECAM>: RizalF, Right, 500, 2
+<CharAnimate>: RizalF, Give, Reverse, 50, 2
+<MESSAGE>: _&FSScene<92>_, 2, None
+</>
+
+<NEXTEVENT>
+<CharAnimate>: Josephine, Give, Reverse, 50, 1
+</>
+
+<NEXTEVENT>
+<CharFace>: RizalF,Josephine, Back
+<SETCAMPOS>: 4,2,7, RizalF
+<MESSAGE>: _&FSScene<93>_, 2, None
+</>
+
+<NEXTEVENT>
+<ROTATECAM>: Josephine, Right, 500, 7
+<MESSAGE>: _&FSScene<94>_, 7, None
+<PLaysound>: FSBracken15
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 2,2,7, RizalF
+<CharFace>: Josephine, RizalF
+<CharFace>: RizalF, Josephine
+<MESSAGE>: _&FSScene<95>_, 5, None
+<PLaysound>: FSRizal9
+</>
+
+<NEXTEVENT>
+<ROTATECAM>: RizalF, Left, 500, 7
+<MESSAGE>: _&FSScene<96>_, 7, None
+<PLaysound>: FSRizal10
+</>
+
+<NEXTEVENT>
+<ROTATECAM>: RizalF, Right, 500, 5
+<MESSAGE>: _&FSScene<97>_, 5, None
+<PLaysound>: FSRizal11
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 2,3,4, Josephine
+<CharAnimate>: Josephine, Talk1, Seesaw, 200, 4
+<MESSAGE>: _&FSScene<98>_, 4, None
+<PLaysound>: FSBracken16
+</>
+
+//Knocking...
+<NEXTEVENT>
+<CharAnimate>: Josephine, Wait, Once, 200, 4
+<SetCharPos>: Rozs, 7,0,8, n
+<SETCAMPOS>: 8,4,6, Rozs
+<MESSAGE>: _&FSScene<99>_, 5, None
+<PLaysound>: FSRozs9
+</>
+
+<NEXTEVENT>
+<ROTATECAM>: Josephine, Right, 500, 5
+<CharAnimate>: Josephine, Talk2, Once, 200, 4
+<MESSAGE>: _&FSScene<100>_, 5, None
+<PLaysound>: FSBracken17
+</>
+
+<NEXTEVENT>
+<CharAnimate>: Josephine, Talk2, Reverse, 200, 4
+<ROTATECAM>: RizalF, Right, 500, 5
+<MESSAGE>: _&FSScene<101>_, 5, None
+<PLaysound>: FSRizal12
+//aalis si Josephine sa Scene na 'to
+</>
+
+<NEXTEVENT>
+<SetCharpos>: Josephine, 8,10,8, s
+<SetCharpos>: RizalF, 3,0,6, s
+<SETCAMPOS>: 5,3,5, RizalF
+<ROTATECAM>: RizalF, Left, 1500, 12
+<MESSAGE>: _&FSScene<102>_, 12, None
+<PLaysound>: aFS-rozs13
+</>
+
+<NEXTEVENT>
+<SetCharpos>: Josephine, 8,0,8, s
+<SetCharpos>: Rozs, 8,0,9, s
+
+<CharFace>: Josephine, Rozs
+<CharFace>: Rozs, Josephine
+</>
+
+<NEXTEVENT>
+<ROTATECAM>: Rozs, Left, 500, 5
+<MESSAGE>: _&FSScene<103>_, 5, None
+<PLaysound>: FSRozs10
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 7,3,7, Rozs
+<CharAnimate>: Josephine, Talk1, Once, 50, 5
+<MESSAGE>: _&FSScene<104>_, 5, None
+<PLaysound>: FSBracken18
+</>
+
+<NextEvent>
+<CharAnimate>: Josephine, Talk1, Reverse, 50, 2
+<MESSAGE>: __, 1, None
+</>
+
+<NEXTEVENT>
+<CharFace>: Josephine, Rozs, Back
+<CHARANIMATE>: Josephine, Walk, Loop, 100, 4
+<MoveChar>: Josephine, n, .4, 4
+</>
+
+<NextEvent>
+<Task>: TaskFS-RJosephine
+</>
+
+<NextEvent>
+<LoadMap>: fs-rizalshrine4
+</>
+<End Select>

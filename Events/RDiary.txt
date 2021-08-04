@@ -1,0 +1,9 @@
+<Message>: _&MuseumScene<77>_, 3
+
+<NEXTEVENT>
+<Message>: _&MuseumScene<76>_, 3, None
+</>
+
+<NEXTEVENT>
+<ShowPreview>: Diary1
+</>

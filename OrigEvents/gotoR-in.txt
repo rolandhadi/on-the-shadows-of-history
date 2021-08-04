@@ -1,0 +1,15 @@
+<Case> Con-RizalJosephine
+
+<Message>: _&Tasks<31>_, 2
+
+<nextEvent>
+<PlaySound>: Door-1
+<PlaySound>: Door1-2
+<Message>: _&Entering<39>_, 2
+</>
+
+<Case Else>
+
+<Message>: _&Tasks<30>_, 2
+
+<End Select>

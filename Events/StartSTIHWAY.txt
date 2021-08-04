@@ -1,0 +1,7 @@
+<Case>: In305
+<StopBG>
+<PlayBG>: STI, Loop
+<Switch>: In305, Off
+<Case Else>
+<Message>: __, 0, None
+<End Select>

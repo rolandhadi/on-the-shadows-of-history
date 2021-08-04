@@ -1,0 +1,735 @@
+<1>
+<A>: _Rozs:  Where am I?_
+<B>: _Rozs:  Nasaan ako?_
+<C>: 
+</>
+
+<2>
+<A>: _Rozs:  Excuse me. What town is this?_
+<B>: _Rozs:  Paumanhin. Anong bayan ito?_
+<C>: 
+</>
+
+<3>
+<A>: _Man: This is the town of Calamba. Why do you ask? Are you new here?_
+<B>: _Man:  Ito ang bayan ng Calamba. Bakit mo naitanong? Baguhan ka ba dito?_
+<C>: 
+</>
+
+<4>
+<A>: _Rozs: Yes, I am new here. I'm looking for a person.. Have you heard the name Jose Rizal?_
+<B>: _Rozs: Opo, Ako'y baguhan dito. Hinahanap ko ang isang tao... Kilala nyo ba si Jose Rizal?_
+<C>: 
+</>
+
+
+<5>
+<A>: _Man: No Sorry._
+<B>: _Man:  paumanhin di ko siya kilala._
+<C>: 
+</>
+
+<6>
+<A>: _Rozs:  Okay then. Thanks..._
+<B>a:_Rozs:  Okey salamat...._ 
+<C>: 
+</>
+
+<7>
+<A>: _Vendor: Diaryo! Would you like to buy a diaryo, son?_
+<B>: _Vendor: Diaryo! Gusto mo bang bumili ng diaryo, anak?_
+<C>: 
+</>
+
+<8>
+<A>: _Rozs: Yes. Oh no, Sir, I'm sorry, but my money is not enough to buy a newspaper._
+<B>: _Rozs: Opo. O hindi, Ginoo, Ipagpaumanhin nyo pero di sapat ang pera ko._
+<C>: 
+</>
+
+<9>
+<A>: _Rozs: I only have 25 centavos in my pocket._
+<B>: _Rozs: Mayroon lamang akong 25 sentimos sa aking bulsa._
+<C>: 
+</>
+
+<10>
+<A>: _Vendor:  Son, you have a lot of money. My newspaper is just 1 centavo._
+<B>: _Vendor:  Anak, marami kang pera. Ang Diaryo ay nagkakahalaga lamang sa 1 sentimo._
+<C>: 
+</>
+
+<11>
+<A>: _Vendor: Would you like to buy some?_
+<B>: _Vendor: Gusto mo bang bumili?_
+<C>: 
+</>
+
+<12>
+<A>: _Rozs: Where on earth am I? A newspaper is only 1 centavo?!!.. By the way I'll buy one._
+<B>: _Rozs: saang bahagi ako ng mundo naroon? ang diaryo 1 sentimo lang?!!.. Pabili ng isa._
+<C>: 
+</>
+
+
+<13>
+<A>: _Vendor:  Here it is, young man... and your change._
+<B>: _Vendor:  Ito na iho.. pati ang iyong sukli._
+<C>: 
+</>
+
+<14>
+<A>: _Rozs:  Thank you sir..._
+<B>: _Rozs:  Salamat sa iyo ginoo..._
+<C>: 
+</>
+
+<15>
+<A>: _Rozs:  What the... the year is 1869..._
+<B>: _Rozs:  Anu ang.... ang taon ay 1869..._
+<C>: 
+</>
+
+<16>
+<A>: _Lady:  Hey! hey Rozs... By the way, his name is Jose Mercado and not Rizal._
+<B>: _Lady:  Rozs, Rozs... Siya nga pala bata, ang pangalan niya ay Jose Mercado at hindi Rizal._
+<C>: 
+</>
+
+<17>
+<A>: _Lady: You can also call him Pepe because that was his pet name..._
+<B>: _Lady: Pwede mo rin siyang tawaging Pepe dahil yan ang kanyang palayaw._
+<C>: 
+</>
+
+<18>
+<A>: _Rozs: What?! Who are you? Wait... you are the receptionist!!!_
+<B>: _Rozs: Anu?! Sino Ka? Teka... Ikaw yung babae sa Museum di ba?_
+<C>: 
+</>
+
+<19>
+<A>: _Rozs:  Oh, sorry for that..._
+<B>: _Rozs:  Ay, Ipagpaumanhin nyo po..._
+<C>: 
+</>
+
+<20>
+<A>: _Rozs:  Excuse me. Have you seen Jose?_
+<B>: _Rozs:  Paumanhin. Nakita nyo po ba si Jose?_
+<C>: 
+</>
+
+<21>
+<A>: _Child1: Oh that's Pepe. He keeps on writing, and he was busy all the time._
+<B>: _Child1: Hayun si Pepe. Nagsusulat na naman at lagi siyang abala._
+<C>: 
+</>
+
+<22>
+<A>: _Child1: I think he is writing a poem again. He loves doing it._
+<B>: _Child1: Sa aking palagay siya ay nagsusulat na naman ng tula. Iyon kasi ang hilig niya._
+<C>: 
+</>
+
+<23>
+<A>: _Rozs:  Thank you... kid_
+<B>: _Rozs:  Salamat sa iyo bata._
+<C>: 
+</>
+
+<24>
+<A>: _Rozs:  Hi! What are you doing?_
+<B>: _Rozs:  Kumusta! Anong ginagawa mo?_
+<C>: 
+</>
+
+<25>
+<A>: _Pepe:  I am finishing my poem..._
+<B>: _Pepe:  Tinatapos ko ang aking tula... Paumanhin ginoo, nagkakilala na po ba tayo?_
+<C>: 
+</>
+
+<26>
+<A>: _Rozs:  Wait. By the way, I'm Rozs._
+<B>: _Rozs:  Teka. Ako nga pala si Rozs._
+<C>: 
+</>
+
+<27>
+<A>: _Pepe:  It's nice to meet you Mr. Rozs. I'm Jose Mercado._
+<B>: _Pepe:  Ikinagagalak kitang makilala ginoong Rozs. Ako si Jose Mercado._
+<C>: 
+</>
+
+<28>
+<A>: _Rozs:  You're so young...._
+<B>: _Rozs:  Napakabata mo pa pala..._
+<C>: 
+</>
+
+<29>
+<A>: _Pepe:  Of course, I am just 8 years old. Why did you say so?_
+<B>: _Pepe:  Siyempre, Ako ay walong taong gulang pa lamang. Bakit nyo naman po nasabi?_
+<C>: 
+</>
+
+<30>
+<A>: _Rozs:  Oh nothing! Do you love writing poems?_
+<B>: _Rozs:  A wala! Hilig mo ba ang magsulat ng tula?_
+<C>: 
+</>
+
+<31>
+<A>: _Pepe: Yes! I love writing poems, My mother teaches me on how to make them and she teaches me about literature, doing poems is great._
+<B>: _Pepe: Oo! Magsulat ng tula ang hilig ko. Tinuturuan ako ng aking ina kung paano gumawa nito at tinuturuan nya rin ako tungkol sa literatura, ang paggawa ng tula ang hilig ko._
+<C>: 
+</>
+
+
+<32>
+<A>: _By the way, the title of my poem is "To my Fellow Children". Is it nice?_
+<B>: _Siya nga pala ang pamagat ng tula ko ay "Sa Aking mga Kababata". Maganda!_
+<C>: 
+</>
+
+<33>
+<A>: _Rozs: Yes, what a wonderful title! If you don't mind may I have a copy of your poem?_
+<B>: _Rozs: Kahanga-hangang pamagat! Kung iyong mamarapatin pwede ba akong humingi ng kopya ng iyong tula?_
+<C>: 
+</>
+
+<34>
+<A>: _Pepe:  Yes, I surely love it._
+<B>: _Pepe:  Maaari po ginoo, ikinagagalak ko po iyon._
+<C>: 
+</>
+
+<35>
+<A>: _Doña Teodora:  Pepe it's lunch time!!_
+<B>: _Doña Teodora:  Pepe, oras na para mananghalian!!!_
+<C>: 
+</>
+
+<36>
+<A>: _Pepe:  Yes Mother! I'm coming!_
+<B>: _Pepe:  Opo ina! Parating na po ako!_
+<C>: 
+</>
+
+<37>
+<A>: _Pepe:  Mr. Rozs, I'll finish the poem first. Then I will give you a copy._
+<B>: _Pepe:  Ginoong Rozs, tatapusin ko muna. Maya-maya lang bibigyan kita ng kopya._
+<C>: 
+</>
+
+<38>
+<A>: _Pepe: Would you like to go with me inside?_
+<B>: _Pepe: Maaari ka bang sumama sa akin? Inaanyayahan kita sa aming bahay._
+<C>: 
+</>
+
+<39>
+<A>: _Rozs:  No, Thanks. Thank you for your invitation..._
+<B>: _Rozs:  Hindi na, salamat. Salamat sa iyong imbitasyon..._
+<C>: 
+</>
+
+<40>
+<A>: _Pepe: By the way Mr. Rozs. I remember, I have no more ink._
+<B>: _Pepe: Siya nga pala Ginoo. Aking nawari na wala na pala akong tinta._
+<C>: 
+</>
+
+<41>
+<A>: _Pepe: Do you mind getting me one?_
+<B>: _Pepe: Kung iyong mamarapatin pwede nyo po ba akong maikuha?_
+<C>: 
+</>
+
+<42>
+<A>: _Rozs:  Sure! I'll bring it here in just moment..._
+<B>: _Rozs:  Oo, aking dadalhin pagkalipas ng ilang saglit...._
+<C>: 
+</>
+
+<43>
+<A>: _Rozs:  Do you have some ink?_
+<B>: _Rozs:  Mayroon po ba kayong tinta?_
+<C>: 
+</>
+
+<44>
+<A>: _Woman:  Yes I have._
+<B>: _Woman:  Aba meron po Ginoo._
+<C>: 
+</>
+
+<45>
+<A>: _Rozs:  Can I buy it? How much?_
+<B>: _Rozs:  Pwede ho ba akong makabili? Magkano?_
+<C>: 
+</>
+
+<46>
+<A>: _Woman:  It's not for sale! I'm going to use it._
+<B>: _Woman:  Ikinalulungkot ko po, ngunit hindi ko ito ipinagbibili sapagkat akin itong gagamitin._
+<C>: 
+</>
+
+<47>
+<A>: _Rozs:  Please sell it to me, i need it badly!_
+<B>: _Rozs:  Pakiusap pagbilhan nyo po ako, kailangang-kailangan ko ito._
+<C>: 
+</>
+
+<48>
+<A>: _Woman:  Alright, but do me a favor. My son Angelito is still sick._
+<B>: _Woman:  O sige pero gawan mo ako ng pabor. Ang aking anak ay may karamdaman_
+<C>: 
+</>
+
+<49>
+<A>: _Woman: He is suffering on a severe fever this couple of days._
+<B>: _Woman: Siya ay nagdurusa sa matinding lagnat noong mga nakaraang araw._
+<C>: 
+</>
+
+<50>
+<A>: _Woman: I need to have some sambong leaves to cure his ailments. Can you find me some these herbal leaves?_
+<B>: _Woman: Kailangan ko ng dahon ng sambong. Maaari mo ba akong ikuha nito?_
+<C>: 
+</>
+
+<51>
+<A>: _Rozs:  Alright..._
+<B>: _Rozs:  Sige po..._
+<C>: 
+</>
+
+<52>
+<A>: _Woman:  Thank you. I'll wait here, hurry!_
+<B>: _Woman:  Salamat. Maghihintay ako rito, bilisan mo!_
+<C>: 
+</>
+
+<53>
+<A>: _Woman:  Thank you for these sambong leaves._
+<B>: _Woman:  Salamat sa mga dahon ng sambong na ito._
+<C>: 
+</>
+
+<54>
+<A>: _Rozs:  Welcome! It's fun too._
+<B>: _Rozs:  Walang anuman! Nasiyahan rin naman po ako._
+<C>: 
+</>
+
+<55>
+<A>: _Woman:  By the way, heres the ink I've promised you._
+<B>: _Woman:  Siya nga pala. Heto na ang tinta na aking ipinangako._
+<C>: 
+</>
+
+<56>
+<A>: _Rozs:  Thank you!_
+<B>: _Rozs:  Salamat sa iyo!_
+<C>: 
+</>
+
+<57>
+<A>: _Woman:  Your always welcome..._
+<B>: _Woman:  Walang anuman..._
+<C>: 
+</>
+
+<58>
+<A>: _Pepe:  Finally, it is finished!_
+<B>: _Pepe:  Sa wakas, natapos ko na!_
+<C>: 
+</>
+
+<59>
+<A>: _Rozs:  That's great!
+<B>: _Rozs:  Mahusay!Mabuti!
+<C>:
+</> 
+
+<60>
+<A>: _Pepe:  Thanks for your help!
+<B>: _Pepe:  Salamat sa iyong tulong!
+<C>:
+</> 
+
+<61>
+<A>: _Rozs:  That's ok.
+<B>: _Rozs:  Walang anuman.
+<C>:
+</> 
+
+<62>
+<A>: _Pepe:  Here take the original copy of my poem.
+<B>: _Pepe:  Heto, dalhin mo ang orihinal ng kopya ng aking tula.
+<C>:
+</> 
+
+<63>
+<A>: _Rozs:  Wow! Thank you!
+<B>: _Rozs:  Maraming salamat!
+<C>:
+</> 
+
+<64>
+<A>: _Angelita: The water in the pond seems so peaceful... I love this place.
+<B>: _Angelita: Ang tubig sa pond ay napakapayapa... Gustung-gusto ko talaga ang lugar na ito.
+<C>:
+</> 
+
+<65>
+<A>: _Mario: Calamba has plenty of green fields.That's why we love planting different crops here. 
+<B>: _Mario: Maraming luntiang taniman ang Calamba. Kaya maraming mga tao ang gusto magtanim dito ng iba't-ibang pananim.
+<C>:
+</> 
+
+<66>
+<A>: _Rozs:  Excuse me, do you know about Rizal, the Rizal Family?
+<B>: _Rozs:  Paumanhin Ginoo, kilala nyo po ba ang mga Rizal, ang pamilya ni Rizal?
+<C>:
+</> 
+
+<67>
+<A>: _Roman: Sorry Sir, I don't know them...
+<B>: _Roman: Ipagpaumanhin din po niyo Ginoo, ngunit hindi ko po kilala ang sinasabi nyo...
+<C>:
+</>
+
+<68>
+<A>: _Susan: I heard that there are some people planting herbal medecines west of here...
+<B>: _Susan: Narinig kong may mga nagtatanim ng mga halamang gamot sa bandang kanluran ng lugar na ito...
+<C>:
+</>  
+
+<69>
+<A>: _Carl: I'm planting my crops here.
+<B>: _Carl: Dito aking taniman.
+<C>:
+</> 
+
+<70>
+<A>: _Mildred: The church opens at 6:00 in the morning. I'm afraid its closed by now.
+<B>: _Midred:  Ang simbahan ay nabubukas ng 6:00 ng umaga. Ikinalulungkot ko sapagkay ito'y sarado pa.
+<C>:
+</> 
+
+<71>
+<A>: _Thomas: Have you found Mercado's house?
+<B>: _Thomas: Natagpuan mo na ba ang bahay ng mga Mercado?
+<C>:
+</> 
+
+<72>
+<A>: _Rozs: Excuse me sir. I'm looking for herbal medicines, specifically,_
+<B>: _Rozs: Paumanhin Ginoo, Naghahanap po ako ng halamang gamot, samakatuwid_
+<C>:
+</> 
+
+<73>
+<A>: _Rozs: I'm looking for some sambong leaves. Do you have any of it?_
+<B>: _Rozs: ang halamang hinahanap ko po ay dahon ng sambong. Mayroon po ba kayo noon?_
+<C>:
+</> 
+
+<74>
+<A>: _Carl: Yes, I have them. I will give these to you if you would help me..._
+<B>: _Carl: Oo,meron ako.Ngunit bibigyan kita kung tutulungan mo ako..._
+<C>:
+</>
+
+<75>
+<A>: _Carl: Would you give these herbal medicines to my sisters?_
+<B>: _Carl: Maaari mo bang ibigay sa mga kapatid ko itong mga halamang gamot na ito?_
+<C>:
+</> 
+
+<76>
+<A>: _Carl: My sisters' names are Mildred,Angelita and Josephine..._
+<B>: _Carl: Ang pangalan ng mga kapatid ko ay Mildred, Angelita at Josephine_
+<C>:
+</>
+
+<77>
+<A>: _Carl: You can find Mildred at South-West, Angelita at South-East and_
+<B>: _Carl: Matatagpuan mo si Mildred sa Timog-Kanluran, Angelita sa Timog-Silangan at_
+<C>:
+</>
+
+<78>
+<A>: _Carl: Josephine at North-East._
+<B>: _Carl: Josephine sa Hilagang-Silangan._
+<C>:
+</>
+
+<79>
+<A>: _Carl: If you deliver these medicines to them, I will give you sambong leaves for free. Deal?_
+<B>: _Carl: Kung maibibigay mo ito sa kanila, ibibigay ko ang mga dahon ng sambong sa iyo ng libre._
+<C>:
+</>
+
+<80>
+<A>: _Mildred: Oh, thank you. My brother is so thoughtful._
+<B>: _Mildred: Salamat sa iyo. Napakamaalalahanin talaga ng kapatid ko._
+<C>:
+</>
+
+<81>
+<A>: _Angelita: Thank you, son. Does my brother told you to delivered this to me?_
+<B>: _Angelita: Salamat sa iyo. Ang kapatid ko ba ang nag-utos sa iyong ihatid sa akin ang mga ito?_
+<C>:
+</>
+
+<82>
+<A>: _Josephine: A herbal medicine. Thank you for delivering this to me._
+<B>: _Josephine: Mga halamang gamot. Salamat sa paghatid mo dito ng mga yan sa akin_
+<C>:
+</>
+
+<83>
+<A>: _Josephine: I bet my brother told you so._
+<B>: _Josephine: ang kapatid ko ang nag-utos nyan sa iyo hindi ba? _
+<C>:
+</>
+
+<84>
+<A>: _Josephine: Well, here take this, locket as a remembrance. It is made up on different beads._
+<B>: _Josephine: Kapalit ng mga ginawa mo, heto, ibinibigay ko sa iyo ang laketa na ito.Gawa yan sa ibat-ibang beads. _
+<C>:
+</>
+
+<85>
+<A>: _Josephine: I made them, so be sure to take care of it..._
+<B>: _Josephine: Ako ang gumawa nyan, kaya pagka-ingatan mo... _
+<C>:
+</>
+
+<86>
+<A>: _Josephine: Farewell..._
+<B>: _Josephine: Paalam sa iyo..._
+<C>:
+</>
+
+<87>
+<A>: _Carl: I'm afraid so. Anyway,that is your decision, just help yourself._
+<B>: _Carl: Ikinalulungkot ko. Ganun pa man, iyan ang desisyonmo, ikaw ang bahala._
+<C>:
+</>
+
+<88>
+<A>: _-Herbal Medicines-_
+<B>: _-Mga Halamang Gamot-_
+<C>:
+</>
+
+<89>
+<A>: _These Herbal Medicines should be given to Carl's sisters._
+<B>: _Ang mga Halamang Gamot na ito ay dapat ibigay sa mga kapatid ni Carl._
+<C>:
+</>
+
+<90>
+<A>: _I have plenty of herbal medicine plants here in my yard._
+<B>: _Marami akong mga halamang gamot na pananim dito sa aking bakuran._
+<C>:
+</>
+
+<91>
+<A>: _-Pen Ink-_
+<B>: _-Tintang Panulat-_
+<C>:
+</>
+
+<92>
+<A>: _Pepe needs this ink in writing Poems._
+<B>: _Ginagamit ni Pepe ang tintang ito para makasulat ng tula._
+<C>:
+</>
+
+<93>
+<A>: _Carl: Thank you for delivering the herbal medicines to my sisters_
+<B>: _Carl: Salamat sa paghahatid ng mga halamang gamot sa mga kapatid ko._
+<C>:
+</>
+
+<94>
+<A>: _Carl: Here take this sambong leaves that you needed._
+<B>: _Carl: Heto na ang mga dahong sambong na kailangan mo._
+<C>:
+</>
+
+<95>
+<A>: _You got herbal medicine_
+<B>: _Natanggap mo ang halamang gamot_
+<C>:
+</>
+
+<96>
+<A>: _Josephine: My brother sells herbal medicines, that is his business._
+<B>: _Josephine: Ang kuya ko ay nagtitinda ng mga halamang gamot, ayun ang kanyang hanap-buhay._
+<C>:
+</>
+
+<97>
+<A>: _-Sambong Leaves-_
+<B>: _-Mga Dahon ng Sambong-_
+<C>:
+</>
+
+<98>
+<A>: _The woman needs this in exchange of the ink._
+<B>: _Kailangan ito nung Babae kapalit ng tintang panulat._
+<C>:
+</>
+
+<99>
+<A>: _Rozs: Here's the ink Pepe..._
+<B>: _Rozs: Heto na ang tinta, Pepe..._
+<C>:
+</>
+
+<100>
+<A>: _After a few minutes..._
+<B>: _Matapos nang ilang sandali..._
+<C>:
+</>
+
+<101>
+<A>: _Hey Boy! Can you help me? Can you bring all the 4 boxes here_
+<B>: _Hoy Bata! Maari mo ba akong tulungan? Maari mo bang dalhin ang mga kahon dito._
+<C>:
+</>
+
+<102>
+<A>: _Thank You! Here take this_
+<B>: _Salamat! Eto tanggapin mo._
+<C>:
+</>
+
+
+<103>
+<A>: _Rozs: Do you have some ink?_
+<B>: _Rozs: Mayroon po ba kayong tinta?_
+<C>:
+</>
+
+<104>
+<A>: _Man: Sorry I have none. Ask someone else._
+<B>: _Lalaki: Patawad ngunit wala. Itanong mo na lang sa iba_
+<C>:
+</>
+
+<105>
+<A>: _Woman: Sorry I have none. Ask someone else._
+<B>: _Babae: Patawad ngunit wala. Itanong mo na lang sa iba_
+<C>:
+</>
+
+<106>
+<A>: _Rozs: Do you have some sambong leaves?_
+<B>: _Rozs: Mayroon po ba kayong dahon ng sambong?_
+<C>:
+</>
+
+<107>
+<A>: _Calamba's Rice Field Painting_
+<B>: _Larawan ng bukid sa Calamba_
+<C>:
+</>
+
+<108>
+<A>: _Rozs: Finally! I have the first artifact!_
+<B>: _Rozs: Sa wakas! Nakuha ko na ang unang artifact!_
+<C>:
+</>
+
+<109>
+<A>: _Rozs: I'll need to go to my next destination..._
+<B>: _Rozs: Kailangang ko nang pumunta sa susunod na destinasyon..._
+<C>:
+</>
+
+<110>
+<A>: _Rozs: Where could it be?_
+<B>: _Rozs: Saan kaya ang lugar na ito?_
+<C>:
+</>
+
+<111>
+<A>: _Locket_
+<B>: _Kwintas_
+<C>:
+</>
+
+<112>
+<A>: _This locket was given to me by Josephine in Calamba_
+<B>: _Ang kwintas na ito ay ibinigay sa akin ni Josephine sa Calamba_
+<C>:
+</>
+
+<113>
+<A>: _Rozs: Excuse me Señorita, are you Angelita? _
+<B>: _Rozs: Paumanhin po binibini, Ikaw po ba si Angelita?_
+<C>:
+</>
+
+<114>
+<A>: _Angelita: Yes, Señor..._
+<B>: _Angelita: oo, ginoo..._
+<C>:
+</>
+
+<115>
+<A>: _Rozs: Your brother told me to bring this herbal medicine to you._
+<B>: _Rozs: Ang iyong kapatid ay nagsabi na itong mga halamang gamot ay ihatid sa iyo._
+<C>:
+</>
+
+<116>
+<A>: _Rozs: Excuse me, Does Mildred lives here?_
+<B>: _Rozs: Paumanhin po, Dito po ba nakatira si Mildred? _
+<C>:
+</>
+
+<117>
+<A>: _Mildred: Yes, I am Mildred, why do you say so?_
+<B>: _Mildred: Oo, ako si Mildred, bakit mo naitanong?_
+<C>:
+</>
+
+<118>
+<A>: _Rozs: Oh Señorita, your brother Carl wanted me to deliver this to you._
+<B>: _Rozs: Oh ginang, ang iyong kapatid na si Carl ipinahahatid niya ito sa iyo._
+<C>:
+</>
+
+<119>
+<A>: _Rozs: Thank you..._
+<B>: _Rozs: Salamat sa iyo..._
+<C>:
+</>
+
+<120>
+<A>: _Rozs: Here are the sambong leaves that you needed. I hope it will cure your son's illness._
+<B>: _Rozs: Narito na ang mga dahon ng sambong na iyong kailangan. Umaasa ako na makapagpapagaling ito sa sakit ng iyong anak._
+<C>:
+</>
+
+<121>
+<A>: _Pepe: Farewell now my friend, I hope will see each other again..._
+<B>: _Pepe: Paalam na aking kaibigan, umaasa ako na magkikita pa ulit tayo..._
+<C>:
+</>
+
+<122>
+<A>: _-Newspaper from Calamba-_
+<B>: _-Diaryo galing Calamba-_
+<C>:
+</>

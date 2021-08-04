@@ -1,0 +1,15 @@
+<SetCharPos>: Rozs, 1,0,1, W
+<SetCamPos>: 2,1,1,None, 1,0,6
+
+<NextEvent>
+<Message>: _&FSScene<121>_, 4
+</>
+
+<NextEvent>
+<Switch>: NoReturnMaze4, On
+<fOG>: 0,0, 0,0
+<Message>: _&FSScene<105>_, 4, None
+<LoadMap>: fs-dulo
+</>
+
+

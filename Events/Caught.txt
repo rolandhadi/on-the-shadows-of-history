@@ -1,0 +1,3 @@
+<PLAYSOUND>: DoorClose-1
+<Message>: _&FS<1>_, 2
+<ExecuteEvent>: gotoMaze1

@@ -1,0 +1,10 @@
+<CharFace>: Aman6, Rozs
+<CharFace>: Rozs, Aman6
+
+<Message>: _&AteneoScene<95>_, 3
+//<PlaySound>: Rozs
+
+<NextEvent>
+<Message>: _&AteneoScene<96>_, 3
+</>
+

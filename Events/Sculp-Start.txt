@@ -1,0 +1,5 @@
+<MESSAGE>: 
+<NEXTEVENT>
+<ROTATECAM>: 
+<Message>: _&AteneoScene<43>_, 3,None
+</>

@@ -1,0 +1,7 @@
+<1>
+<A>: _Welcome to the Museum!_
+<B>: _Maligayang pagdating sa Museyo! _
+<C>: 
+</>
+
+

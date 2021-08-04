@@ -1,0 +1,48 @@
+<Case>: CMan-1
+<NextEvent>
+<CharFace>: CMan1, Rozs
+<CharFace>: Rozs, Cman1
+</>
+<NextEvent>
+<Message>: _&TownCalambaScene<4>_, 3
+</>
+<NextEvent>
+<Message>: _&TownCalambaScene<5>_, 3
+</>
+<NextEvent>
+<Message>: _&TownCalambaScene<6>_, 3
+</>
+
+<Case Else>
+
+<NextEvent>
+<CharFace>: CMan1, Rozs
+<CharFace>: Rozs, Cman1
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<2>_, 5,None
+<PlaySound>: Rozs18
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<3>_, 5,None
+<PlaySound>: Man1
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<4>_, 5,None
+<PlaySound>: Rozs19
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<5>_, 3,None
+<PlaySound>: Man2
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<6>_, 5,None
+<PlaySound>: Rozs20
+<Switch>: CMan-1, On
+</>
+<End Select>

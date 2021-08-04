@@ -1,0 +1,4 @@
+<CHARFACE>: Girl2, Rozs
+<CHARFACE>: Rozs, Girl2
+<MESSAGE>: _&MuseumScene<45>_, 5
+

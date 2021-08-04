@@ -1,0 +1,43 @@
+<CASE>: TaposJuan
+
+<CHARFACE>: CMan3, Rozs
+<CHARFACE>: Rozs, CMan3
+
+<ROTATECAM>: Cman3, Left, 500, 3
+<MESSAGE>: _&FSScene<26>_, 3, None
+
+<CASE else>:
+
+<CHARFACE>: CMan3, Rozs
+<CHARFACE>: Rozs, CMan3
+
+<ROTATECAM>: Cman3, Left, 500, 3
+<MESSAGE>: _&FSScene<28>_, 3, None
+
+<NextEvent>
+<ROTATECAM>: Rozs, Left, 500, 3
+<MESSAGE>: _&FSScene<29>_, 3, None
+</>
+
+<NextEvent>
+<ROTATECAM>: CMan3, Left, 500, 3
+<MESSAGE>: _&FSScene<24>_, 3, None
+</>
+
+<NextEvent>
+<ROTATECAM>: Rozs, Left, 500, 3
+<MESSAGE>: _&FSScene<25>_, 3, None
+</>
+
+<NextEvent>
+<ROTATECAM>: Cman3, Left, 500, 3
+<MESSAGE>: _&FSScene<26>_, 3, None
+<SWITCH>: TaposJuan, On
+</>
+
+<NextEvent>
+<Task>: TaskFS2
+</>
+
+
+<END SELECT>

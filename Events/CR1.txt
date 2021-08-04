@@ -1,0 +1,8 @@
+<PlaySound>: Door-1
+<PlaySound>: Door1-2
+
+<Message>: _&STIScene<82>_,3
+
+<NEXTEVENT>
+<Message>: _&STIScene<81>_, 3
+</>

@@ -1,0 +1,27 @@
+<1>
+<A>: _O Sei San, a Japanese samurai's daughter taught Rizal the Japanese art of painting known as su-mie._
+<B>: _O Sei San, haponesa na tinuran si Rizal ng pagpinta ng Japanese art._
+<C>: 
+</>
+
+<2>
+<A>: _She also helped Rizal improve his knowledge of Japanese language._
+<B>: _Tinulungan nya rin si Rizal na madagdagan ang kaalaman tungkol sa lengwaheng hapon._
+<C>: 
+</>
+
+<3>
+<A>: _If Rizal were a man without a patriotic mission, he would have married this lovely and intelligent woman_
+<B>: _Kung si Rizal ay walang tungkulin, pinakasalan nya sana ang kaakit akit at matalinong babaeng ito._
+<C>: 
+</>
+
+<4>
+<A>: _and lived a stable and happy life with her in Japan because Spanish legation there offered him a lucrative job.._
+<B>: _at nabuhay ng matiwasay at masaya sa piling nito at nanirahan sa Japan._
+<C>: 
+</>
+
+
+
+ 

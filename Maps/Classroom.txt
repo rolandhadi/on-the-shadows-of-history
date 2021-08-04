@@ -1,0 +1,72 @@
+<ENABLESAVE>
+<MapName>: _Classroom_
+<DRAWBACK>: 450
+<LMOUSE>: 20
+<HMOUSE>: 60
+<FOG>: 400,450, 100, 100
+
+<SOUND>: BoxMove
+
+<OBJECT>: Tablelong
+<OBJECT>: Table1x1
+<OBJECT>: Door1-1
+<OBJECT>: Chair1
+<OBJECT>: Chair
+<OBJECT>: Frame2x3
+<OBJECT>: Painting2x3
+<OBJECT>: Bshelf
+
+<DUMMY>: D1,0,0,0
+<DUMMY>: D2,28,0,6
+
+<CHARACTER>: Rozs, 5,0,6, e
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 8
+<ANIMATION>: Run,  8
+<ANIMATION>: Push, 8
+<ANIMATION>: Dock, 8
+//Library Area
+<SURFACE>:   PlaneBox, 140, 1,0,1, 10,10,10, s
+<SURFACE>:   Z2PLANE1, 87,  1,0,1, 10,0,10, s
+
+<layer1>:Plant,1,0,1,n,plant1
+<layer1>:Plant,10,0,1,n,plant1
+<layer1>:Chair1,2,0,2, w
+<layer1>:Tablelong,2,0,3,w,1
+<layer1>:Chair1,2,0,5, w
+<layer1>:Tablelong,2,0,6,w,1
+<layer1>:Bshelf,1,0,10,e,Bshelf3
+<layer1>:Chair1,3,0,2,w
+<layer1>:Chair1,3,0,5,w
+<layer1>:Bshelf,2,0,10,e,Bshelf3
+<layer1>:Chair1,5,0,2,w
+<layer1>:Tablelong,5,0,3,w,1
+<layer1>:Chair1,5,0,5, w
+<layer1>:Tablelong,5,0,6,w,1
+<layer1>:Table1x1,7,0,8,w,1
+<layer1>:Chair1,7,0,9, e
+<layer1>:Chair1,6,0,2, w
+<layer1>:Chair1,6,0,5, w
+<layer1>:Chair1,8,0,2, w
+<layer1>:Tablelong,8,0,3,w,1
+<layer1>:Chair1,8,0,5, w
+<layer1>:Tablelong,8,0,6,w,1
+<layer1>:Chair1,9,0,2, w
+<layer1>:Chair1,9,0,5, w
+<layer1>:Door1-1,9,0,10,e,mdoor1
+<layer1>:Frame2x3,4,0.5,10,e,Bboard
+<layer1>:Painting2x3,4,0.5,10,e,140
+
+//End of Library Area
+
+<LIGHT>: AMBIENT, 0,0,0, .8,.8,.8, DUMMYD1
+<LIGHT>: Directional, 0,0,0, .3,.3,.3, DUMMYD1
+
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Rozs
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Man1
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Man2
+
+<BLOCKROW>: 0
+<BLOCKCOL>: 0
+<BLOCKROW>: 10
+<BLOCKCOL>: 10

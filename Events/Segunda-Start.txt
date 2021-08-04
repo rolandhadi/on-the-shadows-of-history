@@ -1,0 +1,29 @@
+<SetCampos>: 3,7,14, RizalA
+
+<Charface>: RizalA, Man4
+<Charface>: Man4, RizalA
+
+//Note: Usapan Between Mariano and Rizal (magdrawing c Rizal)
+<Message>: _&AteneoScene<49>_, 5,None
+<PLaySound>: Mariano
+
+//<NextEvent>
+//<Message>: _&AteneoScene<50>_, 3,None
+//<PLaySound>:
+//</>
+
+<NextEvent>
+<Message>: _&AteneoScene<146>_, 5,None
+<PLaySound>: Rizal-Katigbak9
+</>
+
+<NextEvent>
+<Fog>: 0,0,0,0
+<Message>: __, 1,NONE
+<StopBG>
+<PlayBG>: Memories, Loop
+</>
+
+<NextEvent>
+<LoadMap>: SegundaHouse-0
+</>

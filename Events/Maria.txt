@@ -1,0 +1,14 @@
+<Message>: _MARIA RIZAL (1859-1945)_, 2
+
+<NEXTEVENT>
+<Message>: _&Maria<1>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Maria<2>_, 3
+</>
+
+
+
+
+

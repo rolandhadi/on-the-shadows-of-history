@@ -1,0 +1,41 @@
+<Message>: _Josephine Bracken_, 2
+
+<NEXTEVENT>
+<Message>: _&Josephine<1>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Josephine<2>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Josephine<3>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Josephine<4>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Josephine<5>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Josephine<6>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Josephine<7>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Josephine<8>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Josephine<9>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Josephine<10>_, 3
+</>

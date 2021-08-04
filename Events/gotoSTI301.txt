@@ -1,0 +1,9 @@
+<Case>: LazaTalked
+<PlaySound>: Door-1
+<Message>: _&STIScene<71>_, 1, NONE
+<LoadMap>: sti-301-2
+<Case Else>
+<PlaySound>: Door-1
+<Message>: _&STIScene<71>_, 1, NONE
+<LoadMap>: STI-301
+<End Select>

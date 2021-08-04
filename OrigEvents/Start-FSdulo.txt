@@ -1,0 +1,30 @@
+<CASE>: TaposFSDulo
+
+<MESSAGE>: __, 0,None
+
+<CASE ELSE>
+<StopBG>
+<PlayBG>: FS-1,Loop
+<SETCAMPOS>: 3,4,32, None, 13,1,11
+<MESSAGE>: __, 3, None
+<SWitch>:NakapasokFS, On
+
+<NEXTEVENT>
+<SETCAMPOS>: 24,3,2, None, 15,1,27
+<MESSAGE>: __, 3, None
+<SWITCH>:  TaposFSDulo, On
+</>
+
+<NEXTEVENT>
+<SetCharPos>: Rozs, 17,0,31, w
+<SETCAMPOS>: 18,4,35, Rozs
+<MESSAGE>: _&FSScene<121>_, 5
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&FSScene<62>_, 5, None
+<Playsound>: aFS-rozs7
+<Task>: TaskFS-Rozs
+</>
+
+<END SELECT>

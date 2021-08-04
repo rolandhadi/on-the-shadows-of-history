@@ -1,0 +1,12 @@
+<1>
+<A>: _The fourth child._
+<B>: _Ang pang apt na anak._
+<C>: 
+</>
+
+<2>
+<A>: _Died in 1887 from childbirth._
+<B>: _Namatay noong 1887 sa panganganak._
+<C>: 
+</>
+

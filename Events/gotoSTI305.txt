@@ -1,0 +1,49 @@
+<Case>: Switch-BreadBookMarker
+<Message>: _&Tasks<18>_, 1
+<CASE>: Switch-TalkBread
+
+<CHOICE>: _&STISCENE<63>_
+
+<YES>
+
+<SetCamPos>: 10,1,4, None, 7,1,3
+<Message>: _&STISCENE<64>_, 2, None
+
+
+<NextEvent>
+<PlaySound>: Door-1
+<LoadMap>: sti-305
+</>
+
+<NO>
+
+<Message>: __, 1, NONE
+
+<CHOICE END>
+
+<Case Else>
+
+<CHARFACE>: AMan1, Rozs
+<CHARFACE>: Rozs, AMan1
+<SetCamPos>: 10,1,4, None, 7,1,3
+<MESSAGE>: _&STIScene<59>_,5
+
+<NextEvent>
+<MESSAGE>: _&STIScene<60>_,5
+</>
+
+<NextEvent>
+<MESSAGE>: _&STIScene<61>_,5
+</>
+
+<NextEvent>
+<MESSAGE>: _&STIScene<62>_,5
+<SWITCH>: Switch-TalkBread, On
+</>
+
+<NextEvent>
+<Reload>
+</>
+
+
+<End Select>

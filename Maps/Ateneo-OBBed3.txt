@@ -1,0 +1,96 @@
+<DRAWBACK>: 450
+<LMOUSE>: 20
+<HMOUSE>: 60
+<FOG>: 400,450, 100, 100
+<MapName>: _Bedroom 3_
+<ENABLESAVE>
+
+<OBJECT>: Bed
+<OBJECT>: Plant
+<OBJECT>: Door2-1
+<OBJECT>: Door1-1
+<OBJECT>: BShelf
+<OBJECT>: Chair1
+<OBJECT>: Cabinet1x1
+<OBJECT>: Wall1x4
+<OBJECT>: Wall1x5
+<OBJECT>: TableLong
+<OBJECT>: Roundtable
+<OBJECT>: Sofa
+
+<DUMMY>: D1,0,0,0
+<DUMMY>: D2,28,0,6
+<DUMMY>: DStat,5,0,5
+
+<CHARACTER>: Rozs, 9,0,3, n
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 8
+<ANIMATION>: Run,  8
+<ANIMATION>: Push, 8
+<ANIMATION>: Dock, 8
+<ANIMATION>: Give, 8
+
+<CHARACTER>: Aman6, 9,0,7, s
+<ANIMATION>: Wait, 1
+<ANIMATION>: Talk, 8
+<ANIMATION>: Give, 8
+
+<CHARACTER/>
+
+//ATENEO-Boarding House
+
+<AI>: Aman6, AIidle, Wait, none
+
+<EVENT>: TalkAPablo, 7,6, 3,3, 1,1
+
+<SURFACE>:   PlaneBox, Wall-4, 1,0,1, 10,5,10, s
+<SURFACE>:   Z4PLANE1, wood23,  1,0,1, 10,0,10, s
+<SURFACE>:   Z1Ceiling, Wall-3,  1,5,1, 10,0,10, s
+
+<layer1>:Plant,6,0,1,n,plant1
+<layer1>:Plant,9,0,1,n,plant1
+<layer1>:Sofa,7,0,1,w,wall1
+
+<layer1>:TableLong,6,0,6,n,wood13
+<layer1>:Chair1,7,0,6,N,none
+<layer1>:Chair1,7,0,7,N,none
+
+<layer1>:BShelf,5,0,1,n,BShelf3
+<layer1>:BShelf,5,0,2,n,BShelf3
+<layer1>:BShelf,1,0,5,e,BShelf3
+<layer1>:BShelf,2,0,5,e,BShelf3
+
+<layer1>:Cabinet1x1,1,0,6,s,Cabinet1
+<layer1>:Cabinet1x1,1,0,7,s,Cabinet1
+<layer1>:Cabinet1x1,10,0,6,n,Cabinet1
+<layer1>:Cabinet1x1,10,0,7,n,Cabinet1
+
+<layer1>:Bed,1,0,8,e,Bed1
+<layer1>:Bed,1,0,10,e,Bed1
+<layer1>:Bed,9,0,8,w,Bed1
+<layer1>:Bed,9,0,10,w,Bed1
+
+<layer1>:Wall1x5,6,0,5,w,Wall-3
+<layer1>:Wall1x4,5,0,5,n,Wall-3
+
+<layer1>:RoundTable,1,0,2,n,wood13
+<layer1>:Chair1,1,0,1,w,none
+<layer1>:Chair1,1,0,3,e,none
+<layer1>:Chair1,2,0,2,n,none
+
+<layer1>:Door1-1,10,0,3,n,Door1-4
+<EVENT>:  GotoOBLobby, 10,3, 1,1, 1,1
+<SETCHARPOS>: 5,0,14, s, ContinueMap
+
+//End of ATENEO-Boarding House
+
+<LIGHT>: AMBIENT, 0,0,0, .8,.8,.8, DUMMYD1
+<LIGHT>: Directional, 0,0,0, .3,.3,.3, DUMMYD1
+
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Rozs
+<LIGHT>: SPOT, 4,5,5, 1,1,1, DUMMYDStat
+
+<BLOCKROW>: 0
+<BLOCKCOL>: 0
+<BLOCKROW>: 11
+<BLOCKCOL>: 11

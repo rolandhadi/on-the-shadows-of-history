@@ -1,0 +1,263 @@
+<1>
+<A>: _Entering Museum Lounge..._
+<B>: _Patungong Museum Lounge..._
+<C>: 
+</>
+
+<2>
+<A>: _Entering Museum Lounge..._
+<B>: _Patungong Museum Lounge..._
+<C>: 
+</>
+
+<3>
+<A>: _Entering Museum Hallway..._
+<B>: _Patungong Museum Hallway..._
+<C>: 
+</>
+
+<4>
+<A>: _Entering Boarding House..._
+<B>: _Patungong Boarding House... _
+<C>: 
+</>
+
+<5>
+<A>: _Entering Boarding House Lobby..._
+<B>: _Patungong _
+<C>: 
+</>
+
+<5>
+<A>: _Entering Classroom..._
+<B>: _Patungong Silid-Aralan... _
+<C>: 
+</>
+
+<6>
+<A>: _Entering Drawing Room..._
+<B>: _Patungong _
+<C>: 
+</>
+
+<7>
+<A>: _Entering Hallway..._
+<B>: _Patungong _
+<C>: 
+</>
+
+<8>
+<A>: _Entering Library..._
+<B>: _Patungong _
+<C>: 
+</>
+
+<9>
+<A>: _Entering Registrar Room..._
+<B>: _Patungong _
+<C>: 
+</>
+
+<10>
+<A>: _Entering Artifacts Room..._
+<B>: _Patungong _
+<C>: 
+</>
+
+<11>
+<A>: _Entering Sculpture Room..._
+<B>: _Patungong _
+<C>: 
+</>
+
+<12>
+<A>: _Entering East Of Ateneo De Manila... _
+<B>: _Patungong _
+<C>: 
+</>
+
+<13>
+<A>: _Entering West Of Ateneo De Manila... _
+<B>: _Patungong _
+<C>: 
+</>
+
+<14>
+<A>: _Entering BedRoom..._
+<B>: _Patungong _
+<C>: 
+</>
+
+<15>
+<A>: _Entering Town..._
+<B>: _Patungong _
+<C>: 
+</>
+
+<16>
+<A>: _Entering North-East Of Calamba..._
+<B>: _Patungong _
+<C>: 
+</>
+
+<17>
+<A>: _Entering North-West Of Calamba..._
+<B>: _Patungong _
+<C>: 
+</>
+
+<18>
+<A>: _Entering South-East Of Calamba..._
+<B>: _Patungong _
+<C>: 
+</>
+
+<19>
+<A>: _Entering South-West Of Calamba..._
+<B>: _Patungong _
+<C>: 
+</>
+
+<20>
+<A>: _Entering House..._
+<B>: _Patungong _
+<C>: 
+</>
+
+<222>
+<A>: _Entering Lobby..._
+<B>: _Patungong _
+<C>: 
+</>
+
+<22>
+<A>: _Entering Fort Santiago..._
+<B>: _Patungong _
+<C>: 
+</>
+
+<23>
+<A>: _Entering Fort Santiago Front..._
+<B>: _Patungong _
+<C>: 
+</>
+
+<24>
+<A>: _Entering Guard House..._
+<B>: _Patungong _
+<C>: 
+</>
+
+<25>
+<A>: _Entering Rizal Shrine..._
+<B>: _Patungong _
+<C>: 
+</>
+
+<26>
+<A>: _Entering Fort Santiago Main Gate..._
+<B>: _Patungong _
+<C>: 
+</>
+
+<27>
+<A>: _Entering BedRoom..._
+<B>: _Patungong _
+<C>: 
+</>
+
+<28>
+<A>: _Entering Reader's Room..._
+<B>: _Patungong _
+<C>: 
+</>
+
+<29>
+<A>: _Entering Rizal's Cell..._
+<B>: _Patungong _
+<C>: 
+</>
+
+<30>
+<A>: _The door is locked..._
+<B>: _Ang pinto ay nakasarado..._
+<C>: 
+</>
+
+<31>
+<A>: _The door is closed..._
+<B>: _Ang pinto ay nakasarado..._
+<C>: 
+</>
+
+<32>
+<A>: _Entering...._
+<B>: _...._
+<C>: 
+</>
+
+<33>
+<A>: _Entering First Hidden Tunnel..._
+<B>: _Patungong _
+<C>: 
+</>
+
+<34>
+<A>: _Entering Second Hidden Tunnel..._
+<B>: _Patungong _
+<C>: 
+</>
+
+<35>
+<A>: _Entering Store Top_
+<B>: _Patungong _
+<C>: 
+</>
+
+<36>
+<A>: _Entering Fort Santiago Dulo...._
+<B>: _ _
+<C>: 
+</>
+
+<37>
+<A>: _Entering Jose Rizal's Cell_
+<B>: _ _
+<C>: 
+</>
+
+<38>
+<A>: _Outside the cell..._
+<B>: _ _
+<C>: 
+</>
+
+<39>
+<A>: _The door is locked from the other side._
+<B>: _ _
+<C>: 
+</>
+
+<40>
+<A>: _The door is locked._
+<B>: _ _
+<C>: 
+</>
+
+<41>
+<A>: _Entering the Unknown Room_
+<B>: _ _
+<C>: 
+</>
+
+<42>
+<A>: _Entering First Floor Rizal's House_
+<B>: __
+<C>: 
+</>
+
+<43>
+<A>: _Entering Second Floor Rizal's House_
+<B>: __
+<C>: 
+</>

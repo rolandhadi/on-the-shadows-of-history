@@ -1,0 +1,60 @@
+<Case>: TaposRSCon
+
+<Case Else>
+<CharFace>: Josephine, GuardGun3
+<CharFace>: GuardGun3, RozsF
+<CharFace>: RozsF, Guard3
+
+<SetCharPos>: GuardGun3, 14,0,32, s
+<SetCharPos>: Rozs, 14,0,30, n
+<SETCAMPOS>: 14,6,25, RozsF
+
+<NextEvent>
+<SETCAMPOS>: 16,4,32, GuardGun3
+<CharFace>: GuardGun3, Josephine
+<CharFace>: Josephine, GuardGun3
+<MESSAGE>: _&FSScene<108>_, 7, None
+<Playsound>: Guard-Shrine3
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 11,4,33, RozsF
+<CharFace>: GuardGun3, RozsF
+<CharFace>: RozsF, GuardGun3
+<MESSAGE>: _&FSScene<109>_, 5, None
+<Playsound>: FSRozs12
+</>
+
+<NEXTEVENT>
+<RotateCam>: Josephine, left, 500, 3
+<CharFace>: GuardGun3, Josephine
+<CharFace>: Josephine, GuardGun3
+<MESSAGE>: _&FSScene<110>_, 5, None
+<Playsound>: FSBracken19
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 11,4,33, GuardGun3
+<CharFace>: GuardGun3, RozsF
+<CharFace>: RozsF, GuardGun3
+<MESSAGE>: _&FSScene<115>_, 7, none
+<Playsound>: Guard-shrine4
+</>
+
+<NextEvent>
+<SETCAMPOS>: 11,4,33, RozsF
+<Setcharpos>: GuardGun3, 1,10,1
+<MESSAGE>: __, 3
+</>
+
+<NextEvent>
+<CharFace>: Josephine, RozsF
+<CharFace>: RozsF, Josephine
+<SWITCH>: TaposRSCon, ON
+</>
+<End Select>
+
+
+
+
+

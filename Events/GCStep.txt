@@ -1,0 +1,26 @@
+
+<CharFace>: Guard1, Rozs
+<CharFace>: Rozs, Guard1
+
+
+<NextEvent>
+<CharAnimate>: Rozs, Wait, Once, 50, 2
+<SETCAMPOS>: 11,5,39, None, 17,1,46
+</>
+
+<NextEvent>
+<MESSAGE>: _&FSScene<33>_, 3,None
+<PLaysound>: GCivil1
+</>
+
+<NextEvent>
+<MESSAGE>: _&FSScene<30>_, 5,None
+</>
+
+<NextEvent>
+<SetCharPos>: Rozs, 15,0,44, e
+<SETCAMPOS>: 24,5,49, Rozs
+<MESSAGE>: _&FSScene<34>_, 3,None
+</>
+
+

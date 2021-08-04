@@ -1,0 +1,47 @@
+<Case>: TaposMuseumStart
+
+<MESSAGE>: __, 0,none
+
+<Case Else>:
+<PlayBG>: Museum, Loop
+<MESSAGE>: __, 1,none
+<SETCHARPOS>: Rozs, 17,0,19, n
+<SETCAMPOS>: 17,4,1, NONE, 6,1,22
+
+<NEXTEVENT>:
+<MESSAGE>: __, 4,none
+</>
+
+<NEXTEVENT>:
+<SETCAMPOS>: 3,4,27, NONE, 12,1,5
+<MESSAGE>: __, 4,none
+</>
+
+<NEXTEVENT>:
+<SETCAMPOS>: 19,2,10, NONE, 1,2,10
+<MESSAGE>: __, 4,none
+</>
+
+<NEXTEVENT>:
+<SETCAMPOS>: 10,2,19, NONE, 10,2,1
+<MESSAGE>: __, 4,none
+</>
+
+<NEXTEVENT>:
+<SETCAMPOS>: 1,2,10, NONE, 19,2,10
+<MESSAGE>: __, 4,none
+</>
+
+<NEXTEVENT>:
+<SETCAMPOS>: 9,2,11, Girl1 
+<CHARANIMATE>: Girl1, Talk1, Once, 50, 2
+<MESSAGE>: _&Museumscene<42>_, 4,None
+</>
+
+<NEXTEVENT>:
+<CHARANIMATE>: Girl1, Talk1, Reverse, 50, 2
+<MESSAGE>: __, 2,None
+<Task>: TaskMuseum
+<Switch>: TaposMuseumStart, On
+</>
+<End Select>

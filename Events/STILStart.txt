@@ -1,0 +1,120 @@
+<Message>: __, 1
+
+<NextEvent>
+<Fog>: 0,0,0,0
+<Message>: _&STIScene<88>_, 8
+<PlaySound>: aFS-rozs12
+</>
+
+<NextEvent>
+<Fog>: 400,450,0,0
+</>
+
+<NextEvent>
+<StopBG>
+<PlayBG>: STI, Loop
+<SETCHARPOS>: Rozs, 3,0,4, s
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 9,1,8, NONE, 7,1,10
+<MESSAGE>: _STI Southwoods Library_, 3,none
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 9,1,2, NONE, 5,1,7
+<MESSAGE>: _STI Southwoods Library_, 3,none
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 2,1.5,1, NONE, 10,1.5,11
+<MESSAGE>: _STI Southwoods Library_, 3,none
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 9,1.5,14, NONE, 1,1.5,1
+<MESSAGE>: _STI Southwoods Library_, 3,none
+</>
+
+<NEXTEVENT>:
+<SETCAMPOS>: 3,4,2, Girl1
+<CHARFACE>: Girl1, Glaiz
+<CHARFACE>: Glaiz, Girl1
+<PLAYSOUND>: Ruth1
+<RotateCam>: Girl1, Left, 500,5
+<MESSAGE>: _&STIScene<1>_, 5,none
+<CharAnimate>: Girl1, Talk1, Once, 50,2
+</>
+
+<NEXTEVENT>:
+<MESSAGE>: _&STIScene<2>_, 1,none
+<CharAnimate>: Girl1, Talk1, Reverse, 50,2
+</>
+
+
+<NEXTEVENT>:
+<SETCAMPOS>: 2,3,7, Girl2
+<CHARFACE>: Girl2, Glaiz
+<CHARFACE>: Glaiz, Girl2
+<PLAYSOUND>: Mich1
+<MESSAGE>: _&STIScene<3>_, 4,none
+<CharAnimate>: Girl2, Talk, Once, 50,2
+<RotateCam>: Girl2, Left, 500,4
+</>
+
+<NEXTEVENT>:
+<MESSAGE>: _&STIScene<4>_, 3,none
+<CharAnimate>: Girl2, Talk, Reverse, 50,2
+
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 2,2,2, Girl1
+<CHARFACE>: Glaiz, Rozs
+<PLAYSOUND>: Glaiz1
+<RotateCam>: Glaiz, Left, 300,5
+<MESSAGE>: _&STIScene<5>_, 4,none
+
+</>
+
+<NEXTEVENT>:
+<SETCAMPOS>: 2,3,7, Girl1
+<CHARFACE>: Girl1, Glaiz
+<CHARFACE>: Glaiz, Girl1
+<PLAYSOUND>: Ruth2
+<MESSAGE>: _&STIScene<6>_, 4,none
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 4,2,4, Glaiz
+<CHARFACE>: Glaiz, Rozs
+<MESSAGE>: _&STIScene<7>_, 4,none
+<CharAnimate>: Glaiz, Talk1, Once, 50,2
+<PLAYSOUND>: Glaiz2
+</>
+
+<NEXTEVENT>
+<PLAYSOUND>: Glaiz3
+<RotateCam>: Glaiz, Left, 300,7
+<MESSAGE>: _&STIScene<9>_, 7,none
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 5,5,5,Rozs
+<MESSAGE>: _&STIScene<11>_, 4,none
+<PLAYSOUND>: Rozs2
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 4,2,4,Glaiz
+<MESSAGE>: _&STIScene<12>_, 4,none
+<PLAYSOUND>: Glaiz4
+<CharAnimate>: Glaiz, Talk1, Reverse, 50,2
+<Task>: TaskSTI
+</>
+
+
+
+<NEXTEVENT>
+<LOADMAP>: Sti-Library-2
+</>

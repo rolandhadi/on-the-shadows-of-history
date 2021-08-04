@@ -1,0 +1,732 @@
+<1>
+<A>: _Rozs: This is my final destination. I should be running fast._
+<B>: _Rozs: Kailangan kong magmadali dahil ito na ang aking huling destinasyon._
+<C>: 
+</>
+
+<2>
+<A>: _Josephine: Have mercy on me...I have to see my husband. Huhuhuh..._
+<B>: _Josephine: Maawa ka sa akin, kailangan kong makita nag aking asawa.Huhuhuh..._
+<C>:  
+</>
+
+<3>
+<A>: _Guard: Por pabor Señora debes arsilo mañana._ 
+<B>: _Guard: Pakiusap Señora, bumalik na lamang kayo bukas._
+<C>: 
+</>
+
+<4>
+<A>: _Rozs: I think it's Josephine Bracken... I have to help her..._
+<B>: _Rozs: Si Josephine Bracken iyon, kailangan ko siyang tulungan..._
+<C>:
+</>
+
+<5>
+<A>: _Rozs: Don't worry lady, I'll find a way for us to get in._
+<B>: _Rozs: Wag kang mag alala binibini,gagawa ako ng paraan para makapasok tayo sa loob._
+<C>:
+</>
+
+<6>
+<A>: _Rozs: It is so dark here...I wish I'll find a way out of here._
+<B>: _Rozs: Napakadilim dito... Sana'y makahanap ako ng daan palabas._
+<C>:
+</>
+
+<7>
+<A>: _Josephine: Oh, it's you..._
+<B>: _Josephine: Ikaw nga..._
+<C>: 
+</>
+
+<8>
+<A>: _Rozs: Shhh..Please be quite.You my pass to see Rizal._
+<B>: _Rozs: Shhh..Wag kang maingay.Maari ka nang pumasok para makita si Rizal._
+<C>: 
+</>
+
+<9>
+<A>: _Josephine: Thank you!_
+<B>: _Josephine: Salamat!_
+<C>:
+</>
+
+<10>
+<A>: _Rozs: Follow me._
+<B>: _Rozs: Sundan mo ako._
+<C>: 
+</>
+
+<11>
+<A>: _Rizal: My wife!How did you get here?_
+<B>: _Rizal: Asawa ko!Paano ka nakapasok dito?_
+<C>: 
+</>
+
+<12>
+<A>: _Josephine: It does not matter.My love are you alright?_
+<B>: _Josephine: Wag mo nang intindihin yon.Kamusta kana mahal ko?_
+<C>: 
+</>
+
+<13>
+<A>: _Rizal: It does not matter.What matter is you are here._
+<B>: _Rizal: Hindi na importante yon.Ang importante ay narito ka._
+<C>:
+</>
+
+<14>
+<A>: _Rizal: I'll always cherish our love Josephine.Please forgive me..._
+<B>: _Rizal: Lagi kong iingatan ang ating pagmamahalan.Patawarin mo sana ako..._
+<C>: 
+</>
+
+<15>
+<A>: _Josephine: Jose,you will always be in my heart. I'll always love you..._
+<B>: _Josephine: Jose,lagi kang nasa puso ko,lagi kitang mamahalin..._
+<C>: 
+</>
+
+<16>
+<A>: _Rizal: Accept this, this is the Imitation of Christ, my last gift for you. Farewell._
+<B>: _Rizal: Tanggapin mo ito, eto ang imahe ni Kristo,ang huling regalo ko sayo.Paalam._
+<C>: 
+</>
+
+<17>
+<A>: _Josephine: Farewell..._
+<B>: _Josephine: Paalam..._
+<C>: 
+</>
+
+<18>
+<A>: _Josephine: At last you're here... thanks to you Mr. Rozs. Because you have a pure heart,I will let you keep this._
+<B>: _Josephine: Dahil sa may malinis kang puso,ibibigay ko sayo ito._
+<C>: 
+</>
+
+<19>
+<A>: _Josephine: It matters to me so much so please take care of it.Thank you for helping me..._
+<B>: _Josephine: Importante ito sa akin, kaya sana pakaingatan mo.Maraming salamat sa tulong mo..._
+<C>: 
+</>
+
+<20>
+<A>: _Rozs: It's a pleasure to help you..._
+<B>: _Rozs: Kinagagalak kong tulungan ka..._
+<C>: 
+</>
+
+<21>
+<A>: _Man 1: I heard that there is a prison inside._
+<B>: _Man 1: Narinig kong meron nakakulong sa loob._
+<C>: 
+</>
+
+<22>
+<A>: _Nena: Sshh... Have you heard that there is a hidden path... But i don't know where is it..._
+<B>: _Nena: Sshh... Narinig mo ba na mayroong lihim na lagusan... Subalit hindi ko alam kung ito ay nasaan.... _
+<C>: 
+</>
+
+<23>
+<A>: _Cristina: A secret path? I just hear it, some says it has a key..._
+<B>: _Cristina: Ang lihim na lagusan? Narinig ko lang yon, may nagsasabi na mayroon itong susi... _
+<C>: 
+</>
+
+<24>
+<A>: _Juan: Yes I knew it. Perhaps, I have a favor, would you like to exchange something good for me?_
+<B>: _Juan: Oo Alam ko yon. Marahil may kahilingan ako, nais mo bang makipagpalit ng kahit anong makabubuti sa akin? _
+<C>: 
+</>
+
+<25>
+<A>: _Juan: You have to find Luis, he has the key that you wanted..._
+<B>: _Juan: Kailangan mong matagpuan si Luis, hawak niya ang susing iyong nais... _
+<C>: 
+</>
+
+<26>
+<A>: _Juan: Go and seek him inside the houses..._
+<B>: _Juan: Humayo ka at hanapin siya sa loob ng mga bahay... _
+<C>: 
+</>
+
+<27>
+<A>: _Man 2: Are you going to enter inside. It is forbidden..._
+<B>: _Man 2: Ikaw ba ay papasok sa loob? Iyon ay mahigpit na ipinagbabawal..._
+<C>: 
+</>
+
+<28>
+<A>: _Rozs: Excuse me, have you heard the secret tunnel or something hidden here._
+<B>: _Rozs: Paumanhin po, narinig nyo na po ba ang tungkol sa lihim na lagusan o kahit anong lihim dito? _
+<C>: 
+</>
+
+<29>
+<A>: _Rozs: Could you help me? I have to go inside._
+<B>: _Rozs: Ako po ba ay inyong matutulungan? Kailangan ko pong makapasok sa loob. _
+<C>: 
+</>
+
+<30>
+<A>: _Guardia Civil: You're not allowed here. Stay away, Indio!_
+<B>: _Guardia Civil: Hindi ka pinahihintulutan dito. Lumayo ka, mangmang!_
+<C>: 
+</>
+
+<31>
+<A>: _Rozs: Am I really here? Fort Santiago..._
+<B>: _Rozs: Ako nga ba ay andito? Fort Santiago... _
+<C>: 
+</>
+
+<32>
+<A>: _Juan: There is a hidden path somewhere..., I guess._
+<B>: _Juan: Mayroong isang lagusan kungnasaan..., sa aking palagay. _
+<C>: 
+</>
+
+<33>
+<A>: _Guardia Civil:  Where do you think you're going?_
+<B>: _Guardia Civil:  Saan ka pupunta?_
+<C>: 
+</>
+
+<34>
+<A>: _Rozs: I have to find a way to get inside... what will I do now?_
+<B>: _Rozs: Kailangan kong makagawa ng paraan upang makapasok sa loob... Anong dapat kong gawin? _
+<C>: 
+</>
+
+<35>
+<A>: _Rozs: Excuse me, I'm looking for Luis. Have you seen him?_
+<B>: _Rozs: Paumanhin po, hinahanap ko po si Luis. Nakita mo po ba siya? _
+<C>: 
+</>
+
+<36>
+<A>: _Luis: I am Luis, What can I do for you?_
+<B>: _Luis: Ako si Luis, Ano ang aking maipaglilingkod sa iyo? _
+<C>: 
+</>
+
+<37>
+<A>: _Rozs: I heard that you have the key for the hidden tunnel. Can you help me?_
+<B>: _Rozs: Narinig ko po na hawak mo ang susi sa lihim na lagusan. Puwede mo po ba akong tulungan?  _
+<C>: 
+</>
+
+<38>
+<A>: _Luis: Of course I can help you but please be sure that it will remain secret. Take this key._
+<B>: _Luis: Siyempre ikaw ay aking matutulungan subalit iyong siguraduhin na ito'y mananatiling sekreto. Ito ang susi kunin mo. _
+<C>: 
+</>
+
+<39>
+<A>: _Rozs: I promise I will! Thank you!_
+<B>: _Rozs: Ipinapangako ko po! Salamat po! _
+<C>: 
+</>
+
+<40>
+<A>: _Luis: You can find the clue on the Top..._
+<B>: _Luis: Matatagpuan mo ang isang palatandaan sa taas... _
+<C>: 
+</>
+
+<41>
+<A>: _Luis: Be Careful! _
+<B>: _Luis: Magiingat ka! _
+<C>: 
+</>
+
+<42>
+<A>: _Juanito: Fort Santiago served as the military headquarters of the Spanish, British, American, and Japanese regimes._
+<B>: _Juanito: Ang Fort Santiago ay nagsisilbing kampo ng mga militar na espanyol, British, American, and Japanese._
+<C>: 
+</>
+
+<43>
+<A>: _Juanito: It's named in honor of the Spanish patron Saint James, Slayer of Moors (Santiago Matamoros), _
+<B>: _Juanito: Ang kanyang pangalan ay para sa kapurihan ng patron na si james,  _
+<C>: 
+</>
+
+<44>
+<A>: _Juanito: whose wooden relief decorates the main gate to the Fort.  _
+<B>: _ _
+<C>: 
+</>
+
+<45>
+<A>: _Josephine: I need to see my husband...But the Civil guards didn't allow me to pass._
+<B>: _Josephine: Kailangan kong makita ang aking asawa... Subalit hindi ako pinahihintulutang makapasok ng mga guwardiya sibil. _
+<C>: 
+</>
+
+<46>
+<A>: _Josephine: I need to see Jose, what will I do now..._
+<B>: _Josephine: Kailangan kong makita si Jose, Anong gagawin ko? _
+<C>: 
+</>
+
+<47>
+<A>: _Fort Santiago Underground Key_
+<B>: _Ang susi ng lihim na lagusan ng Fort Santiago _
+<C>: 
+</>
+
+<48>
+<A>: _This is the key I need to enter the underground of Fort Santiago_
+<B>: _Ito ang susing kailangan ko upang makapasok sa ilalim na lagusan ng Fort Santiago. _
+<C>: 
+</>
+
+<49>
+<A>: _Rozs: The door is locked. I need to find the key to open it..._
+<B>: _Rozs: Sarado ang pinto. kailangan kong makakita ng susi makapagbubukas dito... _
+<C>: 
+</>
+
+<50>
+<A>: _Rozs: Finally, I've opened the door to the underground._
+<B>: _Rozs: Sa wakas, nabuksan ko rin ang pinto ng lagusang pangilalim. _
+<C>: 
+</>
+
+<51>
+<A>: _Rozs: There are guards patroling in this area. I should not be caught here._
+<B>: _Rozs: Mayroong mga gwardiya na nagbabantay sa lugar na ito. hindi ako dapat mahuli. _
+<C>: 
+</>
+
+<52>
+<A>: _Brigido: Hey! Are you a new guard here? By the way I'm Brigido._
+<B>: _Brigido: Hoy! Ikaw ba ay bagong gwardiya dito? Siyangapala ako si Brigido. _
+<C>: 
+</>
+
+<53>
+<A>: _Rozs: Yes, I am Rozs, by the way where can I find the new prisoner. I'll bring him some food._
+<B>: _Rozs: Opo, Ako naman si Rozs, siyangapala san ko matatagpuan ang bagong bilanggo? dadalhan ko siya ng pagkain. _
+<C>: 
+</>
+
+<54>
+<A>: _Angelo: You know what, all interviews of Rizal had to take place in the presence of us. _
+<B>: _Angelo: Alam mo ba, lahat ng paguusig kay Rizal ay dadaan sa ating kaalaman._
+<C>: 
+</>
+
+<55>
+<A>: _Rozs: How come? _
+<B>: _Rozs: Paano nangyari? _
+<C>: 
+</>
+
+<56>
+<A>: _Angelo: I dont know... all i know it was the order from the the Friars.  _
+<B>: _Angelo: Hindi ko alam... ang tanging alam ko ipinagutos yon ng mga pari. _
+<C>: 
+</>
+
+<57>
+<A>: _Rozs: Andress, The lieutenant Marcelo allowed the lady to come and visit Rizal. _
+<B>: _Rozs: Andress, Pinahihintulutan na ni lieutenant Marcelo ang binibini na pumasok at bisitahin si Rizal. _
+<C>: 
+</>
+
+<58>
+<A>: _Guard: Oh the Filibustero, just straight up and you can find his cell._
+<B>: _Guard: Oh the Filibustero, dumiretso ka lang at iyong matatagpuan ang kanyang kulungan. _
+<C>: 
+</>
+
+<59>
+<A>: _Rozs: Ms. Bracken, I now have the key, we can now see Rizal._
+<B>: _Rozs: Binibining Bracken, nasa akin na po ang susi, maaari na nating makita si Rizal. _
+<C>: 
+</>
+
+<60>
+<A>: _Rozs: All you have to do is wait for me at the front gate. Do you agree?_
+<B>: _Rozs: Ang dapat nyo lang pong gawin ay hintayin ako sa harap ng gate. sangayon po ba kayo? _
+<C>: 
+</>
+
+<61>
+<A>: _Josephine: Gracias hijo, I'll wait for you there..._
+<B>: _Josephine: Salamat iho, maghihintay ako sayo doon... _
+<C>: 
+</>
+
+<62>
+<A>: _Rozs: I need to help Josephine, they need to see each other before its too late._
+<B>: _Rozs: Kailangan matulungan ko si Josephine na makapasok. Kailangan nilang magkita bago mahuli ang lahat._
+<C>: 
+</>
+
+<63>
+<A>: _Rozs: Pardon Sir, the Lieutenant orders me to let Ms. Bracken to enter the Fort._
+<B>: _Rozs: Paumanhin po ginoo, ang lieutenant po ay pinagutusan ako na papasukin ang binibini sa Fort. _
+<C>: 
+</>
+
+<64>
+<A>: _Guard: Are you sure?_
+<B>: _Guard: Ikaw ba ay nakasisiguro? _
+<C>: 
+</>
+
+<65>
+<A>: _Rozs: Of course. Why would you questioned me that? That is an order._
+<B>: _Rozs: Oo naman. Bakit mo ako tinatanong ng ganyan? Iyan ay isang utos. _
+<C>: 
+</>
+
+<66>
+<A>: _Guard: Hey, Ms. Bracken, the Lieutenant orders that you pass and see Jose Rizal._
+<B>: _Guard: Hoy, binibini, Pwede ka nang pumasok at makita si Jose ayon sa lieutenant. _
+<C>: 
+</>
+
+<67>
+<A>: _Josephine: Gracias._
+<B>: _Josephine: Salamat. _
+<C>: 
+</>
+
+<68>
+<A>: _Josephine: Oh it's you again, how did you get in?_
+<B>: _Josephine: Oh ikaw pala, Paano ka nakapasok? _
+<C>: 
+</>
+
+<69>
+<A>: _Rozs: Shhh... follow me Ms. Bracken._
+<B>: _Rozs: Shhh... Sumunod ka sa akin binibini. _
+<C>: 
+</>
+
+<70>
+<A>: _Rozs: Pardon me Sir, Lieutenant Brigido orders me to switch our position._
+<B>: _Rozs: Paumanhin Ginoo, ipinagutos ni lieutenant Brigido na tayo ay magpalit ng pwesto. _
+<C>: 
+</>
+
+<71>
+<A>: _Rozs: I will be the one incharge to watch Rizal tonight. You have to meet the Leutenant at the guard house._
+<B>: _Rozs: Ako na ang bahala sa pagbabantay kay Rizal ngayong gabi. Kailangan mong makipagkita sa lieutenant sa bahy ng gwardiya. _
+<C>: 
+</>
+
+<72>
+<A>: _Guard: Yer Sir. Here take this key._
+<B>: _Guard: Opo Ginoo. Ito kunin mo ang susi. _
+<C>: 
+</>
+
+<73>
+<A>: _Rozs: I now have the key to Rizal's cell. I should let Josephine enter..._
+<B>: _Rozs: Nasa akin na ang susi ng kulungan ni Rizal. Papapasukin ko na si Josephine... _
+<C>: 
+</>
+
+<74>
+<A>: _Rozs: Ms. Bracken you may now see Rizal!_
+<B>: _Rozs: Binibini Maaari mo na pong makita si Rizal! _
+<C>: 
+</>
+
+<75>
+<A>: _Josephine: Thank you for your help my friend... I will treasure all your gratitude. _
+<B>: _Josephine: Salamat sa iyong tulong kaibigan... aking pahahalagahan ang lahat  kabutihan. _
+<C>: 
+</>
+
+<76>
+<A>: _Rizal's Cell Key_
+<B>: _Susi ng bilangguan ni Rizal _
+<C>: 
+</>
+
+<77>
+<A>: _This is the key to open Rizal's cell_
+<B>: _Ito ang susi para mabuksan ang bilangguan ni Rizal _
+<C>: 
+</>
+
+<78>
+<A>: _Rizal: Jo... Josephine? How did you get here? _
+<B>: _Rizal: Jo... Josephine? Paano ka nakapasok dito? _
+<C>: 
+</>
+
+<79>
+<A>: _Josephine: Jose, someone helped me... ar.. are you alright?_
+<B>: _Josephine: Jose, may isang taong tumulong sa akin... ay..ayos ka lang ba? _
+<C>: 
+</>
+
+<80>
+<A>: _Rizal: I am not afraid to die. But you... How about you, where will you go?_
+<B>: _Rizal: Hindi ako natatakot mamatay. Subalit ikaw... paano ka, saan ka magtutungo?  _
+<C>: 
+</>
+
+<81>
+<A>: _Josephine: Back to Hongkong, I suppose. I, I do not know._
+<B>: _Josephine: Babalik ako ng Hongkong, Nais ko sana. hindi ko alam. _
+<C>: 
+</>
+
+<82>
+<A>: _Rizal: How will you manage there?_
+<B>: _Rizal: Paano ka mabubuhay doon? _
+<C>: 
+</>
+
+<83>
+<A>: _Josephine: I know people. I shall get along somehow. I am young after all._
+<B>: _Josephine: Alam ko ang mga tao. pwede akong makisama sa kanila. Bata pa ako sa kabila ng lahat. _
+<C>: 
+</>
+
+<84>
+<A>: _Rizal: You will go back to Taufer?_
+<B>: _Rizal: Babalik ka ba Kay Taufer? _
+<C>: 
+</>
+
+<85>
+<A>: _Josephine: No, I have had enough him. Let him take care of himself._
+<B>: _Josephine: Hindi, tapos na ako sa kanya. Hayaan mong pangalagaan niya sarili niya. _
+<C>: 
+</>
+
+<86>
+<A>: _Rizal: Why did he try to cut his throat when I told him we were getting married? I have often wondered._
+<B>: _Rizal: Bakit niya sinubukang putulin ang kanyang lalamunan sinabi ko sa kanya na magpapakasal na tayo. madalas akong nagtataka.  _
+<C>: 
+</>
+
+<87>
+<A>: _Josephine: To be left alone, blind alone, it must have been too much for him to contemplate.._
+<B>: _Josephine: Iiwang magisa, magisang di nakakakita, ito ay sobra na para sa pagiisip. _
+<C>: 
+</>
+
+<88>
+<A>: _Rizal: Was there anything between you?_
+<B>: _Rizal: Mayroon bang namamagitan sa inyo? _
+<C>: 
+</>
+
+<89>
+<A>: _Josephine: He was kind to me, and, in his growing blindness, more and more dependent on me, that was all. Why do you ask me that?_
+<B>: _Josephine: Mabait siya sa akin, at sa kanyang nalalapit na pagkabulag mas dumedepende siya sa akin, yon lang. Bakit ka nagtanong ng ganyan? _
+<C>: 
+</>
+
+<90>
+<A>: _Rizal: I'm sorry Josephine, I can't help it._
+<B>: _Rizal: Paumanhin Josephine, di ko mapigilan. _
+<C>: 
+</>
+
+<91>
+<A>: _Rizal: Here is "Imitation of Christ". I have written something on one of its pages._
+<B>: _Rizal: Ito ang "Imitation of Christ". may isinulant ako sa isa sa mga pahina nito._
+<C>: 
+</>
+
+<92>
+<A>: _Rizal: It is addressed to you. My wife. Do not forget me._
+<B>: _Rizal: Ito ay nakapangalan sa iyo. Akong asawa. Wag mo akong kalilimutan. _
+<C>: 
+</>
+
+<93>
+<A>: _Rizal: How will you live in HongKong?_
+<B>: _Rizal: Paano ka mamumuhay sa Hongkong? _
+<C>: 
+</>
+
+<94>
+<A>: _Josephine: I have changed my mind. Your wife will not run away. I will join the rebels and make the Spaniards pay!_
+<B>: _Josephine: Nagbago na ang aking isip. Ang iyong asawa ay hindi na lalayo. Sasali ako sa mga rebelde at pagbabayarin ko ang mga Espanyol _
+<C>: 
+</>
+
+<95>
+<A>: _Rizal: You are not even my wife in the eyes of the law, yet you would do that because of me._
+<B>: _Rizal: Sa mata ng batas ikaw ay hindi ko pa asawa ngunit sa kabila ng lahat gagawin mo yan dahil sa akin? _
+<C>: 
+</>
+
+<96>
+<A>: _Rizal: In my eyes, Yes! my wife, you are my wife, in my heart, but there is no marriage outside the Church..._
+<B>: _Rizal: Sa aking mga mata, Oo aking asawa, ikaw ay aking asawa, sa puso ko, subalit wala pang kasalan sa labas ng simbahan... _
+<C>: 
+</>
+
+<97>
+<A>: _Rizal: and you know the condition the Church would impose on our marriage: I must recant._
+<B>: _Rizal: at alam mo ang kondisyon ng simbahan  hindi nila ito matatanggap: kailangan kong bumawi._
+<C>: 
+</>
+
+<98>
+<A>: _Josephine: I am your wife now, whatever the Church says_
+<B>: _Josephine: asawa mo na ako ngayon, kahit anu pang sabihin ng simbahan. _
+<C>: 
+</>
+
+<99>
+<A>: _Rozs: Pardon me, Jose, but Ms. Bracken, I think we have to go..._
+<B>: _Rozs: Ipagpaumanhin nyo, Jose, subalit binibining Bracken kailangan na nating umalis... _
+<C>: 
+</>
+
+<100>
+<A>: _Josephine: Jose, I will always cherish our love... Farewell._
+<B>: _Josephine: Jose, Pahahlagahan ko ang ating pagmamahalan... Paalam. _
+<C>: 
+</>
+
+<101>
+<A>: _Rizal: Farewell my dearest wife, take care of yourself. Farewell..._
+<B>: _Rizal: Paalam mahal kong asawa, Ingatan mo ang iyong sarili. Paalam... _
+<C>: 
+</>
+
+<102>
+<A>: _Rizal: Oh, my immortal soul! My poor, immortal soul! What shall I do with you? How shall I save you without losing my mind?_
+<B>: _Rizal: Oh, imortal kong kaluluwa! Aking pulubi, imortal na kaluluwa! Ano ang gagawin ko sa iyo? Paano kita maililigtas na hindi napanghihinaan ng loob? _
+<C>: 
+</>
+
+<103>
+<A>: _Rozs: I am sorry Josephine, but I think we have to go now._
+<B>: _Rozs: Patawarin mo ako Josephine, subalit kailangan na nating umalis ngayon. _
+<C>: 
+</>
+
+<104>
+<A>: _Josephine: Thanks to you. Could you meet me at the front gate._
+<B>: _Josephine: Salamat sa iyo. Pwede ka bang makipagkita sa akin sa harap ng gate? _
+<C>: 
+</>
+
+<105>
+<A>: _Rozs: I think I should remove these clothes now._
+<B>: _Rozs: Sa aking palagay pwede ko nang hubarin ang damit na ito. _
+<C>: 
+</>
+
+<106>
+<A>: _Rozs: I must find a way to get out to this place..._
+<B>: _Rozs: Kailangan kong humanap ng paraan upang makalabas ako sa lugar na ito... _
+<C>: 
+</>
+
+<107>
+<A>: _Rozs: It's very dark and creepy here..._
+<B>: _Rozs: Napaka dilim at nakakatakot dito... _
+<C>: 
+</>
+
+<108>
+<A>: _Guard: What are you doing here! Rizal's relatives are not allowed here at this point in time..._
+<B>: _Guard: Anong ginagawa mo dito! Ang mga kamag-anak ni Rizal ay hindi pinahihintulutan dito sa ganitong pagkakataon...  _
+<C>: 
+</>
+
+<109>
+<A>: _Rozs: Sir, Lieutenant Brigido allowed her to see Rizal, even in a few moments._
+<B>: _Rozs: Ginoo, siya pinahintulutan ni lieutenant Brigido na makita si Rizal kahit sa ilang sandali. _
+<C>: 
+</>
+
+<110>
+<A>: _Josephine: Por pabor I need to see my husband... Please!_
+<B>: _Josephine: Pakiusap kailangan kong makita ang aking asawa.... Pakiusap! _
+<C>: 
+</>
+
+<111>
+<A>: _Man: I heard there's something hidden behind the walls..._
+<B>: _Man: Narinig ko na mayroong sekreto sa likod ng mga pader... _
+<C>: 
+</>
+
+<112>
+<A>: _You receive the tunnel key._
+<B>: _Natanggap mo ang susi sa daan sa ilalim. _
+<C>: 
+</>
+
+<113>
+<A>: _Rozs: I'll talk to the civil guard inside, can you wait me here?_
+<B>: _Rozs: Makikipag-usap ako sa gwardiya sibil sa loob, mahihintay mo ba ako rito? _
+<C>: 
+</>
+
+<114>
+<A>: _Josephine: I will patiently wait you here Señor. Gracias_
+<B>: _Josephine: Matiyaga akong maghihintay sayo rito ginoo. Salamat. _
+<C>: 
+</>
+
+<115>
+<A>: _Guardia Civil: Alright Sir, she can now see the prison, but be sure to keep an eye on her. I'll go now_
+<B>: _Guardia Civil: Ayos Ginoo, pwede na niyang makita ang bilanggo, ngunit siguraduhin mo na bantayan siya. Aalis na ako. _
+<C>: 
+</>
+
+<116>
+<A>: _Josephine: Again, thank you for what you have done... Farewell._
+<B>: _Josephine: Sa muli, salamat sa iyong ginawa... Paalam. _
+<C>: 
+</>
+
+<117>
+<A>: _Rozs: Finally, I have now recovered the priceless artifacts... I think I should go back to my own time._
+<B>: _Rozs: Sa wakas, Akin na ngayong maibabalik ang walang kasing halagang sining... Sa aking palagay kailangan ko nang bumalik sa aking sariling oras. _
+<C>: 
+</>
+
+<118>
+<A>: _Rozs: ChronoPad could you take me now at my original time and place... _
+<B>: _Rozs: Chronopad maaari mo ba akong dalahin sa aking sariling panahon at lugar. _
+<C>: 
+</>
+
+<119>
+<A>: _Rozs: Wait... what place is this?_
+<B>: _Rozs: Wait... anong lugar ito? _
+<C>: 
+</>
+
+<120>
+<A>: _Rozs: There is a cabinet. There must be some uniform there._
+<B>: _Rozs: Mayroon doong kabinet. Maaring may damit akong magagamit doon._
+<C>: 
+</>
+
+<121>
+<A>: _Rozs: It is good that there is a uniform in that cabinet. I can now infiltrate Fort Santiago._
+<B>: _Rozs: Mabuting mayroon doong uniporme sa damitang yaon. Makakapasok na ako ng maayos sa Fort Santiago. _
+<C>: 
+</>
+
+<122>
+<A>: _The Book Of Imitation Of Christ_
+<B>: _Ang aklat ng Imitation Of Christ_
+<C>: 
+</>
+

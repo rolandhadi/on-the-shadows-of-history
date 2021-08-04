@@ -1,0 +1,23 @@
+<Message>: _Gertrude Beckett_, 2
+
+<NEXTEVENT>
+<Message>: _&Gertrude<1>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Gertrude<2>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Gertrude<3>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Gertrude<4>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Gertrude<5>_, 3
+</>
+
+

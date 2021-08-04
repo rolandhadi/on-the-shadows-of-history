@@ -1,0 +1,7 @@
+<MESSAGE>: _&LibraryScene<3>_, 5
+<CHARFACE>: Glaiz, Rozs
+<CHARFACE>: Rozs, Glaiz
+
+<NEXTEVENT>
+<MESSAGE>: _&LibraryScene<4>_, 2
+</>

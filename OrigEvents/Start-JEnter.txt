@@ -1,0 +1,85 @@
+<Case>: TaposRSCon
+
+<SetCharPos>: Josephine, 1,11,1, n
+<MESSAGE>: __, 0,None
+
+<CASE>: TaposJEnter
+
+<MESSAGE>: __, 0,None
+
+<CASE ELSE>
+
+<CharFace>: Josephine, RozsF, Back
+<CharFace>: GuardGun3, RozsF
+<CharFace>: RozsF, GuardGun3
+
+<SetCharPos>: RozsF, 20,0,47, n
+<SETCAMPOS>: 13,6,40, RozsF
+
+<NextEvent>
+<RotateCam>: RozsF, Left, 500, 7
+<CharFace>: GuardGun3, RozsF
+<CharFace>: RozsF, GuardGun3
+<MESSAGE>: _&FSScene<63>_, 7, None
+<PLaySound>: aFS-Rozs8
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 15,3,44, GuardGun3
+<MESSAGE>: _&FSScene<64>_, 3, None
+<PLaySound>: Guard-Shrine1
+</>
+
+<NEXTEVENT>
+<RotateCam>: RozsF, Right, 500, 3
+<MESSAGE>: _&FSScene<65>_, 7, None
+<PLaySound>: aFS-Rozs9
+</>
+
+<NEXTEVENT>
+<CharFace>: GuardGun3, Josephine
+<CharFace>: Josephine, GuardGun3
+
+<SETCAMPOS>: 22,6,39, None, 17,1,47
+<MESSAGE>: _&FSScene<66>_, 7, None
+<Playsound>: Guard-Shrine2
+</>
+
+<NEXTEVENT>
+<SETCAMPOS>: 25,2,47, Josephine
+<MESSAGE>: _&FSScene<67>_, 3, None
+<Playsound>: FSBracken6
+</>
+
+<NEXTEVENT>
+<CharFace>: RozsF, Josephine
+<CharFace>: Josephine, RozsF
+<MESSAGE>: _&FSScene<68>_, 5, None
+<Playsound>: FSBracken7
+</>
+
+<NEXTEVENT>
+
+<SETCAMPOS>: 24,4,43, None, 17,1,47
+<MESSAGE>: _&FSScene<8>_, 5, None
+<Playsound>: aFS-rozs1
+<SWITCH>:  TaposJEnter, On
+<Switch>: DiPaUsapJosephine, Off
+</>
+
+<NEXTEVENT>
+<CharFace>: RozsF, Josephine, Back
+<CHARANIMATE>: RozsF, Walk, Loop, 150, 7
+<MoveChar>: RozsF, n, .4, 7
+</>
+
+<NEXTEVENT>
+<CHARANIMATE>: Josephine, Walk, Loop, 150, 9
+<MoveChar>: Josephine, n, .4, 9
+</>
+
+<NEXTEVENT>
+<LoadMap>: fs-RizalShrine2
+</>
+
+<END SELECT>

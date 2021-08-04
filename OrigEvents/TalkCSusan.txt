@@ -1,0 +1,3 @@
+<CHARFACE>: OldLadyDress2, Rozs
+<CHARFACE>: Rozs, OldLadyDress2
+<MESSAGE>: _&TownCalambaScene<68>_, 5

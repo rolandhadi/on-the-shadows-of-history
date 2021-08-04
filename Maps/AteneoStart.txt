@@ -1,0 +1,4 @@
+<StartEvent>: AteneoStart
+<BGMusic>: Ateneo, Loop
+<ForcePlayBG>: Ateneo
+<ForceLoadMap>: Ateneo-West

@@ -1,0 +1,4 @@
+<MESSAGE>: _&MuseumScene<46>_, 5
+<CHARFACE>: RLady, Rozs
+<CHARFACE>: Rozs, RLady
+

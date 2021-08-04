@@ -1,0 +1,3 @@
+<BGMusic>: Ateneo, Loop
+<ForcePlayBG>: Ateneo
+<ForceLoadMap>: Ateneo-Outside

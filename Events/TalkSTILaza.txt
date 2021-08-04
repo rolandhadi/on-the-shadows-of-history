@@ -1,0 +1,4 @@
+<CHARFACE>: Laza, Rozs
+<CHARFACE>: Rozs, Laza
+<MESSAGE>: _&STIScene<30>_, 5
+

@@ -1,0 +1,3 @@
+<Caption>:_&TownCalambaScene<91>_
+<Details>:_&TownCalambaScene<92>_ 
+<Switch>: Switch-Ink, On

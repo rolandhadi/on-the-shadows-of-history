@@ -1,0 +1,107 @@
+<Case>: Switch-Sambong
+<Message>: _&TownCalambaScene<93>_, 5
+<Case>: HMedicineFinished
+
+<Message>: _&TownCalambaScene<93>_, 5
+
+
+<NextEvent>
+<StopBG>
+<RotateCam>: Cman2, Right, 500, 5
+<CharAnimate>: Cman2, Talk, Once, 50, 4
+<Message>: _&TownCalambaScene<94>_, 5, None
+<Item>: Item-Sambong, On
+<PlayBG>: Victory
+<Task>: TaskSambongCom
+</>
+
+<NextEvent>
+<CharAnimate>: Rozs, Give, Once, 50, 3
+<Message>: _&TownCalambaScene<119>_, 3, None
+</>
+
+<NextEvent>
+<PlayBG>: Calamba, Loop
+<CharAnimate>: Cman2, Talk, Reverse, 50, 2
+<MESSAGE>: __, 1, None
+</>
+
+<NextEvent>
+<CharAnimate>: Rozs, Give, Reverse, 50, 2
+<MESSAGE>: __, 1, None
+</>
+
+<Case>: MCrops-Asked
+
+<Message>: _&TownCalambaScene<76>_, 5
+
+<NextEvent>
+<Message>: _&TownCalambaScene<77>_, 5
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<78>_, 5
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<79>_, 5
+</>
+
+<Case>: MCrops-Ini
+<PlaySound>: Carl2
+<Choice>:  _&TownCalambaScene<75>
+<YES>
+
+<Message>: _&TownCalambaScene<76>_, 7,None
+<PlaySound>: Carl2.1
+<RotateCam>: Rozs, Left, 500,4
+<PlayBG>: Info
+<NextEvent>
+<Message>: _&TownCalambaScene<77>_, 5,None
+<PlaySound>: Carl3
+<RotateCam>: Rozs, Left, 500,5
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<78>_, 2,None
+<RotateCam>: Rozs, Left, 500,2
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<79>_, 5,None
+<RotateCam>: Rozs, Left, 500,5
+<PlaySound>: Carl4
+<Switch>: MCrops-Asked,On
+<Item>: Item-HMedicine, On
+<Task>: TaskHMed
+<Reload>
+</>
+
+<NO>
+<Message>: _&TownCalambaScene<87>_, 5,None
+<Choice End>
+
+<Case>: FindSambong
+
+<CharFace>: Cman2, Rozs
+<CharFace>: Rozs, Cman2
+
+<Message>: _&TownCalambaScene<72>_, 5,None
+<PlaySound>: Rozs69
+<RotateCam>: Rozs, Left, 500,5
+
+<NextEvent>
+<Message>: _&TownCalambaScene<73>_, 5,None
+<RotateCam>: Rozs, Left, 500,5
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<74>_, 5,None
+<RotateCam>: Rozs, Left, 500,5
+<PlaySound>: Carl1
+<Switch>: MCrops-Ini,On
+</>
+
+<Case Else>
+<Message>: _&TownCalambaScene<90>_, 5
+<End Select>

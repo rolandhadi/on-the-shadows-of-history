@@ -1,0 +1,5 @@
+<PlaySound>: Door-1
+<StopBG>
+<PlayBG>: FS-2
+<Message>: _&Entering<20>_, 1, NONE
+<LoadMap>: FSHouse2

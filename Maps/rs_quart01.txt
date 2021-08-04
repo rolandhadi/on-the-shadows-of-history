@@ -1,0 +1,46 @@
+<ENABLESAVE>
+
+<DRAWBACK>: 450
+<LMOUSE>: 20
+<HMOUSE>: 60
+<FOG>: 400,450, 100, 100
+
+<SOUND>: BoxMove
+<OBJECT>: roundtable
+<OBJECT>: plant
+<OBJECT>: door1-1
+
+
+<DUMMY>: D1,0,0,0
+<DUMMY>: D2,28,0,6
+
+<CHARACTER>: Rozs, 5,0,6, e
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 8
+<ANIMATION>: Run,  8
+<ANIMATION>: Push, 8
+<ANIMATION>: Dock, 8
+//Library Area
+<SURFACE>:   PlaneBox,  61, 1,0,1, 10,10,5, s
+<SURFACE>:   Z5PLANE1, 44,  1,0,1, 10,0,5, s
+
+<layer1>:door1-1, 6,0,5, e, door1-1
+<layer1>:roundtable, 4,0,4, w, 219
+<layer1>:plant, 1,0,1, e, plant1
+<layer1>:plant, 1,0,5, w, plant1
+<layer1>:plant, 10,0,1, e, plant1
+<layer1>:plant, 10,0,5, w, plant1
+<layer1>:roundtable, 8,0,4, e, 219
+
+//End of Library Area
+<LIGHT>: AMBIENT, 0,0,0, .8,.8,.8, DUMMYD1
+<LIGHT>: Directional, 0,0,0, .3,.3,.3, DUMMYD1
+
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Rozs
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Man1
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Man2
+
+<BLOCKROW>: 0
+<BLOCKCOL>: 0
+<BLOCKROW>: 50
+<BLOCKCOL>: 35

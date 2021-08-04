@@ -1,0 +1,155 @@
+<DRAWBACK>: 700
+<LMOUSE>: 17
+<HMOUSE>: 100
+<FOG>: 400,450, 100, 100
+<MapName>: _STI Southwoods Room 302_
+<OBJECT>: Door3-1
+<OBJECT>: Frame2x3
+<OBJECT>: Painting2x3
+<OBJECT>: Frame1x2
+<OBJECT>: Painting1x2
+<OBJECT>: AirCon
+<OBJECT>: PBox
+
+<DUMMY>: D1,0,0,0
+<DUMMY>: D2,28,0,6
+
+<CHARACTER>: Rozs, 10,0,2,n
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 8
+<ANIMATION>: Run,  8
+<ANIMATION>: Push, 8
+<ANIMATION>: Dock, 8
+<CHARACTER/>
+
+<SURFACE>:   PlaneBox, Wall-10, 1,0,1, 10,4,10, s
+<SURFACE>:   Z3PLANE1, 68,  1,0,1, 10,0,10, s
+
+<layer1>:Frame2x3,3,1,1,w,241
+<layer1>:Painting2x3,3,1,1,w,White
+<layer1>:Frame2x3,6,1,1,w,241
+<layer1>:Painting2x3,6,1,1,w,White
+
+<layer1>:Frame1x2,10,0.8,5,n,Wall-9
+<layer1>:Painting1x2,10,0.8,5,n,glass-4
+
+<layer1>:Frame1x2,10,0.8,7,n,Wall-9
+<layer1>:Painting1x2,10,0.8,7,n,glass-4
+
+<layer1>:Frame1x2, 1,1,1.5, s,Wall-9
+<layer1>:Painting1x2, 1,1,1.5, s,STIWindow
+<layer1>:Frame1x2, 1,1,4.5, s,Wall-9
+<layer1>:Painting1x2, 1,1,4.5, s,STIWindow
+<layer1>:Frame1x2, 1,1,7.5, s,Wall-9
+<layer1>:Painting1x2, 1,1,7.5, s,STIWindow
+<SURFACE>:   Z1Ceiling, Roof-3, 1,3,1, 10,0,10, s
+
+<layer1>:AirCon, 1,2,8.5, s,AirCon
+<layer1>:AirCon, 1,2,1.5, s,AirCon
+
+//Puzzle Start
+<Layer1>: PBox, 1,0,1, S, STIpuzzle1, Box1
+<Layer1>: PBox, 1,0,2, S, STIpuzzle2, Box2
+<Layer1>: PBox, 1,0,3, S, STIpuzzle3, Box3
+<Layer1>: PBox, 1,0,4, S, STIpuzzle4, Box4
+<Layer1>: PBox, 1,0,5, S, STIpuzzle5, Box5
+<Layer1>: PBox, 1,0,6, S, STIpuzzle6, Box6
+
+<Layer1>: PBox, 2,0,1, S, STIpuzzle7, Box7
+<Layer1>: PBox, 9,0,3, S, STIpuzzle8, Box8
+<Layer1>: PBox, 3,0,9, S, STIpuzzle9, Box9
+<Layer1>: PBox, 7,0,9, S, STIpuzzle10, Box10
+<Layer1>: PBox, 9,0,7, S, STIpuzzle11, Box11
+<Layer1>: PBox, 7,0,7, S, STIpuzzle12, Box12
+
+<Layer1>: PBox, 3,0,1, S, STIpuzzle13, Box13
+<Layer1>: PBox, 8,0,2, S, STIpuzzle14, Box14
+<Layer1>: PBox, 2,0,8, S, STIpuzzle15, Box15
+<Layer1>: PBox, 6,0,8, S, STIpuzzle16, Box16
+<Layer1>: PBox, 8,0,6, S, STIpuzzle17, Box17
+<Layer1>: PBox, 6,0,6, S, STIpuzzle18, Box18
+
+<Layer1>: PBox, 4,0,1, S, STIpuzzle19, Box19
+<Layer1>: PBox, 9,0,5, S, STIpuzzle20, Box20
+<Layer1>: PBox, 5,0,9, S, STIpuzzle21, Box21
+<Layer1>: PBox, 5,0,7, S, STIpuzzle22, Box22
+<Layer1>: PBox, 7,0,5, S, STIpuzzle23, Box23
+<Layer1>: PBox, 5,0,5, S, STIpuzzle24, Box24
+
+<Layer1>: PBox, 5,0,1, S, STIpuzzle25, Box25
+<Layer1>: PBox, 8,0,4, S, STIpuzzle26, Box26
+<Layer1>: PBox, 4,0,8, S, STIpuzzle27, Box27
+<Layer1>: PBox, 4,0,6, S, STIpuzzle28, Box28
+<Layer1>: PBox, 6,0,4, S, STIpuzzle29, Box29
+<Layer1>: PBox, 4,0,4, S, STIpuzzle30, Box30
+
+<Layer1>: PBox, 6,0,1, S, STIpuzzle31, Box31
+<Layer1>: PBox, 7,0,3, S, STIpuzzle32, Box32
+<Layer1>: PBox, 3,0,7, S, STIpuzzle33, Box33
+<Layer1>: PBox, 3,0,5, S, STIpuzzle34, Box34
+<Layer1>: PBox, 5,0,3, S, STIpuzzle35, Box35
+<Layer1>: PBox, 3,0,3, S, STIpuzzle36, Box36
+// Puzzle End
+
+<layer1>:Door3-1,10,0,2,n,DoorSTI
+<EVENT>: gotoSTIHway, 10,2, 1,2, 1,1
+<SETCHARPOS>: 1,0,19, s, ContinueMap
+
+
+<LIGHT>: AMBIENT, 0,0,0, .8,.8,.8, DUMMYD1
+<LIGHT>: Directional, 0,0,0, .3,.3,.3, DUMMYD1
+
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Rozs
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Man1
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Man2
+
+<BLOCKROW>: 0
+<BLOCKCOL>: 0
+<BLOCKROW>: 11
+<BLOCKCOL>: 11
+
+<CONDITIONAL>:
+
+<IF>: Box1, 1,1
+<IF>: Box2, 1,2
+<IF>: Box3, 1,3
+<IF>: Box4, 1,4
+<IF>: Box5, 1,5
+<IF>: Box6, 1,6
+
+<IF>: Box7, 2,1
+<IF>: Box8, 2,2
+<IF>: Box9, 2,3
+<IF>: Box10,2,4
+<IF>: Box11,2,5
+<IF>: Box12,2,6
+
+<IF>: Box13, 3,1
+<IF>: Box14, 3,2
+<IF>: Box15, 3,3
+<IF>: Box16, 3,4
+<IF>: Box17, 3,5
+<IF>: Box18, 3,6
+
+<IF>: Box19, 4,1
+<IF>: Box20, 4,2
+<IF>: Box21, 4,3
+<IF>: Box22, 4,4
+<IF>: Box23, 4,5
+<IF>: Box24, 4,6
+
+<IF>: Box25, 5,1
+<IF>: Box26, 5,2
+<IF>: Box27, 5,3
+<IF>: Box28, 5,4
+<IF>: Box28, 5,5
+<IF>: Box30, 5,6
+
+<IF>: Box31, 6,1
+<IF>: Box32, 6,2
+<IF>: Box33, 6,3
+<IF>: Box34, 6,4
+<IF>: Box35, 6,5
+<IF>: Box36, 6,6
+
+<THEN>: Puzzle4End

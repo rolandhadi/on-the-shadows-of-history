@@ -1,0 +1,8 @@
+<Case>: Con-RizalJosephine
+<Message>: _&Tasks<31>_, 1, NONE
+<Case Else>
+<PlaySound>: Door-1
+<Message>: _&Entering<36>_, 2,NONE
+<LoadMap>: fs-dulo
+<End Select>
+

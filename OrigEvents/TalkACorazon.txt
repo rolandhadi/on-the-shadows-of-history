@@ -1,0 +1,4 @@
+<CHARFACE>: OldLadyDress1, Rozs
+<CHARFACE>: Rozs, OldLadyDress1
+<MESSAGE>: _&AteneoScene<59>_, 3
+<Playsound>: Corazon

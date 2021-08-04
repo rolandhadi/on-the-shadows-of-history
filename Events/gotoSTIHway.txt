@@ -1,0 +1,19 @@
+<Case>: In305
+
+<StopBG>
+<PlayBG>: STI, Loop
+<Switch>: In305, Off
+
+<NextEvent>
+<PlaySound>: Door-1
+<Message>: _&STIScene<70>_, 1, NONE
+<LoadMap>: sti-hallway
+</>
+
+<Case Else>
+
+<PlaySound>: Door-1
+<Message>: _&STIScene<70>_, 1, NONE
+<LoadMap>: sti-hallway
+
+<End Select>

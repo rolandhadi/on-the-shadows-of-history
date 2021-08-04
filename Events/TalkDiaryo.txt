@@ -1,0 +1,57 @@
+<Case>: Switch-Diaryo
+<Message>: _&TownCalambaScene<7>_, 5
+<PlaySound>: Vendor1
+<Case Else>
+
+<CharFace>: CMan3, Rozs
+<CharFace>: Rozs, Cman3
+
+<NextEvent>
+<Message>: _&TownCalambaScene<7>_, 5,None
+<PlaySound>: Vendor1
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<8>_, 5,None
+<PlaySound>: Rozs21
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<9>_, 5,None
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<10>_, 5,None
+<PlaySound>: Vendor2
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<11>_, 5,None
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<12>_, 7,None
+<PlaySound>: Rozs22
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<13>_, 5,None
+<PlaySound>: Vendor3
+<Item>: Item-Diaryo, On
+</>
+
+<NextEvent>
+<ShowPreview>: Diaryo
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<14>_, 5,None
+<PlaySound>: Rozs23
+</>
+
+
+<NextEvent>
+<Message>: _&TownCalambaScene<15>_, 5,None
+<PlaySound>: Rozs24
+</>
+<End Select>

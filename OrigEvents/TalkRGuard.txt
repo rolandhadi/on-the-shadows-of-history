@@ -1,0 +1,64 @@
+<Setcharpos>: RozsF, 8,0,9, n
+<CharFace>: Guard1, RozsF
+<CharFace>: RozsF, Guard1
+<SETCAMPOS>: 10,6,4, RozsF
+
+<NextEvent>
+<SETCAMPOS>: 10,5,9, RozsF
+<MESSAGE>: _&FSScene<70>_, 5, None
+<PLaysound>: FSRozs5
+</>
+
+<NEXTEVENT>
+<RotateCam>: Rozs, Left, 500, 3
+<MESSAGE>: _&FSScene<71>_, 7, None
+<PLaysound>: FSRozs6
+</>
+
+<NEXTEVENT>
+<RotateCam>: Guard1, Left, 500, 2
+<CharAnimate>: Guard1, Give, Once, 50, 4
+<MESSAGE>: _&FSScene<72>_, 2, None
+<PLaysound>: GCivil2
+</>
+
+<NEXTEVENT>
+<StopBG>
+<PlayBG>: Victory
+<CharAnimate>: RozsF, Give, Once, 50, 4
+<MESSAGE>: __, 2, None
+</>
+
+<NEXTEVENT>
+<CharAnimate>: Guard1, Give, Reverse, 50, 2
+<MESSAGE>: __, 2, None
+</>
+
+<NEXTEVENT>
+<PLayBG>: FS-1, Loop
+<CharAnimate>: RozsF, Give, Reverse, 50, 2
+<MESSAGE>: __, 2, None
+</>
+
+<NEXTEVENT>
+<CharFace>: RozsF, Guard1, Back
+<CHARANIMATE>: RozsF, Walk, Loop, 150, 4
+<MoveChar>: RozsF, n, .4, 4
+</>
+
+<NEXTEVENT>
+<CHARANIMATE>: Guard1, Walk, Loop, 150, 9
+<MoveChar>: Guard1, n, .4, 9
+</>
+
+<NEXTEVENT>
+<PlaySound>: Door-1
+<Item>: Item-RKey, On
+</>
+
+<NextEvent>
+<Task>: TaskFS-RKey
+<LoadMap>: RPrison-none
+</>
+
+

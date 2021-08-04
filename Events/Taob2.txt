@@ -1,0 +1,196 @@
+<SetCharPos>: Rozs, 3,0,14, w
+<SetCharPos>: Glaiz,1,10,1, w
+<SETCAMPOS>: 7,5,20, Rozs
+<Message>: _&MuseumScene<59>_,5,None
+<PlaySound>: MuseumRozs8
+
+<NextEvent>
+<Message>: _&MuseumScene<60>_,4,None
+<PlaySound>: MuseumRozs9
+</>
+
+<NextEvent>
+<CharAnimate>: Rozs, OneHand,  Once, 1, 1
+<StopBG>
+<PlayBG>: UnknownRoom, Loop
+</>
+
+<NextEvent>
+<PlaySound>: SE1
+<RotateCam>: Rozs, Left, 20000,2
+</>
+
+<NextEvent>
+<RotateCam>: Rozs, Left, 5000,2
+</>
+
+<NextEvent>
+<RotateCam>: Rozs, Left, 1000,2
+</>
+
+<NextEvent>
+<SETCAMPOS>: 7,5,10, Rozs
+</>
+
+<NextEvent>
+<CharAnimate>: Bshelf, Taob,  Once, 50, 1
+<PlaySound>: BumpShelf
+</>
+
+<NextEvent>
+<PlaySound>: DestroyShelf
+</>
+
+<NextEvent>
+<CharAnimate>: Rozs, OneHand,  Reverse, 1, 1
+<PlaySound>: BumpShelf
+</>
+
+<NextEvent>
+<CharAnimate>: BshelfB, Taob, Once, 50, 1
+</>
+
+<NextEvent>
+<PlaySound>: DestroyShelf
+</>
+
+<NextEvent>
+<CharAnimate>: BshelfB2, Taob, Once, 50, 1
+</>
+
+<NextEvent>
+<PlaySound>: DestroyShelf
+</>
+
+<NextEvent>
+<CharAnimate>: BshelfB3, Taob, Once, 50, 1
+</>
+
+<NextEvent>
+<PlaySound>: DestroyShelf
+</>
+
+<NextEvent>
+<CharFace>: RLady, Rozs
+<SETCAMPOS>: 6,3,20, RLady
+<PlaySound>: Recep3
+<Message>: _&MuseumScene<12>_, 5,None
+</>
+
+<NextEvent>
+<CharFace>: Rozs, RLady
+<SETCAMPOS>: 6,3,20, Rozs
+<PlaySound>: Rozs7
+<Message>: _&MuseumScene<13>_, 5,None
+<Switch>: UnknownRoom, On
+</>
+
+<NextEvent>
+<SETCAMPOS>: 6,3,20, RLady
+<PlaySound>: Recep4
+<Message>: _&MuseumScene<14>_, 5,None
+<RotateCam>: Rlady, Left, 500,5
+</>
+
+<NextEvent>
+<SETCAMPOS>: 7,3,20, Rozs
+<PlaySound>: MuseumRozs13
+<Message>: _&MuseumScene<68>_, 4,None
+<RotateCam>: Rozs, Left, 500,5
+</>
+
+<NextEvent>
+<PlaySound>: MuseumRozs14
+<SETCAMPOS>: 7,3,20, Rozs
+<Message>: _&MuseumScene<69>_, 4,None
+</>
+
+<NextEvent>
+<SETCAMPOS>: 7,3,20, Rozs
+<Message>: _&MuseumScene<70>_, 4,None
+<PlaySound>: MuseumRozs15
+</>
+
+<NextEvent>
+<SETCAMPOS>: 7,3,20, Rozs
+<Message>: _&MuseumScene<71>_, 4,None
+<PlaySound>: MuseumRozs16
+</>
+
+<NextEvent>
+<SETCAMPOS>: 7,3,20, Rozs
+<Message>: _&MuseumScene<72>_, 4,None
+<PlaySound>: MuseumRozs17
+</>
+
+<NextEvent>
+<SETCAMPOS>: 6,3,20, RLady
+<PlaySound>: Recep5
+<Message>: _&MuseumScene<16>_, 5,None
+<RotateCam>: Rlady, Left, 500,5
+</>
+
+<NextEvent>
+<Message>: _&MuseumScene<17>_, 5,None
+</>
+
+<NextEvent>
+<SETCAMPOS>: 7,3,20, Rozs
+<PlaySound>: Rozs9
+<Message>: _&MuseumScene<18>_, 5,None
+<RotateCam>: Rozs, Left, 500,5
+</>
+
+<NextEvent>
+<Message>: _&MuseumScene<19>_, 5,None
+</>
+
+<NextEvent>
+<SETCAMPOS>: 6,3,20, RLady
+<PlaySound>: Recep6
+<Message>: _&MuseumScene<20>_, 5,None
+<RotateCam>: Rlady, Left, 500,5
+</>
+
+<NextEvent>
+<Message>: _&MuseumScene<21>_, 4,None
+</>
+
+<NextEvent>
+<SETCAMPOS>: 7,3,20, Rozs
+<PlaySound>: Rozs10
+<Message>: _&MuseumScene<22>_, 4,None
+</>
+
+<NextEvent>
+<SETCAMPOS>: 6,3,20, RLady
+<PlaySound>: Recep7
+<Message>: _&MuseumScene<23>_, 4,None
+</>
+
+<NextEvent>
+<SETCAMPOS>: 7,3,20, Rozs
+<PlaySound>: Rozs11
+<Message>: _&MuseumScene<24>_, 5,None
+<CharFace>: RLady,Rozs, Back
+</>
+
+<NextEvent>
+<SETCAMPOS>: 6,3,20, RLady
+<PlaySound>: Recep8
+<Message>: _&MuseumScene<25>_, 4,None
+</>
+
+<NextEvent>
+<Message>: _&MuseumScene<26>_, 4,None
+<CharAnimate>: RLady, Walk, Loop, 100, 4
+<MoveChar>: RLady, N, .3, 4
+</>
+
+
+<NextEvent>
+<Switch>: Bshelf, Off
+<Task>: TaskRecep
+<LoadMap>: MuseumHallway2
+</>
+

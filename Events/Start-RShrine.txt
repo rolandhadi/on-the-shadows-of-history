@@ -1,0 +1,22 @@
+<CASE>: TaposRShrine
+
+<MESSAGE>: __, 0,None
+
+<CASE ELSE>
+
+/<SetCharPos>: Rozs, 13,0,4, n
+<SETCAMPOS>: 18,6,48, None, 14,1,28
+<MESSAGE>: __, 3, None
+
+<NextEvent>
+<SETCAMPOS>: 24,7,16, None, 17,1,4
+<MESSAGE>: __, 3, None
+</>
+
+<NextEvent>
+<SETCAMPOS>: 8,7,4, None, 15,1,18
+<MESSAGE>: __, 3, None
+<SWITCH>:  TaposRShrine, On
+</>
+
+<END SELECT>

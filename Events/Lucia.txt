@@ -1,0 +1,12 @@
+<Message>: _LUCIA RIZAL (1857-1919)_, 2
+
+<NEXTEVENT>
+<Message>: _&Lucia<1>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Lucia<2>_, 3
+</>
+
+
+ 

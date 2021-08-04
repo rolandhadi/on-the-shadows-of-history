@@ -1,0 +1,9 @@
+<StopBG>:
+<PlayBG>: Parting2, Loop
+<SetCharPos>: Invisible, 4,2,4, s
+<RotateCam>: Invisible, Left, 500, 20
+<ShowSprite>: 256,210, 80,80, End1, 20
+
+<NextEvent>
+<LoadMap>: Ending-2
+</>

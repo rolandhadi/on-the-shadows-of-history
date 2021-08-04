@@ -1,0 +1,36 @@
+<CASE>: TaposPriest
+<MESSAGE>: __, 1, none
+
+<CASE ELSE>: 
+
+<SETCAMPOS>: 9,7,2, DUMMYACenter
+<RotateCam>: DUMMYACenter, Up, 1000, 10
+
+<MESSAGE>: _&AteneoScene<32>_, 3, none
+<PlaySound>: T1
+
+<NEXTEVENT>:
+<MESSAGE>: _&AteneoScene<33>_, 3, none
+<PlaySound>: T2
+</>
+
+<NEXTEVENT>:
+<CHARFACE>: RizalA, Priest
+<RotateCam>: RizalA, Right, 500, 5
+<MESSAGE>: _&AteneoScene<34>_, 3, none
+<Playsound>: Rizal-Room1
+</>
+
+<NEXTEVENT>:
+/<CHARFACE>: Priest, RizalA
+<MESSAGE>: _&AteneoScene<35>_, 3, none
+<PlaySound>: T3
+<SWITCH>: TaposPriest, On
+<SWITCH>: DiTaposKnife, On
+</>
+
+<NEXTEVENT>:
+<LOADMAP>: Ateneo-C7-none
+</>
+
+<END SELECT>

@@ -1,0 +1,95 @@
+<ENABLESAVE>
+<MapName>: _STI Southwoods Room 304_
+<DRAWBACK>: 450
+<LMOUSE>: 17
+<HMOUSE>: 60
+<FOG>: 400,450, 100, 100
+
+<SOUND>: BoxMove
+
+<OBJECT>: Table1x1
+<OBJECT>: Door3-1
+<OBJECT>: Chair1
+<OBJECT>: Frame2x3
+<OBJECT>: Painting2x3
+<OBJECT>: SChair
+<OBJECT>: Frame1x2
+<OBJECT>: Painting1x2
+<OBJECT>: AirCon
+<layer1>:AirCon, 1,2,8.5, s,AirCon
+<layer1>:AirCon, 1,2,1.5, s,AirCon
+
+<DUMMY>: D1,0,0,0
+<DUMMY>: D2,28,0,6
+
+<CHARACTER>: Rozs, 10,0,2,n
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 8
+<ANIMATION>: Run,  8
+<ANIMATION>: Push, 8
+<ANIMATION>: Dock, 8
+<CHARACTER/>
+
+<SURFACE>:   PlaneBox, Wall-10, 1,0,1, 10,4,10, s
+<SURFACE>:   Z3PLANE1, 68,  1,0,1, 10,0,10, s
+<layer1>:Frame1x2, 1,1,1.5, s,Wall-9
+<layer1>:Painting1x2, 1,1,1.5, s,STIWindow
+<layer1>:Frame1x2, 1,1,4.5, s,Wall-9
+<layer1>:Painting1x2, 1,1,4.5, s,STIWindow
+<layer1>:Frame1x2, 1,1,7.5, s,Wall-9
+<layer1>:Painting1x2, 1,1,7.5, s,STIWindow
+<SURFACE>:   Z1Ceiling, Roof-3, 1,3,1, 10,0,10, s
+
+<layer1>:Chair1,5.5,0,2,w
+<layer1>:Table1x1,5.5,0,3,w,rtable-1
+<layer1>:SChair,1,0,5,e,SChair-1
+<layer1>:SChair,1,0,7,e,SChair-1
+<layer1>:SChair,1,0,9,e,SChair-1
+<layer1>:SChair,2,0,5,e,SChair-1
+<layer1>:SChair,2,0,7,e,SChair-1
+<layer1>:SChair,2,0,9,e,SChair-1
+<layer1>:SChair,3,0,5,e,SChair-1
+<layer1>:SChair,3,0,7,e,SChair-1
+<layer1>:SChair,3,0,9,e,SChair-1
+<layer1>:SChair,4,0,5,e,SChair-1
+<layer1>:SChair,4,0,7,e,SChair-1
+<layer1>:SChair,4,0,9,e,SChair-1
+<layer1>:SChair,7,0,5,e,SChair-1
+<layer1>:SChair,7,0,7,e,SChair-1
+<layer1>:SChair,7,0,9,e,SChair-1
+<layer1>:SChair,8,0,5,e,SChair-1
+<layer1>:SChair,8,0,7,e,SChair-1
+<layer1>:SChair,8,0,9,e,SChair-1
+<layer1>:SChair,9,0,5,e,SChair-1
+<layer1>:SChair,9,0,7,e,SChair-1
+<layer1>:SChair,9,0,9,e,SChair-1
+<layer1>:SChair,10,0,5,e,SChair-1
+<layer1>:SChair,10,0,7,e,SChair-1
+<layer1>:SChair,10,0,9,e,SChair-1
+
+<layer1>:Frame2x3,3,1,1,w,241
+<layer1>:Painting2x3,3,1,1,w,White
+<layer1>:Frame2x3,6,1,1,w,241
+<layer1>:Painting2x3,6,1,1,w,White
+
+<layer1>:Frame1x2,10,0.8,5,n,Wall-9
+<layer1>:Painting1x2,10,0.8,5,n,glass-4
+
+<layer1>:Frame1x2,10,0.8,7,n,Wall-9
+<layer1>:Painting1x2,10,0.8,7,n,glass-4
+
+<layer1>:Door3-1,10,0,2,n,DoorSTI
+<EVENT>: gotoSTIHway, 10,2, 1,2, 1,1
+<SETCHARPOS>: 1,0,7, s, ContinueMap
+
+<LIGHT>: AMBIENT, 0,0,0, .8,.8,.8, DUMMYD1
+<LIGHT>: Directional, 0,0,0, .3,.3,.3, DUMMYD1
+
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Rozs
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Man1
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Man2
+
+<BLOCKROW>: 0
+<BLOCKCOL>: 0
+<BLOCKROW>: 11
+<BLOCKCOL>: 11

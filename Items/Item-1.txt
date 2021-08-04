@@ -1,0 +1,3 @@
+<Caption>:_- Sa Aking Mga Kababata - Poem_
+<Preview>:SaAkingMgaKababata
+<Switch>: Poem-1, On

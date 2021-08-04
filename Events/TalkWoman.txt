@@ -1,0 +1,118 @@
+<Case>: Switch-Ink
+<Message>: _&TownCalambaScene<53>_, 3
+
+<Case>: Switch-Sambong
+
+<Setcampos>: 3,3,7, Rozs 
+/standby wala pang voice over
+
+<NextEvent>
+<CharAnimate>: Rozs, Give, Once, 50, 3
+<Message>: _&TownCalambaScene<120>_, 5,None
+<PlaySound>: cRozs41
+</>
+
+<NextEvent>
+<CharAnimate>: Rozs, Give, Reverse, 50, 3
+<Message>: _&TownCalambaScene<53>_, 3,None
+<PlaySound>: Woman7
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<54>_, 3,None
+<PlaySound>: Rozs40
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<55>_, 3,None
+<PlaySound>: Woman8
+<StopBG>
+<PlayBG>: Victory
+</>
+
+<NextEvent>
+<PlayBG>: House1, Loop
+<Message>: _&TownCalambaScene<56>_, 3,None
+<PlaySound>: Rozs41
+</>
+
+/standby wala pang voice over
+<NextEvent>
+<Message>: _&TownCalambaScene<57>_, 3,None
+<PlaySound>: Woman9
+<Item>: Item-Ink, On
+<Item>: Item-Sambong, Off
+<Task>: TaskInkCom
+</>
+<Case>: FindSambong
+<Message>: _&TownCalambaScene<50>_, 5
+<Case>: Pepe1
+<CharFace>: Rozs, OldLadyDress1
+<CharFace>: OldLadyDress1, Rozs
+<Switch>: FindSambong,On
+<NextEvent>
+<Message>: _&TownCalambaScene<43>_, 5,None
+<PlaySound>: Rozs36
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<44>_, 5,None
+<PlaySound>: Woman1
+<RotateCam>: Rozs, Left, 500,5
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<45>_, 5,None
+<PlaySound>: Rozs37
+<RotateCam>: Rozs, Left, 500,5
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<46>_, 5,None
+<PlaySound>: Woman2
+<RotateCam>: Rozs, Right, 500,5
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<47>_, 5,None
+<PlaySound>: Rozs38
+<RotateCam>: Rozs, Right, 500,5
+</>
+
+<NextEvent>
+<SetCamPos>: 5,3,5, SickBoy
+<Message>: _&TownCalambaScene<48>_, 5,None
+<PlaySound>: Woman3
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<49>_, 5,None
+<PlaySound>: Woman4
+<RotateCam>: Rozs, Left, 500,5
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<50>_, 5,None
+<PlaySound>: Woman5
+<RotateCam>: Rozs, Left, 500,5
+<PlayBG>: Info
+</>
+
+<NextEvent>
+<Message>: _&TownCalambaScene<51>_, 5,None
+<PlaySound>: Rozs39
+<RotateCam>: Rozs, Left, 500,5
+</>
+
+/standby wala pang voice over
+<NextEvent>
+<Message>: _&TownCalambaScene<52>_, 5,None
+<PlaySound>: Woman6
+<Task>: TaskSambong
+<RotateCam>: Rozs, Left, 500,5
+</>
+
+<Case Else>
+<Message>: _&TownCalambaScene<49>_, 5
+<End Select>
+

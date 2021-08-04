@@ -1,0 +1,116 @@
+<CASE>: LeonartFinish
+<CHarface>: RizalA, Rozs
+<CHarface>: Rozs,RizalA
+<AutoSave>
+<SETCAMPOS>: 10,5,7, Rozs
+
+//Note: Conversation of Rizal n Rozs (favor for F. Lleonart and Sacred heart of Jesus)
+
+<NextEvent>
+<RotateCam>: Rozs, Right, 500, 5
+<Message>: _&AteneoScene<137>_, 3, None
+<PlaySound>: Rizal-EAteneo10
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<142>_, 3, None
+<CharAnimate>: RizalA, Give, Once, 50 ,3
+<PlaySound>: Rizal-EAteneo12
+</>
+
+<NextEvent>
+<CharAnimate>: Rozs, Give, Once, 50 ,3
+</>
+
+<NextEvent>
+<CharAnimate>: RizalA, Give, Reverse, 50 ,3
+</>
+
+<NextEvent>
+<CharAnimate>: Rozs, Give, Reverse, 50 ,3
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<45>_, 7, None
+<PlaySound>: Rizal-EAteneo14
+<Item>: Item-SacredHeartOfJesus, On
+<Task>: TaskMoveFast
+</>
+
+<NextEvent>
+<LOADMAP>: Ateneo-C3-3
+</>
+
+<Case>: RizalLetter
+
+<Message>: _&AteneoScene<128>_, 9, None
+<PlaySound>: Rizal-EAteneo16
+
+<CASE ELSE>:
+
+<CHARFACE>: RizalA, Rozs
+<CHARFACE>: Rozs, RizalA
+
+<NextEvent>
+<SETCAMPOS>: 10,7,10, RizalA
+<Message>: _&AteneoScene<117>_, 6,None
+<playsound>: Ateneo-Rozs12
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<119>_, 7,None
+<playsound>: Ateneo-Rozs14
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<120>_, 5,None
+<PlaySound>: Rizal-EAteneo5
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<121>_, 7,None
+<PlaySound>: Rizal-EAteneo6
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<122>_, 3,None
+<PlaySound>: Ateneo-rozs15
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<123>_, 5,None
+<PlaySound>: Rizal-EAteneo7
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<124>_, 5,None
+<playsound>: Ateneo-Rozs16
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<125>_, 5,None
+<PlaySound>: Rizal-EAteneo8
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<126>_, 5,None
+<playsound>: Ateneo-Rozs17
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<127>_, 7,None
+<PlaySound>: Rizal-EAteneo9
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<128>_, 9,None
+<PlaySound>: Rizal-EAteneo16
+<SWITch>: RizalLetter, ON
+<Item>: Item-RizalLetter, On
+<Item>: Item-Knife, Off
+<Task>: TaskA5
+</>
+
+
+
+

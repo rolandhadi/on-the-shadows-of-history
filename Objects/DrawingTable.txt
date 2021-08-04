@@ -1,0 +1,4 @@
+<SIZE>
+1, 1, 1
+<BLOCKROWNOCAM>
+1

@@ -1,0 +1,7 @@
+<Case>: NoReturnMaze4
+<Message>: _&Tasks<18>_, 2,NONE
+<Case Else>
+<PlaySound>: Door-1
+<Message>: _&Entering<34>_, 2,NONE
+<LoadMap>: Maze-4
+<End Select>

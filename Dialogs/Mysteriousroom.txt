@@ -1,0 +1,90 @@
+<1>
+<A>: _Rozs:  What place is this?!!_
+<B>: _Rozs:  Anong lugar ito?_
+<C>: 
+</>
+
+<2>
+<A>: _Receptionist:  A secret place. I hope it's still here._
+<B>: _Receptionist:  Isang sekretong lugar. Sana ito ay nananatili pa dito._
+<C>: 
+</>
+
+<3>
+<A>: _Receptionist: This is it!...I'm sorry, but I have to do this. This is your's and mine's fate._
+<B>: _Receptionist: Ito na yon!... Paumanhin, pero ito na ang kapalarang nakatakda sayo at sa akin._
+<C>: 
+</>
+
+<4>
+<A>: _Rozs:  What's that?_
+<B>: _Rozs:  Ano yan?_
+<C>: 
+</>
+
+<5>
+<A>: _Receptionist:  Hey, young man, take this...._
+<B>: _Receptionist:  Bata, kunin mo ito..._
+<C>: 
+</>
+
+<6>
+<A>: _Rozs: What's this?!!_
+<B>: _Rozs: Ano ito?_
+<C>: 
+</>
+
+<7>
+<A>: _Receptionist:  That is the chronopad. The chronopad will help you travel back in time._
+<B>: _Receptionist:  Yan ang chronopad. Yan ang makatutulong sa iyo na makabalik sa nakaraan._
+<C>: 
+</>
+
+<8>
+<A>: _Receptionist: With this, you will have to retrieve all the artifacts that you have ruined and that's the only solution._
+<B>: _Receptionist: Sa pamamagitan niyan makukuha mo ang mga sining na nasira mo at yan lang ang tanging solusyon._
+<C>: 
+</>
+
+<9>
+<A>: _Rozs:  Why me?_
+<B>: _Rozs:  Bakit ako?_
+<C>: 
+</>
+
+<10>
+<A>: _Receptionist:  Why me?! Because you have ruined all those artifacts. You have to bring it back then, ok?_
+<B>: _Receptionist:  Bakit Ako?! Dahil ikaw ang nakasira sa mga gawa ni Rizal, Kailangang maibalik mo yan, Okey?_
+<C>: 
+</>
+
+<11>
+<A>: _Receptionist: I'm sorry... but that is your fate and also mine. You know every year there is always this case._
+<B>: _Receptionist: Paumanhin, pero ito ang ating kapalaran. Alam mo tuwing taon laging may ganitong kaso._
+<C>: 
+</>
+
+<12>
+<A>: _Receptionist: Something bad will happen. And I'm the one responsible for this incident..._
+<B>: _Receptionist: May nasisirang sining. At ako ang responsable sa ganitong insidente..._
+<C>: 
+</>
+
+<13>
+<A>: _Receptionist: Bringing you down here and giving you that chronopad. _
+<B>: _Receptionist: Dalhin kita dito at ibigay ang chronopad._
+<C>: 
+</>
+
+<14>
+<A>: _Receptionist: This year, you are the one fated one to travel back in time. Be careful._
+<B>: _Receptionist: Ngayong taon ikaw ang nakatakdang bumalik at maglakbay sa nakaraan. Mag-iingat ka!_
+<C>: 
+</>
+
+
+<15>
+<A>: _Rozs:  A chronopad...?_
+<B>: _Rozs:  Ang chronopad...?_
+<C>: 
+</>

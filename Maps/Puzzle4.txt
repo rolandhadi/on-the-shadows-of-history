@@ -1,0 +1,90 @@
+<DRAWBACK>: 650
+<LMOUSE>: 10
+<HMOUSE>: 150
+<FOG>: 0,250, 0, 0
+
+<OBJECT>: FencePost
+<OBJECT>: BigFence
+<OBJECT>: Box1X1
+<OBJECT>: XBox1X1
+
+<DUMMY>: D1,0,0,0
+<SOUND>: BoxMove
+<SOUND>: S2, None, None, Loop
+<EVENT>: Intro, 11,2, 1,10, 0,0
+
+<CHARACTER>: Rozs, 12,0,6, e
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 8
+<ANIMATION>: Run,  8
+<ANIMATION>: Push, 8
+<ANIMATION>: Dock, 8
+
+<CHARACTER>: Man1, 11,0,3, n
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 8
+
+<CHARACTER>: Man2, 4,0,11, s
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 8
+
+<CHARACTER/>
+
+<AI>: Man1, AISearch, Talk1, Huli
+<AI>: Man2, AISearch, Wait,  Huli
+
+<SURFACE>:   Z3PLANE1,  66,  0,0,0, 13,0,13, s
+<SURFACE>:   PlaneBox,  1, 0,0,0,  13,8,13,s
+
+//Codes of Puzzle Map BEGINS:
+
+//Fence Around
+<SURFACE>: Z1BigFence, 284, 1,0,1, 1,1,12, N
+<LAYER1>: FencePost ,1,0,1, n, 169
+<SURFACE>: Z1BigFence, 284, 1,0,1, 1,1,12, W
+<LAYER1>: FencePost ,12,0,1, n, 169
+<SURFACE>: Z1BigFence, 284, 12,0,1, 1,1,12, N
+<LAYER1>: FencePost ,1,0,12, n, 169
+<SURFACE>: Z1BigFence, 284, 1,0,12, 1,1,12, W
+<LAYER1>: FencePost ,12,0,12, n, 169
+//End of Fence
+
+<LAYER1>: Box1X1 ,10,0,6, s, Box-1, Box1
+/<LAYER1>: Chair1  , 11,0,7, s, 104
+/<LAYER1>: Box1X1 ,3,0,6, s, 283
+/<LAYER1>: Box1X1 ,4,0,4, s, 283
+/<LAYER1>: Box1X1 ,4,0,8, s, 283
+/<LAYER1>: Box1X1 ,4,0,10, s, 283
+/<LAYER1>: Box1X1 ,3,0,6, s, 283
+/<LAYER1>: Box1X1 ,5,0,5, s, 283
+/<LAYER1>: Box1X1 ,5,0,7, s, 283
+<LAYER1>: XBox1X1 ,6,0,5, s, 1
+<LAYER1>: XBox1X1 ,6,0,7, s, 1
+/<LAYER1>: Box1X1 ,7,0,5, s, 283
+<LAYER1>: XBox1X1 ,7,0,6, s, 1
+/<LAYER1>: Box1X1 ,7,0,7, s, 283
+/<LAYER1>: Box1X1 ,8,0,4, s, 283
+/<LAYER1>: Box1X1 ,8,0,6, s, 283
+/<LAYER1>: Box1X1 ,8,0,8, s, 283
+/<LAYER1>: Box1X1 ,8,0,9, s, 283
+/<LAYER1>: Box1X1 ,3,0,6, s, 283
+/<LAYER1>: Box1X1 ,9,0,2, s, 283
+/<LAYER1>: Box1X1 ,9,0,3, s, 283
+/<LAYER1>: Box1X1 ,9,0,10, s, 283
+/<LAYER1>: Box1X1 ,9,0,11, s, 283
+
+<MAKEBLOCK>: 1,1, 1,12
+<MAKEBLOCK>: 1,1, 12,1
+<MAKEBLOCK>: 1,12,12,1
+<MAKEBLOCK>: 12,1, 1,12
+
+<LIGHT>: AMBIENT, 0,0,0, .8,.8,.8, DUMMYD1
+<LIGHT>: DIRECTIONAL, 0,0,0, .2,.2,.2, DUMMYD1
+<LIGHT>: SPOT, 20,10,20, .5,.5,.5, DUMMYD1
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Rozs
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Man1
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Man2
+
+<CONDITIONAL>:
+<IF>:Box1, 6,6
+<THEN>:  Puzzle4End

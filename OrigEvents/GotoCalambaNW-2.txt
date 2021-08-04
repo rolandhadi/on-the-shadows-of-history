@@ -1,0 +1,7 @@
+<Case>: CRLady1
+<Message>: _&Entering<17>_, 1, NONE
+<LoadMap>: Calamba-NW2
+<Case Else>
+<Message>: _&Entering<17>_, 1, NONE
+<LoadMap>: Calamba-NW
+<End Select>

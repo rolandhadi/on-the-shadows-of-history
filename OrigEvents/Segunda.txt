@@ -1,0 +1,9 @@
+<Message>: _Segunda Katigbak_, 2
+
+<NEXTEVENT>
+<Message>: _&Segunda<1>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Segunda<2>_, 3
+</>

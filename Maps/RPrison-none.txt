@@ -1,0 +1,76 @@
+//Ito yun umalis na yun Guard, then lalabas si Rozs para kausapin si Josephine...
+//kapag labas ng door dapat FS-BShrine ang map
+
+<STARTEVENT>: Start-RPrison1
+
+<DRAWBACK>: 450
+<LMOUSE>: 20
+<HMOUSE>: 200
+<FOG>: 400,450, 100, 100
+
+<OBJECT>: Plant
+<OBJECT>: Tablelong
+<OBJECT>: Roundtable
+<OBJECT>: Door1-1
+<OBJECT>: Chair1
+<OBJECT>: Sofa
+<OBJECT>: Bed
+<OBJECT>: Wall1x5
+<OBJECT>: Cabinet1x1
+<OBJECT>: BShelf
+
+<DUMMY>: D1,0,0,0
+<DUMMY>: D2,28,0,6
+
+<CHARACTER>: RozsF, 8,0,8,s
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 8
+<ANIMATION>: Run,  8
+<ANIMATION>: Push, 8
+<ANIMATION>: Dock, 8
+
+<CHARACTER/>
+
+<SURFACE>:   Z3PLANE1,  stone2,  1,0,1, 10,0,10, s
+<SURFACE>:   PlaneBox,  wall13,  1,0,1,  10,5,10,s
+<SURFACE>:   Z1Ceiling, wall13,  1,4,1, 10,0,10, s
+
+<layer1>:Bed,1,0,3,s,bed1
+<layer1>:Cabinet1x1,2,0,1,w,cabinet1
+<layer1>:Roundtable,3,0,1,Wood7
+<layer1>:Plant,4,0,1,n,Plant1
+<layer1>:Plant,1,0,10,n,Plant1
+<layer1>:Tablelong,4,0,5,n,Rtable-2
+<layer1>:Chair1,3,0,5, s
+<layer1>:BShelf,3,0,10,e,cabinet4
+<layer1>:Wall1x5,5,0,1, n, wall7
+<layer1>:Wall1x5,5,0,6, n, wall7
+<layer1>: sofa, 6,0,2, n, wall1
+<layer1>: sofa, 7,0,1, w, wall1
+<layer1>:Plant,6,0,1,n,Plant1
+<layer1>:Roundtable, 7,0,6,Wood7
+<layer1>:Chair1, 6,0,6, s, none
+
+<layer1>:Door1-1,6,0,8,s,Door-Cell
+/<EVENT>: RLocked, 6,8, 1,1, 1,1
+<EVENT>: GotoR-in, 6,8, 1,1, 1,1
+<SETCHARPOS>: 3,0,8,n, ContinueMap
+
+<layer1>:Door1-1,4,0,8,n,Door-Cell
+<EVENT>: GotoR-out, 4,8, 1,1, 1,1
+<SETCHARPOS>: 7,0,8,s, ContinueMap
+
+<layer1>:Door1-1,10,0,3,n,Door-Cell
+<EVENT>: GotoBShrine, 10,3, 1,1, 1,1
+<SETCHARPOS>: 11,0,30, s, ContinueMap
+
+<LIGHT>: AMBIENT, 0,0,0, .8,.8,.8, DUMMYD1
+<LIGHT>: Directional, 0,0,0, .3,.3,.3, DUMMYD1
+
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, RozsF
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Guard1
+
+<BLOCKROW>: 0
+<BLOCKCOL>: 0
+<BLOCKROW>: 11
+<BLOCKCOL>: 11

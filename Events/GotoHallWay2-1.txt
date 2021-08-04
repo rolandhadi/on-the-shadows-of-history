@@ -1,0 +1,9 @@
+<CASE>: BShelf
+<Message>: _&MuseumScene<63>_, 1, NONE
+<CASE>: ARoom
+<Message>: _&MuseumScene<62>_, 1, NONE
+<CASE ELSE>
+<PlaySound>: Door-1
+<Message>: _&Entering<3>_, 1, NONE
+<LoadMap>: MuseumHallWay2
+<END SELECT>

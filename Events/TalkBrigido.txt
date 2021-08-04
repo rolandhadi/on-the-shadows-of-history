@@ -1,0 +1,14 @@
+<CHARFACE>: Guard1, Rozs
+<CHARFACE>: Rozs, Guard1
+<MESSAGE>: _&FSScene<52>_, 7,none
+<Playsound>: GCivilBrigido
+
+<NEXTEVENT>
+<MESSAGE>: _&FSScene<53>_, 5,none
+<Playsound>: FSRozs1
+</>
+
+<NEXTEVENT>
+<MESSAGE>: _&FSScene<58>_, 5,none
+<Playsound>: aFS-rozs6
+</>

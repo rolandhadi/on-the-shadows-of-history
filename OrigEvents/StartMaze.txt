@@ -1,0 +1,10 @@
+<stopbg>
+<playbg>: Maze, loop
+<SETCAMPOS>: 25,5,6, Rozs
+<MESSAGE>: __, 3,none
+
+<NeXTEVENT>
+<Message>: _&FSScene<6>_, 5
+<PLaysound>: FS-Rozs4
+<Switch>: DiPaUsapJosephine, On
+</>

@@ -1,0 +1,111 @@
+<ENABLESAVE>
+<MapName>: _Ateneo Drawing Classroom_
+<DRAWBACK>: 450
+<LMOUSE>: 20
+<HMOUSE>: 70
+<FOG>: 400,450, 100, 100
+
+<SOUND>: BoxMove
+
+<OBJECT>: Plant
+<OBJECT>: Door2-1
+<OBJECT>: DrawingTable
+<OBJECT>: DrawingPicture
+<OBJECT>: Chair1
+<OBJECT>: StatueWoman
+<OBJECT>: StatueStage
+<OBJECT>: Frame2x3
+<OBJECT>: Painting2x3
+
+<DUMMY>: D1,0,0,0
+<DUMMY>: D2,28,0,6
+<DUMMY>: DStat,5,0,5
+
+<CHARACTER>: Rozs, 5,0,6, e
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 8
+<ANIMATION>: Run,  8
+<ANIMATION>: Push, 8
+<ANIMATION>: Dock, 8
+
+<CHARACTER>: AMan3, 2,0,6, s
+<ANIMATION>: Wait, 1
+
+<CHARACTER/>
+
+//ATENEO-DrawingRoom
+
+<SURFACE>:   PlaneBox, Wall-3, 1,0,1, 10,5,10, s
+<SURFACE>:   Z4PLANE1, wood24,  1,0,1, 10,0,10, s
+<SURFACE>:   Z1Ceiling, Wall-3,  1,5,1, 10,0,10, s
+
+<EVENT>: TalkEduardo,1,5, 3,3, 1,1 
+
+<layer1>:Plant,1,0,1,n,plant1
+<layer1>:Plant,10,0,1,n,plant1
+<layer1>:Plant,1,0,10,n,plant1
+<layer1>:Plant,10,0,10,n,plant1
+
+<layer1>:DrawingTable,  2,0,4,n,281
+<layer1>:DrawingPicture,2,0,4,n,White
+<layer1>:DrawingTable, 2,0,7,n,281
+<layer1>:DrawingPicture,2,0,7,n,White
+<layer1>:DrawingTable, 3,0,3,e,281
+<layer1>:DrawingPicture,3,0,3,e,White
+<layer1>:DrawingTable, 3,0,8,w,281
+<layer1>:DrawingPicture,3,0,8,w,White
+<layer1>:DrawingTable, 5,0,3,e,281
+<layer1>:DrawingPicture,5,0,3,e,White
+<layer1>:DrawingTable, 5,0,8,w,281
+<layer1>:DrawingPicture,5,0,8,w,White
+<layer1>:DrawingTable, 7,0,3,e,281
+<layer1>:DrawingPicture,7,0,3,e,White
+<layer1>:DrawingTable, 7,0,8,w,281
+<layer1>:DrawingPicture,7,0,8,w,White
+
+<layer1>:Chair1,1,0,4,s,none
+<layer1>:Chair1,1,0,7,s,none
+
+<layer1>:Chair1,3,0,2,w,none
+<layer1>:Chair1,5,0,2,w,none
+<layer1>:Chair1,7,0,2,w,none
+
+<layer1>:Chair1,3,0,9,e,none
+<layer1>:Chair1,5,0,9,e,none
+<layer1>:Chair1,7,0,9,e,none
+
+<layer1>:Door2-1,10,0,5,n,Door2-4
+<EVENT>:  GotoAteneoWest, 10,5, 1,1, 1,1
+<SETCHARPOS>: 12,0,34, n, ContinueMap
+
+<layer1>:StatueWoman,5,0,5,n,159
+<layer1>:StatueStage,5,0,5,n,134
+
+<layer1>:Frame2x3,    3,1,1, w, 156
+<layer1>:Painting2x3, 3,1,1, w, BigBoss-1
+
+<layer1>:Frame2x3,    6.5,1,1, w, 156
+<layer1>:Painting2x3, 6.5,1,1, w, BigBoss-2
+
+<layer1>:Frame2x3,    1,1,4, s, 156
+<layer1>:Painting2x3, 1,1,4, s, BigBoss-3
+
+<layer1>:Frame2x3,    3,1,10, e, 156
+<layer1>:Painting2x3, 3,1,10, e, BigBoss-4   
+
+<layer1>:Frame2x3,    6.5,1,10, e, 156
+<layer1>:Painting2x3, 6.5,1,10, e, BigBoss-5     
+
+//End of ATENEO-DrawingRoom
+
+<LIGHT>: AMBIENT, 0,0,0, .8,.8,.8, DUMMYD1
+<LIGHT>: Directional, 0,0,0, .3,.3,.3, DUMMYD1
+
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Rozs
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Aman3
+<LIGHT>: SPOT, 4,5,5, 1,1,1, DUMMYDStat
+
+<BLOCKROW>: 0
+<BLOCKCOL>: 0
+<BLOCKROW>: 11
+<BLOCKCOL>: 11

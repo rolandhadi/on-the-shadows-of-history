@@ -1,0 +1,3 @@
+<Caption>:_&AteneoScene<82>_
+<Details>:_&AteneoScene<83>_ 
+<Switch>: Switch-AUniform, On

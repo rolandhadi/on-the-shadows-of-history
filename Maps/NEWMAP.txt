@@ -1,0 +1,64 @@
+<MapName>: _New Map_
+<DRAWBACK>: 450
+<LMOUSE>: 20
+<HMOUSE>: 60
+<FOG>: 400,450, 100, 100
+
+<ENABLESAVE>
+
+<OBJECT>: Bed
+<OBJECT>: Plant
+<OBJECT>: Door2-1
+<OBJECT>: Door1-1
+<OBJECT>: BShelf
+<OBJECT>: Chair1
+<OBJECT>: Cabinet1x1
+<OBJECT>: Wall1x5
+<OBJECT>: TableLong
+<OBJECT>: Sofa
+
+<DUMMY>: D1,0,0,0
+<DUMMY>: D2,28,0,6
+
+<CHARACTER>: Rozs, 9,0,3, n
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 8
+<ANIMATION>: Run,  8
+<ANIMATION>: Push, 8
+<ANIMATION>: Dock, 8
+<CHARACTER/>
+
+
+<SURFACE>:   PlaneBox, Wall-4, 1,0,1, 10,5,10, s
+<SURFACE>:   Z4PLANE1, wood23,  1,0,1, 10,0,10, s
+<SURFACE>:   Z1Ceiling, Wall-3,  1,5,1, 10,0,10, s
+
+<layer1>:Plant,9,0,1,n,plant1
+
+<layer1>:Sofa,9,0,10,w,wall1
+
+<layer1>:TableLong,6,0,1,n,wood13
+
+<layer1>:Chair1,6,0,3,e,none
+
+<layer1>:Cabinet1x1,2,0,1,w,Cabinet1
+
+<layer1>:BShelf,1,0,3,s,BShelf3
+
+<layer1>:Bed,1,0,6,e,Bed2
+
+<layer1>:Wall1x5,7,0,6,n,Wall-3
+
+<layer1>:Door1-1,10,0,2,n,Door1-4
+
+
+<LIGHT>: AMBIENT, 0,0,0, .8,.8,.8, DUMMYD1
+
+<LIGHT>: Directional, 0,0,0, .3,.3,.3, DUMMYD1
+
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Rozs
+
+<BLOCKROW>: 0
+<BLOCKCOL>: 0
+<BLOCKROW>: 11
+<BLOCKCOL>: 11

@@ -1,0 +1,74 @@
+<ENABLESAVE>
+<MapName>: _Ateneo Sculpture Room_
+<DRAWBACK>: 450
+<LMOUSE>: 20
+<HMOUSE>: 70
+<FOG>: 400,450, 100, 100
+
+<SOUND>: BoxMove
+
+<OBJECT>: Plant
+<OBJECT>: Door2-1
+<OBJECT>: TableLong
+<OBJECT>: Chair1
+<OBJECT>: BShelf
+
+<DUMMY>: D1,0,0,0
+<DUMMY>: D2,28,0,6
+
+<CHARACTER>: Rozs, 5,0,6, e
+<ANIMATION>: Wait, 1
+<ANIMATION>: Walk, 8
+<ANIMATION>: Run,  8
+<ANIMATION>: Push, 8
+<ANIMATION>: Dock, 8
+
+/<CHARACTER>: RizalA, 7,0,2, e
+/<ANIMATION>: Wait, 1
+
+<CHARACTER/>
+
+//ATENEO-SculptureRoom
+
+<SURFACE>:   PlaneBox, Wall-3, 1,0,1, 10,5,10, s
+<SURFACE>:   Z4PLANE1, wood24,  1,0,1, 10,0,10, s
+<SURFACE>:   Z1Ceiling, Wall-3,  1,5,1, 10,0,10, s
+
+<layer1>:Plant,10,0,1,n,plant1
+<layer1>:Plant,10,0,10,n,plant1
+<layer1>:Plant,1,0,10,e,plant1
+
+<layer1>:TableLong,4,0,3,s,134
+<layer1>:TableLong,4,0,7,s,134
+<layer1>:TableLong,7,0,3,s,134
+<layer1>:TableLong,7,0,7,s,134
+<layer1>:TableLong,2,0,5,s,134
+
+<layer1>:Chair1,5,0,3,n,none
+<layer1>:Chair1,5,0,4,n,none
+<layer1>:Chair1,5,0,7,n,none
+<layer1>:Chair1,5,0,8,n,none
+<layer1>:Chair1,8,0,3,n,none
+<layer1>:Chair1,8,0,4,n,none
+<layer1>:Chair1,8,0,7,n,none
+<layer1>:Chair1,8,0,8,n,none
+<layer1>:Chair1,1,0,5.5,s,none
+
+<layer1>:BShelf,1,0,1,s,BShelf5
+<layer1>:BShelf,1,0,2,s,BShelf5
+
+<layer1>:Door2-1,10,0,5,n,Door2-4
+<EVENT>:  GotoAteneoWest, 10,5, 1,1, 1,1
+<SETCHARPOS>: 12,0,26, n, ContinueMap
+
+//End of ATENEO-SculptureRoom
+
+<LIGHT>: AMBIENT, 0,0,0, .8,.8,.8, DUMMYD1
+<LIGHT>: Directional, 0,0,0, .3,.3,.3, DUMMYD1
+
+<LIGHT>: SPOT, 0,4,2, .5,.5,.5, Rozs
+
+<BLOCKROW>: 0
+<BLOCKCOL>: 0
+<BLOCKROW>: 11
+<BLOCKCOL>: 11

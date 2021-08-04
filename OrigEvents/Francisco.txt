@@ -1,0 +1,9 @@
+<Message>: _FRANCISCO MERCADO (1818-1898)_, 2
+
+<NEXTEVENT>
+<Message>: _&Francisco<1>_, 3
+</>
+
+<NEXTEVENT>
+<Message>: _&Francisco<2>_, 3
+</>

@@ -1,0 +1,30 @@
+<CASE>: TaposCarlos
+
+<Message>: _&AteneoScene<141>_, 3
+
+<CASE>: AEStart
+
+<NextEvent>
+<SetCampos>: 23,7,41, Rozs
+<Message>: _&AteneoScene<95>_, 3
+</>
+
+<NextEvent>
+<Message>: _&AteneoScene<98>_, 3
+</>
+
+<NextEvent>
+<SWITCH>: TaposCarlos, On
+<Message>: _&AteneoScene<46>_, 3
+</>
+
+<CASE ELSE>:
+
+<Message>: _&AteneoScene<141>_, 3
+
+<END SELECT>
+
+
+
+
+

@@ -1,0 +1,87 @@
+<Case>: Mildred
+<CHARFACE>: OldLadyDress3, Rozs
+<CHARFACE>: Rozs, OldLadyDress3
+<MESSAGE>: _&TownCalambaScene<70>_, 5
+
+<Case>: Switch-HMedicine2
+<CHARFACE>: OldLadyDress3, Rozs
+<CHARFACE>: Rozs, OldLadyDress3
+
+<NextEvent>
+<MESSAGE>: _&TownCalambaScene<116>_
+<PlaySound>: CRozs38
+</>
+
+<NextEvent>
+<MESSAGE>: _&TownCalambaScene<117>_
+</>
+
+<NextEvent>
+<MESSAGE>: _&TownCalambaScene<118>_
+<PlaySound>: CRozs39
+</>
+
+<NextEvent>
+<MESSAGE>: _&TownCalambaScene<80>_, 5
+<SWitch>: HMedicineFinished, On
+<SWitch>: Mildred, On
+<Item>: Item-HMedicine, Off
+<Task>: TaskHMedCom
+</>
+
+
+<Case>: Switch-HMedicine1
+<CHARFACE>: OldLadyDress3, Rozs
+<CHARFACE>: Rozs, OldLadyDress3
+
+<NextEvent>
+<MESSAGE>: _&TownCalambaScene<116>_
+<PlaySound>: CRozs38
+</>
+
+<NextEvent>
+<MESSAGE>: _&TownCalambaScene<117>_
+</>
+
+<NextEvent>
+<MESSAGE>: _&TownCalambaScene<118>_
+<PlaySound>: CRozs39
+</>
+
+<NextEvent>
+<SWitch>: Switch-HMedicine2, On
+<SWitch>: Mildred, On
+<MESSAGE>: _&TownCalambaScene<80>_, 5
+</>
+
+<Case>: Switch-HMedicine
+<CHARFACE>: OldLadyDress3, Rozs
+<CHARFACE>: Rozs, OldLadyDress3
+
+<NextEvent>
+<MESSAGE>: _&TownCalambaScene<116>_
+<PlaySound>: CRozs38
+</>
+
+<NextEvent>
+<MESSAGE>: _&TownCalambaScene<117>_
+</>
+
+<NextEvent>
+<MESSAGE>: _&TownCalambaScene<118>_
+<PlaySound>: CRozs39
+</>
+
+<NextEvent>
+<SWitch>: Switch-HMedicine1, On
+<SWitch>: Mildred, On
+<MESSAGE>: _&TownCalambaScene<80>_, 5
+</>
+
+<Case Else>
+
+<CHARFACE>: OldLadyDress3, Rozs
+<CHARFACE>: Rozs, OldLadyDress3
+<MESSAGE>: _&TownCalambaScene<70>_, 5
+
+<End Select>
