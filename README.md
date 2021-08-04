@@ -6,3 +6,14 @@
 	The said project is intended for college students, specifically taking the course Rizal. Its purpose is not just only for fun or entertainment for gamers and users but also to educate them. The main objective of this project is to widen the ideas on the historical background that happened during the life of the national hero.
 	Therefore, the proponents conclude that the project be developed by future researchers, for further enhancement and development.	
 
+![image](https://user-images.githubusercontent.com/65001113/128203389-22b1b1f8-a178-4681-a7ea-83f09eeb496a.png)
+
+![image](https://user-images.githubusercontent.com/65001113/128203458-ca382d0e-5735-4fb2-8508-4e6e21b5c7cb.png)
+
+![image](https://user-images.githubusercontent.com/65001113/128203488-1936eebc-1e4f-4048-80bc-33e19020e623.png)
+
+![image](https://user-images.githubusercontent.com/65001113/128203755-8bda276d-51a0-491b-89b9-1680facf2886.png)
+
+![image](https://user-images.githubusercontent.com/65001113/128203790-63cbdb6c-6438-439f-b35f-7b6553074f27.png)
+
+![image](https://user-images.githubusercontent.com/65001113/128203825-f6a38498-979c-496d-9758-96e0ec24e3e1.png)
