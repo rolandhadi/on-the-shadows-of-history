@@ -18,6 +18,21 @@
 
 ![image](https://user-images.githubusercontent.com/65001113/128203825-f6a38498-979c-496d-9758-96e0ec24e3e1.png)
 
+# Scenes
+
+![image](https://user-images.githubusercontent.com/65001113/128204760-c12c241d-e4ae-4f4f-9881-0c1364aee37c.png)
+
+![image](https://user-images.githubusercontent.com/65001113/128204824-8d0f03f0-726c-4376-9e4f-b8a24bab7f29.png)
+
+![image](https://user-images.githubusercontent.com/65001113/128204847-eb6a327a-b287-4c0c-a22c-85767b17382f.png)
+
+![image](https://user-images.githubusercontent.com/65001113/128204912-2de635e1-f60d-430e-a559-3010277a233f.png)
+
+![image](https://user-images.githubusercontent.com/65001113/128204940-728b09c4-4c80-448e-9ae0-daf3983cdce1.png)
+
+![image](https://user-images.githubusercontent.com/65001113/128204970-6d3b0174-9404-4d2f-a609-ba5a2f840d1b.png)
+
+
 # Project Demonstration
 
 The students while playing, navigating the main character of the game.
